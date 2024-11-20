@@ -1,255 +1,241 @@
-#!/usr/bin/perl -w
+#!/usr/bin/perl
+use v5.14;    # enables strict and warnings
+use utf8;     # source code is UTF-8
+use open qw(:std :utf8);    # all filehandles UTF-8 by default
+use File::Path qw(remove_tree make_path);
+use Path::Tiny;
+use Try::Tiny;
+use Readonly;
+use DateTime;
 
+=head1 NAME
 
-# 
+get_gap_lists.pl - Generate taxonomic gap analysis lists
 
-#use Spreadsheet::WriteExcel;
+=head1 SYNOPSIS
 
-unlink "time.txt" if -e "time.txt";
+    ./get_gap_lists.pl
 
-system "date -I > time.txt";
+=head1 DESCRIPTION
 
-open(TIM,"<time.txt");
-my$date;                                                   
-while(<TIM>)
-	{
-		my$line=$_;
-		chomp$line;
-		if($line=~/\d\d*/)
-			{
-				$date=$line;
-			}
+This script processes taxonomic data to identify and report gaps in species documentation.
+It reads species data from CSV files and generates reports organized by taxonomic hierarchy
+(Phylum/Class/Order/Family). The script identifies species lacking proper documentation
+and generates both detailed family-level reports and a comprehensive gap analysis.
 
-	}
-unlink "time.txt";	
+=head1 INPUT FILES
 
-unlink "../Gap_Lists/Gap_list_all.csv";
+=over 4
 
-open(OUT,">>../Gap_Lists/Gap_list_all.csv");
-open(DAT,"<../Curated_Data/updated_combined_lists.csv");
-#open(DAT,"<../Curated_Data/combined_species_lists.csv");
+=item * ../Curated_Data/updated_combined_lists.csv
 
-#open(SPE,"<gbif_species_identifier.csv");
+Main taxonomic data file with fields:
+species;phylum;class;order;family;source;specimens_barcoded;specimens;public_bins;verified_by
 
-my%gbif;
+=item * ../Curated_Data/all_syn_BOLD_IDs.csv
 
-# while(<SPE>)
-# 	{
-# 		my$line=$_;
-# 		if($line=/(^[^,]*),(.*)$/)
-# 			{
-# 				#print "$1\n$2\n";
-# 				$gbif{$1}=$2;
-# 			}
-# 	}
-# close SPE;
+BOLD ID mappings with format:
+species,bold_id
 
-open(SPE,"<../Curated_Data/all_syn_BOLD_IDs.csv");
-my%BOLDID;
-while(<SPE>)
-	{
-		my$line=$_;
-		chomp$line;
-		if($line=~/(^[^,]*),(.*)$/)
-			{
-				#print "$1\n$2\n";
-				$BOLDID{$1}=$2;
-			}
+=back
 
-	}
-close SPE;
+=head1 OUTPUT
 
-my@famlist;
-my%done;
-my%meta;
-my%tax;
-my%verif;
-my%ord;
-my%phy;
-my%cla;
-while(<DAT>)
-	{
-		my$line=$_;
-		chomp$line;
-		#print "$line\n";
-		my@array=split(/;/,$line);
+Creates hierarchical directory structure under ../Gap_Lists/sorted/ containing:
+- Family-level CSV files with gap analysis
+- Comprehensive gap list in Gap_list_all.csv
 
-		my$spec=$array[0];
-		my$phy=$array[1];
-		my$cla=$array[2];
-		chomp$cla;
-		#$cla=s/\s/_/g;
-		my$ord=$array[3];
-		#chomp$ord;
-		$ord=~s/\s/_/g;
-		my$fam=$array[4];
-		$fam=~s/\s/_/g;
-		my$source=$array[5];
-		my$lon=$array[6];
-		my$sho=$array[7];
-		my$fai=$array[8];
-		my$verif=$array[9];
-		$verif{$spec}=$verif;
-		$meta{$spec}=$line;
+=head1 AUTHOR
 
-#		if($source=~/BOLD/)
-#			{
-		if(defined $lon && $lon=~/\d/)
-			{
-				if ($spec=~/dispersopilosus/){print "yes\n"}
-				if($lon ne "0")
-					{
-						$meta{$spec}="$meta{$spec};;";
-						
-					}
-				else
-					{	
-						#print $lon;
-						$meta{$spec}="$meta{$spec};gap;";	
-					}	
-			}
-		else
-			{
+Original author unknown
+Improved version by [Your Name]
 
-				$meta{$spec}="$meta{$spec};gap;";
-			}	
-		if(defined $tax{$fam})
-			 {
-			 	$tax{$fam}="$tax{$fam};$spec";
-			 }
-		else
-			{
-				$tax{$fam}=$spec;
-			}	
+=cut
 
-		if($phy=~/^\w.*/)
-			{	
-				$phy{$fam}=$phy;	
-			}
-		else
-			{
-				$phy{$fam}="no_phylum_assigned"unless defined $phy{$fam};
-			}				 
+# Constants
+Readonly my $INPUT_DIR       => '../Curated_Data';
+Readonly my $OUTPUT_DIR      => '../Gap_Lists';
+Readonly my $SORTED_DIR      => "$OUTPUT_DIR/sorted";
+Readonly my $COMBINED_OUTPUT => "$OUTPUT_DIR/Gap_list_all.csv";
 
-		if($cla=~/^\w.*/)
-			{	
-				$cla{$fam}=$cla;	
-			}
-		else
-			{
-				$cla{$fam}="no_class_assigned" unless defined $cla{$fam};
-			}	
-		if($ord=~/^\w.*/)
-			{	
-				$ord{$fam}=$ord;	
-			}
-		else
-			{
-				$ord{$fam}="no_order_assigned" unless defined $ord{$fam};
-			}	
+# Main data structures
+my %bold_ids;      # Species to BOLD ID mapping
+my %metadata;      # Species metadata
+my %taxonomy;      # Family to species mapping
+my %classifications; # Family classification details
+my @family_list;   # List of unique families
 
-		push(@famlist,$fam) unless defined $done{$fam};
-		$done{$fam}=1;
-	}
-my$flag=0;	
-system "rm -r ../Gap_Lists/sorted" if -e "../Gap_Lists/sorted" ;
-system "rm -r ../Gap_Lists/sorted_excel" if -e "../Gap_Lists/sorted_excel" ;
-system "mkdir ../Gap_Lists/sorted"; 
-system "mkdir ../Gap_Lists/sorted_excel";	
-my@filelist;
-foreach(@famlist)
-	{
-		print OUT"\n" unless $flag==0;
-		$flag=1;
-		print OUT "$_\n";
-		
-		my$fam=$_;
-		#print"$ord{$fam}\n";
+main();
 
+sub main {
+    setup_directories();
+    load_bold_ids();
+    process_taxonomic_data();
+    generate_reports();
+}
 
-		system "mkdir ../Gap_Lists/sorted/$phy{$fam}" unless -e "../Gap_Lists/sorted/$phy{$fam}"; 
-		system "mkdir ../Gap_Lists/sorted/$phy{$fam}/$cla{$fam}" unless -e "../Gap_Lists/sorted/$phy{$fam}/$cla{$fam}";
-		system "mkdir ../Gap_Lists/sorted/$phy{$fam}/$cla{$fam}/$ord{$fam}" unless -e "../Gap_Lists/sorted/$phy{$fam}/$cla{$fam}/$ord{$fam}";
+sub setup_directories {
+    # Clean and recreate output directories
+    try {
+        remove_tree($SORTED_DIR) if -d $SORTED_DIR;
+        make_path($SORTED_DIR);
+    }
+    catch {
+        die "Failed to set up directories: $_";
+    };
+}
 
-		system "mkdir ../Gap_Lists/sorted_excel/$phy{$fam}" unless -e "../Gap_Lists/sorted_excel/$phy{$fam}"; 
-		system "mkdir ../Gap_Lists/sorted_excel/$phy{$fam}/$cla{$fam}" unless -e "../Gap_Lists/sorted_excel/$phy{$fam}/$cla{$fam}";
-		system "mkdir ../Gap_Lists/sorted_excel/$phy{$fam}/$cla{$fam}/$ord{$fam}" unless -e "../Gap_Lists/sorted_excel/$phy{$fam}/$cla{$fam}/$ord{$fam}";
+sub load_bold_ids {
+    my $bold_file = path($INPUT_DIR, 'all_syn_BOLD_IDs.csv');
+    
+    try {
+        my $fh = $bold_file->openr_utf8();
+        while (my $line = <$fh>) {
+            chomp $line;
+            my ($species, $bold_id) = split /,/, $line, 2;
+            $bold_ids{$species} = $bold_id if $species && $bold_id;
+        }
+    }
+    catch {
+        die "Failed to process BOLD IDs file: $_";
+    };
+}
 
+sub process_taxonomic_data {
+    my $data_file = path($INPUT_DIR, 'updated_combined_lists.csv');
+    
+    try {
+        my $fh = $data_file->openr_utf8();
+        while (my $line = <$fh>) {
+            chomp $line;
+            process_taxonomic_line($line);
+        }
+    }
+    catch {
+        die "Failed to process taxonomic data: $_";
+    };
+}
 
-		open(FAM,">>../Gap_Lists/sorted/$phy{$fam}/$cla{$fam}/$ord{$fam}/$date\_$fam.csv");
-		
-		push(@filelist,"$phy{$fam}/$cla{$fam}/$ord{$fam}/$date\_$fam") unless defined $done{"$phy{$fam}/$cla{$fam}/$ord{$fam}/$fam"};
-		$done{"$phy{$fam}/$cla{$fam}/$ord{$fam}/$fam"}=1;
+sub process_taxonomic_line {
+    my ($line) = @_;
+    
+    my ($species, $phylum, $class, $order, $family, @rest) = split /;/, $line;
+    return unless $species && $family;  # Skip invalid lines
+    
+    # Clean up taxonomic names
+    $family =~ s/\s/_/g;
+    $order  =~ s/\s/_/g;
+    
+    # Store metadata
+    $metadata{$species} = {
+        line => $line,
+        gap_status => determine_gap_status(@rest),
+    };
+    
+    # Store taxonomic relationships
+    push @{$taxonomy{$family}}, $species;
+    
+    # Store classification details
+    $classifications{$family} //= {
+        phylum => $phylum || 'no_phylum_assigned',
+        class  => $class  || 'no_class_assigned',
+        order  => $order  || 'no_order_assigned',
+    };
+    
+    # Track unique families
+    unless (grep { $_ eq $family } @family_list) {
+        push @family_list, $family;
+    }
+}
 
-		print FAM "species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid\n";
-		@array=split(/;/,$tax{$fam});
-		@array=sort@array;
-		foreach(@array)
-			{
-				if(defined $BOLDID{$_})
-					{
-						my$identifier;
-						my@array=split(/,/,$BOLDID{$_});
-						foreach(@array)
-							{
-								my$id=$_;
-								if(defined $identifier)
-									{
-										$identifier="$identifier;$_" unless defined $done{$_};
-										$done{$_}=1;
-									}
-								else
-									{
-										$identifier="$id";
-										$done{$id}=1;
-									}	
-							}
+sub determine_gap_status {
+    my ($source, $long, $short, $fail) = @_;
+    
+    return 'gap' unless defined $long && $long =~ /\d/;
+    return 'gap' if $long eq '0';
+    return '';
+}
 
-						print OUT "$meta{$_}$identifier\n";
-						print FAM "$meta{$_}$identifier\n";
+sub generate_reports {
+    my $date = DateTime->now->ymd;
+    
+    # Open main output file
+    my $main_out = path($COMBINED_OUTPUT)->openw_utf8();
+    
+    foreach my $family (@family_list) {
+        my $class = $classifications{$family};
+        
+        # Create family directory path
+        my $family_dir = path(
+            $SORTED_DIR,
+            $class->{phylum},
+            $class->{class},
+            $class->{order}
+        );
+        make_path($family_dir);
+        
+        # Open family-specific output file
+        my $family_file = $family_dir->child("${date}_${family}.csv");
+        my $family_out = $family_file->openw_utf8();
+        
+        # Write headers
+        print_headers($family_out);
+        print $main_out "\n" if tell($main_out) > 0;  # Add newline except for first entry
+        print $main_out "$family\n";
+        
+        # Write species data
+        write_species_data($main_out, $family_out, $family);
+    }
+}
 
+sub print_headers {
+    my ($fh) = @_;
+    print $fh join(';',
+        'species',
+        'Phylum',
+        'Class',
+        'Order',
+        'Family',
+        'source',
+        'specimens barcoded',
+        'specimens',
+        'public BINs',
+        'verified by',
+        'status',
+        'BOLD taxid'
+    ) . "\n";
+}
 
-						#print OUT "$meta{$_}$gbif{$_}\n";
-						#print FAM "$meta{$_}$gbif{$_}\n";
-					}	
-				# if(defined $gbif{$_})
-				# 	{
-				# 		my$identifier;
-				# 		my@array=split(/,/,$gbif{$_});
-				# 		foreach(@array)
-				# 			{
-				# 				my$id=$_;
-				# 				if(defined $identifier)
-				# 					{
-				# 						$identifier="$identifier;$_";
-				# 					}
-				# 				else
-				# 					{
-				# 						$identifier=$id;
-				# 					}	
-				# 			}
-				# 		print OUT "$meta{$_}$identifier\n";
-				# 		print FAM "$meta{$_}$identifier\n";	
-				# 		#print OUT "$meta{$_}$gbif{$_}\n";
-				# 		#print FAM "$meta{$_}$gbif{$_}\n";
-				# 	}
+sub write_species_data {
+    my ($main_out, $family_out, $family) = @_;
+    
+    foreach my $species (sort @{$taxonomy{$family}}) {
+        my $metadata = $metadata{$species};
+        my $output_line = $metadata->{line};
+        
+        if (my $bold_id = $bold_ids{$species}) {
+            # Add BOLD IDs as semicolon-separated list
+            my @unique_ids = do {
+                my %seen;
+                grep { !$seen{$_}++ } split /,/, $bold_id;
+            };
+            $output_line .= ';' . join(';', @unique_ids);
+        }
+        
+        # Add gap status
+        $output_line .= ';' . $metadata->{gap_status};
+        
+        # Write to both outputs
+        print $main_out "$output_line\n";
+        print $family_out "$output_line\n";
+    }
+}
 
-				else
-					{
-						print OUT "$meta{$_}\n";
-						print FAM "$meta{$_}\n";						
-					}	
-			}
-		close FAM;	
-	}	
+=head1 LICENSE
 
-#foreach(@filelist)
-#	{
-		#print "$_\n";
-#		system "cp ../Gap_Lists/sorted/$_.csv ../Gap_Lists/sorted_excel/$_.txt && ssconvert ../Gap_Lists/sorted_excel/$_.txt ../Gap_Lists/sorted_excel/$_.csv && ssconvert ../Gap_Lists/sorted_excel/$_.csv ../Gap_Lists/sorted_excel/$_.xls";
-#		system "rm ../Gap_Lists/sorted_excel/$_.txt";
-#	}
+Copyright (c) [Year] [Your Organization]
+All rights reserved.
 
-#ssconvert --export-type=Gnumeric_stf:stf_csv Gap_list_all.csv Gap_list_all.xls
+=cut
 
-
+__END__
