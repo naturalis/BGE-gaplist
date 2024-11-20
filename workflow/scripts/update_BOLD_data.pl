@@ -8,6 +8,7 @@ use Time::HiRes qw(sleep);
 use Readonly;
 use Log::Any qw($log);
 use Log::Any::Adapter ('File', '../logs/bold_update.log');
+use Getopt::Long;
 
 =head1 NAME
 
@@ -15,7 +16,7 @@ update_BOLD_data.pl - BOLD Systems API Data Updater
 
 =head1 SYNOPSIS
 
-    ./update_BOLD_data.pl [--retry-limit=N] [--rate-limit=N]
+    ./update_BOLD_data.pl --input <input_file> --output <output_file> --log <log_file> [--retry-limit=N] [--rate-limit=N]
 
 =head1 DESCRIPTION
 
@@ -60,23 +61,36 @@ Format: species;taxon_id;barcode_specimens;specimen_records;public_bins
 
 =cut
 
+# Command line options with defaults
+my $input_file  = '../Curated_Data/all_specs_and_syn.csv';
+my $output_file = '../Raw_Data/BOLD_specieslist_europe/updated_BOLD_data.csv';
+my $log_file    = '../logs/bold_update.log';
+my $retry_limit = 3;
+my $rate_limit  = 1;
+my $timeout     = 30;
+my $batch_size  = 100;
+
+# Parse command line options
+GetOptions(
+    'input=s'       => \$input_file,
+    'output=s'      => \$output_file,
+    'log=s'         => \$log_file,
+    'retry-limit=i' => \$retry_limit,
+    'rate-limit=i'  => \$rate_limit,
+    'timeout=i'     => \$timeout,
+    'batch-size=i'  => \$batch_size,
+) or die "Error in command line arguments\n";
+
 # Constants for configuration
 Readonly our $CONFIG => {
-    # File paths
-    INPUT_FILE  => '../Curated_Data/all_specs_and_syn.csv',
-    OUTPUT_FILE => '../Raw_Data/BOLD_specieslist_europe/updated_BOLD_data.csv',
-    LOG_FILE    => '../logs/bold_update.log',
-    
-    # API configuration
+    INPUT_FILE  => $input_file,
+    OUTPUT_FILE => $output_file,
+    LOG_FILE    => $log_file,
     API_BASE    => 'http://v3.boldsystems.org/index.php/API_Tax',
-    
-    # Request parameters
-    MAX_RETRIES => 3,
-    RATE_LIMIT  => 1,    # seconds between requests
-    TIMEOUT     => 30,   # seconds
-    
-    # Batch processing
-    BATCH_SIZE  => 100,  # species per progress report
+    MAX_RETRIES => $retry_limit,
+    RATE_LIMIT  => $rate_limit,
+    TIMEOUT     => $timeout,
+    BATCH_SIZE  => $batch_size,
 };
 
 # Derived constants
