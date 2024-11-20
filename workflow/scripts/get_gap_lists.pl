@@ -1,4 +1,3 @@
-#!/usr/bin/perl
 use v5.14;    # enables strict and warnings
 use utf8;     # source code is UTF-8
 use open qw(:std :utf8);    # all filehandles UTF-8 by default
