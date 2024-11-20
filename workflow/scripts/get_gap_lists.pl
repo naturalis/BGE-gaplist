@@ -6,6 +6,7 @@ use Path::Tiny;
 use Try::Tiny;
 use Readonly;
 use DateTime;
+use Getopt::Long;
 
 =head1 NAME
 
@@ -13,7 +14,7 @@ get_gap_lists.pl - Generate taxonomic gap analysis lists
 
 =head1 SYNOPSIS
 
-    ./get_gap_lists.pl
+    ./get_gap_lists.pl --input <input_file> --bold-ids <bold_ids_file> --output <output_file> --output-dir <output_dir>
 
 =head1 DESCRIPTION
 
@@ -26,12 +27,12 @@ and generates both detailed family-level reports and a comprehensive gap analysi
 
 =over 4
 
-=item * ../Curated_Data/updated_combined_lists.csv
+=item * <input_file>
 
 Main taxonomic data file with fields:
 species;phylum;class;order;family;source;specimens_barcoded;specimens;public_bins;verified_by
 
-=item * ../Curated_Data/all_syn_BOLD_IDs.csv
+=item * <bold_ids_file>
 
 BOLD ID mappings with format:
 species,bold_id
@@ -40,9 +41,9 @@ species,bold_id
 
 =head1 OUTPUT
 
-Creates hierarchical directory structure under ../Gap_Lists/sorted/ containing:
+Creates hierarchical directory structure under <output_dir>/sorted/ containing:
 - Family-level CSV files with gap analysis
-- Comprehensive gap list in Gap_list_all.csv
+- Comprehensive gap list in <output_file>
 
 =head1 AUTHOR
 
@@ -51,11 +52,25 @@ Improved version by [Your Name]
 
 =cut
 
+# Command line options with defaults
+my $input_file = '../Curated_Data/updated_combined_lists.csv';
+my $bold_ids_file = '../Curated_Data/all_syn_BOLD_IDs.csv';
+my $output_file = '../Gap_Lists/Gap_list_all.csv';
+my $output_dir = '../Gap_Lists/sorted';
+
+# Parse command line options
+GetOptions(
+    'input=s'       => \$input_file,
+    'bold-ids=s'    => \$bold_ids_file,
+    'output=s'      => \$output_file,
+    'output-dir=s'  => \$output_dir,
+) or die "Error in command line arguments\n";
+
 # Constants
-Readonly my $INPUT_DIR       => '../Curated_Data';
-Readonly my $OUTPUT_DIR      => '../Gap_Lists';
-Readonly my $SORTED_DIR      => "$OUTPUT_DIR/sorted";
-Readonly my $COMBINED_OUTPUT => "$OUTPUT_DIR/Gap_list_all.csv";
+Readonly my $INPUT_DIR       => path($input_file)->parent;
+Readonly my $OUTPUT_DIR      => path($output_file)->parent;
+Readonly my $SORTED_DIR      => $output_dir;
+Readonly my $COMBINED_OUTPUT => $output_file;
 
 # Main data structures
 my %bold_ids;      # Species to BOLD ID mapping
@@ -85,7 +100,7 @@ sub setup_directories {
 }
 
 sub load_bold_ids {
-    my $bold_file = path($INPUT_DIR, 'all_syn_BOLD_IDs.csv');
+    my $bold_file = path($bold_ids_file);
     
     try {
         my $fh = $bold_file->openr_utf8();
@@ -101,7 +116,7 @@ sub load_bold_ids {
 }
 
 sub process_taxonomic_data {
-    my $data_file = path($INPUT_DIR, 'updated_combined_lists.csv');
+    my $data_file = path($input_file);
     
     try {
         my $fh = $data_file->openr_utf8();
