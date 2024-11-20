@@ -1,0 +1,151 @@
+# workflow/Snakefile
+
+from datetime import datetime
+
+# Configuration
+configfile: "../config/config.yaml"
+
+# Get current date for BOLD data versioning
+TODAY = datetime.now().strftime("%d_%m_%Y")
+
+# Output directories
+CURATED_DATA = "../Curated_Data"
+RAW_DATA = "../Raw_Data"
+GAP_LISTS = "../Gap_Lists"
+
+# Input data patterns
+BOLD_DATA_DIR = f"{RAW_DATA}/BOLD_specieslist_europe"
+EXPERT_DATA_DIR = f"{RAW_DATA}/Additional_data_from_experts"
+
+rule all:
+    input:
+        f"{CURATED_DATA}/updated_combined_lists.csv",
+        f"{GAP_LISTS}/Gap_list_all.csv",
+        f"{GAP_LISTS}/sorted"
+
+# Rule to fetch and update BOLD data
+rule update_bold_data:
+    input:
+        species_list = f"{CURATED_DATA}/all_specs_and_syn.csv"
+    output:
+        bold_data = f"{CURATED_DATA}/{TODAY}_updated_BOLD_data.csv"
+    log:
+        "logs/update_bold_data.log"
+    conda:
+        "../environment.yml"
+    shell:
+        """
+        perl workflow/scripts/update_BOLD_data.pl \
+            --input {input.species_list} \
+            --output {output.bold_data} \
+            2> {log}
+        """
+
+# Rule to combine taxonomic lists
+rule combine_lists:
+    input:
+        exclusion_list = f"{CURATED_DATA}/basic_exclusion_list.csv",
+        bold_data = f"{BOLD_DATA_DIR}/21_11_2022_public_specieslist_BOLD.csv",
+        fauna_europaea = f"{RAW_DATA}/Fauna_Europaea/specieslist_FE.csv",
+        lepiforum = f"{RAW_DATA}/Lepiforum/specieslist_Lepiforum.csv",
+        worms = f"{RAW_DATA}/WORMS/specieslist_WORMS.csv",
+        inaturalist = f"{RAW_DATA}/inaturalist_germany/speclist_inaturalist.csv",
+        expert_data = directory(EXPERT_DATA_DIR)
+    output:
+        combined_list = f"{CURATED_DATA}/combined_species_lists.csv",
+        all_specs = f"{CURATED_DATA}/all_specs_and_syn.csv",
+        synonyms = f"{CURATED_DATA}/corrected_synonyms.csv"
+    log:
+        "logs/combine_lists.log"
+    conda:
+        "../environment.yml"
+    shell:
+        """
+        perl workflow/scripts/combine_lists.pl \
+            --exclusion-list {input.exclusion_list} \
+            --bold-data {input.bold_data} \
+            --fauna-europaea {input.fauna_europaea} \
+            --lepiforum {input.lepiforum} \
+            --worms {input.worms} \
+            --inaturalist {input.inaturalist} \
+            --expert-dir {input.expert_data} \
+            --output-combined {output.combined_list} \
+            --output-specs {output.all_specs} \
+            --output-synonyms {output.synonyms} \
+            2> {log}
+        """
+
+# Rule to analyze gaps
+rule analyze_gaps:
+    input:
+        combined_list = f"{CURATED_DATA}/combined_species_lists.csv",
+        bold_ids = f"{CURATED_DATA}/all_syn_BOLD_IDs.csv"
+    output:
+        gap_list = f"{GAP_LISTS}/Gap_list_all.csv",
+        sorted_dir = directory(f"{GAP_LISTS}/sorted")
+    log:
+        "logs/analyze_gaps.log"
+    conda:
+        "../environment.yml"
+    shell:
+        """
+        perl workflow/scripts/get_gap_lists.pl \
+            --input {input.combined_list} \
+            --bold-ids {input.bold_ids} \
+            --output {output.gap_list} \
+            --output-dir {output.sorted_dir} \
+            2> {log}
+        """
+
+# Rule to update final list with latest BOLD data
+rule update_final_list:
+    input:
+        bold_data = f"{CURATED_DATA}/{TODAY}_updated_BOLD_data.csv",
+        combined_list = f"{CURATED_DATA}/combined_species_lists.csv"
+    output:
+        updated_list = f"{CURATED_DATA}/updated_combined_lists.csv"
+    log:
+        "logs/update_final_list.log"
+    conda:
+        "../environment.yml"
+    shell:
+        """
+        perl workflow/scripts/update_final_list.pl \
+            --bold-data {input.bold_data} \
+            --input {input.combined_list} \
+            --output {output.updated_list} \
+            2> {log}
+        """
+
+# Optional rule to clean all generated files
+rule clean:
+    shell:
+        """
+        rm -rf {CURATED_DATA}/updated_combined_lists.csv
+        rm -rf {CURATED_DATA}/*_updated_BOLD_data.csv
+        rm -rf {CURATED_DATA}/combined_species_lists.csv
+        rm -rf {CURATED_DATA}/all_specs_and_syn.csv
+        rm -rf {CURATED_DATA}/corrected_synonyms.csv
+        rm -rf {GAP_LISTS}/Gap_list_all.csv
+        rm -rf {GAP_LISTS}/sorted
+        rm -rf logs/*.log
+        """
+
+# Rule to generate documentation
+rule generate_docs:
+    input:
+        scripts = ["workflow/scripts/update_BOLD_data.pl",
+                  "workflow/scripts/combine_lists.pl",
+                  "workflow/scripts/get_gap_lists.pl",
+                  "workflow/scripts/update_final_list.pl"]
+    output:
+        docs = directory("../docs")
+    conda:
+        "../environment.yml"
+    shell:
+        """
+        mkdir -p {output.docs}
+        for script in {input.scripts}; do
+            pod2markdown $script > {output.docs}/$(basename $script .pl).md
+        done
+        """
