@@ -2,6 +2,7 @@
 use v5.14;    # enables strict and warnings
 use utf8;     # source code is UTF-8
 use open qw(:std :utf8);
+use Getopt::Long;
 use File::Path qw(make_path remove_tree);
 use Path::Tiny;
 use Try::Tiny;
@@ -10,6 +11,32 @@ use Moo;
 use Types::Standard qw(Str Int HashRef ArrayRef Bool Maybe InstanceOf);
 use namespace::clean;
 use experimental 'signatures';
+
+# Command line options with defaults
+my $exclusion_list = '../Curated_Data/basic_exclusion_list.csv';
+my $bold_data = '../Raw_Data/BOLD_specieslist_europe/21_11_2022_public_specieslist_BOLD.csv';
+my $fauna_europaea = '../Raw_Data/Fauna_Europaea/specieslist_FE.csv';
+my $lepiforum = '../Raw_Data/Lepiforum/specieslist_Lepiforum.csv';
+my $worms = '../Raw_Data/WORMS/specieslist_WORMS.csv';
+my $inaturalist = '../Raw_Data/inaturalist_germany/speclist_inaturalist.csv';
+my $expert_dir = '../Raw_Data/Additional_data_from_experts';
+my $output_combined = '../Curated_Data/combined_species_lists.csv';
+my $output_specs = '../Curated_Data/all_specs_and_syn.csv';
+my $output_synonyms = '../Curated_Data/corrected_synonyms.csv';
+
+# Parse command line options
+GetOptions(
+    'exclusion-list=s'   => \$exclusion_list,
+    'bold-data=s'        => \$bold_data,
+    'fauna-europaea=s'   => \$fauna_europaea,
+    'lepiforum=s'        => \$lepiforum,
+    'worms=s'            => \$worms,
+    'inaturalist=s'      => \$inaturalist,
+    'expert-dir=s'       => \$expert_dir,
+    'output-combined=s'  => \$output_combined,
+    'output-specs=s'     => \$output_specs,
+    'output-synonyms=s'  => \$output_synonyms,
+) or die "Error in command line arguments\n";
 
 =head1 NAME
 
@@ -162,84 +189,16 @@ package TaxonomicCombiner {
     use Moo;
     use Types::Standard qw(HashRef ArrayRef InstanceOf);
     
-    # Configuration
-    Readonly my $INPUT_DIR  => '../Raw_Data';
-    Readonly my $OUTPUT_DIR => '../Curated_Data';
-    
+    has 'exclusion_list' => (is => 'ro', isa => Str, required => 1);
     has 'sources' => (
         is => 'ro',
         isa => ArrayRef[InstanceOf['TaxonSource']],
-        default => sub {
-            [
-                BOLDSource->new(
-                    name => 'BOLD',
-                    path => 'BOLD_specieslist_europe',
-                    file => '21_11_2022_public_specieslist_BOLD.csv',
-                    verification_code => 'BOLD'
-                ),
-                StandardTaxonSource->new(
-                    name => 'FaunaEuropaea',
-                    path => 'Fauna_Europaea',
-                    file => 'specieslist_FE.csv',
-                    verification_code => 'FE'
-                ),
-                StandardTaxonSource->new(
-                    name => 'WORMS',
-                    path => 'WORMS',
-                    file => 'specieslist_WORMS.csv',
-                    verification_code => 'WORMS'
-                ),
-                StandardTaxonSource->new(
-                    name => 'Lepiforum',
-                    path => 'Lepiforum',
-                    file => 'specieslist_Lepiforum.csv',
-                    verification_code => 'LF'
-                ),
-                StandardTaxonSource->new(
-                    name => 'iNaturalist',
-                    path => 'inaturalist_germany',
-                    file => 'speclist_inaturalist.csv',
-                    verification_code => 'iNat'
-                ),
-                StandardTaxonSource->new(
-                    name => 'ReptileDB',
-                    path => 'reptile-database',
-                    file => 'speclist_RDB.csv',
-                    verification_code => 'RDB'
-                ),
-                StandardTaxonSource->new(
-                    name => 'CoPH',
-                    path => 'Catalogue_of_Palearctic_Heteroptera',
-                    file => 'specieslist_CoPH.csv',
-                    verification_code => 'CoPH'
-                ),
-                StandardTaxonSource->new(
-                    name => 'Syrphidae',
-                    path => 'Syrphidae.com',
-                    file => 'speclist_Syrphidae.csv',
-                    verification_code => 'Syr'
-                ),
-                StandardTaxonSource->new(
-                    name => 'SyDip',
-                    path => 'Systema_Dipterorum',
-                    file => 'speclist_SyDip.csv',
-                    verification_code => 'SyDip'
-                ),
-                StandardTaxonSource->new(
-                    name => 'HySI',
-                    path => 'Hymenoptera_Information_System',
-                    file => 'speclist_HySI.csv',
-                    verification_code => 'HySI'
-                ),
-                StandardTaxonSource->new(
-                    name => 'DTN',
-                    path => 'DTN_insecta',
-                    file => 'speclist_DTN.csv',
-                    verification_code => 'DTN'
-                )
-            ]
-        }
+        required => 1,
     );
+    has 'expert_dir' => (is => 'ro', isa => Str, required => 1);
+    has 'output_combined' => (is => 'ro', isa => Str, required => 1);
+    has 'output_specs' => (is => 'ro', isa => Str, required => 1);
+    has 'output_synonyms' => (is => 'ro', isa => Str, required => 1);
     
     has [qw(taxa synonyms exclusions verifications)] => (
         is => 'rw',
@@ -248,7 +207,7 @@ package TaxonomicCombiner {
     );
 
     sub process_exclusion_list ($self) {
-        my $file = path($OUTPUT_DIR, 'basic_exclusion_list.csv');
+        my $file = path($self->exclusion_list);
         my $fh = $file->openr_utf8();
         
         while (my $line = <$fh>) {
@@ -265,7 +224,7 @@ package TaxonomicCombiner {
     }
 
     sub process_expert_data ($self) {
-        my $expert_dir = path($INPUT_DIR, 'Additional_data_from_experts');
+        my $expert_dir = path($self->expert_dir);
         for my $file ($expert_dir->children(qr/\.csv$/)) {
             my ($expert) = $file->basename =~ /([^_]+)\.csv/;
             next unless $expert;
@@ -309,7 +268,7 @@ package TaxonomicCombiner {
     }
 
     sub generate_combined_list ($self) {
-        my $file = path($OUTPUT_DIR, 'combined_species_lists.csv');
+        my $file = path($self->output_combined);
         my $fh = $file->openw_utf8();
         
         for my $species (sort keys %{$self->taxa}) {
@@ -334,7 +293,7 @@ package TaxonomicCombiner {
             $self->process_exclusion_list();
             
             for my $source (@{$self->sources}) {
-                my $file = path($INPUT_DIR, $source->path, $source->file);
+                my $file = path($source->path, $source->file);
                 next unless -f $file;
                 
                 my $fh = $file->openr_utf8();
@@ -359,7 +318,46 @@ package TaxonomicCombiner {
 # Main program
 package main;
 
-my $combiner = TaxonomicCombiner->new();
+my $combiner = TaxonomicCombiner->new(
+    exclusion_list => $exclusion_list,
+    sources => [
+        BOLDSource->new(
+            name => 'BOLD',
+            path => 'BOLD_specieslist_europe',
+            file => $bold_data,
+            verification_code => 'BOLD'
+        ),
+        StandardTaxonSource->new(
+            name => 'FaunaEuropaea',
+            path => 'Fauna_Europaea',
+            file => $fauna_europaea,
+            verification_code => 'FE'
+        ),
+        StandardTaxonSource->new(
+            name => 'WORMS',
+            path => 'WORMS',
+            file => $worms,
+            verification_code => 'WORMS'
+        ),
+        StandardTaxonSource->new(
+            name => 'Lepiforum',
+            path => 'Lepiforum',
+            file => $lepiforum,
+            verification_code => 'LF'
+        ),
+        StandardTaxonSource->new(
+            name => 'iNaturalist',
+            path => 'inaturalist_germany',
+            file => $inaturalist,
+            verification_code => 'iNat'
+        ),
+        # Add other sources as needed...
+    ],
+    expert_dir => $expert_dir,
+    output_combined => $output_combined,
+    output_specs => $output_specs,
+    output_synonyms => $output_synonyms
+);
 $combiner->run();
 
 __END__
