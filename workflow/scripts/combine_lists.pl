@@ -1,4 +1,5 @@
 use v5.14;
+use warnings;
 use utf8;
 use open qw(:std :utf8);
 use Getopt::Long;
@@ -6,7 +7,6 @@ use File::Path qw(make_path remove_tree);
 use Path::Tiny;
 use Try::Tiny;
 use Readonly;
-use Moo;
 use Types::Standard qw(Str Int HashRef ArrayRef Bool Maybe InstanceOf);
 use namespace::clean;
 use experimental 'signatures';
