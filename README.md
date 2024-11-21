@@ -123,7 +123,7 @@ snakemake --dag | dot -Tsvg > workflow.svg
 ### Output Structure
 
 ```
-taxonomy-pipeline/
+BGE-gaplist/
 ├── Curated_Data/          # Processed data
 │   ├── updated_combined_lists.csv
 │   ├── combined_species_lists.csv
