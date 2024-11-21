@@ -1,4 +1,6 @@
-.idea
+.idea/
+.snakemake/
+.DS_Store
 
 !Build/
 .last_cover_stats
