@@ -43,7 +43,6 @@ dependencies:
   - perl-test-file         # File testing
 
   # Documentation tools
-  - perl-pod-markdown      # POD to Markdown conversion
   - perl-pod-usage        # POD processing
   - perl-pod-parser       # POD parsing
 
