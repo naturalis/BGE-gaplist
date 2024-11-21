@@ -59,10 +59,10 @@ Improved version by [Your Name]
 =cut
 
 # Command line options with defaults
-my $input_file = '../Curated_Data/updated_combined_lists.csv';
-my $bold_ids_file = '../Curated_Data/all_syn_BOLD_IDs.csv';
-my $output_file = '../Gap_Lists/Gap_list_all.csv';
-my $output_dir = '../Gap_Lists/sorted';
+my $input_file = '../../results/Curated_Data/updated_combined_lists.csv';
+my $bold_ids_file = '../../results/Curated_Data/all_syn_BOLD_IDs.csv';
+my $output_file = '../../results/Gap_Lists/Gap_list_all.csv';
+my $output_dir = '../../results/Gap_Lists/sorted';
 
 # Parse command line options
 GetOptions(
