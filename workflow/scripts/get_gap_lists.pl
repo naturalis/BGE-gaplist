@@ -264,6 +264,12 @@ sub write_species_data {
 Copyright (c) 2024, Naturalis Biodiversity Center
 All rights reserved.
 
+=head1 SEE ALSO
+
+L<combine_lists.pl>
+L<update_BOLD_data.pl>
+L<update_final_list.pl>
+
 =cut
 
 __END__
