@@ -1,5 +1,5 @@
-use v5.14;    # enables strict and warnings
-use utf8;     # source code is UTF-8
+use v5.14;
+use utf8;
 use open qw(:std :utf8);
 use Getopt::Long;
 use File::Path qw(make_path remove_tree);
