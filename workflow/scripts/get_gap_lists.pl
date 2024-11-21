@@ -7,7 +7,7 @@ use Try::Tiny;
 use Readonly;
 use DateTime;
 use Getopt::Long;
-use Log::Log4perl;
+use Bio::BGE::GapList::Logging;
 
 =head1 NAME
 
@@ -71,18 +71,7 @@ GetOptions(
     'output-dir=s'  => \$output_dir,
 ) or die "Error in command line arguments\n";
 
-# Initialize Log::Log4perl
-Log::Log4perl->init(\ qq(
-    log4perl.rootLogger              = DEBUG, LOGFILE, Screen
-    log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
-    log4perl.appender.LOGFILE.filename = '../logs/get_gap_lists.log'
-    log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
-    log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
-    log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
-    log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
-));
-
-my $logger = Log::Log4perl->get_logger();
+my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 
 # Constants
 Readonly my $INPUT_DIR       => path($input_file)->parent;

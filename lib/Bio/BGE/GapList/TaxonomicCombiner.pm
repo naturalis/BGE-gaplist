@@ -3,19 +3,9 @@ package Bio::BGE::GapList::TaxonomicCombiner {
     use Log::Log4perl;
     use Path::Tiny;
     use Try::Tiny;
+    use Bio::BGE::GapList::Logging;
 
-    # Initialize Log::Log4perl
-    Log::Log4perl->init(\ qq(
-        log4perl.rootLogger              = DEBUG, LOGFILE, Screen
-        log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
-        log4perl.appender.LOGFILE.filename = '../logs/taxonomic_combiner.log'
-        log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
-        log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
-        log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
-        log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
-    ));
-
-    my $logger = Log::Log4perl->get_logger();
+    my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 
     has 'exclusion_list' => (is => 'ro', required => 1);
     has 'sources' => (is => 'ro', required => 1);

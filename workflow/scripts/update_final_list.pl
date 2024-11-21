@@ -4,7 +4,7 @@ use open qw(:std :utf8);
 use Path::Tiny;
 use Try::Tiny;
 use Readonly;
-use Log::Log4perl;
+use Bio::BGE::GapList::Logging;
 use Data::Dumper;
 use Getopt::Long;
 
@@ -14,7 +14,10 @@ update_final_list.pl - Update combined species lists with latest BOLD data
 
 =head1 SYNOPSIS
 
-    ./update_final_list.pl --bold-data <bold_data_file> --input <combined_lists_file> --output <updated_lists_file>
+    ./update_final_list.pl \
+        --bold-data <bold_data_file> \
+        --input <combined_lists_file> \
+        --output <updated_lists_file>
 
 =head1 DESCRIPTION
 
@@ -56,18 +59,7 @@ GetOptions(
     'output=s'    => \$updated_lists_file,
 ) or die "Error in command line arguments\n";
 
-# Initialize Log::Log4perl
-Log::Log4perl->init(\ qq(
-    log4perl.rootLogger              = DEBUG, LOGFILE, Screen
-    log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
-    log4perl.appender.LOGFILE.filename = '../logs/update_final.log'
-    log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
-    log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
-    log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
-    log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
-));
-
-my $logger = Log::Log4perl->get_logger();
+my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 
 # Configuration
 Readonly my $CONFIG => {

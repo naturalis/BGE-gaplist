@@ -10,24 +10,13 @@ use Moo;
 use Types::Standard qw(Str Int HashRef ArrayRef Bool Maybe InstanceOf);
 use namespace::clean;
 use experimental 'signatures';
-use Log::Log4perl;
 use Bio::BGE::GapList::TaxonSource;
 use Bio::BGE::GapList::BOLDSource;
 use Bio::BGE::GapList::StandardTaxonSource;
 use Bio::BGE::GapList::TaxonomicCombiner;
+use Bio::BGE::GapList::Logging;
 
-# Initialize Log::Log4perl
-Log::Log4perl->init(\ qq(
-    log4perl.rootLogger              = DEBUG, LOGFILE, Screen
-    log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
-    log4perl.appender.LOGFILE.filename = '../logs/combine_lists.log'
-    log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
-    log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
-    log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
-    log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
-));
-
-my $logger = Log::Log4perl->get_logger();
+my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 
 # Command line options with defaults
 my $exclusion_list = '../Curated_Data/basic_exclusion_list.csv';
