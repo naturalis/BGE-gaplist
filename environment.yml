@@ -59,20 +59,6 @@ dependencies:
   - perl-yaml            # YAML parsing
   - perl-config-tiny     # Configuration handling
 
-# Platform specific settings
-platforms:
-  - linux-64
-  - osx-64
-
-# Additional pip packages if needed
-# pip:
-#   - package-name==version
-
 variables:
   PERL5LIB: ''
   PERL_UNICODE: 'AS'
-
-about:
-  home: https://github.com/naturalis/BGE-gaplist
-  license: Apache-2.0
-  summary: Environment for taxonomy data processing pipeline
