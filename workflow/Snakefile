@@ -1,7 +1,7 @@
 from datetime import datetime
 
 # Configuration
-configfile: "../config/config.yaml"
+configfile: "config/config.yaml"
 
 # Get current date for BOLD data versioning
 TODAY = datetime.now().strftime("%d_%m_%Y")
