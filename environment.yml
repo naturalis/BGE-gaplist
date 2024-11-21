@@ -20,7 +20,6 @@ dependencies:
   - perl-json-pp             # JSON parsing
   - perl-http-tiny           # HTTP client
   - perl-log-any             # Logging framework
-  - perl-log-any-adapter     # Logging adapters
   - perl-datetime            # Date handling
   - perl-moo                 # Modern OO framework
   - perl-namespace-clean     # Clean namespaces
@@ -31,7 +30,6 @@ dependencies:
   - perl-lwp-simple         # Legacy HTTP support
   - perl-time-hires         # High resolution timers
   - perl-unicode-utf8       # UTF-8 handling
-  - perl-io                 # IO operations
 
   # Testing frameworks and tools
   - perl-test-more          # Testing framework
@@ -39,14 +37,10 @@ dependencies:
   - perl-test-warn         # Warning testing
   - perl-test-deep         # Deep structure comparison
   - perl-test-differences  # Difference visualization
-  - perl-test-mock-lwp-conditional  # HTTP mocking
-  - perl-test-mockobject   # Object mocking
   - perl-test-pod          # POD testing
   - perl-test-pod-coverage # POD coverage testing
-  - perl-perl-critic       # Code analysis
   - perl-file-sharedir     # For Test::File
   - perl-test-file         # File testing
-  - perl-prove            # Test runner
 
   # Documentation tools
   - perl-pod-markdown      # POD to Markdown conversion
