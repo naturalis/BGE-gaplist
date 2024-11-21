@@ -19,16 +19,17 @@ use Bio::BGE::GapList::Logging;
 my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 
 # Command line options with defaults
-my $exclusion_list = '../Curated_Data/basic_exclusion_list.csv';
-my $bold_data = '../Raw_Data/BOLD_specieslist_europe/21_11_2022_public_specieslist_BOLD.csv';
-my $fauna_europaea = '../Raw_Data/Fauna_Europaea/specieslist_FE.csv';
-my $lepiforum = '../Raw_Data/Lepiforum/specieslist_Lepiforum.csv';
-my $worms = '../Raw_Data/WORMS/specieslist_WORMS.csv';
-my $inaturalist = '../Raw_Data/inaturalist_germany/speclist_inaturalist.csv';
-my $expert_dir = '../Raw_Data/Additional_data_from_experts';
-my $output_combined = '../Curated_Data/combined_species_lists.csv';
-my $output_specs = '../Curated_Data/all_specs_and_syn.csv';
-my $output_synonyms = '../Curated_Data/corrected_synonyms.csv';
+my $bold_data = '../../resources/Raw_Data/BOLD_specieslist_europe/21_11_2022_public_specieslist_BOLD.csv';
+my $fauna_europaea = '../../resources/Raw_Data/Fauna_Europaea/specieslist_FE.csv';
+my $lepiforum = '../../resources/Raw_Data/Lepiforum/specieslist_Lepiforum.csv';
+my $worms = '../../resources/Raw_Data/WORMS/specieslist_WORMS.csv';
+my $inaturalist = '../../resources/Raw_Data/inaturalist_germany/speclist_inaturalist.csv';
+my $expert_dir = '../../resources/Raw_Data/Additional_data_from_experts';
+
+my $exclusion_list = '../../results/Curated_Data/basic_exclusion_list.csv';
+my $output_combined = '.././results/Curated_Data/combined_species_lists.csv';
+my $output_specs = '../../results/Curated_Data/all_specs_and_syn.csv';
+my $output_synonyms = '../../results/Curated_Data/corrected_synonyms.csv';
 
 # Parse command line options
 GetOptions(
