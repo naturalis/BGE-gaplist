@@ -64,57 +64,56 @@ Handles taxonomic hierarchies, synonyms, and specimen counts.
 # Core record class
 package TaxonRecord {
     use Moo;
-    use Types::Standard qw(Str Int HashRef Maybe);
 
     has [qw(phylum class order family species source)] => (
         is => 'rw',
-        isa => Maybe[Str],
     );
-    
+
     has 'specimens' => (
         is => 'rw',
-        isa => HashRef[Maybe[Int]],
         default => sub { { long => 0, short => 0, failed => 0 } }
     );
-    
-    has 'verification' => (is => 'rw', isa => Maybe[Str]);
-    has 'is_excluded' => (is => 'rw', isa => Bool, default => 0);
+
+    has 'verification' => (is => 'rw');
+    has 'is_excluded' => (is => 'rw', default => 0);
     has 'synonyms' => (
         is => 'rw',
-        isa => ArrayRef[Str],
         default => sub { [] }
     );
 
-    sub normalize_order ($self) {
+    sub normalize_order {
+        my ($self) = @_;
         return unless $self->order;
-        
+
         # Standard taxonomic normalizations
         $self->order('Hemiptera') if $self->order eq 'Heteroptera';
         $self->order('Phasmatodea') if $self->family && $self->family eq 'Heteronemiidae';
         $self->order('Archaeognatha') if $self->family && $self->family eq 'Meinertellidae';
     }
 
-    sub normalize_class ($self) {
+    sub normalize_class {
+        my ($self) = @_;
         return unless $self->class;
         $self->class('Copepoda') if $self->class eq 'Hexanauplia';
     }
 
     # Merges data from another record
-    sub merge ($self, $other) {
+    sub merge {
+        my ($self, $other) = @_;
         return unless $other;
-        
+
         # Add specimen counts
         for my $type (qw(long short failed)) {
             $self->specimens->{$type} += ($other->specimens->{$type} || 0);
         }
-        
+
         # Append source if different
         if ($other->source && $other->source ne $self->source) {
             $self->source($self->source . ',' . $other->source);
         }
-        
+
         # Take verification if we don't have one
-        $self->verification($other->verification) 
+        $self->verification($other->verification)
             if !$self->verification && $other->verification;
     }
 }
@@ -123,26 +122,28 @@ package TaxonRecord {
 package TaxonSource {
     use Moo;
     use Types::Standard qw(Str HashRef);
-    
+
     has 'name' => (is => 'ro', isa => Str, required => 1);
     has 'path' => (is => 'ro', isa => Str, required => 1);
     has 'file' => (is => 'ro', isa => Str, required => 1);
     has 'separator' => (is => 'ro', isa => Str, default => ';');
     has 'verification_code' => (is => 'ro', isa => Str, required => 1);
-    
+
     sub process_line { die "Subclass must implement process_line" }
 }
 
 # Standard taxonomic source implementation
+# Standard taxonomic source implementation
 package StandardTaxonSource {
     use Moo;
     extends 'TaxonSource';
-    
-    sub process_line ($self, $line, $context) {
+
+    sub process_line {
+        my ($self, $line, $context) = @_;
         chomp $line;
         my @fields = split /$self->{separator}/, $line;
         return unless @fields >= 5;  # Minimum fields needed
-        
+
         my $record = TaxonRecord->new(
             phylum => $fields[0],
             class  => $fields[1],
@@ -152,10 +153,10 @@ package StandardTaxonSource {
             source => $self->name,
             verification => $self->verification_code
         );
-        
+
         $record->normalize_order;
         $record->normalize_class;
-        
+
         return $record;
     }
 }
@@ -164,11 +165,12 @@ package StandardTaxonSource {
 package BOLDSource {
     use Moo;
     extends 'StandardTaxonSource';
-    
-    sub process_line ($self, $line, $context) {
+
+    sub process_line {
+        my ($self, $line, $context) = @_;
         my $record = $self->SUPER::process_line($line, $context);
         return unless $record;
-        
+
         # Handle BOLD-specific specimen counts
         my @fields = split /$self->{separator}/, $line;
         if (@fields >= 8) {
@@ -178,7 +180,7 @@ package BOLDSource {
                 failed => $fields[7] || 0
             });
         }
-        
+
         return $record;
     }
 }
@@ -186,33 +188,28 @@ package BOLDSource {
 # Main application class
 package TaxonomicCombiner {
     use Moo;
-    use Types::Standard qw(HashRef ArrayRef InstanceOf);
-    
-    has 'exclusion_list' => (is => 'ro', isa => Str, required => 1);
-    has 'sources' => (
-        is => 'ro',
-        isa => ArrayRef[InstanceOf['TaxonSource']],
-        required => 1,
-    );
-    has 'expert_dir' => (is => 'ro', isa => Str, required => 1);
-    has 'output_combined' => (is => 'ro', isa => Str, required => 1);
-    has 'output_specs' => (is => 'ro', isa => Str, required => 1);
-    has 'output_synonyms' => (is => 'ro', isa => Str, required => 1);
-    
+
+    has 'exclusion_list' => (is => 'ro', required => 1);
+    has 'sources' => (is => 'ro', required => 1);
+    has 'expert_dir' => (is => 'ro', required => 1);
+    has 'output_combined' => (is => 'ro', required => 1);
+    has 'output_specs' => (is => 'ro', required => 1);
+    has 'output_synonyms' => (is => 'ro', required => 1);
+
     has [qw(taxa synonyms exclusions verifications)] => (
         is => 'rw',
-        isa => HashRef,
         default => sub { {} }
     );
 
-    sub process_exclusion_list ($self) {
+    sub process_exclusion_list {
+        my ($self) = @_;
         my $file = path($self->exclusion_list);
         my $fh = $file->openr_utf8();
-        
+
         while (my $line = <$fh>) {
             chomp $line;
             my ($name, $action, $valid_name) = split /\t/, $line;
-            
+
             if ($action eq 'e') {
                 $self->exclusions->{$name} = 1;
             }
@@ -222,12 +219,13 @@ package TaxonomicCombiner {
         }
     }
 
-    sub process_expert_data ($self) {
+    sub process_expert_data {
+        my ($self) = @_;
         my $expert_dir = path($self->expert_dir);
         for my $file ($expert_dir->children(qr/\.csv$/)) {
             my ($expert) = $file->basename =~ /([^_]+)\.csv/;
             next unless $expert;
-            
+
             my $fh = $file->openr_utf8();
             while (my $line = <$fh>) {
                 chomp $line;
@@ -237,21 +235,22 @@ package TaxonomicCombiner {
                     file => '.',
                     verification_code => $expert
                 )->process_line($line, {});
-                
+
                 next unless $record;
                 $self->store_record($record);
             }
         }
     }
 
-    sub store_record ($self, $record) {
+    sub store_record {
+        my ($self, $record) = @_;
         return if $self->exclusions->{$record->species};
-        
+
         # Handle synonyms
         if (my $valid_name = $self->synonyms->{$record->species}) {
             $record->species($valid_name);
         }
-        
+
         # Store or merge record
         if (exists $self->taxa->{$record->species}) {
             $self->taxa->{$record->species}->merge($record);
@@ -260,16 +259,18 @@ package TaxonomicCombiner {
         }
     }
 
-    sub generate_outputs ($self) {
+    sub generate_outputs {
+        my ($self) = @_;
         $self->generate_combined_list();
         $self->generate_synonym_list();
         $self->generate_taxonomic_hierarchy();
     }
 
-    sub generate_combined_list ($self) {
+    sub generate_combined_list {
+        my ($self) = @_;
         my $file = path($self->output_combined);
         my $fh = $file->openw_utf8();
-        
+
         for my $species (sort keys %{$self->taxa}) {
             my $record = $self->taxa->{$species};
             print $fh join(';',
@@ -287,14 +288,15 @@ package TaxonomicCombiner {
         }
     }
 
-    sub run ($self) {
+    sub run {
+        my ($self) = @_;
         try {
             $self->process_exclusion_list();
-            
+
             for my $source (@{$self->sources}) {
                 my $file = path($source->path, $source->file);
                 next unless -f $file;
-                
+
                 my $fh = $file->openr_utf8();
                 while (my $line = <$fh>) {
                     my $record = $source->process_line($line, {
@@ -304,7 +306,7 @@ package TaxonomicCombiner {
                     $self->store_record($record) if $record;
                 }
             }
-            
+
             $self->process_expert_data();
             $self->generate_outputs();
         }
