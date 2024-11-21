@@ -1,5 +1,3 @@
-# workflow/Snakefile
-
 from datetime import datetime
 
 # Configuration
@@ -9,13 +7,13 @@ configfile: "../config/config.yaml"
 TODAY = datetime.now().strftime("%d_%m_%Y")
 
 # Output directories
-CURATED_DATA = "../Curated_Data"
-RAW_DATA = "../Raw_Data"
-GAP_LISTS = "../Gap_Lists"
+CURATED_DATA = config["curated_data"]
+RAW_DATA = config["raw_data"]
+GAP_LISTS = config["gap_lists"]
 
 # Input data patterns
-BOLD_DATA_DIR = f"{RAW_DATA}/BOLD_specieslist_europe"
-EXPERT_DATA_DIR = f"{RAW_DATA}/Additional_data_from_experts"
+BOLD_DATA_DIR = config["bold_data_dir"]
+EXPERT_DATA_DIR = config["expert_data_dir"]
 
 rule all:
     input:
