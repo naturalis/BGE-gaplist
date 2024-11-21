@@ -19,7 +19,7 @@ dependencies:
   - perl-path-tiny           # File operations
   - perl-json-pp             # JSON parsing
   - perl-http-tiny           # HTTP client
-  - perl-log-any             # Logging framework
+  - perl-log-log4perl        # Logging framework
   - perl-datetime            # Date handling
   - perl-moo                 # Modern OO framework
   - perl-namespace-clean     # Clean namespaces

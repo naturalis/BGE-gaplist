@@ -10,6 +10,20 @@ use Moo;
 use Types::Standard qw(Str Int HashRef ArrayRef Bool Maybe InstanceOf);
 use namespace::clean;
 use experimental 'signatures';
+use Log::Log4perl;
+
+# Initialize Log::Log4perl
+Log::Log4perl->init(\ qq(
+    log4perl.rootLogger              = DEBUG, LOGFILE, Screen
+    log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
+    log4perl.appender.LOGFILE.filename = '../logs/combine_lists.log'
+    log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
+    log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
+    log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
+    log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
+));
+
+my $logger = Log::Log4perl->get_logger();
 
 # Command line options with defaults
 my $exclusion_list = '../Curated_Data/basic_exclusion_list.csv';
@@ -36,6 +50,8 @@ GetOptions(
     'output-specs=s'     => \$output_specs,
     'output-synonyms=s'  => \$output_synonyms,
 ) or die "Error in command line arguments\n";
+
+$logger->info("Command line options parsed successfully");
 
 =head1 NAME
 
@@ -133,7 +149,6 @@ package TaxonSource {
 }
 
 # Standard taxonomic source implementation
-# Standard taxonomic source implementation
 package StandardTaxonSource {
     use Moo;
     extends 'TaxonSource';
@@ -217,6 +232,7 @@ package TaxonomicCombiner {
                 $self->synonyms->{$name} = $valid_name;
             }
         }
+        $logger->info("Processed exclusion list");
     }
 
     sub process_expert_data {
@@ -240,6 +256,7 @@ package TaxonomicCombiner {
                 $self->store_record($record);
             }
         }
+        $logger->info("Processed expert data");
     }
 
     sub store_record {
@@ -257,6 +274,7 @@ package TaxonomicCombiner {
         } else {
             $self->taxa->{$record->species} = $record;
         }
+        $logger->debug("Stored record for species: " . $record->species);
     }
 
     sub generate_outputs {
@@ -264,6 +282,7 @@ package TaxonomicCombiner {
         $self->generate_combined_list();
         $self->generate_synonym_list();
         $self->generate_taxonomic_hierarchy();
+        $logger->info("Generated all outputs");
     }
 
     sub generate_combined_list {
@@ -286,6 +305,7 @@ package TaxonomicCombiner {
                 $record->verification // ''
             ) . "\n";
         }
+        $logger->info("Generated combined list");
     }
 
     sub run {
@@ -311,8 +331,10 @@ package TaxonomicCombiner {
             $self->generate_outputs();
         }
         catch {
+            $logger->fatal("Error processing data: $_");
             die "Error processing data: $_";
         };
+        $logger->info("Run completed successfully");
     }
 }
 

@@ -6,8 +6,7 @@ use HTTP::Tiny;
 use Try::Tiny;
 use Time::HiRes qw(sleep);
 use Readonly;
-use Log::Any qw($log);
-use Log::Any::Adapter ('File', '../logs/bold_update.log');
+use Log::Log4perl;
 use Getopt::Long;
 
 =head1 NAME
@@ -81,6 +80,19 @@ GetOptions(
     'batch-size=i'  => \$batch_size,
 ) or die "Error in command line arguments\n";
 
+# Initialize Log::Log4perl
+Log::Log4perl->init(\ qq(
+    log4perl.rootLogger              = DEBUG, LOGFILE, Screen
+    log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
+    log4perl.appender.LOGFILE.filename = $log_file
+    log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
+    log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
+    log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
+    log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
+));
+
+my $logger = Log::Log4perl->get_logger();
+
 # Constants for configuration
 Readonly our $CONFIG => {
     INPUT_FILE  => $input_file,
@@ -125,30 +137,30 @@ Returns: Decoded JSON response or undef on failure
 
 sub make_api_request {
     my ($url, $params) = @_;
-    
+
     # Input validation
     die "URL required" unless $url;
     die "Parameters must be hashref" unless ref $params eq 'HASH';
-    
+
     for my $try (1..$CONFIG->{MAX_RETRIES}) {
         # Rate limiting
         sleep($CONFIG->{RATE_LIMIT}) if $try > 1;
-        
+
         # Construct query string
-        my $query_string = join('&', 
-            map { "$_=" . url_escape($params->{$_}) } 
+        my $query_string = join('&',
+            map { "$_=" . url_escape($params->{$_}) }
             keys %$params
         );
-        
+
         # Make request
         my $response = try {
             $http->get("$url?$query_string");
         }
         catch {
-            $log->error("Request failed: $_");
+            $logger->error("Request failed: $_");
             return;
         };
-        
+
         # Check for HTTP success
         if ($response->{success}) {
             # Parse JSON response
@@ -156,25 +168,25 @@ sub make_api_request {
                 decode_json($response->{content});
             }
             catch {
-                $log->error("JSON parse error: $_");
+                $logger->error("JSON parse error: $_");
                 return;
             };
-            
+
             # Validate response structure
             return validate_response($data);
         }
-        
+
         # Log failed attempt
-        $log->warn(sprintf(
-            "Request failed (attempt %d/%d): %s %s", 
+        $logger->warn(sprintf(
+            "Request failed (attempt %d/%d): %s %s",
             $try,
             $CONFIG->{MAX_RETRIES},
             $response->{status},
             $response->{reason}
         ));
     }
-    
-    $log->error("Max retries exceeded for URL: $url");
+
+    $logger->error("Max retries exceeded for URL: $url");
     return;
 }
 
@@ -191,15 +203,15 @@ Returns: Validated data or undef if invalid
 
 sub validate_response {
     my ($data) = @_;
-    
+
     return unless $data;
-    
+
     # Check for API error responses
     if (exists $data->{error}) {
-        $log->error("API error: $data->{error}");
+        $logger->error("API error: $data->{error}");
         return;
     }
-    
+
     # Validate required fields based on endpoint
     if (exists $data->{taxid}) {
         # TaxonSearch response
@@ -213,10 +225,10 @@ sub validate_response {
         }
     }
     else {
-        $log->error("Unknown response format");
+        $logger->error("Unknown response format");
         return;
     }
-    
+
     return $data;
 }
 
@@ -233,13 +245,13 @@ Returns: Taxon ID or undef if not found
 
 sub get_taxon_id {
     my ($species) = @_;
-    
+
     return unless $species;
-    
+
     my $data = make_api_request($ENDPOINTS->{search}, {
         taxName => $species
     });
-    
+
     return $data ? $data->{taxid} : undef;
 }
 
@@ -256,9 +268,9 @@ Returns: HashRef of specimen data or undef on failure
 
 sub get_taxon_data {
     my ($taxon_id) = @_;
-    
+
     return unless $taxon_id && $taxon_id =~ /^\d+$/;
-    
+
     return make_api_request($ENDPOINTS->{data}, {
         taxId => $taxon_id,
         dataTypes => 'basic,stats'
@@ -278,31 +290,31 @@ Returns: 1 on success, 0 on failure
 
 sub process_species {
     my ($species) = @_;
-    
+
     # Skip if already processed
     return 1 if $processed_taxa{$species};
-    
+
     # Clean species name
     $species = clean_species_name($species);
     return 0 unless $species;
-    
+
     # Get taxon ID
     my $taxon_id = get_taxon_id($species);
     unless ($taxon_id) {
-        $log->warn("No taxon ID found for species: $species");
+        $logger->warn("No taxon ID found for species: $species");
         return 0;
     }
-    
+
     # Skip if taxon already processed
     return 1 if $processed_taxa{$taxon_id};
-    
+
     # Get specimen data
     my $data = get_taxon_data($taxon_id);
     unless ($data) {
-        $log->warn("No specimen data found for taxon ID: $taxon_id");
+        $logger->warn("No specimen data found for taxon ID: $taxon_id");
         return 0;
     }
-    
+
     # Create record
     my $record = {
         species => $species,
@@ -311,14 +323,14 @@ sub process_species {
         specimen_records => $data->{specimenrecords} // 0,
         public_bins => $data->{publicbins} // 0,
     };
-    
+
     # Save record
     return 0 unless save_record($record);
-    
+
     # Mark as processed
     $processed_taxa{$taxon_id} = 1;
     $processed_taxa{$species} = 1;
-    
+
     return 1;
 }
 
@@ -335,18 +347,18 @@ Returns: Cleaned species name or undef if invalid
 
 sub clean_species_name {
     my ($species) = @_;
-    
+
     return unless $species =~ /\S/;
-    
+
     # Remove leading/trailing whitespace
     $species =~ s/^\s+|\s+$//g;
-    
+
     # Normalize internal whitespace
     $species =~ s/\s+/ /g;
-    
+
     # Basic validation
     return unless $species =~ /^[A-Za-z][A-Za-z\s\.-]+$/;
-    
+
     return $species;
 }
 
@@ -363,13 +375,13 @@ Returns: 1 on success, 0 on failure
 
 sub save_record {
     my ($record) = @_;
-    
+
     state $out_fh = do {
         open my $fh, '>:utf8', $CONFIG->{OUTPUT_FILE}
             or die "Cannot open output file: $!";
         $fh;
     };
-    
+
     try {
         say $out_fh join(';',
             $record->{species},
@@ -381,7 +393,7 @@ sub save_record {
         return 1;
     }
     catch {
-        $log->error("Failed to save record: $_");
+        $logger->error("Failed to save record: $_");
         return 0;
     };
 }
@@ -410,33 +422,33 @@ Main program entry point.
 =cut
 
 sub main {
-    $log->info("Starting BOLD data update");
-    
+    $logger->info("Starting BOLD data update");
+
     # Remove existing output file
     if (-e $CONFIG->{OUTPUT_FILE}) {
         unlink $CONFIG->{OUTPUT_FILE}
             or die "Cannot remove existing output file: $!";
     }
-    
+
     # Open input file
     open my $in_fh, '<:utf8', $CONFIG->{INPUT_FILE}
         or die "Cannot open input file: $!";
-    
+
     my $processed = 0;
     my $success = 0;
-    
+
     # Process each line
     while (my $line = <$in_fh>) {
         chomp $line;
         my @species = split /;/, $line;
-        
+
         for my $species (@species) {
             $processed++;
             $success++ if process_species($species);
-            
+
             # Progress report
             if ($processed % $CONFIG->{BATCH_SIZE} == 0) {
-                $log->info(sprintf(
+                $logger->info(sprintf(
                     "Processed %d species (%d successful)",
                     $processed,
                     $success
@@ -444,9 +456,9 @@ sub main {
             }
         }
     }
-    
+
     # Final statistics
-    $log->info(sprintf(
+    $logger->info(sprintf(
         "Processing complete. Total: %d, Successful: %d, Failed: %d",
         $processed,
         $success,
@@ -459,7 +471,7 @@ eval {
     main();
 };
 if ($@) {
-    $log->error("Fatal error: $@");
+    $logger->error("Fatal error: $@");
     die $@;
 }
 

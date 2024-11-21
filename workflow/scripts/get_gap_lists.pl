@@ -7,6 +7,7 @@ use Try::Tiny;
 use Readonly;
 use DateTime;
 use Getopt::Long;
+use Log::Log4perl;
 
 =head1 NAME
 
@@ -66,6 +67,19 @@ GetOptions(
     'output-dir=s'  => \$output_dir,
 ) or die "Error in command line arguments\n";
 
+# Initialize Log::Log4perl
+Log::Log4perl->init(\ qq(
+    log4perl.rootLogger              = DEBUG, LOGFILE, Screen
+    log4perl.appender.LOGFILE        = Log::Log4perl::Appender::File
+    log4perl.appender.LOGFILE.filename = '../logs/get_gap_lists.log'
+    log4perl.appender.LOGFILE.layout = Log::Log4perl::Layout::PatternLayout
+    log4perl.appender.LOGFILE.layout.ConversionPattern = %d %p %m %n
+    log4perl.appender.Screen         = Log::Log4perl::Appender::Screen
+    log4perl.appender.Screen.layout  = Log::Log4perl::Layout::SimpleLayout
+));
+
+my $logger = Log::Log4perl->get_logger();
+
 # Constants
 Readonly my $INPUT_DIR       => path($input_file)->parent;
 Readonly my $OUTPUT_DIR      => path($output_file)->parent;
@@ -93,15 +107,17 @@ sub setup_directories {
     try {
         remove_tree($SORTED_DIR) if -d $SORTED_DIR;
         make_path($SORTED_DIR);
+        $logger->info("Directories set up successfully");
     }
     catch {
+        $logger->fatal("Failed to set up directories: $_");
         die "Failed to set up directories: $_";
     };
 }
 
 sub load_bold_ids {
     my $bold_file = path($bold_ids_file);
-    
+
     try {
         my $fh = $bold_file->openr_utf8();
         while (my $line = <$fh>) {
@@ -109,53 +125,57 @@ sub load_bold_ids {
             my ($species, $bold_id) = split /,/, $line, 2;
             $bold_ids{$species} = $bold_id if $species && $bold_id;
         }
+        $logger->info("Loaded BOLD IDs successfully");
     }
     catch {
+        $logger->fatal("Failed to process BOLD IDs file: $_");
         die "Failed to process BOLD IDs file: $_";
     };
 }
 
 sub process_taxonomic_data {
     my $data_file = path($input_file);
-    
+
     try {
         my $fh = $data_file->openr_utf8();
         while (my $line = <$fh>) {
             chomp $line;
             process_taxonomic_line($line);
         }
+        $logger->info("Processed taxonomic data successfully");
     }
     catch {
+        $logger->fatal("Failed to process taxonomic data: $_");
         die "Failed to process taxonomic data: $_";
     };
 }
 
 sub process_taxonomic_line {
     my ($line) = @_;
-    
+
     my ($species, $phylum, $class, $order, $family, @rest) = split /;/, $line;
     return unless $species && $family;  # Skip invalid lines
-    
+
     # Clean up taxonomic names
     $family =~ s/\s/_/g;
     $order  =~ s/\s/_/g;
-    
+
     # Store metadata
     $metadata{$species} = {
         line => $line,
         gap_status => determine_gap_status(@rest),
     };
-    
+
     # Store taxonomic relationships
     push @{$taxonomy{$family}}, $species;
-    
+
     # Store classification details
     $classifications{$family} //= {
         phylum => $phylum || 'no_phylum_assigned',
         class  => $class  || 'no_class_assigned',
         order  => $order  || 'no_order_assigned',
     };
-    
+
     # Track unique families
     unless (grep { $_ eq $family } @family_list) {
         push @family_list, $family;
@@ -164,7 +184,7 @@ sub process_taxonomic_line {
 
 sub determine_gap_status {
     my ($source, $long, $short, $fail) = @_;
-    
+
     return 'gap' unless defined $long && $long =~ /\d/;
     return 'gap' if $long eq '0';
     return '';
@@ -172,13 +192,13 @@ sub determine_gap_status {
 
 sub generate_reports {
     my $date = DateTime->now->ymd;
-    
+
     # Open main output file
     my $main_out = path($COMBINED_OUTPUT)->openw_utf8();
-    
+
     foreach my $family (@family_list) {
         my $class = $classifications{$family};
-        
+
         # Create family directory path
         my $family_dir = path(
             $SORTED_DIR,
@@ -187,19 +207,20 @@ sub generate_reports {
             $class->{order}
         );
         make_path($family_dir);
-        
+
         # Open family-specific output file
         my $family_file = $family_dir->child("${date}_${family}.csv");
         my $family_out = $family_file->openw_utf8();
-        
+
         # Write headers
         print_headers($family_out);
         print $main_out "\n" if tell($main_out) > 0;  # Add newline except for first entry
         print $main_out "$family\n";
-        
+
         # Write species data
         write_species_data($main_out, $family_out, $family);
     }
+    $logger->info("Reports generated successfully");
 }
 
 sub print_headers {
@@ -222,11 +243,11 @@ sub print_headers {
 
 sub write_species_data {
     my ($main_out, $family_out, $family) = @_;
-    
+
     foreach my $species (sort @{$taxonomy{$family}}) {
         my $metadata = $metadata{$species};
         my $output_line = $metadata->{line};
-        
+
         if (my $bold_id = $bold_ids{$species}) {
             # Add BOLD IDs as semicolon-separated list
             my @unique_ids = do {
@@ -235,10 +256,10 @@ sub write_species_data {
             };
             $output_line .= ';' . join(';', @unique_ids);
         }
-        
+
         # Add gap status
         $output_line .= ';' . $metadata->{gap_status};
-        
+
         # Write to both outputs
         print $main_out "$output_line\n";
         print $family_out "$output_line\n";
