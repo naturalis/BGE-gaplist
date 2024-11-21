@@ -109,7 +109,7 @@ conda env create -f environment.yml
 
 2. Activate the environment:
 ```bash
-conda activate taxonomy-pipeline
+conda activate BGE-gaplist
 ```
 
 ### Execution
