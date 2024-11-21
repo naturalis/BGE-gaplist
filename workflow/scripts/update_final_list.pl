@@ -3,7 +3,6 @@ use utf8;
 use open qw(:std :utf8);
 use Path::Tiny;
 use Try::Tiny;
-use Readonly;
 use Bio::BGE::GapList::Logging;
 use Data::Dumper;
 use Getopt::Long;
@@ -61,17 +60,6 @@ GetOptions(
 
 my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 
-# Configuration
-Readonly my $CONFIG => {
-    input => {
-        bold_data => $bold_data_file,
-        combined_lists => $combined_lists_file,
-    },
-    output => {
-        updated_lists => $updated_lists_file,
-    },
-};
-
 # Data structures
 my %bold_data;
 
@@ -84,7 +72,7 @@ Returns: Number of species loaded
 =cut
 
 sub load_bold_data {
-    my $file = path($CONFIG->{input}{bold_data});
+    my $file = path($bold_data_file);
     my $count = 0;
 
     try {
@@ -126,8 +114,8 @@ Returns: Number of species processed
 =cut
 
 sub process_combined_lists {
-    my $input_file = path($CONFIG->{input}{combined_lists});
-    my $output_file = path($CONFIG->{output}{updated_lists});
+    my $input_file = path($combined_lists_file);
+    my $output_file = path($updated_lists_file);
     my $count = 0;
 
     # Remove existing output file
@@ -181,7 +169,7 @@ Returns: 1 if valid, dies on error
 =cut
 
 sub validate_output {
-    my $file = path($CONFIG->{output}{updated_lists});
+    my $file = path($updated_lists_file);
     my $line_count = 0;
 
     try {
