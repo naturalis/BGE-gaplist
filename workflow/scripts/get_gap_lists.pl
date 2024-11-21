@@ -15,7 +15,11 @@ get_gap_lists.pl - Generate taxonomic gap analysis lists
 
 =head1 SYNOPSIS
 
-    ./get_gap_lists.pl --input <input_file> --bold-ids <bold_ids_file> --output <output_file> --output-dir <output_dir>
+    ./get_gap_lists.pl \
+        --input <input_file> \
+        --bold-ids <bold_ids_file> \
+        --output <output_file> \
+        --output-dir <output_dir>
 
 =head1 DESCRIPTION
 
@@ -268,7 +272,7 @@ sub write_species_data {
 
 =head1 LICENSE
 
-Copyright (c) [Year] [Your Organization]
+Copyright (c) 2024, Naturalis Biodiversity Center
 All rights reserved.
 
 =cut
