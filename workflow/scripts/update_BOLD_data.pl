@@ -479,16 +479,17 @@ __END__
 
 =head1 AUTHOR
 
-[Your Name]
+Fabian Deister, Rutger Vos
 
 =head1 LICENSE
 
-Copyright (c) [Year] [Your Organization]
+Copyright (c) 2024, Naturalis Biodiversity Center
 All rights reserved.
 
 =head1 SEE ALSO
 
 L<combine_lists.pl>
 L<get_gap_lists.pl>
+L<update_final_list.pl>
 
 =cut
