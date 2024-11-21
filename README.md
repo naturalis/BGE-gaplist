@@ -139,13 +139,14 @@ snakemake --dag | dot -Tsvg > workflow.svg
 
 ```
 BGE-gaplist/
-├── Curated_Data/          # Processed data
-│   ├── updated_combined_lists.csv
-│   ├── combined_species_lists.csv
-│   └── {date}_updated_BOLD_data.csv
-├── Gap_Lists/            # Analysis results
-│   ├── Gap_list_all.csv
-│   └── sorted/          # Hierarchical results
+├── results/
+│   ├── Curated_Data/          # Processed data
+│   │   ├── updated_combined_lists.csv
+│   │   ├── combined_species_lists.csv
+│   │   └── {date}_updated_BOLD_data.csv
+│   └── Gap_Lists/            # Analysis results
+│       ├── Gap_list_all.csv
+│       └── sorted/          # Hierarchical results
 └── logs/                # Process logs
 ```
 
