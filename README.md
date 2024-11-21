@@ -7,7 +7,7 @@ updated species lists.
 
 ## License
 
-Copyright 2024 [Organization]
+Copyright 2024 Naturalis Biodiversity Center
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -159,8 +159,9 @@ File issues on the project's issue tracker.
 
 ## Authors
 
-[Your Name] - [Your Institution]
+Fabian Deister - SNSB
+Rutger Vos - Naturalis 
 
 ## Acknowledgments
 
-This workflow builds on work from [relevant projects/people].
+This workflow builds on work from Fabian Deister, SNSB
