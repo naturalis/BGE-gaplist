@@ -1,0 +1,13 @@
+# .perlcriticrc
+severity = gentle
+verbose = %f: [%p] %m at line %l, column %c.\n
+
+# Disable some policies that don't apply to our scripts
+[-Subroutines::RequireFinalReturn]
+[-Variables::RequireLocalizedPunctuationVars]
+[-InputOutput::RequireBriefOpen]
+
+# Configure specific policies
+[Documentation::RequirePodSections]
+lib_sections = NAME | SYNOPSIS | DESCRIPTION | AUTHOR
+script_sections = NAME | SYNOPSIS | DESCRIPTION
