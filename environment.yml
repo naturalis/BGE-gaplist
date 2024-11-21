@@ -1,4 +1,4 @@
-name: taxonomy-pipeline
+name: BGE-gaplist
 channels:
   - conda-forge
   - bioconda
