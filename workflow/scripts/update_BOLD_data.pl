@@ -170,17 +170,18 @@ sub validate_response {
     return unless $data;
 
     # Check for API error responses
-    if (exists $data->{error}) {
+    # TODO JSON is parsed as an arrayref, not a hashref. Why?
+    if (ref $data eq 'HASH' and exists $data->{error}) {
         $logger->error("API error: $data->{error}");
         return;
     }
 
     # Validate required fields based on endpoint
-    if (exists $data->{taxid}) {
+    if (ref $data eq 'HASH' and exists $data->{taxid}) {
         # TaxonSearch response
         return unless $data->{taxid} =~ /^\d+$/;
     }
-    elsif (exists $data->{barcodespecimens}) {
+    elsif (ref $data eq 'HASH' and exists $data->{barcodespecimens}) {
         # TaxonData response
         for my $field (qw(barcodespecimens specimenrecords publicbins)) {
             return unless exists $data->{$field};
