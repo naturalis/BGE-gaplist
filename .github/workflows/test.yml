@@ -1,0 +1,66 @@
+name: Test Pipeline Components
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -l {0}
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Conda
+      uses: conda-actions/setup-conda@v2
+      with:
+        python-version: '3.10'
+
+    - name: Cache Conda env
+      uses: actions/cache@v3
+      with:
+        path: |
+          /usr/share/miniconda/envs/
+        key: conda-${{ hashFiles('environment.yml') }}
+        restore-keys: |
+          conda-
+
+    - name: Create Conda environment
+      run: conda env create -f environment.yml
+
+    - name: Run syntax checks
+      run: |
+        conda activate taxonomy-pipeline
+        
+        # Check Perl scripts syntax
+        echo "Checking Perl scripts syntax..."
+        for script in workflow/scripts/*.pl; do
+          echo "Checking $script"
+          perl -cw $script
+        done
+        
+        # Run Perl::Critic on scripts
+        echo "Running Perl::Critic..."
+        for script in workflow/scripts/*.pl; do
+          echo "Analyzing $script"
+          perlcritic --gentle $script
+        done
+        
+        # Validate Snakefile syntax
+        echo "Checking Snakefile syntax..."
+        snakemake --lint
+        
+        # Test Snakemake dry run with minimal test data
+        echo "Testing Snakefile dry run..."
+        snakemake -n
+
+    - name: Run unit tests
+      run: |
+        conda activate taxonomy-pipeline
+        cd tests
+        prove -v *.t
