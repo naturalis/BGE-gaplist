@@ -57,6 +57,20 @@ $logger->info("Command line options parsed successfully");
 
 combine_lists.pl - Complete taxonomic data combiner
 
+=head1 SYNOPSIS
+
+    combine_lists.pl \
+        --exclusion-list=<exclusion list file> \
+        --bold-data=<BOLD data file> \
+        --fauna-europaea=<Fauna Europaea data file> \
+        --lepiforum=<Lepiforum data file> \
+        --worms=<WORMS data file> \
+        --inaturalist=<iNaturalist data file> \
+        --expert-dir=<directory containing expert data files> \
+        --output-combined=<combined species list file> \
+        --output-specs=<specifications file> \
+        --output-synonyms=<output synonyms file>
+
 =head1 DESCRIPTION
 
 Processes taxonomic data from multiple sources:
@@ -387,11 +401,17 @@ __END__
 
 =head1 AUTHOR
 
-Improved version by [Your Name]
+Fabian Deister, Rutger Vos
 
 =head1 LICENSE
 
-Copyright (c) [Year] [Your Organization]
+Copyright (c) 2024, Naturalis Biodiversity Center
 All rights reserved.
+
+=head1 SEE ALSO
+
+L<update_BOLD_data.pl>
+L<update_final_list.pl>
+L<get_gap_lists.pl>
 
 =cut
