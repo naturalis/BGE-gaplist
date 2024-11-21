@@ -1,4 +1,4 @@
-package StandardTaxonSource {
+package Bio::BGE::GapList::StandardTaxonSource {
     use Moo;
     use Bio::BGE::GapList::TaxonRecord
     extends 'Bio::BGE::GapList::TaxonSource';
