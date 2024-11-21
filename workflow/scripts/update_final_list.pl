@@ -48,9 +48,9 @@ Pipeline order:
 =cut
 
 # Command line options with defaults
-my $bold_data_file = '../Curated_Data/23_07_2024_updated_BOLD_data.csv';
-my $combined_lists_file = '../Curated_Data/combined_species_lists.csv';
-my $updated_lists_file = '../Curated_Data/updated_combined_lists.csv';
+my $bold_data_file = '../../results/Curated_Data/23_07_2024_updated_BOLD_data.csv';
+my $combined_lists_file = '../../results/Curated_Data/combined_species_lists.csv';
+my $updated_lists_file = '../../results/Curated_Data/updated_combined_lists.csv';
 
 # Parse command line options
 GetOptions(
