@@ -53,3 +53,5 @@ package Bio::BGE::GapList::TaxonRecord {
             if !$self->verification && $other->verification;
     }
 }
+
+1;

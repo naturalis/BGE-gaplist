@@ -10,3 +10,5 @@ package Bio::BGE::GapList::TaxonSource {
 
     sub process_line { die "Subclass must implement process_line" }
 }
+
+1;
