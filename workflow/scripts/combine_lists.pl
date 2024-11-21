@@ -11,6 +11,10 @@ use Types::Standard qw(Str Int HashRef ArrayRef Bool Maybe InstanceOf);
 use namespace::clean;
 use experimental 'signatures';
 use Log::Log4perl;
+use Bio::BGE::GapList::TaxonSource;
+use Bio::BGE::GapList::BOLDSource;
+use Bio::BGE::GapList::StandardTaxonSource;
+use Bio::BGE::GapList::TaxonomicCombiner;
 
 # Initialize Log::Log4perl
 Log::Log4perl->init(\ qq(
@@ -91,175 +95,34 @@ Handles taxonomic hierarchies, synonyms, and specimen counts.
 
 =cut
 
-# Main application class
-package TaxonomicCombiner {
-    use Moo;
-
-    has 'exclusion_list' => (is => 'ro', required => 1);
-    has 'sources' => (is => 'ro', required => 1);
-    has 'expert_dir' => (is => 'ro', required => 1);
-    has 'output_combined' => (is => 'ro', required => 1);
-    has 'output_specs' => (is => 'ro', required => 1);
-    has 'output_synonyms' => (is => 'ro', required => 1);
-
-    has [qw(taxa synonyms exclusions verifications)] => (
-        is => 'rw',
-        default => sub { {} }
-    );
-
-    sub process_exclusion_list {
-        my ($self) = @_;
-        my $file = path($self->exclusion_list);
-        my $fh = $file->openr_utf8();
-
-        while (my $line = <$fh>) {
-            chomp $line;
-            my ($name, $action, $valid_name) = split /\t/, $line;
-
-            if ($action eq 'e') {
-                $self->exclusions->{$name} = 1;
-            }
-            if ($valid_name && $valid_name ne $name) {
-                $self->synonyms->{$name} = $valid_name;
-            }
-        }
-        $logger->info("Processed exclusion list");
-    }
-
-    sub process_expert_data {
-        my ($self) = @_;
-        my $expert_dir = path($self->expert_dir);
-        for my $file ($expert_dir->children(qr/\.csv$/)) {
-            my ($expert) = $file->basename =~ /([^_]+)\.csv/;
-            next unless $expert;
-
-            my $fh = $file->openr_utf8();
-            while (my $line = <$fh>) {
-                chomp $line;
-                my $record = StandardTaxonSource->new(
-                    name => $expert,
-                    path => '.',
-                    file => '.',
-                    verification_code => $expert
-                )->process_line($line, {});
-
-                next unless $record;
-                $self->store_record($record);
-            }
-        }
-        $logger->info("Processed expert data");
-    }
-
-    sub store_record {
-        my ($self, $record) = @_;
-        return if $self->exclusions->{$record->species};
-
-        # Handle synonyms
-        if (my $valid_name = $self->synonyms->{$record->species}) {
-            $record->species($valid_name);
-        }
-
-        # Store or merge record
-        if (exists $self->taxa->{$record->species}) {
-            $self->taxa->{$record->species}->merge($record);
-        } else {
-            $self->taxa->{$record->species} = $record;
-        }
-        $logger->debug("Stored record for species: " . $record->species);
-    }
-
-    sub generate_outputs {
-        my ($self) = @_;
-        $self->generate_combined_list();
-        $self->generate_synonym_list();
-        $self->generate_taxonomic_hierarchy();
-        $logger->info("Generated all outputs");
-    }
-
-    sub generate_combined_list {
-        my ($self) = @_;
-        my $file = path($self->output_combined);
-        my $fh = $file->openw_utf8();
-
-        for my $species (sort keys %{$self->taxa}) {
-            my $record = $self->taxa->{$species};
-            print $fh join(';',
-                $species,
-                $record->phylum // '',
-                $record->class // '',
-                $record->order // '',
-                $record->family // '',
-                $record->source // '',
-                $record->specimens->{long} // '',
-                $record->specimens->{short} // '',
-                $record->specimens->{failed} // '',
-                $record->verification // ''
-            ) . "\n";
-        }
-        $logger->info("Generated combined list");
-    }
-
-    sub run {
-        my ($self) = @_;
-        try {
-            $self->process_exclusion_list();
-
-            for my $source (@{$self->sources}) {
-                my $file = path($source->path, $source->file);
-                next unless -f $file;
-
-                my $fh = $file->openr_utf8();
-                while (my $line = <$fh>) {
-                    my $record = $source->process_line($line, {
-                        synonyms => $self->synonyms,
-                        exclusions => $self->exclusions
-                    });
-                    $self->store_record($record) if $record;
-                }
-            }
-
-            $self->process_expert_data();
-            $self->generate_outputs();
-        }
-        catch {
-            $logger->fatal("Error processing data: $_");
-            die "Error processing data: $_";
-        };
-        $logger->info("Run completed successfully");
-    }
-}
-
-# Main program
-package main;
-
-my $combiner = TaxonomicCombiner->new(
+my $combiner = Bio::BGE::GapList::TaxonomicCombiner->new(
     exclusion_list => $exclusion_list,
     sources => [
-        BOLDSource->new(
+        Bio::BGE::GapList::BOLDSource->new(
             name => 'BOLD',
             path => 'BOLD_specieslist_europe',
             file => $bold_data,
             verification_code => 'BOLD'
         ),
-        StandardTaxonSource->new(
+        Bio::BGE::GapList::StandardTaxonSource->new(
             name => 'FaunaEuropaea',
             path => 'Fauna_Europaea',
             file => $fauna_europaea,
             verification_code => 'FE'
         ),
-        StandardTaxonSource->new(
+        Bio::BGE::GapList::StandardTaxonSource->new(
             name => 'WORMS',
             path => 'WORMS',
             file => $worms,
             verification_code => 'WORMS'
         ),
-        StandardTaxonSource->new(
+        Bio::BGE::GapList::StandardTaxonSource->new(
             name => 'Lepiforum',
             path => 'Lepiforum',
             file => $lepiforum,
             verification_code => 'LF'
         ),
-        StandardTaxonSource->new(
+        Bio::BGE::GapList::StandardTaxonSource->new(
             name => 'iNaturalist',
             path => 'inaturalist_germany',
             file => $inaturalist,
