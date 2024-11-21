@@ -29,8 +29,8 @@ following sources:
 - BOLD
 - Fauna Europaea
 - Lepiform
-- WORMS
-- iNaturalist
+- [WORMS](https://www.marinespecies.org/)
+- [iNaturalist](https://doi.org/10.15468/dl.w5v28a)
 - input from various experts
 
 At present, these data are expected to simply be there, though the
