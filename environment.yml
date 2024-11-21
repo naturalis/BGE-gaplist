@@ -1,1 +1,80 @@
+```yaml
+name: taxonomy-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
 
+dependencies:
+  # Core Python and Snakemake
+  - python>=3.10
+  - snakemake>=7.25.0
+  - graphviz>=8.0.0
+
+  # Core Perl
+  - perl>=5.32
+  - perl-app-cpanminus
+  
+  # Essential Perl modules for scripts
+  - perl-try-tiny             # Error handling
+  - perl-path-tiny           # File operations
+  - perl-json-pp             # JSON parsing
+  - perl-http-tiny           # HTTP client
+  - perl-log-any             # Logging framework
+  - perl-log-any-adapter     # Logging adapters
+  - perl-datetime            # Date handling
+  - perl-moo                 # Modern OO framework
+  - perl-namespace-clean     # Clean namespaces
+  - perl-type-tiny          # Type checking
+  - perl-readonly           # Constant declarations
+  - perl-file-path          # Directory operations
+  - perl-data-dumper        # Debug output
+  - perl-lwp-simple         # Legacy HTTP support
+  - perl-time-hires         # High resolution timers
+  - perl-unicode-utf8       # UTF-8 handling
+  - perl-io                 # IO operations
+
+  # Testing frameworks and tools
+  - perl-test-more          # Testing framework
+  - perl-test-exception     # Exception testing
+  - perl-test-warn         # Warning testing
+  - perl-test-deep         # Deep structure comparison
+  - perl-test-differences  # Difference visualization
+  - perl-test-mock-lwp-conditional  # HTTP mocking
+  - perl-test-mockobject   # Object mocking
+  - perl-test-pod          # POD testing
+  - perl-test-pod-coverage # POD coverage testing
+  - perl-perl-critic       # Code analysis
+  - perl-file-sharedir     # For Test::File
+  - perl-test-file         # File testing
+  - perl-prove            # Test runner
+
+  # Documentation tools
+  - perl-pod-markdown      # POD to Markdown conversion
+  - perl-pod-usage        # POD processing
+  - perl-pod-parser       # POD parsing
+
+  # Development tools
+  - perl-local-lib        # Local library management
+  - perl-file-slurp       # File reading/writing
+  - perl-yaml            # YAML parsing
+  - perl-config-tiny     # Configuration handling
+
+# Platform specific settings
+platforms:
+  - linux-64
+  - osx-64
+
+# Additional pip packages if needed
+# pip:
+#   - package-name==version
+
+variables:
+  PERL5LIB: ''
+  PERL_UNICODE: 'AS'
+
+about:
+  home: https://github.com/[org]/taxonomy-pipeline
+  license: Apache-2.0
+  summary: Environment for taxonomy data processing pipeline
+```
