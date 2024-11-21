@@ -53,5 +53,5 @@ dependencies:
   - perl-config-tiny     # Configuration handling
 
 variables:
-  PERL5LIB: ''
+  PERL5LIB: 'lib'
   PERL_UNICODE: 'AS'
