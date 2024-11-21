@@ -21,6 +21,21 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+## Preliminaries
+
+The workflow combines pre-processed taxonomic information from the
+following sources:
+
+- BOLD
+- Fauna Europaea
+- Lepiform
+- WORMS
+- iNaturalist
+- input from various experts
+
+At present, these data are expected to simply be there, though the
+future plan is to do this as part of the overall workflow.
+
 ## Workflow Overview
 
 The pipeline consists of four main steps:
