@@ -63,8 +63,8 @@ Format: species;taxon_id;barcode_specimens;specimen_records;public_bins
 =cut
 
 # Command line options with defaults
-my $input_file  = '../Curated_Data/all_specs_and_syn.csv';
-my $output_file = '../Raw_Data/BOLD_specieslist_europe/updated_BOLD_data.csv';
+my $input_file  = '../../results/Curated_Data/all_specs_and_syn.csv';
+my $output_file = '../../resources/Raw_Data/BOLD_specieslist_europe/updated_BOLD_data.csv';
 my $retry_limit = 3;
 my $rate_limit  = 1;
 my $timeout     = 30;
