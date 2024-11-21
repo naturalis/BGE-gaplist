@@ -1,0 +1,5 @@
+curated_data: "../Curated_Data"
+raw_data: "../Raw_Data"
+gap_lists: "../Gap_Lists"
+bold_data_dir: "../Raw_Data/BOLD_specieslist_europe"
+expert_data_dir: "../Raw_Data/Additional_data_from_experts"
