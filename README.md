@@ -33,7 +33,7 @@ The pipeline consists of four main steps:
 
 ### Default Target (`all`)
 ```bash
-snakemake --cores all
+snakemake all
 ```
 Runs the complete pipeline, generating:
 - Updated combined species lists
@@ -44,25 +44,25 @@ Runs the complete pipeline, generating:
 
 #### Update BOLD Data
 ```bash
-snakemake --cores 1 Curated_Data/{date}_updated_BOLD_data.csv
+snakemake update_bold_data
 ```
 Queries the BOLD API for current specimen data.
 
 #### Combine Lists
 ```bash
-snakemake --cores 1 Curated_Data/combined_species_lists.csv
+snakemake combine_lists
 ```
 Integrates data from all taxonomic sources.
 
 #### Analyze Gaps
 ```bash
-snakemake --cores 1 Gap_Lists/Gap_list_all.csv
+snakemake analyze_gaps
 ```
 Generates gap analysis reports.
 
 #### Update Final List
 ```bash
-snakemake --cores 1 Curated_Data/updated_combined_lists.csv
+snakemake update_final_list
 ```
 Merges latest BOLD data into combined lists.
 
