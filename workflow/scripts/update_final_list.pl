@@ -7,6 +7,7 @@ use Readonly;
 use Log::Any qw($log);
 use Log::Any::Adapter ('File', '../logs/update_final.log');
 use Data::Dumper;
+use Getopt::Long;
 
 =head1 NAME
 
@@ -14,7 +15,7 @@ update_final_list.pl - Update combined species lists with latest BOLD data
 
 =head1 SYNOPSIS
 
-    ./update_final_list.pl
+    ./update_final_list.pl --bold-data <bold_data_file> --input <combined_lists_file> --output <updated_lists_file>
 
 =head1 DESCRIPTION
 
@@ -31,27 +32,39 @@ Pipeline order:
 
 =head2 Input Files
 
-- ../Curated_Data/23_07_2024_updated_BOLD_data.csv
+- <bold_data_file>
   Format: species;taxon_id;barcoded_specimens;specimens;public_bins
 
-- ../Curated_Data/combined_species_lists.csv
+- <combined_lists_file>
   Format: species;phylum;class;order;family;source;...
 
 =head2 Output File
 
-- ../Curated_Data/updated_combined_lists.csv
+- <updated_lists_file>
   Format: species;phylum;class;order;family;source;barcoded_specimens;specimens;public_bins;[additional_fields]
 
 =cut
 
+# Command line options with defaults
+my $bold_data_file = '../Curated_Data/23_07_2024_updated_BOLD_data.csv';
+my $combined_lists_file = '../Curated_Data/combined_species_lists.csv';
+my $updated_lists_file = '../Curated_Data/updated_combined_lists.csv';
+
+# Parse command line options
+GetOptions(
+    'bold-data=s' => \$bold_data_file,
+    'input=s'     => \$combined_lists_file,
+    'output=s'    => \$updated_lists_file,
+) or die "Error in command line arguments\n";
+
 # Configuration
 Readonly my $CONFIG => {
     input => {
-        bold_data => '../Curated_Data/23_07_2024_updated_BOLD_data.csv',
-        combined_lists => '../Curated_Data/combined_species_lists.csv',
+        bold_data => $bold_data_file,
+        combined_lists => $combined_lists_file,
     },
     output => {
-        updated_lists => '../Curated_Data/updated_combined_lists.csv',
+        updated_lists => $updated_lists_file,
     },
 };
 
