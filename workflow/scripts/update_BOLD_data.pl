@@ -59,8 +59,6 @@ Format: semicolon-separated species names and synonyms
 ../Raw_Data/BOLD_specieslist_europe/updated_BOLD_data.csv
 Format: species;taxon_id;barcode_specimens;specimen_records;public_bins
 
-=head1 CONFIGURATION
-
 =cut
 
 # Command line options with defaults
@@ -109,20 +107,6 @@ my $http = HTTP::Tiny->new(
 
 # Track processed taxa to avoid duplicates
 my %processed_taxa;
-
-=head1 SUBROUTINES
-
-=head2 make_api_request($url, $params)
-
-Makes an HTTP GET request to the BOLD API with retry logic and error handling.
-
-Parameters:
-- $url: API endpoint URL
-- $params: HashRef of query parameters
-
-Returns: Decoded JSON response or undef on failure
-
-=cut
 
 sub make_api_request {
     my ($url, $params) = @_;
@@ -179,17 +163,6 @@ sub make_api_request {
     return;
 }
 
-=head2 validate_response($data)
-
-Validates the structure of API responses.
-
-Parameters:
-- $data: Decoded JSON response
-
-Returns: Validated data or undef if invalid
-
-=cut
-
 sub validate_response {
     my ($data) = @_;
 
@@ -221,17 +194,6 @@ sub validate_response {
     return $data;
 }
 
-=head2 get_taxon_id($species)
-
-Queries the BOLD TaxonSearch API to get taxon ID for a species.
-
-Parameters:
-- $species: Species name string
-
-Returns: Taxon ID or undef if not found
-
-=cut
-
 sub get_taxon_id {
     my ($species) = @_;
 
@@ -244,17 +206,6 @@ sub get_taxon_id {
     return $data ? $data->{taxid} : undef;
 }
 
-=head2 get_taxon_data($taxon_id)
-
-Queries the BOLD TaxonData API to get specimen data for a taxon ID.
-
-Parameters:
-- $taxon_id: BOLD taxon ID
-
-Returns: HashRef of specimen data or undef on failure
-
-=cut
-
 sub get_taxon_data {
     my ($taxon_id) = @_;
 
@@ -265,17 +216,6 @@ sub get_taxon_data {
         dataTypes => 'basic,stats'
     });
 }
-
-=head2 process_species($species)
-
-Processes a single species through the BOLD API pipeline.
-
-Parameters:
-- $species: Species name string
-
-Returns: 1 on success, 0 on failure
-
-=cut
 
 sub process_species {
     my ($species) = @_;
@@ -323,17 +263,6 @@ sub process_species {
     return 1;
 }
 
-=head2 clean_species_name($species)
-
-Cleans and validates a species name.
-
-Parameters:
-- $species: Raw species name string
-
-Returns: Cleaned species name or undef if invalid
-
-=cut
-
 sub clean_species_name {
     my ($species) = @_;
 
@@ -350,17 +279,6 @@ sub clean_species_name {
 
     return $species;
 }
-
-=head2 save_record($record)
-
-Saves a species record to the output file.
-
-Parameters:
-- $record: HashRef of species data
-
-Returns: 1 on success, 0 on failure
-
-=cut
 
 sub save_record {
     my ($record) = @_;
@@ -387,28 +305,11 @@ sub save_record {
     };
 }
 
-=head2 url_escape($string)
-
-Simple URL escaping function.
-
-Parameters:
-- $string: String to escape
-
-Returns: URL-escaped string
-
-=cut
-
 sub url_escape {
     my ($string) = @_;
     $string =~ s/([^A-Za-z0-9])/sprintf("%%%02X", ord($1))/ge;
     return $string;
 }
-
-=head2 main()
-
-Main program entry point.
-
-=cut
 
 sub main {
     $logger->info("Starting BOLD data update");

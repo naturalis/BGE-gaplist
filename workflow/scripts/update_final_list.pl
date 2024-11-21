@@ -63,14 +63,6 @@ my $logger = Bio::BGE::GapList::Logging->get_logger(__PACKAGE__);
 # Data structures
 my %bold_data;
 
-=head2 load_bold_data()
-
-Loads the latest BOLD data into memory.
-
-Returns: Number of species loaded
-
-=cut
-
 sub load_bold_data {
     my $file = path($bold_data_file);
     my $count = 0;
@@ -104,14 +96,6 @@ sub load_bold_data {
     $logger->info("Loaded BOLD data for $count species");
     return $count;
 }
-
-=head2 process_combined_lists()
-
-Processes the combined species lists, merging in BOLD data.
-
-Returns: Number of species processed
-
-=cut
 
 sub process_combined_lists {
     my $input_file = path($combined_lists_file);
@@ -160,14 +144,6 @@ sub process_combined_lists {
     return $count;
 }
 
-=head2 validate_output()
-
-Validates the output file for data integrity.
-
-Returns: 1 if valid, dies on error
-
-=cut
-
 sub validate_output {
     my $file = path($updated_lists_file);
     my $line_count = 0;
@@ -201,12 +177,6 @@ sub validate_output {
     $logger->info("Validated $line_count species in output");
     return 1;
 }
-
-=head2 main()
-
-Main program entry point.
-
-=cut
 
 sub main {
     $logger->info("Starting final list update");
