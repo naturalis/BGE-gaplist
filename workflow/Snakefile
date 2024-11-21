@@ -48,7 +48,7 @@ rule combine_lists:
         lepiforum = f"{RAW_DATA}/Lepiforum/specieslist_Lepiforum.csv",
         worms = f"{RAW_DATA}/WORMS/specieslist_WORMS.csv",
         inaturalist = f"{RAW_DATA}/inaturalist_germany/speclist_inaturalist.csv",
-        expert_data = directory(EXPERT_DATA_DIR)
+        expert_data = EXPERT_DATA_DIR
     output:
         combined_list = f"{CURATED_DATA}/combined_species_lists.csv",
         all_specs = f"{CURATED_DATA}/all_specs_and_syn.csv",
