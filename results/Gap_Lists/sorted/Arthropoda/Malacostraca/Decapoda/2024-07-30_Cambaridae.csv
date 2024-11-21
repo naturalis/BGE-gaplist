@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Faxonius immunis;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD,FE,iNat;;;;ITIS;gap;8518
+Faxonius juvenilis;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD;;;;ITIS;gap;27064
+Faxonius limosus;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD,FE,iNat;20;24;2;ITIS;;797923;15533
+Faxonius virilis;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD;75;89;5;ITIS;;954268;31881
+Procambarus acutus;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD;18;24;5;ITIS;;31880
+Procambarus clarkii;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD,FE,iNat;280;445;11;WORMS;;8544
+Procambarus fallax;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD;20;24;1;ITIS;;170572
+Procambarus virginalis;Arthropoda;Malacostraca;Decapoda;Cambaridae;BOLD,iNat;62;62;1;;;973861

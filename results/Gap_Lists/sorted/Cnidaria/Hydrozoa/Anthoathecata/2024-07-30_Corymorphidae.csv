@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Branchiocerianthus italicus;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;;gap;
+Branchiocerianthus norvegicus;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;;gap;
+Corymorpha forbesii;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;WORMS;gap;
+Corymorpha glacialis;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;1;2;1;WORMS;;668484
+Corymorpha groenlandica;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;BOLD,WORMS;0;2;0;WORMS;gap;1058791
+Corymorpha nana;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;WORMS;gap;
+Euphysa aurata;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;BOLD,FE,WORMS;17;22;2;WORMS;;668486
+Euphysa flammea;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;BOLD,WORMS;14;17;1;WORMS;;303009
+Euphysa tentaculata;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;WORMS;gap;
+Gymnogonos crassicornis;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;WORMS;gap;
+Paragotoea bathybia;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;BOLD,WORMS;3;4;1;WORMS;;303018
+Siphonohydra adriatica;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;WORMS;;;;;gap;
+Steenstrupia nutans;Cnidaria;Hydrozoa;Anthoathecata;Corymorphidae;BOLD,FE,WORMS;;;;FE;gap;650426

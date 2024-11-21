@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Archon apollinus;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;43;48;2;FE;;103142
+Iphiclides feisthamelii;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,LF;66;67;2;;;81421
+Iphiclides podalirius;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF,iNat;163;168;1;FE;;32774
+Papilio alexanor;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;18;110;1;;;33261
+Papilio demoleus;Arthropoda;Insecta;Lepidoptera;Papilionidae;LF;97;132;3;;;27418
+Papilio hospiton;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;33;55;1;;;33263
+Papilio machaon;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF,iNat;543;1137;3;;;17567
+Papilio saharae;Arthropoda;Insecta;Lepidoptera;Papilionidae;LF;32;42;1;;;706407
+Parnassius apollo;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF,iNat;400;445;6;FE;;29382
+Parnassius mnemosyne;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF,iNat;583;625;9;FE;;70619
+Parnassius sacerdos;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;6;20;1;AH;;103166;17254
+Zerynthia cassandra;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,LF;72;72;1;;;389147
+Zerynthia caucasica;Arthropoda;Insecta;Lepidoptera;Papilionidae;FE,LF;7;9;1;;;736604
+Zerynthia cerisy;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;21;21;1;BEL;;890008;32776
+Zerynthia cretica;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;6;6;1;BEL;;890009;152137
+Zerynthia polyxena;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;46;63;2;FE;;149041;504387
+Zerynthia rumina;Arthropoda;Insecta;Lepidoptera;Papilionidae;BOLD,FE,LF;55;63;4;FE;;32775

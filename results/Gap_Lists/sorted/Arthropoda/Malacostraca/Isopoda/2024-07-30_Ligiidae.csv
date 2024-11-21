@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caucasoligidium cavernicola;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligia italica;Arthropoda;Malacostraca;Isopoda;Ligiidae;BOLD,FE;19;23;3;;;32371
+Ligia oceanica;Arthropoda;Malacostraca;Isopoda;Ligiidae;BOLD,FE,iNat;77;98;2;WORMS;;81253
+Ligidium beieri;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;16;19;5;;;80237
+Ligidium bosniense;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligidium bosphoranum;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligidium cycladicum;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;4;4;1;;;82495
+Ligidium euboicum;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;5;5;3;;;80231
+Ligidium fragile;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligidium germanicum;Arthropoda;Malacostraca;Isopoda;Ligiidae;BOLD,FE,iNat;13;15;2;FE;;80234
+Ligidium ghigii;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;11;12;3;;;80240
+Ligidium golemanskii;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligidium hypnorum;Arthropoda;Malacostraca;Isopoda;Ligiidae;BOLD,FE,iNat;39;44;3;FE;;32373
+Ligidium mylonasi;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligidium tauricum;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Ligidium werneri;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;4;4;2;;;80238
+Tauroligidium stygium;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;
+Typhloligidium coecum;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;FE;gap;
+Typhloligidium karabijajlae;Arthropoda;Malacostraca;Isopoda;Ligiidae;FE;;;;;gap;

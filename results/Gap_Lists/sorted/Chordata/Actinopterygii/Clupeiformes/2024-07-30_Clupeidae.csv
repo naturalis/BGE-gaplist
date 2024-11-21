@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alosa agone;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE;6;6;1;FB;;598342;343768;598548
+Alosa immaculata;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE;32;41;1;WORMS;;228676;228674
+Alosa killarnensis;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE,WORMS;;;;FB;gap;
+Alosa macedonica;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE;6;6;1;FB;;156679
+Alosa maeotica;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE;6;9;0;WORMS;;228675
+Alosa tanaica;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE;7;12;1;WORMS;;760334
+Alosa vistonica;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE,WORMS;1;1;1;FB;;598318
+Alosa volgensis;Chordata;Actinopterygii;Clupeiformes;Clupeidae;FE;;;;WORMS;gap;
+Clupea pallasii;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD;47;112;2;WORMS;;33891;110845
+Clupeonella cultriventris;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,FE,WORMS;54;54;1;WORMS;;71228
+Clupeonella muhlisi;Chordata;Actinopterygii;Clupeiformes;Clupeidae;FE;;;;FB;gap;
+Clupeonella tscharchalensis;Chordata;Actinopterygii;Clupeiformes;Clupeidae;FE;3;3;0;FB;;804266
+Harengula jaguana;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD;;;;FB;gap;
+Herklotsichthys punctatus;Chordata;Actinopterygii;Clupeiformes;Clupeidae;WORMS;;;;WORMS;gap;
+Sardina pilchardus;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,WORMS;110;206;2;WORMS;;10859
+Sardinella aurita;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,WORMS;163;177;1;WORMS;;78629
+Sardinella maderensis;Chordata;Actinopterygii;Clupeiformes;Clupeidae;WORMS;;;;WORMS;gap;
+Spratelloides gracilis;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD;94;98;6;WORMS;;52682
+Spratelloides robustus;Chordata;Actinopterygii;Clupeiformes;Clupeidae;WORMS;;;;FB;gap;
+Sprattus sprattus;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD,WORMS;78;104;1;WORMS;;52081
+Tenualosa ilisha;Chordata;Actinopterygii;Clupeiformes;Clupeidae;BOLD;72;75;1;WORMS;;462467

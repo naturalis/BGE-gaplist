@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Tarasovium cornutum;Arthropoda;Thecostraca;Lithoglyptida;Trypetesidae;BOLD;3;3;0;ITIS;;785835
+Trypetesa lampas;Arthropoda;Thecostraca;Lithoglyptida;Trypetesidae;BOLD,WORMS;6;9;2;WORMS;;785837
+Trypetesa nasseroides;Arthropoda;Thecostraca;Lithoglyptida;Trypetesidae;WORMS;;;;;gap;

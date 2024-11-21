@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Urothoe brevicornis;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;1;2;1;;;991174
+Urothoe corsica;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;;;;;gap;
+Urothoe elegans;Arthropoda;Malacostraca;Amphipoda;Urothoidae;BOLD,WORMS;6;14;1;WORMS;;469376
+Urothoe grimaldii;Arthropoda;Malacostraca;Amphipoda;Urothoidae;BOLD;1;1;1;WORMS;;371889
+Urothoe hesperiae;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;;;;;gap;
+Urothoe intermedia;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;;;;;gap;
+Urothoe marina;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;;;;WORMS;gap;
+Urothoe poseidonis;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;18;21;1;WORMS;;455778
+Urothoe poucheti;Arthropoda;Malacostraca;Amphipoda;Urothoidae;WORMS;;;;;gap;
+Urothoe pulchella;Arthropoda;Malacostraca;Amphipoda;Urothoidae;BOLD,WORMS;2;3;1;WORMS;;572411

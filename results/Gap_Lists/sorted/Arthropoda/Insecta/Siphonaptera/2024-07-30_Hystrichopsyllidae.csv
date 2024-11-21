@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atyphloceras nuperus;Arthropoda;Insecta;Siphonaptera;Hystrichopsyllidae;FE;;;;FE;gap;
+Hystrichopsylla orientalis;Arthropoda;Insecta;Siphonaptera;Hystrichopsyllidae;BOLD,FE;2;2;1;;;888492
+Hystrichopsylla satunini;Arthropoda;Insecta;Siphonaptera;Hystrichopsyllidae;FE;;;;;gap;
+Hystrichopsylla talpae;Arthropoda;Insecta;Siphonaptera;Hystrichopsyllidae;BOLD,FE;0;3;0;FE;gap;989359
+Typhloceras favosus;Arthropoda;Insecta;Siphonaptera;Hystrichopsyllidae;FE;;;;FE;gap;
+Typhloceras poppei;Arthropoda;Insecta;Siphonaptera;Hystrichopsyllidae;FE;;;;;gap;

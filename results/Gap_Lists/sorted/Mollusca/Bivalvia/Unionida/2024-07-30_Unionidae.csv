@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anodonta anatina;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE,iNat;893;901;2;WORMS;;25092;794891;655769
+Anodonta cygnea;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE,iNat;55;59;1;ITIS;;25091
+Hyriopsis bialata;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;9;11;3;ITIS;;722653;796085
+Microcondylaea compressa;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;;;;ITIS;gap;796084
+Ortmanniana ligamentina;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE,iNat;39;41;3;ITIS;;733510;31861;25087;901135
+Potomida littoralis;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;463;467;5;ITIS;;512820;796227
+Pseudanodonta complanata;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;12;14;1;ITIS;;25089
+Pseudanodonta elongata;Mollusca;Bivalvia;Unionida;Unionidae;FE;;;;ITIS;gap;
+Pseudanodonta middendorffi;Mollusca;Bivalvia;Unionida;Unionidae;FE;;;;ITIS;gap;
+Sinanodonta woodiana;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE,iNat;177;200;13;ITIS;;463827
+Unio elongatulus;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;107;107;1;FE;;796086
+Unio gibbus;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;66;66;1;ITIS;;300393
+Unio mancus;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE;117;117;1;ITIS;;105636;1153859;1153861
+Unio pictorum;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE,iNat;950;960;5;WORMS;;25086
+Unio ravoisieri;Mollusca;Bivalvia;Unionida;Unionidae;BOLD;29;29;2;ITIS;;508039
+Unio tumidus;Mollusca;Bivalvia;Unionida;Unionidae;BOLD,FE,iNat;92;100;2;ITIS;;25085

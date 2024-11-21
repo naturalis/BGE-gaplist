@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atylus carinatus;Arthropoda;Malacostraca;Amphipoda;Atylidae;WORMS;;;;WORMS;gap;
+Atylus smittii;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;0;1;0;;gap;706967
+Atylus swammerdami;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;2;5;2;ITIS;;649512
+Atylus vedlomensis;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;2;2;1;;;708818
+Nototropis guttatus;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;3;3;2;WORMS;;652591
+Nototropis nordlandicus;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;7;7;2;WORMS;;597957
+Nototropis smitti;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;1;1;1;WORMS;;1142010
+Nototropis swammerdamei;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;6;8;2;WORMS;;593140
+Nototropis vedlomensis;Arthropoda;Malacostraca;Amphipoda;Atylidae;BOLD;6;7;1;;;991740

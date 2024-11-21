@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aulonothroscus brevicollis;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;144;146;1;FE;;310314
+Aulonothroscus elongatulus;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Aulonothroscus grancanariae;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Aulonothroscus integer;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Aulonothroscus laticollis;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Aulonothroscus latiusculus;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Aulonothroscus tenerifae;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Aulonothroscus wollastoni;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Trixagus algiricus;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Trixagus asiaticus;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Trixagus atticus;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;14;15;1;FE;;330162
+Trixagus bachofeni;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;;gap;
+Trixagus carinifrons;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;129;160;2;FE;;460684
+Trixagus dermestoides;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE,iNat;99;111;1;FE;;167174
+Trixagus duvali;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD;1;1;1;;;733088
+Trixagus duvalii;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Trixagus elateroides;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Trixagus exul;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;2;4;1;FE;;330170
+Trixagus gracilis;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;2;4;0;;;471070
+Trixagus leseigneuri;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;19;28;1;;;310151
+Trixagus meybohmi;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD;290;305;1;;;310331
+Trixagus minutus;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;;gap;
+Trixagus obtusus;Arthropoda;Insecta;Coleoptera;Throscidae;BOLD,FE;12;17;2;FE;;167687
+Trixagus orientalis;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;
+Trixagus ovalis;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;;gap;
+Trixagus rougeti;Arthropoda;Insecta;Coleoptera;Throscidae;FE;;;;FE;gap;

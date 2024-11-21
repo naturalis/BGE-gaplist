@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diplobrachia capillaris;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;WORMS;gap;
+Diplobrachia similis;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Lamellisabella denticulata;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;1;4;1;;;302987
+Nereilinum murmanicum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Oligobrachia gracilis;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Oligobrachia haakonmosbiensis;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Oligobrachia ivanovi;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Oligobrachia webbi;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Osedax mucofloris;Annelida;Polychaeta;Sabellida;Siboglinidae;BOLD;3;20;1;;;666813
+Sclerolinum brattstromi;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;3;5;1;;;303590
+Sclerolinum contortum;Annelida;Polychaeta;Sabellida;Siboglinidae;BOLD,WORMS;34;36;1;WORMS;;200002
+Siboglinum angustum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum atlanticum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum brevicephalum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum ekmani;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;5;6;1;;;653933
+Siboglinum fiordicum;Annelida;Polychaeta;Sabellida;Siboglinidae;BOLD,WORMS;8;11;1;;;708285
+Siboglinum holmei;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum hyperboreum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum inerme;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum lacteum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum leucopleurum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum norvegicum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;;gap;
+Siboglinum pholidotum;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;;;;WORMS;gap;
+Siboglinum poseidoni;Annelida;Polychaeta;Sabellida;Siboglinidae;WORMS;0;4;0;;gap;302977

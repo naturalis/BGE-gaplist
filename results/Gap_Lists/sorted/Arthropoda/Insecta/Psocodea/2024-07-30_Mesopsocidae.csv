@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyrtopsochus canariensis;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;FE;gap;
+Cyrtopsochus gibbosus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Cyrtopsochus irroratus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Cyrtopsochus nasutus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;FE;gap;
+Cyrtopsochus pustulatus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;FE;gap;
+Cyrtopsochus truncatus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus blancae;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus duboscqui;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus fuscifrons;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;2;2;1;;;1155177
+Mesopsocus giganteus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus graecus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus helveticus;Arthropoda;Insecta;Psocodea;Mesopsocidae;BOLD,FE;17;19;1;;;596436
+Mesopsocus immunis;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE,iNat;;;;FE;gap;
+Mesopsocus laterimaculatus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus laticeps;Arthropoda;Insecta;Psocodea;Mesopsocidae;BOLD,FE;31;31;2;FE;;596437
+Mesopsocus troodos;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus unipunctatus;Arthropoda;Insecta;Psocodea;Mesopsocidae;BOLD,FE;136;154;6;FE;;596435
+Mesopsocus vernus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus wardi;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Mesopsocus ypsilon;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;;gap;
+Psoculus neglectus;Arthropoda;Insecta;Psocodea;Mesopsocidae;FE;;;;FE;gap;

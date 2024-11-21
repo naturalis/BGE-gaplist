@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lomanotus barlettai;Mollusca;Gastropoda;Nudibranchia;Lomanotidae;WORMS;;;;;gap;
+Lomanotus genei;Mollusca;Gastropoda;Nudibranchia;Lomanotidae;BOLD,WORMS;1;1;1;WORMS;;944154
+Lomanotus marmoratus;Mollusca;Gastropoda;Nudibranchia;Lomanotidae;BOLD,WORMS;1;1;1;WORMS;;1062403

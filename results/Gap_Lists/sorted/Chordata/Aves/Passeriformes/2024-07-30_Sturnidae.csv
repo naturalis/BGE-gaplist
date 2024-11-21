@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acridotheres tristis;Chordata;Aves;Passeriformes;Sturnidae;FE;;;;ITIS;gap;
+Agropsar sturninus;Chordata;Aves;Passeriformes;Sturnidae;FE;;;;ITIS;gap;
+Pastor roseus;Chordata;Aves;Passeriformes;Sturnidae;FE,iNat;21;23;1;ITIS;;95533
+Sturnus unicolor;Chordata;Aves;Passeriformes;Sturnidae;FE;;;;;gap;119770
+Sturnus vulgaris;Chordata;Aves;Passeriformes;Sturnidae;BOLD,FE,iNat;87;96;1;;;9649

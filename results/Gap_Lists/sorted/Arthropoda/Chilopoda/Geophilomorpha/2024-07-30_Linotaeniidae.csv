@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Strigamia acuminata;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;BOLD,FE,iNat;45;111;7;FE;;376059
+Strigamia cottiana;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;BOLD,FE;1;2;1;FE;;852419
+Strigamia crassipes;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;BOLD,FE;37;59;8;FE;;376060
+Strigamia engadina;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;FE;;;;FE;gap;
+Strigamia herzegowinensis;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;FE;;;;FE;gap;
+Strigamia maritima;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;BOLD,FE,WORMS;3;10;1;WORMS;;237301
+Strigamia olympica;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;FE;;;;;gap;
+Strigamia pusilla;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;FE;;;;FE;gap;
+Strigamia transsilvanica;Arthropoda;Chilopoda;Geophilomorpha;Linotaeniidae;BOLD,FE;8;9;3;FE;;376061

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Laudakia stellio;Chordata;Reptilia;Squamata;Agamidae;FE;;;;FE;gap;
+Phrynocephalus guttatus;Chordata;Reptilia;Squamata;Agamidae;FE,RDB;100;133;14;RDB;;191611;15579;191615;8655;195790;758983;758984;110297;195791
+Phrynocephalus helioscopus;Chordata;Reptilia;Squamata;Agamidae;FE;54;82;8;FE;;88005
+Phrynocephalus mystaceus;Chordata;Reptilia;Squamata;Agamidae;FE;44;57;2;FE;;88018

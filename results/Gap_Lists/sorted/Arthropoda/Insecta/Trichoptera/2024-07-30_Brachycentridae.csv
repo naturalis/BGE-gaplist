@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brachycentrus maculatus;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;5;9;1;FE;;127660
+Brachycentrus montanus;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;8;8;1;FE;;127661
+Brachycentrus subnubilus;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;53;87;3;FE;;127668
+Micrasema (gelidum) gelidum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD;12;15;5;;;127683
+Micrasema cenerentola;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;3;3;1;;;127704
+Micrasema difficile;Arthropoda;Insecta;Trichoptera;Brachycentridae;FE;;;;;gap;
+Micrasema gabusi;Arthropoda;Insecta;Trichoptera;Brachycentridae;FE;;;;;gap;
+Micrasema gelidum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;8;12;2;FE;;140301;1079171
+Micrasema longulum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;11;14;1;;;127723
+Micrasema minimum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;13;16;2;FE;;127726
+Micrasema moestum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;17;20;4;FE;;127728
+Micrasema morosum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;;;;ITIS;gap;127729
+Micrasema nigrum;Arthropoda;Insecta;Trichoptera;Brachycentridae;FE;;;;;gap;
+Micrasema salardum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;0;1;0;;gap;127740
+Micrasema sericeum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;0;1;0;;gap;127741
+Micrasema servatum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;7;7;2;FE;;127742
+Micrasema setiferum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;42;46;1;FE;;127743
+Micrasema togatum;Arthropoda;Insecta;Trichoptera;Brachycentridae;FE;;;;FE;gap;
+Micrasema vestitum;Arthropoda;Insecta;Trichoptera;Brachycentridae;BOLD,FE;1;2;1;ITIS;;127749;127705

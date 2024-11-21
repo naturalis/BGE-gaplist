@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pimoa breuili;Arthropoda;Arachnida;Araneae;Pimoidae;BOLD;2;5;1;;;756280
+Pimoa breuilli;Arthropoda;Arachnida;Araneae;Pimoidae;FE;;;;FE;gap;
+Pimoa rupicola;Arthropoda;Arachnida;Araneae;Pimoidae;BOLD,FE;28;32;2;FE;;796972

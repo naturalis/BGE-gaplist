@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Camelus dromedarius;Chordata;Mammalia;Artiodactyla;Camelidae;BOLD;55;59;2;ITIS;;154056;705158
+Vicugna pacos;Chordata;Mammalia;Artiodactyla;Camelidae;BOLD;4;7;3;ITIS;;462480;26124
+Vicugna vicugna;Chordata;Mammalia;Artiodactyla;Camelidae;BOLD;3;6;2;;;153474

@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dicranocephalus agilis;Arthropoda;Insecta;Hemiptera;Stenocephalidae;BOLD,FE,CoPH,iNat;15;16;1;CoPH;;790924
+Dicranocephalus albipes;Arthropoda;Insecta;Hemiptera;Stenocephalidae;BOLD,FE,CoPH,iNat;4;5;1;CoPH;;790925
+Dicranocephalus insularis;Arthropoda;Insecta;Hemiptera;Stenocephalidae;FE;;;;CoPH;gap;
+Dicranocephalus marginicollis;Arthropoda;Insecta;Hemiptera;Stenocephalidae;FE,CoPH;;;;CoPH;gap;
+Dicranocephalus medius;Arthropoda;Insecta;Hemiptera;Stenocephalidae;BOLD,FE,CoPH,iNat;9;10;1;CoPH;;380499
+Dicranocephalus pallidus;Arthropoda;Insecta;Hemiptera;Stenocephalidae;FE,CoPH;;;;CoPH;gap;
+Dicranocephalus setulosus;Arthropoda;Insecta;Hemiptera;Stenocephalidae;FE,CoPH;;;;CoPH;gap;

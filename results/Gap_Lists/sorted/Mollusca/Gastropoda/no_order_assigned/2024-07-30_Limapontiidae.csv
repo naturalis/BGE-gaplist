@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alderella comosa;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;
+Alderia modesta;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;
+Calliopaea bellula;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;
+Ercolania coerulea;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;
+Ercolania lozanoi;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;;gap;
+Ercolania viridis;Mollusca;Gastropoda;;Limapontiidae;BOLD,WORMS;4;4;2;WORMS;;650914
+Limapontia capitata;Mollusca;Gastropoda;;Limapontiidae;BOLD,WORMS;4;8;1;WORMS;;708844
+Limapontia depressa;Mollusca;Gastropoda;;Limapontiidae;BOLD,WORMS;1;1;1;WORMS;;904140
+Limapontia senestra;Mollusca;Gastropoda;;Limapontiidae;BOLD,WORMS;4;9;1;WORMS;;646447
+Placida cremoniana;Mollusca;Gastropoda;;Limapontiidae;BOLD,WORMS;6;10;4;WORMS;;653291
+Placida dendritica;Mollusca;Gastropoda;;Limapontiidae;BOLD,WORMS;35;36;6;WORMS;;276996
+Placida saronica;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;
+Placida tardyi;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;
+Placida verticilata;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;;gap;
+Placida viridis;Mollusca;Gastropoda;;Limapontiidae;WORMS;;;;WORMS;gap;

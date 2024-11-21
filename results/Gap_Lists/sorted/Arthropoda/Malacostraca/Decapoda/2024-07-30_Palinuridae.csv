@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Jasus paulensis;Arthropoda;Malacostraca;Decapoda;Palinuridae;BOLD;35;37;1;WORMS;;33187
+Palinurus elephas;Arthropoda;Malacostraca;Decapoda;Palinuridae;BOLD,WORMS;96;107;2;WORMS;;25323
+Palinurus mauritanicus;Arthropoda;Malacostraca;Decapoda;Palinuridae;BOLD,WORMS;25;26;2;WORMS;;25322
+Panulirus argus;Arthropoda;Malacostraca;Decapoda;Palinuridae;BOLD;400;464;3;WORMS;;30717
+Panulirus echinatus;Arthropoda;Malacostraca;Decapoda;Palinuridae;WORMS;;;;WORMS;gap;
+Panulirus ornatus;Arthropoda;Malacostraca;Decapoda;Palinuridae;WORMS;;;;WORMS;gap;
+Panulirus regius;Arthropoda;Malacostraca;Decapoda;Palinuridae;WORMS;;;;WORMS;gap;

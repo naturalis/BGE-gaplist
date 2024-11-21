@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haplogona carynthiaca;Arthropoda;Diplopoda;Chordeumatida;Verhoeffiidae;FE;;;;FE;gap;
+Haplogona gestri;Arthropoda;Diplopoda;Chordeumatida;Verhoeffiidae;FE;;;;FE;gap;
+Haplogona oculodistincta;Arthropoda;Diplopoda;Chordeumatida;Verhoeffiidae;BOLD,FE;10;10;3;FE;;279570
+Haplogona rothenbuehleri;Arthropoda;Diplopoda;Chordeumatida;Verhoeffiidae;BOLD,FE;10;11;1;;;708791

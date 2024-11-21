@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oithona atlantica;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;BOLD,WORMS;21;51;2;WORMS;;142598
+Oithona decipiens;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona fallax;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona hamata;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona hebes;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;WORMS;gap;
+Oithona linearis;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona longispina;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona minuta;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona nana;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;BOLD,WORMS;0;16;0;WORMS;gap;349761
+Oithona plumifera;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;2;15;1;WORMS;;349763
+Oithona pseudofrigida;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;WORMS;gap;
+Oithona robusta;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;
+Oithona similis;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;BOLD,WORMS;53;486;7;WORMS;;142599
+Oithona tenuis;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;0;1;0;;gap;801349
+Oithona vivida;Arthropoda;Hexanauplia;Cyclopoida;Oithonidae;WORMS;;;;;gap;

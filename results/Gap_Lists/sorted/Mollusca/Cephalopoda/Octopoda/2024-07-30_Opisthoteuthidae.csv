@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Opisthoteuthis agassizii;Mollusca;Cephalopoda;Octopoda;Opisthoteuthidae;WORMS;;;;;gap;
+Opisthoteuthis borealis;Mollusca;Cephalopoda;Octopoda;Opisthoteuthidae;BOLD;1;1;1;;;1068792
+Opisthoteuthis grimaldii;Mollusca;Cephalopoda;Octopoda;Opisthoteuthidae;WORMS;;;;WORMS;gap;

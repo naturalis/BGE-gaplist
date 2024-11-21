@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heligmosomoides glareoli;Nematoda;Chromadorea;Strongylida;Heligosomidae;BOLD,FE;2;3;1;;;682730
+Heligmosomoides neopolygyrus;Nematoda;Chromadorea;Strongylida;Heligosomidae;BOLD;2;2;1;;;682728
+Heligmosomoides polygyrus;Nematoda;Chromadorea;Strongylida;Heligosomidae;BOLD,FE;8;8;4;FE;;752124;682729

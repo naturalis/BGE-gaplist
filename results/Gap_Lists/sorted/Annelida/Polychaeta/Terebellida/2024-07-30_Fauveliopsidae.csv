@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Fauveliopsis adriatica;Annelida;Polychaeta;Terebellida;Fauveliopsidae;WORMS;;;;;gap;
+Fauveliopsis brattegardi;Annelida;Polychaeta;Terebellida;Fauveliopsidae;BOLD,WORMS;0;1;0;;gap;1129603
+Fauveliopsis glabra;Annelida;Polychaeta;Terebellida;Fauveliopsidae;BOLD;0;7;0;WORMS;gap;1129601
+Fauveliopsis jameoaquensis;Annelida;Polychaeta;Terebellida;Fauveliopsidae;WORMS;;;;;gap;
+Fauveliopsis olgae;Annelida;Polychaeta;Terebellida;Fauveliopsidae;WORMS;;;;;gap;
+Fauveliopsis scabra;Annelida;Polychaeta;Terebellida;Fauveliopsidae;WORMS;;;;;gap;
+Laubieriopsis brevis;Annelida;Polychaeta;Terebellida;Fauveliopsidae;BOLD;6;15;0;WORMS;;1129602
+Laubieriopsis cabiochi;Annelida;Polychaeta;Terebellida;Fauveliopsidae;BOLD;0;18;0;WORMS;gap;378447
+Laubieriopsis norvegica;Annelida;Polychaeta;Terebellida;Fauveliopsidae;BOLD;0;9;0;;gap;805327

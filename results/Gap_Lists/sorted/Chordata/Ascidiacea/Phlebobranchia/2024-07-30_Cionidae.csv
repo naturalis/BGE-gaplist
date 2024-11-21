@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Araneum sigma;Chordata;Ascidiacea;Phlebobranchia;Cionidae;WORMS;;;;;gap;
+Ciona edwardsi;Chordata;Ascidiacea;Phlebobranchia;Cionidae;WORMS;3;3;0;;;939347
+Ciona fascicularis;Chordata;Ascidiacea;Phlebobranchia;Cionidae;WORMS;;;;;gap;
+Ciona gelatinosa;Chordata;Ascidiacea;Phlebobranchia;Cionidae;WORMS;;;;;gap;
+Ciona imperfecta;Chordata;Ascidiacea;Phlebobranchia;Cionidae;WORMS;;;;;gap;
+Ciona intestinalis;Chordata;Ascidiacea;Phlebobranchia;Cionidae;BOLD,WORMS,iNat;364;492;2;WORMS;;26212
+Ciona robusta;Chordata;Ascidiacea;Phlebobranchia;Cionidae;BOLD;43;70;1;;;731547

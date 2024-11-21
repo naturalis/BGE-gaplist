@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sitta canadensis;Chordata;Aves;Passeriformes;Sittidae;FE;12;36;1;;;9672
+Sitta europaea;Chordata;Aves;Passeriformes;Sittidae;BOLD,FE,iNat;90;102;4;;;73233
+Sitta krueperi;Chordata;Aves;Passeriformes;Sittidae;BOLD,FE;84;86;1;;;118706
+Sitta neumayer;Chordata;Aves;Passeriformes;Sittidae;BOLD,FE;3;4;2;;;118711
+Sitta tephronota;Chordata;Aves;Passeriformes;Sittidae;FE;9;9;2;;;118714
+Sitta whiteheadi;Chordata;Aves;Passeriformes;Sittidae;BOLD,FE;5;7;1;;;118717

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Nipponemertes pulcher;Nemertea;Hoplonemertea;Monostilifera;Cratenemertidae;BOLD;5;5;0;;;110003
+Nipponnemertes danae;Nemertea;Hoplonemertea;Monostilifera;Cratenemertidae;WORMS;;;;;gap;
+Nipponnemertes pulcher;Nemertea;Hoplonemertea;Monostilifera;Cratenemertidae;WORMS;;;;WORMS;gap;
+Nipponnemertes pulchra;Nemertea;Hoplonemertea;Monostilifera;Cratenemertidae;BOLD;10;10;1;;;599454
+Valdivianemertes stannii;Nemertea;Hoplonemertea;Monostilifera;Cratenemertidae;WORMS;;;;WORMS;gap;

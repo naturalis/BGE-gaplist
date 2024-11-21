@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Deosergestes corniculum;Arthropoda;Malacostraca;Decapoda;Sergestidae;BOLD;10;13;2;WORMS;;606121
+Eusergestes arcticus;Arthropoda;Malacostraca;Decapoda;Sergestidae;BOLD;16;22;1;WORMS;;512536
+Petalidium obesum;Arthropoda;Malacostraca;Decapoda;Sergestidae;WORMS;;;;WORMS;gap;
+Sergestes atlanticus;Arthropoda;Malacostraca;Decapoda;Sergestidae;WORMS;2;2;1;WORMS;;973903
+Sergestes henseni;Arthropoda;Malacostraca;Decapoda;Sergestidae;BOLD;0;5;0;;gap;89919
+Sergia robusta;Arthropoda;Malacostraca;Decapoda;Sergestidae;BOLD;15;28;1;;;89949
+Sergia tenuiremis;Arthropoda;Malacostraca;Decapoda;Sergestidae;WORMS;17;18;1;WORMS;;801277

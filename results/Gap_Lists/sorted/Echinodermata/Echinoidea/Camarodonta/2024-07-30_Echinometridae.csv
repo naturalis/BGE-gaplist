@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Colobocentrotus atratus;Echinodermata;Echinoidea;Camarodonta;Echinometridae;BOLD;9;20;2;;;222098
+Echinostrephus molaris;Echinodermata;Echinoidea;Camarodonta;Echinometridae;BOLD;10;14;1;WORMS;;222100
+Heterocentrotus mammillatus;Echinodermata;Echinoidea;Camarodonta;Echinometridae;BOLD;10;13;1;ITIS;;167094
+Heterocentrotus trigonarius;Echinodermata;Echinoidea;Camarodonta;Echinometridae;BOLD;17;23;2;WORMS;;84356

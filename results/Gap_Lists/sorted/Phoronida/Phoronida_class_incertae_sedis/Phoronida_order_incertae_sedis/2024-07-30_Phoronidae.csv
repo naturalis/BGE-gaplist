@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Phoronis australis;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;BOLD,WORMS;2;2;2;WORMS;;720288
+Phoronis hippocrepia;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;1;1;1;WORMS;;212272
+Phoronis muelleri;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;BOLD,WORMS;4;4;1;WORMS;;212271
+Phoronis ovalis;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;1;4;1;;;212270
+Phoronis pallida;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;;;;WORMS;gap;
+Phoronis psammophila;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;10;10;1;WORMS;;599518
+Phoronopsis albomaculata;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;;;;WORMS;gap;
+Phoronopsis californica;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;1;1;1;WORMS;;212267
+Phoronopsis harmeri;Phoronida;Phoronida_class_incertae_sedis;Phoronida_order_incertae_sedis;Phoronidae;WORMS;17;24;4;WORMS;;212266

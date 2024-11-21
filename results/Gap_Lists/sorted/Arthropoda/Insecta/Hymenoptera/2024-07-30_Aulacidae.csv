@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aulacus striatus;Arthropoda;Insecta;Hymenoptera;Aulacidae;BOLD,FE,iNat,DTN;9;9;1;ITIS;;449161
+Pristaulacus barbeyi;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE;;;;FE;gap;
+Pristaulacus chlapowskii;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE;;;;ITIS;gap;
+Pristaulacus compressus;Arthropoda;Insecta;Hymenoptera;Aulacidae;BOLD,FE,DTN;3;3;1;ITIS;;708251
+Pristaulacus galitae;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE,DTN;;;;ITIS;gap;
+Pristaulacus gibbator;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE,DTN;;;;ITIS;gap;
+Pristaulacus gloriator;Arthropoda;Insecta;Hymenoptera;Aulacidae;BOLD,FE,DTN;0;1;0;ITIS;gap;1144528
+Pristaulacus lindae;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE;;;;;gap;
+Pristaulacus mourguesi;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE;;;;;gap;
+Pristaulacus proximus;Arthropoda;Insecta;Hymenoptera;Aulacidae;FE;;;;;gap;

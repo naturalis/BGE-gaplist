@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halicometes elongata;Porifera;Demospongiae;Tethyida;Tethyidae;WORMS;;;;;gap;
+Tethya aurantium;Porifera;Demospongiae;Tethyida;Tethyidae;WORMS;7;21;3;WORMS;;152951
+Tethya citrina;Porifera;Demospongiae;Tethyida;Tethyidae;WORMS;3;4;1;;;154064
+Tethya norvegica;Porifera;Demospongiae;Tethyida;Tethyidae;BOLD,WORMS;3;3;1;WORMS;;154066

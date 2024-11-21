@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Galathea bolivari;Arthropoda;Malacostraca;Decapoda;Galatheidae;WORMS;;;;;gap;
+Galathea cenarroi;Arthropoda;Malacostraca;Decapoda;Galatheidae;WORMS;;;;;gap;
+Galathea dispersa;Arthropoda;Malacostraca;Decapoda;Galatheidae;BOLD,WORMS;22;29;1;;;179010
+Galathea faiali;Arthropoda;Malacostraca;Decapoda;Galatheidae;WORMS;;;;;gap;
+Galathea intermedia;Arthropoda;Malacostraca;Decapoda;Galatheidae;BOLD;56;63;5;WORMS;;347164
+Galathea machadoi;Arthropoda;Malacostraca;Decapoda;Galatheidae;WORMS;;;;;gap;
+Galathea nexa;Arthropoda;Malacostraca;Decapoda;Galatheidae;BOLD,WORMS;10;13;1;;;684050
+Galathea rufipes;Arthropoda;Malacostraca;Decapoda;Galatheidae;WORMS;;;;;gap;
+Galathea squamifera;Arthropoda;Malacostraca;Decapoda;Galatheidae;BOLD,WORMS,iNat;20;32;4;WORMS;;179011
+Galathea strigosa;Arthropoda;Malacostraca;Decapoda;Galatheidae;BOLD,WORMS;5;6;1;WORMS;;512533
+Lauriea crucis;Arthropoda;Malacostraca;Decapoda;Galatheidae;BOLD;3;3;0;;;508687

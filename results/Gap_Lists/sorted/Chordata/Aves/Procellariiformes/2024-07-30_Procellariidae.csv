@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ardenna tenuirostris;Chordata;Aves;Procellariiformes;Procellariidae;BOLD;24;31;1;;;745424
+Bulweria bulwerii;Chordata;Aves;Procellariiformes;Procellariidae;FE,WORMS;10;12;1;ITIS;;90173
+Bulweria fallax;Chordata;Aves;Procellariiformes;Procellariidae;FE;;;;;gap;
+Calonectris diomedea;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS;10;12;1;WORMS;;16037
+Daption capense;Chordata;Aves;Procellariiformes;Procellariidae;FE;17;21;1;FE;;90177
+Fulmarus glacialis;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS,iNat;166;172;2;WORMS;;19287
+Pterodroma arminjoniana;Chordata;Aves;Procellariiformes;Procellariidae;WORMS;;;;;gap;
+Pterodroma feae;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS;146;146;1;FE;;112674
+Pterodroma hasitata;Chordata;Aves;Procellariiformes;Procellariidae;FE;3;9;1;ITIS;;9543
+Pterodroma madeira;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS;58;58;2;WORMS;;112683
+Puffinus assimilis;Chordata;Aves;Procellariiformes;Procellariidae;FE,WORMS;;;;;gap;112695
+Puffinus baroli;Chordata;Aves;Procellariiformes;Procellariidae;BOLD;36;36;1;WORMS;;858833
+Puffinus gravis;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS;;;;WORMS;gap;745421
+Puffinus griseus;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS;;;;WORMS;gap;745422
+Puffinus lherminieri;Chordata;Aves;Procellariiformes;Procellariidae;BOLD;56;61;3;;;9558
+Puffinus mauretanicus;Chordata;Aves;Procellariiformes;Procellariidae;FE;;;;WORMS;gap;
+Puffinus puffinus;Chordata;Aves;Procellariiformes;Procellariidae;BOLD,FE,WORMS;7;14;1;WORMS;;9557
+Puffinus yelkouan;Chordata;Aves;Procellariiformes;Procellariidae;FE,WORMS;1;1;1;WORMS;;112704

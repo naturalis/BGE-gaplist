@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bellottia apoda;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;BOLD,WORMS;0;1;0;;gap;806884
+Brosmophyciops pautzkei;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;BOLD;7;10;2;WORMS;;89314
+Bythites fuscus;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;BOLD;1;1;0;;;659177
+Bythites islandicus;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;WORMS;;;;;gap;
+Cataetyx alleni;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;BOLD,WORMS;2;2;1;WORMS;;971210
+Cataetyx laticeps;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;WORMS;;;;WORMS;gap;
+Grammonus ater;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;WORMS;;;;WORMS;gap;
+Melodichthys hadrocephalus;Chordata;Actinopterygii;Ophidiiformes;Bythitidae;WORMS;;;;;gap;

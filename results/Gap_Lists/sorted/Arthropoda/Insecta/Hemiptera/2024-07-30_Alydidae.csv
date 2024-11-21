@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alydus calcaratus;Arthropoda;Insecta;Hemiptera;Alydidae;BOLD,FE,CoPH,iNat;65;74;3;CoPH;;202760
+Alydus rupestris;Arthropoda;Insecta;Hemiptera;Alydidae;FE,CoPH;;;;;gap;
+Camptopus lateralis;Arthropoda;Insecta;Hemiptera;Alydidae;BOLD,FE,CoPH,iNat;10;17;1;CoPH;;965673
+Camptopus tragacanthae;Arthropoda;Insecta;Hemiptera;Alydidae;FE,CoPH;;;;CoPH;gap;
+Euthetus humilis;Arthropoda;Insecta;Hemiptera;Alydidae;FE;;;;CoPH;gap;
+Heegeria tangirica;Arthropoda;Insecta;Hemiptera;Alydidae;FE,CoPH;122;124;2;CoPH;;715728
+Megalotomus junceus;Arthropoda;Insecta;Hemiptera;Alydidae;FE,CoPH;;;;CoPH;gap;
+Megalotomus ornaticeps;Arthropoda;Insecta;Hemiptera;Alydidae;FE,CoPH;;;;CoPH;gap;
+Micrelytra fossularum;Arthropoda;Insecta;Hemiptera;Alydidae;BOLD,FE,CoPH;8;10;1;CoPH;;965661
+Nariscus spinosus;Arthropoda;Insecta;Hemiptera;Alydidae;FE;;;;CoPH;gap;
+Nemausus inornatus;Arthropoda;Insecta;Hemiptera;Alydidae;CoPH;;;;CoPH;gap;
+Nemausus sordidatus;Arthropoda;Insecta;Hemiptera;Alydidae;FE,CoPH;;;;CoPH;gap;965678
+Tenosius proletarius;Arthropoda;Insecta;Hemiptera;Alydidae;FE;53;53;1;CoPH;;782721

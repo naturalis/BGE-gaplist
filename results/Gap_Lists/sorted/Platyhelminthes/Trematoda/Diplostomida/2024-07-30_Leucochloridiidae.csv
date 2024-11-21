@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Leucochloridium fuscostriatum;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;;gap;
+Leucochloridium holostomum;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;WORMS;gap;
+Leucochloridium paradoxum;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;BOLD,FE,iNat;0;50;0;FE;gap;906412
+Leucochloridium perturbatum;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;BOLD,FE,WORMS;0;26;0;FE;gap;906413;906415
+Leucochloridium phragmitophila;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Leucochloridium vogtianum;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;BOLD,FE;0;8;0;;gap;906414
+Urogonimus cardis;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Urogonimus caryocatactis;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Urogonimus certhiae;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Urogonimus dryobatae;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Urogonimus macrostomus;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;BOLD,FE;7;24;1;FE;;447852
+Urogonimus turdi;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Urotocus fusiformis;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;FE;gap;
+Urotocus rossitensis;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;BOLD,FE;0;8;0;FE;gap;906112
+Urotocus tholonetensis;Platyhelminthes;Trematoda;Diplostomida;Leucochloridiidae;FE;;;;;gap;

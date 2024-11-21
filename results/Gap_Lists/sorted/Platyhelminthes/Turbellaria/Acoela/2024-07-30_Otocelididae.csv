@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haplotestis curvitubus;Platyhelminthes;Turbellaria;Acoela;Otocelididae;WORMS;;;;;gap;
+Notocelis gullmarensis;Platyhelminthes;Turbellaria;Acoela;Otocelididae;BOLD,WORMS;1;1;1;WORMS;;506130
+Otocelis rubropunctata;Platyhelminthes;Turbellaria;Acoela;Otocelididae;WORMS;;;;WORMS;gap;
+Otocelis westbladi;Platyhelminthes;Turbellaria;Acoela;Otocelididae;WORMS;;;;;gap;

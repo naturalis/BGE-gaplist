@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Trichuris arvicolae;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;;gap;
+Trichuris capreoli;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;FE;gap;
+Trichuris cervicaprae;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;;gap;
+Trichuris discolor;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;2;6;1;FE;;668437
+Trichuris feliui;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;;gap;
+Trichuris globulosa;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;0;3;0;FE;gap;896394
+Trichuris guevarai;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;;gap;
+Trichuris infundibulus;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;FE;gap;
+Trichuris lani;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;0;2;0;FE;gap;1149473
+Trichuris leporis;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;FE;gap;
+Trichuris muris;Nematoda;Enoplea;Trichocephalida;Trichuridae;BOLD,FE;34;42;5;FE;;896245
+Trichuris myocastoris;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;FE;gap;
+Trichuris opaca;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;;gap;
+Trichuris ovis;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;36;72;1;FE;;668285
+Trichuris skrjabini;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;0;12;0;;gap;896179
+Trichuris spalacis;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;FE;gap;
+Trichuris suis;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;4;18;3;FE;;493836
+Trichuris sylvilagi;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;;gap;
+Trichuris tarandi;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;;;;FE;gap;
+Trichuris trichiura;Nematoda;Enoplea;Trichocephalida;Trichuridae;BOLD,FE;14;30;3;FE;;493837
+Trichuris vulpis;Nematoda;Enoplea;Trichocephalida;Trichuridae;FE;0;7;0;FE;gap;896188

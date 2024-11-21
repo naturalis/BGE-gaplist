@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aelurostrongylus abstrusus;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;2;7;1;FE;;670965
+Aelurostrongylus falciformis;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;FE;gap;
+Aelurostrongylus pridhami;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Angiostrongylus cantonensis;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;BOLD;24;136;3;;;494268
+Angiostrongylus chabaudi;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;BOLD,FE;1;1;1;;;852464
+Angiostrongylus daskalovi;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Angiostrongylus dujardini;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Angiostrongylus sciuri;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Angiostrongylus vasorum;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;BOLD,FE;564;579;1;FE;;302306
+Chabaudistrongylus ryjikovi;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;FE;gap;
+Chabaudistrongylus timani;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Gallegostrongylus ibicensis;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Rodentocaulus ondatrae;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Sobolevingylus petrowi;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;;gap;
+Sobolevingylus skrjabini;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;FE;gap;
+Stefanskostrongylus soricis;Nematoda;Chromadorea;Rhabditida;Angiostrongylidae;FE;;;;FE;gap;

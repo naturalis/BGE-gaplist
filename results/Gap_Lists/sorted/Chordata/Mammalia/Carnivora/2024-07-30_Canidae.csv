@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Canis aureus;Chordata;Mammalia;Carnivora;Canidae;BOLD,FE,iNat;11;25;2;FE;;174686
+Canis lupus;Chordata;Mammalia;Carnivora;Canidae;BOLD,FE,iNat;1713;1864;2;FE;;12514
+Lycaon pictus;Chordata;Mammalia;Carnivora;Canidae;BOLD;13;14;1;ITIS;;174679
+Nyctereutes procyonoides;Chordata;Mammalia;Carnivora;Canidae;BOLD,FE,iNat;20;26;1;ITIS;;174676
+Vulpes corsac;Chordata;Mammalia;Carnivora;Canidae;FE;6;6;1;ITIS;;170835
+Vulpes lagopus;Chordata;Mammalia;Carnivora;Canidae;BOLD,FE;64;78;1;WORMS;;64742
+Vulpes vulpes;Chordata;Mammalia;Carnivora;Canidae;BOLD,FE,iNat;55;111;3;ITIS;;16440

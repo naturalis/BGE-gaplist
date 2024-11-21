@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Branchiobdella astaci;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;ITIS;gap;
+Branchiobdella balcanica;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;;gap;
+Branchiobdella hexadonta;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;ITIS;gap;
+Branchiobdella italica;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;FE;gap;
+Branchiobdella kozarovi;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;;gap;
+Branchiobdella papillosa;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;;gap;
+Branchiobdella parasita;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;BOLD,FE;90;99;5;ITIS;;32329
+Branchiobdella pentadonta;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;BOLD,FE;;;;ITIS;gap;32328
+Xironogiton instabilius;Annelida;Clitellata;Branchiobdellida;Branchiobdellidae;FE;;;;ITIS;gap;

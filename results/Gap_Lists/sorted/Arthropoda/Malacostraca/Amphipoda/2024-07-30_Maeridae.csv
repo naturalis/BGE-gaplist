@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ceradocus (Ceradocus) orchestiipes;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Elasmopus brasiliensis;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;WORMS;gap;
+Elasmopus canarius;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD;3;3;0;;;771848
+Elasmopus pectenicrus;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD,WORMS;9;11;0;WORMS;;771849
+Elasmopus perditus;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Elasmopus pocillimanus;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;WORMS;gap;
+Elasmopus rapax;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD,WORMS;18;40;2;WORMS;;267165
+Elasmopus vachoni;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD,WORMS;3;3;0;;;771850
+Maera grossimana;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;WORMS;gap;
+Maera hirondellei;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Maera loveni;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD,WORMS;6;10;2;WORMS;;183050
+Maera othonis;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD;3;4;1;;;708884
+Maera pachytelson;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Maera schieckei;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Maera sodalis;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Maera tenera;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Maerella tenuimana;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;WORMS;gap;
+Maeropsis perrieri;Arthropoda;Malacostraca;Amphipoda;Maeridae;WORMS;;;;;gap;
+Quadrimaera inaequipes;Arthropoda;Malacostraca;Amphipoda;Maeridae;BOLD;15;15;1;WORMS;;729601;267168

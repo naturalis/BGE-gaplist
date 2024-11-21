@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cerianthus lloydii;Cnidaria;Anthozoa;Ceriantharia;Cerianthidae;BOLD,WORMS;1;4;2;WORMS;;650021
+Cerianthus membranaceus;Cnidaria;Anthozoa;Ceriantharia;Cerianthidae;BOLD,WORMS;9;20;2;;;650022
+Cerianthus vogti;Cnidaria;Anthozoa;Ceriantharia;Cerianthidae;WORMS;;;;WORMS;gap;
+Pachycerianthus multiplicatus;Cnidaria;Anthozoa;Ceriantharia;Cerianthidae;BOLD,WORMS;3;7;1;;;726268

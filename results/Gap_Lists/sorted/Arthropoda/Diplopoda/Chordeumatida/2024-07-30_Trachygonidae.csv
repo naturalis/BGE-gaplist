@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acrochordum evae;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;FE;;;;;gap;
+Acrochordum flagellatum;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;FE;;;;FE;gap;
+Acrochordum plitvicensee;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;FE;;;;FE;gap;
+Chamaesoma broelemanni;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;BOLD,FE;2;4;0;;;720058
+Halleinosoma noricum;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;BOLD,FE;5;6;1;FE;;311671
+Halleinosoma styricum;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;FE;;;;;gap;
+Trachygona capito;Arthropoda;Diplopoda;Chordeumatida;Trachygonidae;FE;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aetea anguina;Bryozoa;Gymnolaemata;Cheilostomatida;Aeteidae;BOLD,WORMS;0;2;0;WORMS;gap;785437
+Aetea lepadiformis;Bryozoa;Gymnolaemata;Cheilostomatida;Aeteidae;WORMS;;;;;gap;
+Aetea ligulata;Bryozoa;Gymnolaemata;Cheilostomatida;Aeteidae;WORMS;;;;WORMS;gap;
+Aetea longicollis;Bryozoa;Gymnolaemata;Cheilostomatida;Aeteidae;WORMS;;;;;gap;
+Aetea truncata;Bryozoa;Gymnolaemata;Cheilostomatida;Aeteidae;BOLD,WORMS;5;8;1;WORMS;;785415

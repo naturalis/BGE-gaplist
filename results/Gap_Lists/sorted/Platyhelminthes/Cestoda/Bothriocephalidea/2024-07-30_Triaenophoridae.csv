@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Abothrium gadi;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,WORMS;1;3;1;WORMS;;671405
+Amphicotyle heteropleura;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;WORMS;0;3;0;WORMS;gap;905239
+Anchistrocephalus microcephalus;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,WORMS;1;2;1;WORMS;;671407
+Bathybothrium rectangulum;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,FE;0;2;0;FE;gap;905253
+Bathycestus brayi;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD;0;3;0;;gap;905251
+Eubothrium crassum;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,FE,WORMS;0;3;0;WORMS;gap;905370
+Eubothrium fragile;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,FE,WORMS;0;2;0;WORMS;gap;905367
+Eubothrium rugosum;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;FE,WORMS;0;2;0;WORMS;gap;905362
+Eubothrium salvelini;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,FE;0;3;0;WORMS;gap;905365
+Fistulicola plicatus;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;WORMS;;;;WORMS;gap;
+Milanella familiaris;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD;0;1;0;;gap;905247
+Parabothrium bulbiferum;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,WORMS;0;2;0;WORMS;gap;905260
+Triaenophorus crassus;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;FE;25;26;1;;;484458
+Triaenophorus lucii;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;FE;;;;FE;gap;
+Triaenophorus meridionalis;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;FE;;;;;gap;
+Triaenophorus nodulosus;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;BOLD,FE;23;26;2;FE;;593734
+Triaenophorus robustus;Platyhelminthes;Cestoda;Bothriocephalidea;Triaenophoridae;FE;;;;;gap;

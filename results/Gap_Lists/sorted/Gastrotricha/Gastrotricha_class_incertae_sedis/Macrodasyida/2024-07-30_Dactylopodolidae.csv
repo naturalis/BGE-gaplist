@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dactylopodola baltica;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;BOLD,WORMS;1;3;1;WORMS;;968012
+Dactylopodola cornuta;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;WORMS;;;;WORMS;gap;
+Dactylopodola mesotyphle;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;BOLD;1;3;1;;;968010
+Dactylopodola roscovita;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;WORMS;;;;WORMS;gap;
+Dactylopodola typhle;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;BOLD,WORMS;1;3;1;WORMS;;968011
+Dendrodasys affinis;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;WORMS;;;;;gap;
+Dendrodasys gracilis;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;WORMS;;;;;gap;
+Dendrodasys ponticus;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;WORMS;;;;;gap;
+Dendropodola transitionalis;Gastrotricha;Gastrotricha_class_incertae_sedis;Macrodasyida;Dactylopodolidae;WORMS;;;;;gap;

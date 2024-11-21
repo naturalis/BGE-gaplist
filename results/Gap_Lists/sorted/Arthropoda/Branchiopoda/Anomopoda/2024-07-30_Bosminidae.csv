@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bosmia longirostris;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;BOLD;;;;;gap;714170
+Bosmina crassicornis;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;FE;;;;;gap;
+Bosmina liederi;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;BOLD;99;119;3;;;51858
+Bosmina longicornis;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;BOLD,FE;2;2;1;;;880186
+Bosmina longirostris;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;BOLD,FE;46;77;3;FE;;51856
+Bosmina meridionalis;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;BOLD;10;19;1;;;320218
+Bosminopsis deitersi;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;FE;1;5;0;;;775002
+Eubosmina coregoni;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;BOLD,FE;;;;ITIS;gap;51857
+Eubosmina longispina;Arthropoda;Branchiopoda;Anomopoda;Bosminidae;FE;;;;ITIS;gap;

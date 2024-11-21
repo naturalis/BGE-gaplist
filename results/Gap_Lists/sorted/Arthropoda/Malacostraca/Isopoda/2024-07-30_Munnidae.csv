@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Munna acanthifera;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;8;18;2;;;528038
+Munna armoricana;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Munna boeckii;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD;5;5;1;WORMS;;683916
+Munna coeca;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Munna fabricii;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;0;5;0;;gap;306776
+Munna groenlandica;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Munna hanseni;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;3;3;0;;;957219
+Munna kroyeri;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;5;5;1;WORMS;;967645
+Munna limicola;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;3;4;0;;;683926
+Munna minuta;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;4;8;1;;;683893
+Munna palmata;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;4;4;1;;;967646
+Munna pellucida;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Munna roemeri;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Munna spitzbergensis;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Munna wolffi;Arthropoda;Malacostraca;Isopoda;Munnidae;WORMS;;;;;gap;
+Paramunna bilobata;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;1;5;0;;;785386
+Uromunna petiti;Arthropoda;Malacostraca;Isopoda;Munnidae;BOLD,WORMS;0;2;0;WORMS;gap;597978

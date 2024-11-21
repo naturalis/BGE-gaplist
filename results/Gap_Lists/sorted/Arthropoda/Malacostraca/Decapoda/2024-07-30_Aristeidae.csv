@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aristaeomorpha foliacea;Arthropoda;Malacostraca;Decapoda;Aristeidae;BOLD;40;108;3;WORMS;;178998
+Aristeus alcocki;Arthropoda;Malacostraca;Decapoda;Aristeidae;BOLD;16;25;1;;;649436
+Aristeus antennatus;Arthropoda;Malacostraca;Decapoda;Aristeidae;BOLD,WORMS;11;247;1;WORMS;;89958
+Hepomadus tener;Arthropoda;Malacostraca;Decapoda;Aristeidae;WORMS;;;;ITIS;gap;

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dilar corsicus;Arthropoda;Insecta;Neuroptera;Dilaridae;BOLD,FE;0;2;0;;gap;784248
+Dilar dissimils;Arthropoda;Insecta;Neuroptera;Dilaridae;FE;;;;;gap;
+Dilar duelli;Arthropoda;Insecta;Neuroptera;Dilaridae;FE;;;;;gap;
+Dilar juniperi;Arthropoda;Insecta;Neuroptera;Dilaridae;FE;;;;;gap;
+Dilar meridionalis;Arthropoda;Insecta;Neuroptera;Dilaridae;BOLD,FE;4;4;2;;;883228
+Dilar nevadensis;Arthropoda;Insecta;Neuroptera;Dilaridae;FE;;;;;gap;
+Dilar parthenopaeus;Arthropoda;Insecta;Neuroptera;Dilaridae;BOLD,FE;0;2;0;;gap;784249
+Dilar saldubensis;Arthropoda;Insecta;Neuroptera;Dilaridae;BOLD,FE;1;1;1;;;883234
+Dilar tibetanus;Arthropoda;Insecta;Neuroptera;Dilaridae;FE;;;;ITIS;gap;
+Dilar turcicus;Arthropoda;Insecta;Neuroptera;Dilaridae;BOLD,FE;2;5;0;ITIS;;857100

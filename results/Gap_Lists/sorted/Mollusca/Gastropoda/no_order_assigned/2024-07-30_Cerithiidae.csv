@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bittium depauperatum;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;
+Bittium incile;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;
+Bittium lacteum;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;
+Bittium latreillii;Mollusca;Gastropoda;;Cerithiidae;BOLD,WORMS;;;;WORMS;gap;1069175
+Bittium reticulatum;Mollusca;Gastropoda;;Cerithiidae;BOLD,WORMS;12;27;2;WORMS;;361877
+Bittium simplex;Mollusca;Gastropoda;;Cerithiidae;BOLD,WORMS;3;5;0;WORMS;;1069171
+Bittium watsoni;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;300349
+Cassiella abylensis;Mollusca;Gastropoda;;Cerithiidae;BOLD,WORMS;0;2;0;;gap;1069173
+Cerithidium submamillatum;Mollusca;Gastropoda;;Cerithiidae;BOLD;1;1;0;;;1069178
+Cerithium alucastrum;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;
+Cerithium eburneum;Mollusca;Gastropoda;;Cerithiidae;BOLD;4;5;0;WORMS;;300342
+Cerithium litteratum;Mollusca;Gastropoda;;Cerithiidae;BOLD;12;17;0;WORMS;;300350
+Cerithium lividulum;Mollusca;Gastropoda;;Cerithiidae;BOLD,WORMS;3;4;0;WORMS;;600177;1069170
+Cerithium nesioticum;Mollusca;Gastropoda;;Cerithiidae;WORMS;23;27;3;WORMS;;85102
+Cerithium nodulosum;Mollusca;Gastropoda;;Cerithiidae;WORMS;3;4;1;;;165537
+Cerithium protractum;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;
+Cerithium renovatum;Mollusca;Gastropoda;;Cerithiidae;BOLD;3;3;0;WORMS;;1069199
+Cerithium scabridum;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;
+Cerithium vulgatum;Mollusca;Gastropoda;;Cerithiidae;BOLD,WORMS;5;5;0;WORMS;;361891
+Clypeomorus bifasciata;Mollusca;Gastropoda;;Cerithiidae;WORMS;;;;WORMS;gap;507531
+Rhinoclavis kochi;Mollusca;Gastropoda;;Cerithiidae;WORMS;1;1;0;WORMS;;923738

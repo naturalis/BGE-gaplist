@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coenomyia ferruginea;Arthropoda;Insecta;Diptera;Xylophagidae;BOLD,FE,iNat,SyDip;5;10;3;ITIS;;709950
+Xylophagus ater;Arthropoda;Insecta;Diptera;Xylophagidae;BOLD,FE,iNat,SyDip;26;26;1;SyDip;;406652;1140805
+Xylophagus cinctus;Arthropoda;Insecta;Diptera;Xylophagidae;BOLD,FE,SyDip;43;45;2;ITIS;;483635
+Xylophagus junki;Arthropoda;Insecta;Diptera;Xylophagidae;BOLD,FE,SyDip;4;4;2;SyDip;;497022
+Xylophagus kowarzi;Arthropoda;Insecta;Diptera;Xylophagidae;BOLD,FE;4;4;1;FE;;483534
+Xylophagus matsumurae;Arthropoda;Insecta;Diptera;Xylophagidae;FE;;;;;gap;483636

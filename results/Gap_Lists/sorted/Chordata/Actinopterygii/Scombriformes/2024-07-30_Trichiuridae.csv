@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aphanopus carbo;Chordata;Actinopterygii;Scombriformes;Trichiuridae;BOLD,WORMS;86;93;1;WORMS;;86774
+Aphanopus intermedius;Chordata;Actinopterygii;Scombriformes;Trichiuridae;BOLD;74;74;1;;;125641
+Benthodesmus pacificus;Chordata;Actinopterygii;Scombriformes;Trichiuridae;BOLD,WORMS;;;;FB;gap;
+Benthodesmus simonyi;Chordata;Actinopterygii;Scombriformes;Trichiuridae;BOLD,WORMS;16;21;2;WORMS;;71685
+Lepidopus caudatus;Chordata;Actinopterygii;Scombriformes;Trichiuridae;BOLD,WORMS;62;72;1;WORMS;;15345
+Trichiurus lepturus;Chordata;Actinopterygii;Scombriformes;Trichiuridae;BOLD,WORMS;468;494;12;WORMS;;11590;199766;767286

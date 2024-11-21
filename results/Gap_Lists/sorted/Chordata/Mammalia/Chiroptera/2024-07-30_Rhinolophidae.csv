@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Rhinolophus blasii;Chordata;Mammalia;Chiroptera;Rhinolophidae;BOLD,FE;36;65;2;;;84652
+Rhinolophus euryale;Chordata;Mammalia;Chiroptera;Rhinolophidae;BOLD,FE;63;65;1;;;84658
+Rhinolophus ferrumequinum;Chordata;Mammalia;Chiroptera;Rhinolophidae;BOLD,FE;56;70;5;FE;;73315
+Rhinolophus hipposideros;Chordata;Mammalia;Chiroptera;Rhinolophidae;BOLD,FE,iNat;47;53;7;FE;;84662
+Rhinolophus mehelyi;Chordata;Mammalia;Chiroptera;Rhinolophidae;BOLD,FE;10;10;2;;;84655

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyclopecten brundisiensis;Mollusca;Bivalvia;Pectinida;Propeamussiidae;WORMS;;;;;gap;
+Cyclopecten hoskynsi;Mollusca;Bivalvia;Pectinida;Propeamussiidae;BOLD,WORMS;1;9;0;WORMS;;948236
+Propeamussium lucidum;Mollusca;Bivalvia;Pectinida;Propeamussiidae;WORMS;;;;;gap;
+Similipecten greenlandicus;Mollusca;Bivalvia;Pectinida;Propeamussiidae;BOLD;9;36;1;WORMS;;449241
+Similipecten similis;Mollusca;Bivalvia;Pectinida;Propeamussiidae;BOLD;4;10;1;WORMS;;887444

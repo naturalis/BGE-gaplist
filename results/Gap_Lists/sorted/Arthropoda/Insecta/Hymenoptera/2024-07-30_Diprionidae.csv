@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diprion butovitschi;Arthropoda;Insecta;Hymenoptera;Diprionidae;FE;;;;;gap;
+Diprion pini;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,iNat,DTN;4;8;2;FE;;294444
+Diprion rufiventris;Arthropoda;Insecta;Hymenoptera;Diprionidae;FE;;;;;gap;
+Diprion similis;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,iNat,DTN;45;268;2;FE;;83207
+Gilpinia abieticola;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;3;11;0;FE;;294440
+Gilpinia catocala;Arthropoda;Insecta;Hymenoptera;Diprionidae;FE;;;;FE;gap;
+Gilpinia coreana;Arthropoda;Insecta;Hymenoptera;Diprionidae;FE;;;;;gap;
+Gilpinia fennica;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE;2;2;1;FE;;1062921
+Gilpinia frutetorum;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;32;61;8;FE;;294441
+Gilpinia hercyniae;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;93;114;8;FE;;294438
+Gilpinia laricis;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;3;4;1;FE;;660765
+Gilpinia pallida;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;8;12;1;FE;;660766
+Gilpinia polytoma;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;23;31;4;FE;;333359
+Gilpinia socia;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;0;3;0;FE;gap;294439
+Gilpinia variegata;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;8;12;1;FE;;294443
+Gilpinia virens;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,iNat,DTN;10;13;1;FE;;337948
+Macrodiprion nemoralis;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,iNat,DTN;2;6;1;FE;;294437
+Microdiprion fuscipennis;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE;3;6;0;FE;;333801
+Microdiprion pallipes;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;18;20;1;FE;;333804
+Monoctenus juniperi;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;28;39;5;FE;;82635
+Monoctenus obscuratus;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,DTN;26;33;2;FE;;190444
+Monoctenus subconstrictus;Arthropoda;Insecta;Hymenoptera;Diprionidae;FE;;;;;gap;
+Neodiprion sertifer;Arthropoda;Insecta;Hymenoptera;Diprionidae;BOLD,FE,iNat,DTN;23;36;2;FE;;104336

@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dasypoda albimana;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;0;6;0;ITIS;gap;695778
+Dasypoda argentata;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,DTN;2;10;0;ITIS;;256624
+Dasypoda aurata;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,DTN;;;;ITIS;gap;407699
+Dasypoda cingulata;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;7;8;1;ITIS;;591727
+Dasypoda crassicornis;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;5;7;1;;;272600
+Dasypoda dusmeti;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;6;6;1;ITIS;;591728
+Dasypoda hirtipes;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,iNat,DTN;101;123;7;ITIS;;214107;191446
+Dasypoda morawitzi;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD;25;58;1;;;879095
+Dasypoda morotei;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;8;10;2;;;695791
+Dasypoda pyrotrichia;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;6;7;1;ITIS;;695795
+Dasypoda visnaga;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;4;6;1;ITIS;;695804
+Macropis europaea;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,iNat,DTN;35;40;1;;;191449
+Macropis frivaldszkyi;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;1;1;1;ITIS;;271732
+Macropis fulvipes;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,iNat,DTN;19;24;3;ITIS;;214287
+Melitta aegyptiaca;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE;1;2;0;ITIS;;695717
+Melitta dimidiata;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,DTN;1;14;1;ITIS;;265262
+Melitta leporina;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,iNat,DTN;58;90;1;ITIS;;214285
+Melitta melanura;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,DTN;1;2;1;ITIS;;695738
+Melitta nigricans;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,iNat,DTN;32;45;1;;;265263
+Melitta tricincta;Arthropoda;Insecta;Hymenoptera;Melittidae;BOLD,FE,iNat,DTN;23;32;1;ITIS;;214286

@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ancorina cerebrum;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Ancorina radix;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Dercitus bucklandi;Porifera;Demospongiae;Tetractinellida;Ancorinidae;BOLD;2;3;1;;;238822
+Holoxea furtiva;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Jaspis eudermis;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Jaspis inconditus;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta addita;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta boglicii;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Stelletta defensa;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Stelletta dichoclada;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Stelletta dorsigera;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Stelletta grubii;Porifera;Demospongiae;Tetractinellida;Ancorinidae;BOLD,WORMS;1;2;1;WORMS;;238459
+Stelletta hispida;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta inermis;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta lactea;Porifera;Demospongiae;Tetractinellida;Ancorinidae;BOLD,WORMS;2;3;1;WORMS;;238474
+Stelletta mediterranea;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta pumex;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta rhaphidiophora;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta simplicissima;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stelletta tuberosa;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Stelletta ventricosa;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stryphnus fortis;Porifera;Demospongiae;Tetractinellida;Ancorinidae;BOLD,WORMS;1;1;1;WORMS;;238547
+Stryphnus mucronatus;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;WORMS;gap;
+Stryphnus niger;Porifera;Demospongiae;Tetractinellida;Ancorinidae;WORMS;;;;;gap;
+Stryphnus ponderosus;Porifera;Demospongiae;Tetractinellida;Ancorinidae;BOLD;1;2;1;WORMS;;238550

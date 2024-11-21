@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aglaja berrieri;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;WORMS;;;;WORMS;gap;
+Aglaja tricolorata;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;BOLD,WORMS;2;9;1;WORMS;;103935
+Chelidonura africana;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;BOLD;3;3;1;;;164990
+Chelidonura fulvipunctata;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;BOLD;10;10;1;;;103941
+Chelidonura orchidaea;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;WORMS;;;;;gap;
+Philinopsis depicta;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;BOLD,WORMS;2;2;1;WORMS;;103945
+Philinopsis miqueli;Mollusca;Gastropoda;Cephalaspidea;Aglajidae;BOLD;1;1;1;;;653178

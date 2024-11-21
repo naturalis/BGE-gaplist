@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alsophylax pipiens;Chordata;Reptilia;Squamata;Gekkonidae;FE;7;9;2;FE;;22608
+Euleptes europaea;Chordata;Reptilia;Squamata;Gekkonidae;FE;;;;FE;gap;
+Geckolepis maculata;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;11;11;5;;;459925
+Hemidactylus frenatus;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;243;256;12;;;191322
+Hemidactylus mercatorius;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;33;33;14;;;459928
+Hemidactylus platycephalus;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;18;18;7;;;459929
+Hemidactylus turcicus;Chordata;Reptilia;Squamata;Gekkonidae;BOLD,FE;15;17;2;FE;;25799
+Mediodactylus kotschyi;Chordata;Reptilia;Squamata;Gekkonidae;BOLD,FE;103;118;40;FE;;758720
+Mediodactylus oertzeni;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;4;4;2;;;1055730
+Phelsuma dubia;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;9;9;4;;;166196
+Phelsuma laticauda;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;13;13;6;;;166200;459972
+Phelsuma nigristriata;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;2;2;1;;;535360
+Phelsuma pasteuri;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;1;1;1;;;535356
+Phelsuma robertmertensi;Chordata;Reptilia;Squamata;Gekkonidae;BOLD;2;2;2;;;535361
+Tarentola angustimentalis;Chordata;Reptilia;Squamata;Gekkonidae;FE;;;;;gap;
+Tarentola boettgeri;Chordata;Reptilia;Squamata;Gekkonidae;FE;;;;;gap;
+Tarentola delalandii;Chordata;Reptilia;Squamata;Gekkonidae;FE;;;;FE;gap;
+Tarentola gomerensis;Chordata;Reptilia;Squamata;Gekkonidae;FE;;;;;gap;

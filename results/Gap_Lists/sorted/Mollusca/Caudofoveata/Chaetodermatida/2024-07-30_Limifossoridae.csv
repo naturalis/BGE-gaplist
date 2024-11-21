@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Psilodens elongatus;Mollusca;Caudofoveata;Chaetodermatida;Limifossoridae;WORMS;;;;WORMS;gap;
+Psilodens tenuis;Mollusca;Caudofoveata;Chaetodermatida;Limifossoridae;WORMS;;;;;gap;
+Scutopus robustus;Mollusca;Caudofoveata;Chaetodermatida;Limifossoridae;BOLD,WORMS;7;7;1;;;598256
+Scutopus ventrolineatus;Mollusca;Caudofoveata;Chaetodermatida;Limifossoridae;BOLD,WORMS;6;7;2;;;598257

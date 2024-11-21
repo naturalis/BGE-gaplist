@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heptamelus dahlbomi;Arthropoda;Insecta;Hymenoptera;Heptamelidae;BOLD,DTN;16;21;1;;;309183
+Heptamelus ochroleucus;Arthropoda;Insecta;Hymenoptera;Heptamelidae;BOLD,FE,DTN;13;16;1;FE;;190470
+Heptamelus viitasaarii;Arthropoda;Insecta;Hymenoptera;Heptamelidae;BOLD;62;65;1;;;1137319
+Pseudoheptamelus runari;Arthropoda;Insecta;Hymenoptera;Heptamelidae;BOLD;2;14;1;;;336721

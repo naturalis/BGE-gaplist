@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dysidea avara;Porifera;Demospongiae;Dictyoceratida;Dysideidae;WORMS;;;;WORMS;gap;
+Dysidea fragilis;Porifera;Demospongiae;Dictyoceratida;Dysideidae;WORMS;0;8;0;WORMS;gap;239088
+Dysidea perfistulata;Porifera;Demospongiae;Dictyoceratida;Dysideidae;WORMS;;;;;gap;
+Dysidea tupha;Porifera;Demospongiae;Dictyoceratida;Dysideidae;WORMS;;;;WORMS;gap;
+Pleraplysilla spinifera;Porifera;Demospongiae;Dictyoceratida;Dysideidae;BOLD,WORMS;2;4;0;WORMS;;239140

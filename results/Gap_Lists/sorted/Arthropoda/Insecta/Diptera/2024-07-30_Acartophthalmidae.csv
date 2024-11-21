@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acartophthalmus bicolor;Arthropoda;Insecta;Diptera;Acartophthalmidae;BOLD,FE,SyDip;6;6;1;;;510554
+Acartophthalmus nigrinus;Arthropoda;Insecta;Diptera;Acartophthalmidae;BOLD,FE,SyDip;121;123;1;ITIS;;467353
+Acartophthalmus pusio;Arthropoda;Insecta;Diptera;Acartophthalmidae;FE,SyDip;;;;;gap;

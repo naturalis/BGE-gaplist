@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Callionymus bairdi;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD;;;;FB;gap;
+Callionymus fasciatus;Chordata;Actinopterygii;Callionymiformes;Callionymidae;WORMS;;;;;gap;
+Callionymus filamentosus;Chordata;Actinopterygii;Callionymiformes;Callionymidae;WORMS;;;;WORMS;gap;
+Callionymus lyra;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD,WORMS;42;48;1;WORMS;;18245
+Callionymus maculatus;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD,WORMS;19;37;1;WORMS;;18260
+Callionymus pusillus;Chordata;Actinopterygii;Callionymiformes;Callionymidae;WORMS;;;;WORMS;gap;
+Callionymus reticulatus;Chordata;Actinopterygii;Callionymiformes;Callionymidae;WORMS;;;;;gap;
+Callionymus risso;Chordata;Actinopterygii;Callionymiformes;Callionymidae;WORMS;;;;WORMS;gap;
+Diplogrammus goramensis;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD;8;9;4;WORMS;;140622
+Neosynchiropus ocellatus;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD;;;;FB;gap;
+Protogrammus sousai;Chordata;Actinopterygii;Callionymiformes;Callionymidae;WORMS;;;;WORMS;gap;
+Synchiropus phaeton;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD,WORMS;8;13;1;WORMS;;53733
+Synchiropus phasis;Chordata;Actinopterygii;Callionymiformes;Callionymidae;BOLD;4;5;2;;;890310

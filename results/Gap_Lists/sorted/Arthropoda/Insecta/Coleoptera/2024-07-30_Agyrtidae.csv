@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agyrtes bicolor;Arthropoda;Insecta;Coleoptera;Agyrtidae;FE,iNat;;;;;gap;
+Agyrtes castaneus;Arthropoda;Insecta;Coleoptera;Agyrtidae;FE;;;;FE;gap;
+Ecanus glaber;Arthropoda;Insecta;Coleoptera;Agyrtidae;BOLD,FE;0;2;0;FE;gap;1066182
+Ipelates latissimus;Arthropoda;Insecta;Coleoptera;Agyrtidae;FE;;;;FE;gap;
+Necrophilus subterraneus;Arthropoda;Insecta;Coleoptera;Agyrtidae;BOLD,FE;4;11;1;FE;;501868
+Pteroloma forsstromii;Arthropoda;Insecta;Coleoptera;Agyrtidae;BOLD,FE;4;4;1;FE;;468245

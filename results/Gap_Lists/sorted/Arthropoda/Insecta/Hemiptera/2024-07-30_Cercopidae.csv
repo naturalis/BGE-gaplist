@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cercopis arcuata;Arthropoda;Insecta;Hemiptera;Cercopidae;BOLD,FE,iNat;10;11;1;;;957182
+Cercopis intermedia;Arthropoda;Insecta;Hemiptera;Cercopidae;BOLD,FE;31;34;1;;;508392
+Cercopis sabaudiana;Arthropoda;Insecta;Hemiptera;Cercopidae;FE;;;;;gap;
+Cercopis sanguinolenta;Arthropoda;Insecta;Hemiptera;Cercopidae;BOLD,FE,iNat;28;34;3;FE;;463458
+Cercopis vulnerata;Arthropoda;Insecta;Hemiptera;Cercopidae;BOLD,FE,iNat;38;47;2;;;348682
+Haematoloma dorsata;Arthropoda;Insecta;Hemiptera;Cercopidae;BOLD,FE,iNat;21;22;1;FE;;455319
+Haematoloma dorsatum;Arthropoda;Insecta;Hemiptera;Cercopidae;BOLD;1;3;1;;;976258
+Triecphorella geniculata;Arthropoda;Insecta;Hemiptera;Cercopidae;FE;;;;FE;gap;

@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Argyripnus atlanticus;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;WORMS;;;;;gap;
+Argyropelecus aculeatus;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;BOLD,WORMS;77;86;6;WORMS;;59408
+Argyropelecus affinis;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;BOLD,WORMS;15;22;3;WORMS;;125542
+Argyropelecus gigas;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;WORMS;;;;;gap;
+Argyropelecus hemigymnus;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;BOLD,WORMS;65;70;7;WORMS;;59409
+Maurolicus amethystinopunctatus;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;WORMS;;;;;gap;
+Maurolicus muelleri;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;BOLD,WORMS;91;91;1;WORMS;;70927
+Polyipnus asteroides;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;BOLD;9;10;1;;;140390
+Polyipnus polli;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;BOLD,WORMS;8;8;2;;;206534
+Sternoptyx diaphana;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;WORMS;;;;WORMS;gap;
+Sternoptyx pseudobscura;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;WORMS;;;;WORMS;gap;
+Valenciennellus tripunctulatus;Chordata;Actinopterygii;Stomiiformes;Sternoptychidae;WORMS;;;;WORMS;gap;

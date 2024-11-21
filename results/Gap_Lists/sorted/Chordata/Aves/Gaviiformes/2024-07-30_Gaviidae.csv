@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gavia adamsii;Chordata;Aves;Gaviiformes;Gaviidae;BOLD,FE,WORMS,iNat;12;13;1;FE;;9524
+Gavia arctica;Chordata;Aves;Gaviiformes;Gaviidae;BOLD,FE,WORMS,iNat;15;19;2;WORMS;;9522
+Gavia immer;Chordata;Aves;Gaviiformes;Gaviidae;BOLD,FE,WORMS,iNat;42;48;1;WORMS;;9525
+Gavia stellata;Chordata;Aves;Gaviiformes;Gaviidae;BOLD,FE,WORMS,iNat;25;30;1;WORMS;;9526

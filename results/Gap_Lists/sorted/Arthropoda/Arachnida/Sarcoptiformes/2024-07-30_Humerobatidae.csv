@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Humerobates fungorum;Arthropoda;Arachnida;Sarcoptiformes;Humerobatidae;FE;;;;FE;gap;
+Humerobates giganteus;Arthropoda;Arachnida;Sarcoptiformes;Humerobatidae;FE;;;;;gap;
+Humerobates pomboi;Arthropoda;Arachnida;Sarcoptiformes;Humerobatidae;BOLD,FE;1;1;1;;;1133330
+Humerobates rostrolamellatus;Arthropoda;Arachnida;Sarcoptiformes;Humerobatidae;FE;;;;;gap;
+Humerobates rubra;Arthropoda;Arachnida;Sarcoptiformes;Humerobatidae;FE;;;;FE;gap;
+Zachvatkinibates quadrivertex;Arthropoda;Arachnida;Sarcoptiformes;Humerobatidae;FE;;;;WORMS;gap;

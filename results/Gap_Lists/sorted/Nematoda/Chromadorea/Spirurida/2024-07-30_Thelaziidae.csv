@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oxyspirura baskakowi;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;;gap;
+Oxyspirura mansoni;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;FE;gap;
+Oxyspirura petrowi;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;;gap;
+Oxyspirura sygmoidea;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;FE;gap;
+Spirocerca lupi;Nematoda;Chromadorea;Spirurida;Thelaziidae;BOLD,FE;60;80;4;FE;;104848
+Spirocerca vulpis;Nematoda;Chromadorea;Spirurida;Thelaziidae;BOLD;20;23;2;;;896951
+Thelazia callipaeda;Nematoda;Chromadorea;Spirurida;Thelaziidae;BOLD,FE;121;127;1;;;25153
+Thelazia cholodkowskii;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;;gap;
+Thelazia gulosa;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;1;1;1;;;30001
+Thelazia lacrymalis;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;13;13;1;FE;;32824
+Thelazia papillosa;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;FE;gap;
+Thelazia rhodesi;Nematoda;Chromadorea;Spirurida;Thelaziidae;BOLD,FE;1;1;1;FE;;1001330
+Thelazia skrjabini;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;;gap;
+Thelaziella ivashkini;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;;gap;
+Thelaziella nyctardeae;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;FE;gap;
+Thelaziella stereura;Nematoda;Chromadorea;Spirurida;Thelaziidae;FE;;;;FE;gap;

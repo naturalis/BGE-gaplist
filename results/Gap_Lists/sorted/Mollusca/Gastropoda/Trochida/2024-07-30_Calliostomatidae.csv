@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calliostoma caroli;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma cleopatra;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma conulus;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma granulatum;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma grimaldii;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;;gap;
+Calliostoma gualterianum;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma gubbiolii;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;;gap;
+Calliostoma hirondellei;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;;gap;
+Calliostoma laugieri;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma leptophyma;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma lithocolletum;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;;gap;
+Calliostoma lividum;Mollusca;Gastropoda;Trochida;Calliostomatidae;BOLD;0;5;0;WORMS;gap;402896
+Calliostoma milneedwardsi;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma normani;Mollusca;Gastropoda;Trochida;Calliostomatidae;WORMS;;;;WORMS;gap;
+Calliostoma occidentale;Mollusca;Gastropoda;Trochida;Calliostomatidae;BOLD,WORMS;3;5;1;WORMS;;673979
+Calliostoma virescens;Mollusca;Gastropoda;Trochida;Calliostomatidae;BOLD,WORMS;2;7;1;WORMS;;361895
+Calliostoma zizyphinum;Mollusca;Gastropoda;Trochida;Calliostomatidae;BOLD,WORMS;18;32;1;WORMS;;304803

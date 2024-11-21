@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anguilla anguilla;Chordata;Actinopterygii;Anguilliformes;Anguillidae;BOLD,FE,WORMS,iNat;259;293;3;WORMS;;27617
+Anguilla japonica;Chordata;Actinopterygii;Anguilliformes;Anguillidae;BOLD;25;36;1;WORMS;;30415
+Anguilla marmorata;Chordata;Actinopterygii;Anguilliformes;Anguillidae;BOLD;340;425;1;WORMS;;27615
+Anguilla rostrata;Chordata;Actinopterygii;Anguilliformes;Anguillidae;BOLD;111;120;2;WORMS;;27616

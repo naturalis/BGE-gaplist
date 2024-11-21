@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Genitoconia rosea;Mollusca;Solenogastres;Pholidoskepia;Gymnomeniidae;BOLD;0;2;0;;gap;598245
+Gymnomenia pellucida;Mollusca;Solenogastres;Pholidoskepia;Gymnomeniidae;BOLD;3;4;1;;;598270
+Wirenia argentea;Mollusca;Solenogastres;Pholidoskepia;Gymnomeniidae;BOLD,WORMS;5;8;2;WORMS;;598265

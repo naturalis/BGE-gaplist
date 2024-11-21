@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Euzetes globulus;Arthropoda;Arachnida;Sarcoptiformes;Euzetidae;BOLD,FE;986;999;3;ITIS;;480970
+Euzetes lapidarius;Arthropoda;Arachnida;Sarcoptiformes;Euzetidae;FE;;;;FE;gap;
+Euzetes nitens;Arthropoda;Arachnida;Sarcoptiformes;Euzetidae;FE;;;;FE;gap;
+Euzetes pusillus;Arthropoda;Arachnida;Sarcoptiformes;Euzetidae;FE;;;;;gap;

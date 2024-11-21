@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Phoeniconaias minor;Chordata;Aves;Phoenicopteriformes;Phoenicopteridae;FE;1;1;1;WORMS;;858721
+Phoenicopterus chilensis;Chordata;Aves;Phoenicopteriformes;Phoenicopteridae;BOLD,FE,iNat;4;7;1;;;69482
+Phoenicopterus ruber;Chordata;Aves;Phoenicopteriformes;Phoenicopteridae;BOLD,FE,iNat;44;49;2;WORMS;;9926;112836

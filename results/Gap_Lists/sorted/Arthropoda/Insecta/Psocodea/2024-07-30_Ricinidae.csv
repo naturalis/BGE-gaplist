@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ricinus dolichocephalus;Arthropoda;Insecta;Psocodea;Ricinidae;FE;;;;FE;gap;
+Ricinus elongatus;Arthropoda;Insecta;Psocodea;Ricinidae;BOLD,FE;2;2;1;FE;;989338
+Ricinus frenatus;Arthropoda;Insecta;Psocodea;Ricinidae;FE;;;;FE;gap;
+Ricinus fringillae;Arthropoda;Insecta;Psocodea;Ricinidae;FE;1;1;0;FE;;1148653
+Ricinus japonicus;Arthropoda;Insecta;Psocodea;Ricinidae;FE;;;;FE;gap;
+Ricinus major;Arthropoda;Insecta;Psocodea;Ricinidae;FE;;;;;gap;
+Ricinus rubeculae;Arthropoda;Insecta;Psocodea;Ricinidae;BOLD,FE;1;1;0;FE;;805858
+Ricinus serratus;Arthropoda;Insecta;Psocodea;Ricinidae;FE;;;;FE;gap;
+Ricinus thoracius;Arthropoda;Insecta;Psocodea;Ricinidae;FE;;;;FE;gap;

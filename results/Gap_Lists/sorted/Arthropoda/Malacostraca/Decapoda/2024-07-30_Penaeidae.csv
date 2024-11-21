@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Fenneropenaeus indicus;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;220;238;4;ITIS;;72831;344163
+Fenneropenaeus merguiensis;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;29;39;3;ITIS;;72833;803421
+Funchalia danae;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;;;;;gap;
+Funchalia villosa;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD,WORMS;16;18;2;WORMS;;606109
+Funchalia woodwardi;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;5;10;0;WORMS;;481546
+Litopenaeus vannamei;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;;;;ITIS;gap;674265
+Melicertus kerathurus;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;98;105;1;ITIS;;105676;934214
+Metapenaeopsis aegyptia;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;5;5;1;WORMS;;957718
+Metapenaeus ensis;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;34;47;6;WORMS;;69671
+Metapenaeus monoceros;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;172;175;7;WORMS;;501934
+Metapenaeus stebbingi;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;5;6;0;ITIS;;501918
+Parapenaeopsis sculptilis;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;47;56;1;ITIS;;606125
+Parapenaeus longirostris;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD,WORMS;45;57;2;WORMS;;89921
+Parapenopsis sculptillis;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;3;3;1;;;681140
+Pelagopenaeus balboae;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;;;;WORMS;gap;
+Penaeopsis serrata;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD,WORMS;15;22;1;WORMS;;89936
+Penaeus monodon;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;165;457;5;WORMS;;15807
+Penaeus semisulcatus;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;319;390;8;WORMS;;69665
+Trachysalambria curvirostris;Arthropoda;Malacostraca;Decapoda;Penaeidae;WORMS;4;4;2;WORMS;;606127;173092
+Xiphopenaeus kroyeri;Arthropoda;Malacostraca;Decapoda;Penaeidae;BOLD;125;156;3;WORMS;;501936;170019

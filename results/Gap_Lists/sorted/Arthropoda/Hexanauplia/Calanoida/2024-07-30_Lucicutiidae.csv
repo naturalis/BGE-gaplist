@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lucicutia anomala;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;4;4;1;;;303035
+Lucicutia bicornuta;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;0;1;0;;gap;886950
+Lucicutia clausi;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;WORMS;gap;
+Lucicutia curta;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;WORMS;gap;
+Lucicutia flavicornis;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;BOLD,WORMS;14;15;3;WORMS;;211406
+Lucicutia formosa;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia gaussae;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;1;1;0;WORMS;;1005160;942969
+Lucicutia gemina;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia intermedia;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;1;1;1;WORMS;;503321
+Lucicutia longicornis;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;WORMS;gap;
+Lucicutia longiserrata;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;WORMS;gap;
+Lucicutia longispina;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia lucida;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia macrocera;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia magna;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;WORMS;gap;
+Lucicutia maxima;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia parva;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;2;2;0;;;998240
+Lucicutia pellucida;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia pera;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia sarsi;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia tenuicauda;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;;;;;gap;
+Lucicutia wolfendeni;Arthropoda;Hexanauplia;Calanoida;Lucicutiidae;WORMS;3;4;2;;;652036

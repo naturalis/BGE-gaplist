@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Notacanthus bonaparte;Chordata;Actinopterygii;Notacanthiformes;Notacanthidae;BOLD,WORMS;117;118;1;WORMS;;70925
+Notacanthus chemnitzii;Chordata;Actinopterygii;Notacanthiformes;Notacanthidae;BOLD,WORMS;29;30;3;WORMS;;30271
+Polyacanthonotus challengeri;Chordata;Actinopterygii;Notacanthiformes;Notacanthidae;WORMS;;;;WORMS;gap;
+Polyacanthonotus rissoanus;Chordata;Actinopterygii;Notacanthiformes;Notacanthidae;BOLD,WORMS;28;30;2;WORMS;;54191

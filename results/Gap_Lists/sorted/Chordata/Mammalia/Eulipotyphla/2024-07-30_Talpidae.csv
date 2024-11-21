@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Desmana moschata;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;1;1;1;FE;;124108
+Galemys pyrenaicus;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;2;2;1;FE;;82997
+Talpa caeca;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;;;;;gap;
+Talpa europaea;Chordata;Mammalia;Eulipotyphla;Talpidae;BOLD,FE,iNat;28;32;1;;;26125
+Talpa levantis;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;2;3;0;;;1144586
+Talpa occidentalis;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;;;;;gap;
+Talpa romana;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;;;;;gap;
+Talpa stankovici;Chordata;Mammalia;Eulipotyphla;Talpidae;FE;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sepia bertheloti;Mollusca;Cephalopoda;Sepiida;Sepiidae;BOLD,WORMS;14;14;1;WORMS;;79154
+Sepia elegans;Mollusca;Cephalopoda;Sepiida;Sepiidae;BOLD,WORMS;13;16;2;WORMS;;30218
+Sepia officinalis;Mollusca;Cephalopoda;Sepiida;Sepiidae;BOLD,WORMS,iNat;387;426;2;WORMS;;26029
+Sepia orbignyana;Mollusca;Cephalopoda;Sepiida;Sepiidae;WORMS;;;;WORMS;gap;
+Sepia pharaonis;Mollusca;Cephalopoda;Sepiida;Sepiidae;BOLD;112;120;13;WORMS;;32718

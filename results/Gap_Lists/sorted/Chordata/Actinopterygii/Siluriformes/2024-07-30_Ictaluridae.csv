@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ameiurus melas;Chordata;Actinopterygii;Siluriformes;Ictaluridae;BOLD,FE;109;188;1;FB;;50253
+Ameiurus nebulosus;Chordata;Actinopterygii;Siluriformes;Ictaluridae;BOLD,FE;226;243;1;FB;;50236
+Ictalurus punctatus;Chordata;Actinopterygii;Siluriformes;Ictaluridae;BOLD,FE;835;867;1;FB;;13102

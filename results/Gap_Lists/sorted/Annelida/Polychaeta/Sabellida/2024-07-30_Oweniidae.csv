@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Galathowenia fragilis;Annelida;Polychaeta;Sabellida;Oweniidae;BOLD;9;26;2;WORMS;;641221
+Galathowenia oculata;Annelida;Polychaeta;Sabellida;Oweniidae;BOLD;63;84;3;WORMS;;256919
+Myriochele danielsseni;Annelida;Polychaeta;Sabellida;Oweniidae;WORMS;;;;;gap;
+Myriochele heeri;Annelida;Polychaeta;Sabellida;Oweniidae;BOLD,WORMS;0;2;0;WORMS;gap;598178
+Myriochele olgae;Annelida;Polychaeta;Sabellida;Oweniidae;BOLD;0;4;0;;gap;700415
+Owenia borealis;Annelida;Polychaeta;Sabellida;Oweniidae;BOLD;1;3;0;;;494710
+Owenia fusiformis;Annelida;Polychaeta;Sabellida;Oweniidae;BOLD,WORMS;305;329;9;WORMS;;29435

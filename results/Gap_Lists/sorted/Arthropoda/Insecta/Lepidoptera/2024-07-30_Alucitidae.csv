@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alucita acutata;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita bidentata;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita budashkini;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita bulgaria;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita canariensis;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita cancellata;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;11;11;1;FE;;324134
+Alucita cymatodactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;FE;gap;1156082
+Alucita debilella;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;1;1;1;;;362488
+Alucita desmodactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;28;29;1;FE;;404716
+Alucita grammodactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;48;48;1;;;641402
+Alucita hexadactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF,iNat;32;44;1;FE;;183393
+Alucita huebneri;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;21;21;1;;;544272
+Alucita iberica;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita karadagica;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita major;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;FE;gap;
+Alucita palodactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;;;;FE;gap;951622
+Alucita pectinata;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita pliginskii;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita tridentata;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Alucita zonodactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;6;7;1;;;787048
+Pterotopteryx dodecadactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;BOLD,FE,LF;33;38;1;FE;;224895
+Pterotopteryx lonicericola;Arthropoda;Insecta;Lepidoptera;Alucitidae;FE,LF;;;;;gap;
+Pterotopteryx monticola;Arthropoda;Insecta;Lepidoptera;Alucitidae;LF;;;;;gap;
+Pterotopteryx synnephodactyla;Arthropoda;Insecta;Lepidoptera;Alucitidae;LF;;;;;gap;

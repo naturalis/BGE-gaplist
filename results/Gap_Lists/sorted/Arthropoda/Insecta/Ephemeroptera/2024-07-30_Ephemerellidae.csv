@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Drunella paradinasi;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;;gap;
+Ephemerella aurivillii;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD,FE;46;63;1;ITIS;;110938
+Ephemerella mesoleuca;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD;0;1;0;;gap;981105
+Ephemerella mucronata;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD,FE,iNat;90;99;4;ITIS;;248173
+Ephemerella murronata;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD;0;1;0;;gap;719619
+Ephemerella notata;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD,FE;9;27;2;;;248172
+Eurylophella iberica;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;;gap;
+Eurylophella karelica;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;FE;gap;
+Quatica ikonomovi;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD;13;13;3;;;309161
+Serratella albai;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;;gap;
+Serratella hispanica;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;FE;gap;
+Serratella ignita;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD,FE,iNat;233;296;17;FE;;248210
+Serratella maculocaudata;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;FE;gap;
+Serratella mesoleuca;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;FE;gap;
+Serratella spinosa;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;FE;;;;FE;gap;
+Torleya major;Arthropoda;Insecta;Ephemeroptera;Ephemerellidae;BOLD,FE;63;70;5;FE;;384094;730263

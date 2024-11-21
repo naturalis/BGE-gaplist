@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Obesogammarus boeoticus;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD;4;9;1;;;942948
+Obesogammarus crassus;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD,FE;267;289;1;FE;;31632
+Obesogammarus obesus;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD,FE;19;38;3;FE;;593151
+Pontogammarus borceae;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD,FE;13;16;4;;;669142
+Pontogammarus maeoticus;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD;211;228;2;;;593128
+Pontogammarus obesus;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD;2;2;1;;;754906
+Pontogammarus robustoides;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD,FE;850;1924;1;FE;;27163
+Stenogammarus similis;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD,FE;3;4;2;WORMS;;754924
+Turcogammarus spandli;Arthropoda;Malacostraca;Amphipoda;Pontogammaridae;BOLD;16;27;3;;;754903

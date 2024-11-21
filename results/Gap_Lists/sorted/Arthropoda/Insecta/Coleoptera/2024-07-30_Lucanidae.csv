@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aesalus scarabaeoides;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE;13;14;1;FE;;318410
+Ceruchus chrysomelinus;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE,iNat;9;11;1;FE;;468980
+Dorcus alexisi;Arthropoda;Insecta;Coleoptera;Lucanidae;FE;;;;;gap;
+Dorcus musimon;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE;1;1;1;;;1113262
+Dorcus parallelepipedus;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD;;;;;gap;992657
+Dorcus parallelipipedus;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE,iNat;64;89;2;FE;;167593
+Lucanus barbarossa;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE;2;5;0;;;913177
+Lucanus cervus;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE,iNat;23;485;4;FE;;173289;913306
+Lucanus ibericus;Arthropoda;Insecta;Coleoptera;Lucanidae;FE;0;1;0;FE;gap;913178
+Lucanus tetraodon;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE;2;22;1;FE;;766398
+Platycerus caprea;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE,iNat;25;27;1;FE;;247684
+Platycerus caraboides;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE,iNat;28;32;1;FE;;247672
+Platycerus pseudocaprea;Arthropoda;Insecta;Coleoptera;Lucanidae;FE;;;;;gap;
+Platycerus spinifer;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE;2;4;1;;;766399
+Sinodendron cylindricum;Arthropoda;Insecta;Coleoptera;Lucanidae;BOLD,FE,iNat;16;37;2;FE;;286756

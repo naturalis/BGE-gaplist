@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Colga villosa;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD;8;8;1;WORMS;;902169
+Crimora papillata;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;9;10;1;;;1127944
+Kaloplocamus ramosus;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;4;7;2;WORMS;;104193
+Limacia clavigera;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;56;61;2;WORMS;;32973
+Palio dubia;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,iNat;22;34;2;WORMS;;32969
+Palio nothus;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD;4;7;1;WORMS;;384848
+Plocamopherus maderae;Mollusca;Gastropoda;Nudibranchia;Polyceridae;WORMS;;;;WORMS;gap;
+Plocamopherus ocellatus;Mollusca;Gastropoda;Nudibranchia;Polyceridae;WORMS;;;;;gap;
+Polycera aurantiomarginata;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;5;5;1;;;32967
+Polycera elegans;Mollusca;Gastropoda;Nudibranchia;Polyceridae;WORMS;;;;WORMS;gap;
+Polycera faeroensis;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;11;11;2;;;653376
+Polycera hedgpethi;Mollusca;Gastropoda;Nudibranchia;Polyceridae;WORMS;;;;WORMS;gap;
+Polycera kernowensis;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD;34;34;2;;;1129858
+Polycera maculata;Mollusca;Gastropoda;Nudibranchia;Polyceridae;WORMS;;;;WORMS;gap;
+Polycera norvegica;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD;19;19;1;WORMS;;999483;1130051
+Polycera quadrilineata;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;111;115;2;WORMS;;32966
+Polycerella emertoni;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;10;10;1;WORMS;;32968
+Tambja affinis;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD;2;2;1;WORMS;;104221
+Tambja ceutae;Mollusca;Gastropoda;Nudibranchia;Polyceridae;WORMS;;;;;gap;
+Tambja marbellensis;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;1;1;1;;;507902
+Thecacera pennigera;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD,WORMS;9;9;3;WORMS;;32964
+Tyrannodoris europaea;Mollusca;Gastropoda;Nudibranchia;Polyceridae;BOLD;3;8;0;WORMS;;1127943;30345

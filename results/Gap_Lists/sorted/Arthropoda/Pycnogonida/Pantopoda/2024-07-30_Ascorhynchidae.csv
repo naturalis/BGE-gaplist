@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ascorhynchus abyssi;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;BOLD,WORMS;8;11;1;WORMS;;235938
+Ascorhynchus armatus;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;WORMS;;;;WORMS;gap;
+Ascorhynchus castelli;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;WORMS;1;2;0;ITIS;;168321
+Ascorhynchus endoparasiticus;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;WORMS;;;;;gap;
+Ascorhynchus pudicus;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;WORMS;;;;WORMS;gap;
+Ascorhynchus simile;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;WORMS;;;;WORMS;gap;
+Ascorhynchus turritus;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;BOLD,WORMS;0;1;0;;gap;236011
+Eurycyde hispida;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;BOLD,WORMS;3;5;0;WORMS;;236032
+Nymphonella tapetis;Arthropoda;Pycnogonida;Pantopoda;Ascorhynchidae;BOLD,WORMS;0;19;0;WORMS;gap;236048

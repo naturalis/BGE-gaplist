@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ampulex fasciata;Arthropoda;Insecta;Hymenoptera;Ampulicidae;BOLD,FE,DTN;1;5;0;ITIS;;330436
+Ampulex ruficollis;Arthropoda;Insecta;Hymenoptera;Ampulicidae;FE;;;;;gap;
+Dolichurus bicolor;Arthropoda;Insecta;Hymenoptera;Ampulicidae;BOLD,FE,DTN;0;3;0;FE;gap;327862
+Dolichurus corniculus;Arthropoda;Insecta;Hymenoptera;Ampulicidae;BOLD,FE,iNat,HySI,DTN;44;60;6;ITIS;;308661
+Dolichurus haemorrhous;Arthropoda;Insecta;Hymenoptera;Ampulicidae;BOLD,FE;3;5;1;;;675738

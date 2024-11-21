@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pompholyx complanata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;6;15;0;;;595923
+Pompholyx sulcata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;8;8;2;;;1122140
+Pompholyx triloba;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;;gap;
+Testudinella caeca;Rotifera;Monogononta;Flosculariacea;Testudinellidae;BOLD,FE;0;1;0;FE;gap;667945
+Testudinella clypeata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;BOLD,WORMS;87;102;7;WORMS;;671396
+Testudinella clypleata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella elliptica;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella incisa;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella mucronata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella obscura;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;;gap;
+Testudinella parva;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella patina;Rotifera;Monogononta;Flosculariacea;Testudinellidae;BOLD,FE,WORMS;14;49;5;WORMS;;212146
+Testudinella reflexa;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella tridentata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella truncata;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;FE;gap;
+Testudinella vanoyei;Rotifera;Monogononta;Flosculariacea;Testudinellidae;FE;;;;;gap;

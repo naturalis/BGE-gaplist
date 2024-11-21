@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Armina loveni;Mollusca;Gastropoda;Nudibranchia;Arminidae;BOLD,WORMS;2;6;1;WORMS;;384860
+Armina maculata;Mollusca;Gastropoda;Nudibranchia;Arminidae;BOLD,WORMS;3;3;1;WORMS;;500904
+Armina neapolitana;Mollusca;Gastropoda;Nudibranchia;Arminidae;WORMS;;;;WORMS;gap;
+Armina tigrina;Mollusca;Gastropoda;Nudibranchia;Arminidae;WORMS;;;;WORMS;gap;
+Armina tricuspidata;Mollusca;Gastropoda;Nudibranchia;Arminidae;WORMS;;;;;gap;

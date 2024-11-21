@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acrocnida brachiata;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD;352;357;1;WORMS;;80327
+Amphipholis murmanica;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphipholis squamata;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD,WORMS;95;154;24;WORMS;;84451
+Amphipholis torelli;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD,WORMS;5;7;1;WORMS;;218643
+Amphiura (Amphiura) grandisquama;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;
+Amphiura (Ophiopeltis) securigera;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;
+Amphiura abyssorum;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;
+Amphiura borealis;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD,WORMS;5;6;2;WORMS;;218683
+Amphiura cherbonnieri;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura chiajei;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD,WORMS;24;30;4;WORMS;;218700;541250
+Amphiura delamarei;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura filiformis;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD,WORMS;28;51;2;WORMS;;218743
+Amphiura fragilis;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;
+Amphiura griegi;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura lymani;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD;2;2;1;;;218783
+Amphiura mediterranea;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura otteri;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;
+Amphiura richardi;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura sarsi;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;
+Amphiura senegalensis;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura stepanovi;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;;gap;
+Amphiura sundevalli;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;BOLD,WORMS;3;4;2;WORMS;;218847
+Paramphiura punctata;Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;WORMS;;;;WORMS;gap;

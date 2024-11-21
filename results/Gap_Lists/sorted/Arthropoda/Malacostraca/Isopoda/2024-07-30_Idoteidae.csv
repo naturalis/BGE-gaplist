@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Idotea balthica;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS,iNat;36;69;4;WORMS;;123886;29487
+Idotea chelipes;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;16;28;2;WORMS;;361865
+Idotea emarginata;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS,iNat;17;20;1;WORMS;;29486
+Idotea granulosa;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;79;93;1;WORMS;;8721
+Idotea linearis;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;21;29;2;WORMS;;347161
+Idotea metallica;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;28;32;1;WORMS;;29485
+Idotea neglecta;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;10;22;1;ITIS;;251682
+Idotea ostroumovi;Arthropoda;Malacostraca;Isopoda;Idoteidae;WORMS;;;;WORMS;gap;
+Idotea pelagica;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;30;40;2;WORMS;;251681
+Idotea whymperi;Arthropoda;Malacostraca;Isopoda;Idoteidae;WORMS;;;;;gap;
+Paridotea ungulata;Arthropoda;Malacostraca;Isopoda;Idoteidae;WORMS;7;19;1;WORMS;;8728
+Stenosoma lancifer;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD;3;3;0;WORMS;;739761;666776
+Synidotea nodulosa;Arthropoda;Malacostraca;Isopoda;Idoteidae;BOLD,WORMS;2;4;0;WORMS;;957220

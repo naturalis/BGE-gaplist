@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Elephas antiquus;Chordata;Mammalia;Proboscidea;Elephantidae;BOLD;1;1;1;;;899495
+Elephas maximus;Chordata;Mammalia;Proboscidea;Elephantidae;BOLD;33;58;3;;;30274
+Loxodonta africana;Chordata;Mammalia;Proboscidea;Elephantidae;BOLD;52;69;2;;;27317
+Mammuthus primigenius;Chordata;Mammalia;Proboscidea;Elephantidae;BOLD;142;142;1;;;52368

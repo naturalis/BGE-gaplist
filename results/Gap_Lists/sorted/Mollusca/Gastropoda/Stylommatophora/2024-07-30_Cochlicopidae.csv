@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cochlicopa lubrica;Mollusca;Gastropoda;Stylommatophora;Cochlicopidae;BOLD,FE,iNat;98;116;2;FE;;360343
+Cochlicopa lubricella;Mollusca;Gastropoda;Stylommatophora;Cochlicopidae;BOLD,FE,iNat;16;17;2;FE;;446954
+Cochlicopa nitens;Mollusca;Gastropoda;Stylommatophora;Cochlicopidae;BOLD,FE;0;2;0;FE;gap;660409
+Cochlicopa repentina;Mollusca;Gastropoda;Stylommatophora;Cochlicopidae;FE;;;;FE;gap;

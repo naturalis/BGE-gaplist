@@ -1,0 +1,42 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Basilia (Basilia) nana;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;;;;SyDip;gap;983736
+Crataerina (Crataerina) obtusipennis;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;SyDip;gap;
+Crataerina (Stenepteryx) hirundinis;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;736355
+Crataerina acutipennis;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;;gap;
+Crataerina melbae;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;SyDip;gap;
+Crataerina pallida;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,iNat,SyDip;12;15;1;SyDip;;103872
+Hippobosca equina;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,iNat,SyDip;26;27;2;SyDip;;103856
+Hippobosca longipennis;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;2;3;1;SyDip;;958825
+Hippobosca variegata;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;1;1;0;SyDip;;995953
+Icosta ardeae;Arthropoda;Insecta;Diptera;Hippoboscidae;FE;;;;FE;gap;
+Icosta massonati;Arthropoda;Insecta;Diptera;Hippoboscidae;FE;;;;FE;gap;
+Icosta minor;Arthropoda;Insecta;Diptera;Hippoboscidae;FE;;;;FE;gap;
+Lipoptena arianae;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;;gap;
+Lipoptena capreoli;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;SyDip;gap;
+Lipoptena cervi;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,iNat,SyDip;138;154;1;ITIS;;103861
+Lipoptena couturieri;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;;gap;
+Lipoptena fortisetosa;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;15;20;1;SyDip;;918531
+Megistopoda aranea;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,SyDip;61;66;2;SyDip;;103840
+Melophagus ovinus;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;22;23;1;ITIS;;103854
+Melophagus rupicaprinus;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;;gap;
+Nycteribia (Nycteribia) kolenatii;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;;;;SyDip;gap;969362
+Nycteribia (Nycteribia) schmidlii;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;;;;SyDip;gap;652599
+Olfersia fumipennis;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;1;1;1;ITIS;;1067939
+Olfersia spinifera;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;ITIS;gap;
+Ornithoica turdi;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;1;6;1;SyDip;;922027
+Ornithomya avicularia;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;101;130;1;SyDip;;103850
+Ornithomya bequaerti;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,SyDip;6;6;1;;;1023163
+Ornithomya biloba;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;5;10;1;SyDip;;103849
+Ornithomya chloropus;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;21;38;2;SyDip;;103848
+Ornithomya fringillina;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;16;41;2;SyDip;;103847
+Ornithomya rupes;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;;gap;
+Ornithophila gestroi;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;3;3;1;SyDip;;716211
+Ornithophila metallica;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;2;3;2;SyDip;;955771
+Penicillidia conspicua;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;31;31;1;SyDip;;983738
+Penicillidia dufourii;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;6;6;1;SyDip;;983739
+Penicillidia monoceros;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;7;7;2;;;499379
+Phthiridium biarticulatum;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,FE,SyDip;18;18;1;SyDip;;983737
+Pseudolynchia canariensis;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;2;3;1;ITIS;;1125471
+Pseudolynchia garzettae;Arthropoda;Insecta;Diptera;Hippoboscidae;FE,SyDip;;;;SyDip;gap;
+Trichobius frequens;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,SyDip;2;3;1;;;887481
+Trichobius intermedius;Arthropoda;Insecta;Diptera;Hippoboscidae;BOLD,SyDip;2;3;1;;;887482

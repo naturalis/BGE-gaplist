@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Glycera alba;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD;11;40;4;WORMS;;415338
+Glycera capitata;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;38;65;3;WORMS;;177414;205779
+Glycera celtica;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;2;2;1;WORMS;;706585
+Glycera fallax;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD;1;2;0;WORMS;;730982
+Glycera lapidum;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;7;41;2;;;378428
+Glycera oxycephala;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;4;4;1;WORMS;;955801
+Glycera tesselata;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;8;14;2;WORMS;;378414
+Glycera tridactyla;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;3;13;1;WORMS;;29424;305069
+Glycera unicornis;Annelida;Polychaeta;Phyllodocida;Glyceridae;BOLD,WORMS;24;62;2;WORMS;;494687;378429
+Glycerella magellanica;Annelida;Polychaeta;Phyllodocida;Glyceridae;WORMS;1;1;1;WORMS;;733337

@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Astata apostata;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;1;2;1;;;285599
+Astata costae;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;5;6;2;HySI;;705642
+Astata graeca;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,iNat,HySI,DTN;1;5;0;HySI;;544954
+Astata kashmirensis;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI,DTN;12;16;1;HySI;;285601;705640;285603
+Astata picea;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD;2;2;1;;;889964
+Astata pontica;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;1;1;1;;;705641
+Dryudella esterinae;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;2;3;1;;;967869
+Dryudella femorallis;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI,DTN;;;;FE;gap;285659
+Dryudella lineata;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;2;2;1;HySI;;501987
+Dryudella picticornis;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;1;1;1;HySI;;705643
+Dryudella pinguis;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI,DTN;12;17;3;HySI;;285660
+Dryudella stigma;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI,DTN;13;15;1;HySI;;314629
+Dryudella tricolor;Arthropoda;Insecta;Hymenoptera;Astatidae;BOLD,FE,HySI;2;7;1;HySI;;544964

@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Batrachotaenia carpathica;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;;gap;
+Corallobothrium parafimbriatum;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;;gap;
+Glanitaenia osculata;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;BOLD;0;4;0;;gap;905331
+Ophiotaenia europaea;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;0;4;0;;gap;1151522
+Ophiotaenia nattereri;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Ophiotaenia racemosa;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus agonis;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;;gap;
+Proteocephalus ambiguus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus cernuae;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus esocis;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus filicollis;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE,WORMS;;;;WORMS;gap;
+Proteocephalus gobiorum;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;BOLD,FE;0;1;0;;gap;905203
+Proteocephalus hemisphaericus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus longicollis;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE,WORMS;;;;WORMS;gap;
+Proteocephalus macrocephalus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;BOLD,FE,WORMS;1;1;1;WORMS;;671332
+Proteocephalus neglectus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;;gap;
+Proteocephalus osculatus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus parallacticus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;;gap;
+Proteocephalus percae;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;BOLD,FE,WORMS;0;1;0;WORMS;gap;905206
+Proteocephalus pollanicola;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;;gap;
+Proteocephalus sagittus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;BOLD,FE;0;1;0;FE;gap;905207
+Proteocephalus tetrastomus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE,WORMS;;;;WORMS;gap;
+Proteocephalus thymalli;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;
+Proteocephalus torulosus;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;WORMS;gap;
+Silurotaenia siluri;Platyhelminthes;Cestoda;Proteocephalidea;Proteocephalidae;FE;;;;FE;gap;

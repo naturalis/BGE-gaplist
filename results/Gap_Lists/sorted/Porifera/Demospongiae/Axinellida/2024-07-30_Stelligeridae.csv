@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halicnemia geniculata;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;;gap;
+Halicnemia patera;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;WORMS;gap;
+Higginsia mediterranea;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;;gap;
+Higginsia pyriformis;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;;gap;
+Higginsia strigilata;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;WORMS;gap;
+Higginsia thielei;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;WORMS;gap;
+Paratimea constellata;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;1;1;1;WORMS;;239849
+Paratimea hoffmannae;Porifera;Demospongiae;Axinellida;Stelligeridae;BOLD;1;1;1;;;966367
+Paratimea lalori;Porifera;Demospongiae;Axinellida;Stelligeridae;BOLD;1;1;1;;;966368
+Paratimea loennbergi;Porifera;Demospongiae;Axinellida;Stelligeridae;BOLD,WORMS;3;3;0;WORMS;;239852
+Paratimea loricata;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;WORMS;gap;
+Paratimea oxeata;Porifera;Demospongiae;Axinellida;Stelligeridae;BOLD,WORMS;1;1;1;;;239854
+Paratimea pierantonii;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;WORMS;gap;
+Stelligera mutila;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;WORMS;gap;
+Stelligera nux;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;;;;;gap;
+Stelligera rigida;Porifera;Demospongiae;Axinellida;Stelligeridae;BOLD;4;4;1;;;239860
+Stelligera stuposa;Porifera;Demospongiae;Axinellida;Stelligeridae;WORMS;3;3;2;WORMS;;239861

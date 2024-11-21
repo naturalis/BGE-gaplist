@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eulinognathus biuncatus;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Haemodipsus leporis;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Haemodipsus lyriocephalus;Arthropoda;Insecta;Psocodea;Polyplacidae;BOLD,FE;0;3;0;FE;gap;957461
+Haemodipsus setoni;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Haemodipsus ventricosus;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;FE;gap;
+Linognathoides laeviusculus;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;0;1;0;FE;gap;940200
+Linognathoides pectinifer;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;FE;gap;
+Neohaematopinus schizodactylus;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Neohaematopinus sciuri;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;0;2;0;;gap;170989
+Polyplax antennata;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Polyplax borealis;Arthropoda;Insecta;Psocodea;Polyplacidae;BOLD,FE;3;3;2;;;104871
+Polyplax bureschi;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Polyplax chinensis;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Polyplax ellobii;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;FE;gap;
+Polyplax gracilis;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;;gap;
+Polyplax hannswrangeli;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;FE;gap;
+Polyplax reclinata;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;FE;gap;
+Polyplax serrata;Arthropoda;Insecta;Psocodea;Polyplacidae;BOLD,FE;24;480;9;FE;;940471
+Polyplax spinigera;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;;;;FE;gap;
+Polyplax spinulosa;Arthropoda;Insecta;Psocodea;Polyplacidae;FE;5;10;2;FE;;653396

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bythotiara murrayi;Cnidaria;Hydrozoa;Anthoathecata;Bythotiaridae;BOLD,WORMS;9;9;1;;;746457
+Calycopsis gara;Cnidaria;Hydrozoa;Anthoathecata;Bythotiaridae;WORMS;;;;;gap;
+Calycopsis krampi;Cnidaria;Hydrozoa;Anthoathecata;Bythotiaridae;WORMS;;;;;gap;
+Calycopsis simplex;Cnidaria;Hydrozoa;Anthoathecata;Bythotiaridae;BOLD,WORMS;1;1;1;;;805464

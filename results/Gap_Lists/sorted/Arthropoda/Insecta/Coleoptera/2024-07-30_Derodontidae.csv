@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Derodontus macularis;Arthropoda;Insecta;Coleoptera;Derodontidae;BOLD,FE;3;3;1;FE;;396021
+Derodontus ossetious;Arthropoda;Insecta;Coleoptera;Derodontidae;FE;;;;;gap;
+Derodontus raffrayi;Arthropoda;Insecta;Coleoptera;Derodontidae;FE;;;;;gap;
+Laricobius caucasicus;Arthropoda;Insecta;Coleoptera;Derodontidae;FE;1;1;1;;;520778
+Laricobius erichsoni;Arthropoda;Insecta;Coleoptera;Derodontidae;FE;;;;;gap;
+Laricobius erichsonii;Arthropoda;Insecta;Coleoptera;Derodontidae;BOLD;12;17;1;;;492367
+Laricobius nigrinus;Arthropoda;Insecta;Coleoptera;Derodontidae;BOLD;459;463;2;;;90127

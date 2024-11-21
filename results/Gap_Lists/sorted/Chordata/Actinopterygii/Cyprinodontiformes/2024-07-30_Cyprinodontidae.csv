@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aphanius almiriensis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;11;11;1;;;598538
+Aphanius baeticus;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD,FE;6;6;1;;;598469
+Aphanius dispar;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;WORMS;;;;WORMS;gap;
+Aphanius farsicus;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;15;15;1;WORMS;;807028
+Aphanius fasciatus;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD,FE,WORMS;71;72;1;FB;;324080
+Aphanius iberus;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD,FE,WORMS;22;26;1;WORMS;;492774
+Aphanius kavirensis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;7;8;1;;;807065
+Aphanius marassantensis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;8;9;0;;;807052
+Aphanius mento;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;67;83;8;FB;;598498
+Aphanius meridonalis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;0;2;0;;gap;905431
+Aphanius splendens;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;0;2;0;FB;gap;905432
+Crenichthys baileyi;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;;;;FB;gap;
+Cualac tessellatus;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;3;7;1;FB;;305790
+Cubanichthys cubensis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;8;9;1;WORMS;;302433
+Cyprinodon bobmilleri;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;2;7;1;;;300194
+Cyprinodon brontotheroides;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;2;2;0;;;905435
+Cyprinodon dearborni;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;1;2;1;FB;;717042
+Cyprinodon elegans;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;2;3;0;;;905433
+Cyprinodon fontinalis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;1;2;0;;;905436
+Cyprinodon julimes;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;2;2;0;;;905434
+Cyprinodon meeki;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;1;2;0;;;378121
+Cyprinodon nevadensis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;2;3;1;FB;;752053;899171
+Cyprinodon rubrofluviatilis;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;3;4;1;FB;;105169
+Cyprinodon verecundus;Chordata;Actinopterygii;Cyprinodontiformes;Cyprinodontidae;BOLD;3;7;1;;;174743

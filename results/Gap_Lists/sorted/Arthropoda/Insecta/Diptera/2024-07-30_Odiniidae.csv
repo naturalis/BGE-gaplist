@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Neoalticomerus formosus;Arthropoda;Insecta;Diptera;Odiniidae;FE;;;;FE;gap;
+Odinia boletina;Arthropoda;Insecta;Diptera;Odiniidae;BOLD,FE,SyDip;2;4;2;ITIS;;510684
+Odinia czernyi;Arthropoda;Insecta;Diptera;Odiniidae;BOLD,FE,SyDip;4;4;1;;;469885
+Odinia hendeli;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Odinia loewi;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Odinia maculata;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;SyDip;gap;
+Odinia meijerei;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;3;3;1;SyDip;;720121
+Odinia ornata;Arthropoda;Insecta;Diptera;Odiniidae;BOLD,FE,SyDip;2;2;1;SyDip;;495166
+Odinia photophila;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Odinia pomona;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Odinia trifida;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Odinia xanthocera;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Turanodinia nigripalpis;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;;gap;
+Turanodinia tisciae;Arthropoda;Insecta;Diptera;Odiniidae;FE,SyDip;;;;SyDip;gap;

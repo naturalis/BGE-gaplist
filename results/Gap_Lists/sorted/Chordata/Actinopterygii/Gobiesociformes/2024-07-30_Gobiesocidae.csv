@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acyrtus rubiginosus;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;BOLD;42;44;2;WORMS;;99967
+Apletodon bacescui;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;WORMS;;;;WORMS;gap;
+Apletodon incognitus;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;WORMS;;;;;gap;
+Apletodon pellegrini;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;WORMS;;;;WORMS;gap;
+Diplecogaster euxinica;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;BOLD,WORMS;;;;WORMS;gap;
+Diplecogaster pectoralis;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;WORMS;;;;WORMS;gap;
+Discotrema crinophilum;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;BOLD;8;8;1;WORMS;;706495
+Gouania willdenowi;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;BOLD,WORMS;6;6;1;WORMS;;1012296
+Lepadogaster purpurea;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;BOLD,WORMS;7;7;1;WORMS;;682513
+Opeatogenys gracilis;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;WORMS;;;;WORMS;gap;
+Pherallodus indicus;Chordata;Actinopterygii;Gobiesociformes;Gobiesocidae;BOLD;1;2;1;WORMS;;802258

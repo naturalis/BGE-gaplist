@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mycterus curculioides;Arthropoda;Insecta;Coleoptera;Mycteridae;BOLD,FE;8;8;2;FE;;559692
+Mycterus tibialis;Arthropoda;Insecta;Coleoptera;Mycteridae;FE;;;;;gap;
+Mycterus umbellatarum;Arthropoda;Insecta;Coleoptera;Mycteridae;FE;;;;;gap;

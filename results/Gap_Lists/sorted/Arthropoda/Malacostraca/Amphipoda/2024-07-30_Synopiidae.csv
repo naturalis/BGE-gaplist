@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Austrosyrrhoe fimbriatus;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;WORMS;gap;
+Austrosyrrhoe septentrionalis;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;;gap;
+Bruzelia tuberculata;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;0;4;0;;gap;597892
+Bruzelia typica;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;3;3;1;;;597896
+Pseudotiron bouvieri;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;0;1;0;;gap;348713
+Stephobruzelia dentata;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;WORMS;gap;
+Syrrhoe affinis;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;1;8;0;;;273955
+Syrrhoe angulipes;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;;gap;
+Syrrhoe crenulata;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;14;18;6;;;183053
+Syrrhoites barnardi;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;;gap;
+Syrrhoites capricornia;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;;gap;
+Syrrhoites cornuta;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;;;;;gap;
+Syrrhoites pusilla;Arthropoda;Malacostraca;Amphipoda;Synopiidae;WORMS;1;3;1;;;771554
+Syrrhoites serrata;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;4;4;1;WORMS;;766866
+Syrrhoites serratus;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD;1;1;1;;;597890
+Tiron spiniferus;Arthropoda;Malacostraca;Amphipoda;Synopiidae;BOLD,WORMS;4;7;1;WORMS;;361872

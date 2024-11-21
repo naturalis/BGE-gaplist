@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cordylophora caspia;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;BOLD,FE,WORMS;85;95;6;WORMS;;668993
+Corydendrium dispar;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;BOLD,WORMS;2;5;0;;;726293
+Corydendrium parasiticum;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;WORMS;;;;WORMS;gap;
+Merona cornucopiae;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;BOLD,WORMS;1;1;1;WORMS;;726312
+Merona ibera;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;WORMS;;;;;gap;
+Oceania armata;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;BOLD,WORMS;6;7;1;WORMS;;781145
+Turritopsis dohrnii;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;BOLD;17;20;3;WORMS;;767041
+Turritopsis nutricula;Cnidaria;Hydrozoa;Anthoathecata;Oceaniidae;WORMS;7;11;2;WORMS;;149602

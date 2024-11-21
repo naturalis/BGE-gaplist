@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Filaroides arator;Nematoda;Chromadorea;Strongylida;Filaroididae;FE;;;;;gap;
+Filaroides hirthi;Nematoda;Chromadorea;Strongylida;Filaroididae;FE;;;;;gap;
+Filaroides martis;Nematoda;Chromadorea;Strongylida;Filaroididae;FE;;;;FE;gap;
+Filaroides milksi;Nematoda;Chromadorea;Strongylida;Filaroididae;FE;;;;;gap;
+Oslerus osleri;Nematoda;Chromadorea;Strongylida;Filaroididae;FE;;;;FE;gap;
+Oslerus rostratus;Nematoda;Chromadorea;Strongylida;Filaroididae;FE;;;;FE;gap;
+Parafilaria bovicola;Nematoda;Chromadorea;Strongylida;Filaroididae;BOLD,FE;54;54;1;;;1121656
+Parafilaroides gymnurus;Nematoda;Chromadorea;Strongylida;Filaroididae;FE,WORMS;2;2;1;WORMS;;896845

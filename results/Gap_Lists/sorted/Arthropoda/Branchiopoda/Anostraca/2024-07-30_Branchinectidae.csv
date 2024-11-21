@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Branchinecta ferox;Arthropoda;Branchiopoda;Anostraca;Branchinectidae;BOLD,FE;36;42;4;ITIS;;955829
+Branchinecta minuta;Arthropoda;Branchiopoda;Anostraca;Branchinectidae;FE;;;;;gap;
+Branchinecta orientalis;Arthropoda;Branchiopoda;Anostraca;Branchinectidae;FE;82;101;4;ITIS;;973801
+Branchinecta paludosa;Arthropoda;Branchiopoda;Anostraca;Branchinectidae;BOLD,FE;268;271;2;FE;;16239
+Branchinecta tolli;Arthropoda;Branchiopoda;Anostraca;Branchinectidae;FE;1;1;1;ITIS;;649767

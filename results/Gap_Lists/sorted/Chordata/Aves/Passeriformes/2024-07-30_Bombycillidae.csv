@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bombycilla cedrorum;Chordata;Aves;Passeriformes;Bombycillidae;FE;8;32;1;;;9606
+Bombycilla garrulus;Chordata;Aves;Passeriformes;Bombycillidae;BOLD,FE,iNat;44;53;1;FE;;19301
+Bombycilla japonica;Chordata;Aves;Passeriformes;Bombycillidae;BOLD;12;12;1;;;116948

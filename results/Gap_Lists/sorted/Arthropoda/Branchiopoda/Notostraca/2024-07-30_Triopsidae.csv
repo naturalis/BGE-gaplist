@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lepidurus apus;Arthropoda;Branchiopoda;Notostraca;Triopsidae;BOLD,FE,iNat;30;33;4;ITIS;;103359;651894
+Lepidurus arcticus;Arthropoda;Branchiopoda;Notostraca;Triopsidae;BOLD,FE;20;21;2;ITIS;;176866
+Lepidurus couesii;Arthropoda;Branchiopoda;Notostraca;Triopsidae;FE;20;21;3;ITIS;;82269
+Triops cancriformis;Arthropoda;Branchiopoda;Notostraca;Triopsidae;BOLD,FE,iNat;172;177;5;ITIS;;30311
+Triops mauritanicus;Arthropoda;Branchiopoda;Notostraca;Triopsidae;BOLD;12;12;8;;;503414
+Triops newberryi;Arthropoda;Branchiopoda;Notostraca;Triopsidae;BOLD;25;25;1;ITIS;;654593
+Triops numidicus;Arthropoda;Branchiopoda;Notostraca;Triopsidae;FE;;;;FE;gap;

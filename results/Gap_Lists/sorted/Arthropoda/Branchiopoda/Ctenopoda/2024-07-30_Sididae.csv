@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diaphanosoma brachyurum;Arthropoda;Branchiopoda;Ctenopoda;Sididae;BOLD,FE;81;85;3;WORMS;;51864
+Diaphanosoma chankensis;Arthropoda;Branchiopoda;Ctenopoda;Sididae;FE;;;;FE;gap;
+Diaphanosoma lacustris;Arthropoda;Branchiopoda;Ctenopoda;Sididae;FE;;;;;gap;
+Diaphanosoma mongolianum;Arthropoda;Branchiopoda;Ctenopoda;Sididae;BOLD,FE;49;49;1;;;500215
+Latona setifera;Arthropoda;Branchiopoda;Ctenopoda;Sididae;BOLD,FE;0;8;0;WORMS;gap;51863
+Latonopsis australis;Arthropoda;Branchiopoda;Ctenopoda;Sididae;FE;37;41;1;;;52825
+Limnosida frontosa;Arthropoda;Branchiopoda;Ctenopoda;Sididae;BOLD,FE;1;4;0;;;746784
+Penilia avirostris;Arthropoda;Branchiopoda;Ctenopoda;Sididae;BOLD,WORMS;40;65;1;WORMS;;103353
+Pseudosida bidentata;Arthropoda;Branchiopoda;Ctenopoda;Sididae;FE;;;;;gap;
+Sida crystallina;Arthropoda;Branchiopoda;Ctenopoda;Sididae;BOLD,FE;137;158;8;WORMS;;15713

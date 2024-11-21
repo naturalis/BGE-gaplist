@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eohypochthonius holleri;Arthropoda;Arachnida;Sarcoptiformes;Hypochthoniidae;FE;;;;FE;gap;
+Eohypochthonius parvus;Arthropoda;Arachnida;Sarcoptiformes;Hypochthoniidae;FE;;;;;gap;
+Hypochthonius lalirostris;Arthropoda;Arachnida;Sarcoptiformes;Hypochthoniidae;FE;;;;;gap;
+Hypochthonius luteus;Arthropoda;Arachnida;Sarcoptiformes;Hypochthoniidae;BOLD,FE;19;21;2;;;360217
+Hypochthonius rufulus;Arthropoda;Arachnida;Sarcoptiformes;Hypochthoniidae;BOLD,FE;55;104;8;;;216787

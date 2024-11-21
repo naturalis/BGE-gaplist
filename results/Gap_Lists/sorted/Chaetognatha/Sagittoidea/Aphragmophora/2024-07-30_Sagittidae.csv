@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caecosagitta macrocephala;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;4;65;0;WORMS;;216025
+Ferosagitta hispida;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;
+Flaccisagitta enflata;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;18;203;3;WORMS;;216039;302386
+Flaccisagitta hexaptera;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;0;25;0;WORMS;gap;216040;667840
+Mesosagitta minima;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;
+Parasagitta elegans;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;BOLD,WORMS;55;175;19;WORMS;;216061;714487
+Parasagitta friderici;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;
+Parasagitta megalophthalma;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;
+Parasagitta setosa;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;BOLD,WORMS;6;40;1;WORMS;;216067;216082
+Pseudosagitta lyra;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;14;31;7;WORMS;;216071;302385
+Pseudosagitta maxima;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;BOLD,WORMS;42;43;3;WORMS;;216072
+Sagitta bipunctata;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;5;11;3;;;216074
+Serratosagitta serratodentata;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;
+Serratosagitta tasmanica;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;
+Solidosagitta planctonis;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;3;3;1;WORMS;;216093
+Solidosagitta zetesios;Chaetognatha;Sagittoidea;Aphragmophora;Sagittidae;WORMS;;;;WORMS;gap;

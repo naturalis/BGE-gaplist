@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Antarctophthirus trichechi;Arthropoda;Insecta;Phthiraptera;Echinophthiriidae;FE;;;;WORMS;gap;
+Echinophthirius horridus;Arthropoda;Insecta;Phthiraptera;Echinophthiriidae;FE;0;4;0;WORMS;gap;237288
+Lepidophthirus piriformis;Arthropoda;Insecta;Phthiraptera;Echinophthiriidae;FE;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dorypteryx domestica;Arthropoda;Insecta;Psocodea;Psyllipsocidae;BOLD,FE;37;42;1;FE;;542799
+Dorypteryx longipennis;Arthropoda;Insecta;Psocodea;Psyllipsocidae;BOLD,FE,iNat;6;6;1;;;700426
+Dorypteryx pallida;Arthropoda;Insecta;Psocodea;Psyllipsocidae;FE;;;;;gap;
+Psocathropos lachlani;Arthropoda;Insecta;Psocodea;Psyllipsocidae;FE;;;;;gap;
+Psyllipsocus ramburii;Arthropoda;Insecta;Psocodea;Psyllipsocidae;BOLD,FE;0;1;0;;gap;596428

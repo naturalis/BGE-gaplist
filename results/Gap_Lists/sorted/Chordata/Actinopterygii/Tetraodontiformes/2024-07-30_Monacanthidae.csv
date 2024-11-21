@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aluterus monoceros;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;WORMS;;;;WORMS;gap;
+Aluterus scriptus;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;51;59;1;WORMS;;86772
+Cantherhines dumerilii;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;31;32;1;WORMS;;89248
+Cantherhines macrocerus;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;5;6;1;WORMS;;87556
+Cantherhines pardalis;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;57;62;1;WORMS;;18027
+Monacanthus ciliatus;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;57;64;2;WORMS;;58306
+Monacanthus tuckeri;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;28;29;1;ITIS;;71602
+Oxymonacanthus longirostris;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;20;22;2;WORMS;;47246
+Pervagor janthinosoma;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;BOLD;15;20;2;WORMS;;108677
+Stephanolepis diaspros;Chordata;Actinopterygii;Tetraodontiformes;Monacanthidae;WORMS;;;;WORMS;gap;

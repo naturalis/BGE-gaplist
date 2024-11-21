@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Istiompax indica;Chordata;Actinopterygii;Istiophoriformes;Istiophoridae;BOLD,WORMS;39;42;2;WORMS;;102998
+Istiophorus platypterus;Chordata;Actinopterygii;Istiophoriformes;Istiophoridae;WORMS;;;;WORMS;gap;
+Tetrapturus belone;Chordata;Actinopterygii;Istiophoriformes;Istiophoridae;BOLD,WORMS;13;13;1;WORMS;;96257
+Tetrapturus georgii;Chordata;Actinopterygii;Istiophoriformes;Istiophoridae;WORMS;;;;WORMS;gap;
+Tetrapturus pfluegeri;Chordata;Actinopterygii;Istiophoriformes;Istiophoridae;WORMS;;;;WORMS;gap;

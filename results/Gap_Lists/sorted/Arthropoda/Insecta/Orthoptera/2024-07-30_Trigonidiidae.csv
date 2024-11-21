@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyrtoxipha columbiana;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD;10;10;2;;;266829
+Natula averni;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD,FE;12;12;2;FE;;766699
+Nemobius interstitialis;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD;5;6;0;;;1045426
+Nemobius sylvestris;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD,FE,iNat;32;34;3;FE;;261079
+Pteronemobius heydenii;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD,FE,iNat;11;18;2;FE;;471444
+Pteronemobius lineolatus;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD,FE,iNat;6;7;1;FE;;1050561
+Stenonemobius bicolor;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD,FE;1;1;1;FE;;331368
+Trigonidium cicindeloides;Arthropoda;Insecta;Orthoptera;Trigonidiidae;BOLD,FE;29;31;2;;;471454

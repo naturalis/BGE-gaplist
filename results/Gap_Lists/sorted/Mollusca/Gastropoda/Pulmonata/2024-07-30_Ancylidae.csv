@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ancylus fluviatilis;Mollusca;Gastropoda;Pulmonata;Ancylidae;BOLD,FE,iNat;172;250;7;FE;;29499
+Ancylus lapicidus;Mollusca;Gastropoda;Pulmonata;Ancylidae;BOLD,FE;7;7;1;;;106456
+Ancylus recurvus;Mollusca;Gastropoda;Pulmonata;Ancylidae;BOLD;3;5;1;;;732918
+Ancylus scalariformis;Mollusca;Gastropoda;Pulmonata;Ancylidae;BOLD,FE;3;3;1;;;106454
+Ancylus tapirulus;Mollusca;Gastropoda;Pulmonata;Ancylidae;BOLD,FE;1;1;1;;;106455

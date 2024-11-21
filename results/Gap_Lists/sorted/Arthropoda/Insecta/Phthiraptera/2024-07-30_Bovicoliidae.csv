@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bisonicola sedecimdecembrii;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;
+Bovicola alpinus;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;;gap;
+Bovicola bovis;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;1;1;1;FE;;940189
+Bovicola caprae;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;12;14;3;FE;;940187
+Bovicola crassipes;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;
+Bovicola limbatus;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;
+Bovicola longicornis;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;
+Bovicola tarandi;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;
+Bovicola tibialis;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;0;1;0;FE;gap;940186
+Werneckiella equi;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;
+Werneckiella ocellata;Arthropoda;Insecta;Phthiraptera;Bovicoliidae;FE;;;;FE;gap;

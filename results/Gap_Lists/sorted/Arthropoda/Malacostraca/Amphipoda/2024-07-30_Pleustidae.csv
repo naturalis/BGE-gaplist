@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mesopleustes abyssorum;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;WORMS;gap;
+Neopleustes boecki;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD;1;1;1;WORMS;;746542
+Neopleustes pulchellus;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;5;15;2;WORMS;;512586
+Parapleustes assimilis;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;9;12;1;WORMS;;991746
+Parapleustes bicuspis;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;1;9;1;WORMS;;212384
+Parapleustes gracilis;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;WORMS;gap;
+Parapleustes monocuspis;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;3;4;1;WORMS;;512593
+Pleustes cataphractus;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;WORMS;gap;
+Pleustes panoplus;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD;10;16;1;;;142551
+Pleustomesus medius;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;WORMS;gap;
+Pleusymtes glaber;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;9;17;1;WORMS;;512599
+Pleusymtes glabroides;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;WORMS;gap;
+Pleusymtes mediterraneus;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;WORMS;gap;
+Pleusymtes pulchella;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;2;6;2;WORMS;;683986;597901
+Stenopleustes eldingi;Arthropoda;Malacostraca;Amphipoda;Pleustidae;WORMS;;;;;gap;
+Stenopleustes latipes;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;9;11;1;WORMS;;88709;894403
+Stenopleustes malmgreni;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;1;4;1;WORMS;;894405
+Stenopleustes nodifera;Arthropoda;Malacostraca;Amphipoda;Pleustidae;BOLD,WORMS;0;4;0;WORMS;gap;991750

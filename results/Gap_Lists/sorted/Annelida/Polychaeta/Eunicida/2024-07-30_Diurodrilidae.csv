@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diurodrilus benazzii;Annelida;Polychaeta;Eunicida;Diurodrilidae;WORMS;;;;;gap;
+Diurodrilus dohrni;Annelida;Polychaeta;Eunicida;Diurodrilidae;WORMS;;;;;gap;
+Diurodrilus minimus;Annelida;Polychaeta;Eunicida;Diurodrilidae;WORMS;;;;;gap;
+Diurodrilus subterraneus;Annelida;Polychaeta;Eunicida;Diurodrilidae;BOLD,WORMS;1;2;1;;;671105

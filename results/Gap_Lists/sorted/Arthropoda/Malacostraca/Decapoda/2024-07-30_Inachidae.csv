@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Achaeus cranchii;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;WORMS;gap;
+Achaeus gracilis;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;WORMS;gap;
+Dorhynchus thomsoni;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;9;16;2;WORMS;;768395
+Ergasticus clouei;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;12;12;1;;;89943
+Inachus aguiarii;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;2;5;1;;;414181
+Inachus communissimus;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;WORMS;gap;
+Inachus dorsettensis;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;29;46;2;WORMS;;89899
+Inachus grallator;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;;gap;
+Inachus guentheri;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;WORMS;gap;
+Inachus leptochirus;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;1;8;1;WORMS;;89941
+Inachus nanus;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;;gap;
+Inachus parvirostris;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;WORMS;gap;
+Inachus phalangium;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;11;14;3;WORMS;;708880
+Inachus thoracicus;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;1;5;1;WORMS;;414180
+Macropodia czernjawskii;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;8;15;1;WORMS;;981092
+Macropodia deflexa;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;;gap;
+Macropodia hesperiae;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;;gap;
+Macropodia intermedia;Arthropoda;Malacostraca;Decapoda;Inachidae;WORMS;;;;WORMS;gap;
+Macropodia linaresi;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;1;4;0;;;684049
+Macropodia longirostris;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;2;5;1;WORMS;;89926
+Macropodia rostrata;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;45;83;1;WORMS;;179014;343763
+Macropodia tenuirostris;Arthropoda;Malacostraca;Decapoda;Inachidae;BOLD,WORMS;53;77;1;WORMS;;178996;89897

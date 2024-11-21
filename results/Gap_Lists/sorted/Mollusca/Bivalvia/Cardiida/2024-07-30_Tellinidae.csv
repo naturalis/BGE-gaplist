@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arcopagia crassa;Mollusca;Bivalvia;Cardiida;Tellinidae;WORMS;;;;WORMS;gap;
+Asbjornsenia pygmaea;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD;1;2;1;WORMS;;991198;674000
+Bosemprella incarnata;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD;2;2;1;WORMS;;901225
+Gastrana fragilis;Mollusca;Bivalvia;Cardiida;Tellinidae;WORMS;;;;WORMS;gap;
+Macoma balthica;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD,WORMS,iNat;22;30;3;WORMS;;104965;887702;1077924
+Macoma calcarea;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD,WORMS;218;260;2;WORMS;;370992
+Macomangulus tenuis;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD;6;12;1;WORMS;;795587;642813
+Moerella donacina;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD;2;3;1;WORMS;;901251
+Serratina serrata;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD;2;2;1;WORMS;;901252
+Strigilla pseudocarnaria;Mollusca;Bivalvia;Cardiida;Tellinidae;WORMS;;;;WORMS;gap;
+Tellina fabula;Mollusca;Bivalvia;Cardiida;Tellinidae;BOLD;0;1;0;ITIS;gap;642794;893982

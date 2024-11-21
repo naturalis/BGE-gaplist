@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pelates quadrilineatus;Chordata;Actinopterygii;Perciformes;Terapontidae;WORMS;;;;WORMS;gap;
+Terapon jarbua;Chordata;Actinopterygii;Perciformes;Terapontidae;BOLD;602;703;6;WORMS;;11157
+Terapon puta;Chordata;Actinopterygii;Perciformes;Terapontidae;WORMS;;;;WORMS;gap;

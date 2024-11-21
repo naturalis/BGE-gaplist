@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cynedesmus formicola;Arthropoda;Diplopoda;Polydesmida;Pyrgodesmidae;FE;;;;;gap;
+Poratia digitata;Arthropoda;Diplopoda;Polydesmida;Pyrgodesmidae;BOLD,FE;1;2;0;FE;;1021613
+Poratia obliterata;Arthropoda;Diplopoda;Polydesmida;Pyrgodesmidae;FE;;;;FE;gap;
+Tonodesmus bolivari;Arthropoda;Diplopoda;Polydesmida;Pyrgodesmidae;FE;;;;;gap;
+Tonodesmus robustior;Arthropoda;Diplopoda;Polydesmida;Pyrgodesmidae;FE;;;;;gap;

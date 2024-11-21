@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crenosoma caucasicum;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;;gap;
+Crenosoma lophocara;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;;gap;
+Crenosoma melesi;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;7;7;1;;;1163670
+Crenosoma petrowi;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;8;8;2;;;1163671
+Crenosoma semiarmatum;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;;gap;
+Crenosoma striatum;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;44;45;2;FE;;656578
+Crenosoma taiga;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;;gap;
+Crenosoma vulpis;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;6;6;2;FE;;1163672
+Otostrongylus circumlitus;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;WORMS;gap;
+Paracrenosoma combesi;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;;gap;
+Paracrenosoma kontrimavichusi;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;;gap;
+Paracrenosoma skrjabini;Nematoda;Chromadorea;Strongylida;Crenosomatidae;FE;;;;FE;gap;
+Troglostrongylus brevior;Nematoda;Chromadorea;Strongylida;Crenosomatidae;BOLD,FE;1;3;1;;;717820

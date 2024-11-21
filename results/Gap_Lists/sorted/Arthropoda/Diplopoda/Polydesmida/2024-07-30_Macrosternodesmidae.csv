@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Macrosternodesmus palicola;Arthropoda;Diplopoda;Polydesmida;Macrosternodesmidae;BOLD,FE;2;13;0;FE;;311666
+Ophiodesmus albonanus;Arthropoda;Diplopoda;Polydesmida;Macrosternodesmidae;BOLD,FE;0;8;0;FE;gap;311664
+Verhoeffodesmus fragilipes;Arthropoda;Diplopoda;Polydesmida;Macrosternodesmidae;FE;;;;;gap;
+Verhoeffodesmus troglobius;Arthropoda;Diplopoda;Polydesmida;Macrosternodesmidae;FE;;;;;gap;

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthochitona crinita;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae;BOLD,WORMS;28;40;3;WORMS;;30953
+Acanthochitona discrepans;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae;WORMS;;;;WORMS;gap;
+Acanthochitona fascicularis;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae;BOLD,WORMS;13;16;3;WORMS;;646443
+Acanthochitona hemphilli;Mollusca;Polyplacophora;Chitonida;Acanthochitonidae;BOLD;9;11;3;WORMS;;669087

@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bacillus atticus;Arthropoda;Insecta;Phasmatodea;Bacillidae;FE;2;4;1;FE;;670360
+Bacillus grandii;Arthropoda;Insecta;Phasmatodea;Bacillidae;FE;;;;;gap;
+Bacillus lynceorum;Arthropoda;Insecta;Phasmatodea;Bacillidae;FE;;;;;gap;
+Bacillus rossius;Arthropoda;Insecta;Phasmatodea;Bacillidae;FE;14;26;2;FE;;670361
+Bacillus tripolitanus;Arthropoda;Insecta;Phasmatodea;Bacillidae;FE;;;;FE;gap;
+Bacillus whitei;Arthropoda;Insecta;Phasmatodea;Bacillidae;FE;;;;;gap;
+Clonopsis gallica;Arthropoda;Insecta;Phasmatodea;Bacillidae;BOLD,FE;9;16;1;FE;;974834

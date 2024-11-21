@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cardellina canadensis;Chordata;Aves;Passeriformes;Parulidae;FE;15;25;1;ITIS;;670004
+Cardellina pusilla;Chordata;Aves;Passeriformes;Parulidae;FE;40;64;1;ITIS;;670005
+Geothlypis trichas;Chordata;Aves;Passeriformes;Parulidae;FE;29;59;1;FE;;11648
+Leiothlypis peregrina;Chordata;Aves;Passeriformes;Parulidae;FE;23;63;1;ITIS;;858233
+Mniotilta varia;Chordata;Aves;Passeriformes;Parulidae;FE;29;56;1;FE;;9780
+Parkesia noveboracensis;Chordata;Aves;Passeriformes;Parulidae;FE;45;83;1;ITIS;;670021
+Seiurus aurocapilla;Chordata;Aves;Passeriformes;Parulidae;FE;40;63;1;ITIS;;9775
+Setophaga americana;Chordata;Aves;Passeriformes;Parulidae;FE;16;28;1;ITIS;;670034
+Setophaga caerulescens;Chordata;Aves;Passeriformes;Parulidae;FE;22;36;1;ITIS;;670036
+Setophaga citrina;Chordata;Aves;Passeriformes;Parulidae;FE;8;14;2;ITIS;;670039
+Setophaga coronata;Chordata;Aves;Passeriformes;Parulidae;FE;47;86;1;ITIS;;670040
+Setophaga fusca;Chordata;Aves;Passeriformes;Parulidae;FE;13;23;1;ITIS;;670043
+Setophaga magnolia;Chordata;Aves;Passeriformes;Parulidae;FE;35;66;1;ITIS;;670046
+Setophaga pensylvanica;Chordata;Aves;Passeriformes;Parulidae;FE;22;37;1;ITIS;;670050
+Setophaga petechia;Chordata;Aves;Passeriformes;Parulidae;FE;71;121;2;ITIS;;670051
+Setophaga ruticilla;Chordata;Aves;Passeriformes;Parulidae;FE;27;55;1;FE;;9779
+Setophaga tigrina;Chordata;Aves;Passeriformes;Parulidae;FE;14;25;1;ITIS;;670058
+Setophaga virens;Chordata;Aves;Passeriformes;Parulidae;FE;16;37;2;ITIS;;670060
+Vermivora chrysoptera;Chordata;Aves;Passeriformes;Parulidae;FE;6;10;1;FE;;9817

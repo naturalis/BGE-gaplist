@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agnathus decoratus;Arthropoda;Insecta;Coleoptera;Pyrochroidae;FE;1;2;1;FE;;1139845
+Pedilus fuscus;Arthropoda;Insecta;Coleoptera;Pyrochroidae;FE;;;;;gap;
+Pedilus laevicollis;Arthropoda;Insecta;Coleoptera;Pyrochroidae;FE;;;;;gap;
+Pedilus rubricollis;Arthropoda;Insecta;Coleoptera;Pyrochroidae;FE;;;;;gap;
+Pedilus weberi;Arthropoda;Insecta;Coleoptera;Pyrochroidae;FE;;;;;gap;
+Pyrochroa coccinea;Arthropoda;Insecta;Coleoptera;Pyrochroidae;BOLD,FE,iNat;85;97;2;FE;;167272
+Pyrochroa serraticornis;Arthropoda;Insecta;Coleoptera;Pyrochroidae;BOLD,FE,iNat;60;66;3;FE;;167551
+Schizotus pectinicornis;Arthropoda;Insecta;Coleoptera;Pyrochroidae;BOLD,FE,iNat;56;62;1;FE;;330252

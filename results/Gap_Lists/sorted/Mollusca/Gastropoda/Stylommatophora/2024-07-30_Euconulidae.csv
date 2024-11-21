@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Euconulus alderi;Mollusca;Gastropoda;Stylommatophora;Euconulidae;BOLD,iNat;4;15;2;;;659618
+Euconulus callopisticus;Mollusca;Gastropoda;Stylommatophora;Euconulidae;FE;;;;FE;gap;
+Euconulus fulvus;Mollusca;Gastropoda;Stylommatophora;Euconulidae;BOLD,FE,iNat;118;157;6;FE;;312046
+Euconulus praticola;Mollusca;Gastropoda;Stylommatophora;Euconulidae;BOLD,FE;8;8;1;FE;;320988
+Euconulus trochiformis;Mollusca;Gastropoda;Stylommatophora;Euconulidae;FE;;;;FE;gap;1160745

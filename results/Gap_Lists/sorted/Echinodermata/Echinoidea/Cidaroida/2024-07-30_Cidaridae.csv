@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cidaris cidaris;Echinodermata;Echinoidea;Cidaroida;Cidaridae;BOLD,WORMS;2;6;1;WORMS;;217527
+Eucidaris metularia;Echinodermata;Echinoidea;Cidaroida;Cidaridae;BOLD;45;73;4;WORMS;;84370
+Eucidaris tribuloides;Echinodermata;Echinoidea;Cidaroida;Cidaridae;BOLD;73;87;1;WORMS;;148898
+Plococidaris verticillata;Echinodermata;Echinoidea;Cidaroida;Cidaridae;BOLD;9;17;0;WORMS;;415780
+Stereocidaris ingolfiana;Echinodermata;Echinoidea;Cidaroida;Cidaridae;WORMS;;;;WORMS;gap;
+Stylocidaris affinis;Echinodermata;Echinoidea;Cidaroida;Cidaridae;WORMS;;;;WORMS;gap;

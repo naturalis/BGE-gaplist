@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Clathrina cancellata;Porifera;Calcarea;Clathrinida;Clathrinidae;WORMS;;;;WORMS;gap;
+Clathrina clathrus;Porifera;Calcarea;Clathrinida;Clathrinidae;BOLD,WORMS;3;11;0;WORMS;;237503
+Clathrina multiformis;Porifera;Calcarea;Clathrinida;Clathrinidae;WORMS;;;;WORMS;gap;
+Clathrina rubra;Porifera;Calcarea;Clathrinida;Clathrinidae;WORMS;;;;WORMS;gap;

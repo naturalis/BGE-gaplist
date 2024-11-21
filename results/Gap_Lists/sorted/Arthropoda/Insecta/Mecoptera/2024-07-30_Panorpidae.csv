@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aulops alpina;Arthropoda;Insecta;Mecoptera;Panorpidae;BOLD,FE,iNat;;;;FE;gap;107039
+Aulops plitvicensis;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;FE;gap;
+Panorpa annexa;Arthropoda;Insecta;Mecoptera;Panorpidae;BOLD,FE;1;1;1;FE;;765680
+Panorpa clavigera;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;;gap;
+Panorpa cognata;Arthropoda;Insecta;Mecoptera;Panorpidae;BOLD,FE,iNat;23;30;1;;;33139
+Panorpa communis;Arthropoda;Insecta;Mecoptera;Panorpidae;BOLD,FE,iNat;184;203;1;ITIS;;33140;33127
+Panorpa etrusca;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;;gap;
+Panorpa germanica;Arthropoda;Insecta;Mecoptera;Panorpidae;BOLD,FE,iNat;237;267;3;ITIS;;33137
+Panorpa hybrida;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;FE;gap;
+Panorpa lacedaemonia;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;FE;gap;
+Panorpa meridionalis;Arthropoda;Insecta;Mecoptera;Panorpidae;BOLD,FE;13;17;1;;;33134
+Panorpa pieperi;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;;gap;
+Panorpa rufostigma;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;0;1;0;;gap;106593
+Panorpa schweigeri;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;;gap;
+Panorpa thrakica;Arthropoda;Insecta;Mecoptera;Panorpidae;FE;;;;;gap;

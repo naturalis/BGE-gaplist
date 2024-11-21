@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ptychogastria asteroides;Cnidaria;Hydrozoa;Trachymedusae;Ptychogastriidae;WORMS;;;;WORMS;gap;
+Ptychogastria polaris;Cnidaria;Hydrozoa;Trachymedusae;Ptychogastriidae;BOLD,WORMS;18;24;3;WORMS;;798839
+Tesserogastria musculosa;Cnidaria;Hydrozoa;Trachymedusae;Ptychogastriidae;BOLD,WORMS;5;6;1;;;767066

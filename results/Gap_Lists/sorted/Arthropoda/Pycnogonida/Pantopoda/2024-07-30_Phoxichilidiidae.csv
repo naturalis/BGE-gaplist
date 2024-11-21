@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anoplodactylus angulatus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;WORMS;gap;
+Anoplodactylus arnaudae;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;WORMS;gap;236768
+Anoplodactylus californicus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;9;11;2;WORMS;;103220;236829
+Anoplodactylus compositus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;;gap;
+Anoplodactylus maritimus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;5;6;0;ITIS;;236803
+Anoplodactylus massiliensis;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;;gap;
+Anoplodactylus oculatus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;BOLD,WORMS;0;2;0;;gap;236813
+Anoplodactylus petiolatus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;BOLD,WORMS;5;12;3;WORMS;;168322
+Anoplodactylus stocki;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;;gap;
+Anoplodactylus trispinosus;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;;gap;
+Anoplodactylus typhlops;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;WORMS;gap;
+Anoplodactylus virescens;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;WORMS;;;;WORMS;gap;
+Phoxichilidium femoratum;Arthropoda;Pycnogonida;Pantopoda;Phoxichilidiidae;BOLD,WORMS;20;32;2;WORMS;;236861

@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Asiotridactylus fasciatus;Arthropoda;Insecta;Orthoptera;Tridactylidae;FE;;;;FE;gap;
+Bruntridactylus irremipes;Arthropoda;Insecta;Orthoptera;Tridactylidae;FE;;;;FE;gap;
+Bruntridactylus tartarus;Arthropoda;Insecta;Orthoptera;Tridactylidae;FE;;;;FE;gap;
+Xya iberica;Arthropoda;Insecta;Orthoptera;Tridactylidae;BOLD,FE;2;2;1;;;766700
+Xya pfaendleri;Arthropoda;Insecta;Orthoptera;Tridactylidae;BOLD,FE;8;11;2;FE;;331418
+Xya variegata;Arthropoda;Insecta;Orthoptera;Tridactylidae;BOLD,FE;9;13;2;;;331419

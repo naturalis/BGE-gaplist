@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centrolophus niger;Chordata;Actinopterygii;Scombriformes;Centrolophidae;BOLD,WORMS;29;33;1;WORMS;;48005
+Hyperoglyphe perciformis;Chordata;Actinopterygii;Scombriformes;Centrolophidae;WORMS;;;;WORMS;gap;
+Icichthys australis;Chordata;Actinopterygii;Scombriformes;Centrolophidae;BOLD;7;9;1;WORMS;;779399
+Schedophilus medusophagus;Chordata;Actinopterygii;Scombriformes;Centrolophidae;BOLD,WORMS;3;4;1;WORMS;;140598
+Schedophilus ovalis;Chordata;Actinopterygii;Scombriformes;Centrolophidae;WORMS;;;;WORMS;gap;
+Schedophilus velaini;Chordata;Actinopterygii;Scombriformes;Centrolophidae;BOLD;42;43;2;WORMS;;86818;750787

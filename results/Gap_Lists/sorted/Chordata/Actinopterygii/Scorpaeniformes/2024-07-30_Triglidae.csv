@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bellator brachychir;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD;5;5;1;WORMS;;659545
+Bellator egretta;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD;18;18;1;WORMS;;483905
+Chelidonichthys cuculus;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;68;77;1;WORMS;;387974
+Chelidonichthys lastoviza;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;47;60;3;WORMS;;970885
+Chelidonichthys lucerna;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;76;101;1;WORMS;;324077;468896
+Chelidonichthys obscurus;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;21;21;1;WORMS;;10756
+Eutrigla gurnardus;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,iNat;40;50;1;WORMS;;52069
+Lepidotrigla cavillone;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;20;25;1;WORMS;;13176
+Lepidotrigla dieuzeidei;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;23;30;1;WORMS;;24005
+Trigla lyra;Chordata;Actinopterygii;Scorpaeniformes;Triglidae;BOLD,WORMS;51;59;1;;;34227

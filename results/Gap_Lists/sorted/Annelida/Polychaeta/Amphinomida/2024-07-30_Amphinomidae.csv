@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphinome rostrata;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;6;6;1;WORMS;;649157
+Chloeia venusta;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;;;;WORMS;gap;
+Chloeia viridis;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;3;5;1;WORMS;;149541
+Chloenopsis atlantica;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;;;;WORMS;gap;
+Eurythoe complanata;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;39;50;5;WORMS;;100808
+Eurythoe syriaca;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;;;;;gap;
+Hermodice carunculata;Annelida;Polychaeta;Amphinomida;Amphinomidae;BOLD,WORMS;537;571;1;WORMS;;100786
+Hipponoe gaudichaudi;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;4;5;1;WORMS;;651473
+Linopherus canariensis;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;;;;ITIS;gap;
+Linopherus hemuli;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;;;;WORMS;gap;
+Linopherus paucibranchiata;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;3;3;0;WORMS;;758588
+Notopygos megalops;Annelida;Polychaeta;Amphinomida;Amphinomidae;WORMS;;;;;gap;
+Paramphinome jeffreysi;Annelida;Polychaeta;Amphinomida;Amphinomidae;BOLD;10;10;1;;;599462
+Paramphinome jeffreysii;Annelida;Polychaeta;Amphinomida;Amphinomidae;BOLD,WORMS;32;44;1;WORMS;;81503
+Pareurythoe borealis;Annelida;Polychaeta;Amphinomida;Amphinomidae;BOLD,WORMS;2;8;2;WORMS;;378421

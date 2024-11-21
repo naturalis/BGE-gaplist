@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dendrocopos leucotos;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;89;91;3;FE;;52576
+Dendrocopos major;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;84;91;2;FE;;52577
+Dendrocopos syriacus;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;4;5;1;FE;;115457
+Dendrocoptes medius;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;18;18;2;ITIS;;809076;52578
+Dryobates minor;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;14;17;1;ITIS;;858780
+Dryocopus martius;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;29;30;1;FE;;52573
+Jynx torquilla;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;37;49;1;;;25365
+Picoides tridactylus;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;13;15;1;FE;;10340
+Picus canus;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;35;39;2;;;25356
+Picus viridis;Chordata;Aves;Piciformes;Picidae;BOLD,FE,iNat;65;69;2;;;52574
+Sphyrapicus varius;Chordata;Aves;Piciformes;Picidae;FE;20;36;2;FE;;17543

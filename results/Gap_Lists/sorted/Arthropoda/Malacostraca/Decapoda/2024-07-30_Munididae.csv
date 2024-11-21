@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Munida curvimana;Arthropoda;Malacostraca;Decapoda;Munididae;WORMS;;;;;gap;
+Munida intermedia;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD,WORMS;25;48;2;WORMS;;89841
+Munida microphthalma;Arthropoda;Malacostraca;Decapoda;Munididae;WORMS;;;;;gap;
+Munida perarmata;Arthropoda;Malacostraca;Decapoda;Munididae;WORMS;;;;;gap;
+Munida pusilla;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD;6;20;0;;;276486
+Munida rugosa;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD,WORMS;2;21;1;WORMS;;89906
+Munida sanctipauli;Arthropoda;Malacostraca;Decapoda;Munididae;WORMS;;;;WORMS;gap;
+Munida sarsi;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD,WORMS;1;15;1;WORMS;;512531
+Munida speciosa;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD,WORMS;3;3;1;WORMS;;558897;276204;89924
+Munida subcaeca;Arthropoda;Malacostraca;Decapoda;Munididae;WORMS;;;;;gap;
+Munida tenuimana;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD,WORMS;0;12;0;;gap;512532
+Raymunida cagnetei;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD;3;3;1;;;32547
+Raymunida elegantissima;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD;8;13;1;;;32545
+Raymunida erythrina;Arthropoda;Malacostraca;Decapoda;Munididae;BOLD;3;3;2;;;32544

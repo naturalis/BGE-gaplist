@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Katianira beloba;Arthropoda;Malacostraca;Isopoda;Katianiridae;BOLD;4;6;0;;;527958
+Katianira bilobata;Arthropoda;Malacostraca;Isopoda;Katianiridae;BOLD,WORMS;1;2;1;WORMS;;683913
+Katianira chelifera;Arthropoda;Malacostraca;Isopoda;Katianiridae;WORMS;;;;;gap;

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Phoetalia circumvagans;Arthropoda;Insecta;Blattodea;Blaberidae;FE;;;;FE;gap;
+Phoetalia pallida;Arthropoda;Insecta;Blattodea;Blaberidae;FE;1;7;1;FE;;657129
+Pycnoscelus surinamensis;Arthropoda;Insecta;Blattodea;Blaberidae;BOLD,FE,iNat;195;216;11;FE;;127305
+Rhyparobia maderae;Arthropoda;Insecta;Blattodea;Blaberidae;FE;2;6;1;ITIS;;657300

@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Limnoria borealis;Arthropoda;Malacostraca;Isopoda;Limnoriidae;WORMS;;;;;gap;
+Limnoria carinata;Arthropoda;Malacostraca;Isopoda;Limnoriidae;WORMS;;;;;gap;
+Limnoria chilensis;Arthropoda;Malacostraca;Isopoda;Limnoriidae;BOLD;0;6;1;;gap;855318
+Limnoria lignorum;Arthropoda;Malacostraca;Isopoda;Limnoriidae;BOLD,WORMS;1;5;0;WORMS;;451122
+Limnoria quadripunctata;Arthropoda;Malacostraca;Isopoda;Limnoriidae;BOLD,WORMS;59;224;1;;;212476
+Limnoria stephenseni;Arthropoda;Malacostraca;Isopoda;Limnoriidae;BOLD;89;92;1;WORMS;;302245
+Limnoria tripunctata;Arthropoda;Malacostraca;Isopoda;Limnoriidae;BOLD;0;14;0;;gap;451121
+Limnoria tuberculata;Arthropoda;Malacostraca;Isopoda;Limnoriidae;WORMS;;;;;gap;

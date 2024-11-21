@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Borysthenia naticina;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE;0;5;0;FE;gap;312052
+Valvata ambigua;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD;0;1;0;;gap;981097
+Valvata cristata;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE,iNat;9;17;2;FE;;152504
+Valvata hirsutecostata;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;;;;;gap;
+Valvata klemmi;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;1;1;1;;;152493
+Valvata macrostoma;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE;1;4;0;;;312061
+Valvata montenegrina;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;4;4;1;;;152497
+Valvata piscinalis;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE,iNat;18;34;3;;;312060
+Valvata relicta;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;2;2;1;FE;;152496
+Valvata rhabdota;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE;8;8;2;;;152500
+Valvata saulcyi;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;;;;;gap;
+Valvata sibirica;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;2;2;1;;;654725
+Valvata stenotrema;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE;9;9;1;;;152498
+Valvata studeri;Mollusca;Gastropoda;Triganglionata;Valvatidae;BOLD,FE;2;2;1;;;387478
+Valvata theodokii;Mollusca;Gastropoda;Triganglionata;Valvatidae;FE;;;;;gap;

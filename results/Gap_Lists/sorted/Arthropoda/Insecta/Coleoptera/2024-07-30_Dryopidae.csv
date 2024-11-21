@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dryops algiricus;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;FE;gap;
+Dryops anglicanus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;5;20;2;;;343594
+Dryops auriculatus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;6;15;2;FE;;248189
+Dryops caspius;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;FE;gap;
+Dryops championi;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;;gap;
+Dryops costae;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;0;1;0;FE;gap;911268
+Dryops doderoi;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;;gap;
+Dryops ernesti;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE,iNat;12;30;4;;;275115
+Dryops gracilis;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;FE;gap;
+Dryops griseus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;2;5;0;FE;;460594
+Dryops luridus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;13;28;1;FE;;248182
+Dryops lutulentus;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;1;3;1;FE;;911269
+Dryops nitidulus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;3;5;1;FE;;456876
+Dryops rufipes;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;0;2;0;FE;gap;771975
+Dryops similaris;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;1;5;1;;;248217
+Dryops striatellus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;0;3;0;FE;gap;725893
+Dryops striatopunctatus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;0;3;0;FE;gap;275116
+Dryops subincanus;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;FE;gap;
+Dryops sulcipennis;Arthropoda;Insecta;Coleoptera;Dryopidae;FE;;;;FE;gap;
+Dryops viennensis;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;4;6;1;FE;;491939
+Pomatinus substriatus;Arthropoda;Insecta;Coleoptera;Dryopidae;BOLD,FE;4;12;1;FE;;167225

@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atyaephyra desmarestii;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD,FE,iNat;183;247;11;WORMS;;105149;668582
+Atyaephyra stankoi;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;65;70;3;;;649509
+Atyaephyra strymonensis;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;11;13;1;;;649510
+Atyaephyra thyamisensis;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;56;69;2;;;649511
+Atyaephyra vladoi;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;98;99;1;;;973849
+Atyopsis spinipes;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;7;35;0;ITIS;;88159
+Australatya keithi;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;4;11;0;;;1137371
+Caridina babaulti;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;12;12;2;;;667583
+Dugastella valentina;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD,FE;2;2;1;WORMS;;106546
+Gallocaris inermis;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;4;4;1;;;208616
+Neocaridina davidi;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;148;154;6;ITIS;;769374;934420
+Spelaeocaris hercegovinensis;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD,FE;;;;ITIS;gap;105153
+Spelaeocaris pretneri;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;;;;ITIS;gap;208617
+Troglocaris anophthalmus;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD,FE;128;130;16;ITIS;;105156
+Troglocaris bosnica;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;2;2;1;;;208611
+Troglocaris inermis;Arthropoda;Malacostraca;Decapoda;Atyidae;FE;;;;;gap;
+Troglocaris intermedia;Arthropoda;Malacostraca;Decapoda;Atyidae;FE;;;;;gap;
+Troglocaris planinensis;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD,FE;26;26;1;;;105157
+Typhlatya arfeae;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD;2;3;1;;;898947
+Typhlatya miravetensis;Arthropoda;Malacostraca;Decapoda;Atyidae;BOLD,FE;2;4;1;;;898948
+Typhlatya pretneri;Arthropoda;Malacostraca;Decapoda;Atyidae;FE;;;;FE;gap;

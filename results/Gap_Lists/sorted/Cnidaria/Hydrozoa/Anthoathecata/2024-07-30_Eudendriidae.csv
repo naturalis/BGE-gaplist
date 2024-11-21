@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eudendrium album;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;0;3;0;WORMS;gap;954272
+Eudendrium arbuscula;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;BOLD;12;12;1;WORMS;;1005173
+Eudendrium armatum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;;;;;gap;
+Eudendrium calceolatum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;;;;;gap;
+Eudendrium capillare;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;BOLD,WORMS;4;6;3;WORMS;;668493
+Eudendrium carneum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;3;5;1;WORMS;;599505
+Eudendrium glomeratum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;;;;WORMS;gap;
+Eudendrium merulum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;;;;;gap;
+Eudendrium racemosum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;2;6;2;WORMS;;667673
+Eudendrium rameum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;BOLD,WORMS;9;10;2;WORMS;;726296
+Eudendrium vaginatum;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;BOLD,WORMS;2;2;0;ITIS;;971451
+Eudendrium vervoorti;Cnidaria;Hydrozoa;Anthoathecata;Eudendriidae;WORMS;;;;;gap;

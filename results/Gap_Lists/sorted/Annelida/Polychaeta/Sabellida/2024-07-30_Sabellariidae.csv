@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lygdamis muratus;Annelida;Polychaeta;Sabellida;Sabellariidae;WORMS;;;;WORMS;gap;
+Phalacrostemma cidariophilum;Annelida;Polychaeta;Sabellida;Sabellariidae;WORMS;;;;;gap;
+Sabellaria alcocki;Annelida;Polychaeta;Sabellida;Sabellariidae;WORMS;;;;WORMS;gap;
+Sabellaria alveolata;Annelida;Polychaeta;Sabellida;Sabellariidae;BOLD,WORMS;592;601;1;WORMS;;362379
+Sabellaria spinulosa;Annelida;Polychaeta;Sabellida;Sabellariidae;BOLD,WORMS;11;12;2;WORMS;;572420
+Sabellaria taurica;Annelida;Polychaeta;Sabellida;Sabellariidae;WORMS;;;;WORMS;gap;

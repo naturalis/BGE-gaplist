@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aulonogyrus concinnus;Arthropoda;Insecta;Coleoptera;Gyrinidae;FE;0;9;0;FE;gap;403048
+Aulonogyrus striatus;Arthropoda;Insecta;Coleoptera;Gyrinidae;FE;1;4;0;FE;;170112
+Gyrinus aeratus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;15;29;2;ITIS;;212528
+Gyrinus caspius;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;6;9;1;;;469752
+Gyrinus colymbus;Arthropoda;Insecta;Coleoptera;Gyrinidae;FE;;;;;gap;
+Gyrinus dejeani;Arthropoda;Insecta;Coleoptera;Gyrinidae;FE;;;;;gap;
+Gyrinus distinctus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;9;11;2;;;403045
+Gyrinus marinus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;12;20;1;;;403047
+Gyrinus minutus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;7;11;1;;;166812
+Gyrinus natator;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;6;6;1;FE;;343596
+Gyrinus opacus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;33;40;2;;;212527
+Gyrinus paykulli;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;9;13;1;;;329729
+Gyrinus pullatus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;2;3;0;;;1066142
+Gyrinus substriatus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE,iNat;47;62;1;;;248168
+Gyrinus suffriani;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE,iNat;8;14;1;;;329730
+Gyrinus urinator;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;8;10;1;;;682985
+Orectochilus villosus;Arthropoda;Insecta;Coleoptera;Gyrinidae;BOLD,FE;54;80;1;FE;;170092

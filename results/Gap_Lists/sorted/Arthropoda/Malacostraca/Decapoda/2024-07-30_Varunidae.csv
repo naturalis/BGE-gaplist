@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Asthenognathus atlanticus;Arthropoda;Malacostraca;Decapoda;Varunidae;WORMS;;;;;gap;
+Brachynotus atlanticus;Arthropoda;Malacostraca;Decapoda;Varunidae;WORMS;;;;;gap;
+Brachynotus foresti;Arthropoda;Malacostraca;Decapoda;Varunidae;WORMS;;;;;gap;
+Brachynotus gemmellari;Arthropoda;Malacostraca;Decapoda;Varunidae;WORMS;;;;WORMS;gap;
+Brachynotus sexdentatus;Arthropoda;Malacostraca;Decapoda;Varunidae;WORMS;;;;WORMS;gap;
+Eriocheir sinensis;Arthropoda;Malacostraca;Decapoda;Varunidae;BOLD,FE,WORMS,iNat;210;230;3;WORMS;;8470
+Hemigrapsus penicillatus;Arthropoda;Malacostraca;Decapoda;Varunidae;WORMS;;;;WORMS;gap;
+Hemigrapsus sanguineus;Arthropoda;Malacostraca;Decapoda;Varunidae;BOLD,iNat;211;302;1;WORMS;;30835
+Hemigrapsus takanoi;Arthropoda;Malacostraca;Decapoda;Varunidae;BOLD,iNat;96;102;1;WORMS;;373067

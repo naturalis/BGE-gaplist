@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Janulus bifrons;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;FE;;;;FE;gap;
+Janulus pompylius;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;FE;;;;FE;gap;
+Janulus stephanophorus;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;FE;;;;FE;gap;
+Perpolita petronella;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;BOLD;1;5;0;FE;;856593
+Striatura milium;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;FE;7;9;3;FE;;497077
+Zonitoides arboreus;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;BOLD,FE,iNat;79;86;7;FE;;277721
+Zonitoides excavatus;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;FE,iNat;;;;FE;gap;
+Zonitoides jaccetanicus;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;FE;;;;FE;gap;
+Zonitoides nitidus;Mollusca;Gastropoda;Stylommatophora;Gastrodontidae;BOLD,FE,iNat;55;68;1;FE;;276067

@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bankia bipennata;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Bankia carinata;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Bankia fimbriatula;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Lyrodus pedicellatus;Mollusca;Bivalvia;Myida;Teredinidae;BOLD,WORMS;24;108;1;WORMS;;212483
+Nototeredo norvagica;Mollusca;Bivalvia;Myida;Teredinidae;BOLD;12;27;1;WORMS;;212479
+Psiloteredo megotara;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Psiloteredo senegalensis;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Spathoteredo spatha;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Teredo bartschi;Mollusca;Bivalvia;Myida;Teredinidae;BOLD,WORMS;4;20;0;;;944242
+Teredo navalis;Mollusca;Bivalvia;Myida;Teredinidae;BOLD,WORMS;191;246;1;WORMS;;212481
+Teredora malleolus;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;
+Teredothyra excavata;Mollusca;Bivalvia;Myida;Teredinidae;WORMS;;;;WORMS;gap;

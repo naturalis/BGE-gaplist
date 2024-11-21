@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aegires leuckartii;Mollusca;Gastropoda;Nudibranchia;Aegiridae;WORMS;;;;WORMS;gap;
+Aegires palensis;Mollusca;Gastropoda;Nudibranchia;Aegiridae;WORMS;;;;;gap;
+Aegires punctilucens;Mollusca;Gastropoda;Nudibranchia;Aegiridae;BOLD,WORMS;8;11;1;WORMS;;384851
+Aegires sublaevis;Mollusca;Gastropoda;Nudibranchia;Aegiridae;WORMS;;;;ITIS;gap;

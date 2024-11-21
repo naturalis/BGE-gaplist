@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dendropoma petraeum;Mollusca;Gastropoda;Littorinimorpha;Vermetidae;BOLD;128;128;12;;;211759
+Petaloconchus glomeratus;Mollusca;Gastropoda;Littorinimorpha;Vermetidae;WORMS;;;;WORMS;gap;
+Vermetus granulatus;Mollusca;Gastropoda;Littorinimorpha;Vermetidae;WORMS;;;;WORMS;gap;
+Vermetus triquetrus;Mollusca;Gastropoda;Littorinimorpha;Vermetidae;BOLD,WORMS;1;6;1;WORMS;;265635

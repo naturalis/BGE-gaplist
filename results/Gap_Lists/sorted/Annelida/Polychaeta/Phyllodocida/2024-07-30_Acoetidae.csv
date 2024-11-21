@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eupanthalis kinbergi;Annelida;Polychaeta;Phyllodocida;Acoetidae;WORMS;;;;;gap;
+Eupanthalis tubifex;Annelida;Polychaeta;Phyllodocida;Acoetidae;WORMS;;;;ITIS;gap;
+Eupolyodontes gulo;Annelida;Polychaeta;Phyllodocida;Acoetidae;WORMS;;;;WORMS;gap;
+Panthalis oerstedi;Annelida;Polychaeta;Phyllodocida;Acoetidae;BOLD,WORMS;5;9;1;WORMS;;378427
+Polyodontes maxillosus;Annelida;Polychaeta;Phyllodocida;Acoetidae;WORMS;;;;WORMS;gap;

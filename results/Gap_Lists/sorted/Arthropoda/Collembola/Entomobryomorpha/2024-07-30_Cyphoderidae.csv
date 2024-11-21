@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyphoda marocana;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Cyphoderus albinus;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;BOLD,FE;7;7;1;FE;;701029
+Cyphoderus bidenticulatus;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;BOLD,FE;0;1;0;;gap;402509
+Cyphoderus canariensis;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Cyphoderus gisini;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Cyphoderus jugoslavicus;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Cyphoderus komareki;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Cyphoderus paralbinus;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Cyphoderus veneris;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Megacyphoderus gallicus;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;;gap;
+Megacyphoderus silvestrii;Arthropoda;Collembola;Entomobryomorpha;Cyphoderidae;FE;;;;FE;gap;

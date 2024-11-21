@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Argyroneta palustris;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;
+Cedicus flavipes;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;1;1;1;;;351680
+Cryphoeca lichenum;Arthropoda;Arachnida;Araneae;Cybaeidae;BOLD,FE;1;1;0;;;851417
+Cryphoeca silvicola;Arthropoda;Arachnida;Araneae;Cybaeidae;BOLD,FE;27;31;1;FE;;376599
+Cybaeus angustiarum;Arthropoda;Arachnida;Araneae;Cybaeidae;FE,iNat;2;2;2;;;370659
+Cybaeus balkanus;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;
+Cybaeus intermedius;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;
+Cybaeus minor;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;
+Cybaeus montanus;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;
+Cybaeus raymondi;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;FE;gap;
+Cybaeus strandi;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;
+Cybaeus tetricus;Arthropoda;Arachnida;Araneae;Cybaeidae;BOLD,FE;11;15;1;FE;;304570
+Cybaeus vignai;Arthropoda;Arachnida;Araneae;Cybaeidae;FE;;;;;gap;

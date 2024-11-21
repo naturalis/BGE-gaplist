@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Archidistoma aggregatum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Cystodytes dellechiajei;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;BOLD,WORMS;36;43;9;WORMS;;27108;27109
+Cystodytes durus;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Cystodytes guinensis;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Eudistoma angolanum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;2;2;1;WORMS;;760480
+Eudistoma banyulense;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;28469
+Eudistoma clarum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;0;1;0;WORMS;gap;992237
+Eudistoma costai;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Eudistoma magnum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Eudistoma mucosum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;
+Eudistoma paesslerioides;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;
+Eudistoma planum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;1;1;1;;;28465
+Eudistoma plumbeum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;1;1;1;;;28464
+Eudistoma posidonarium;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Eudistoma roseum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Eudistoma rubrum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;
+Eudistoma tridentatum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;
+Eudistoma vitreum;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;BOLD,WORMS;0;2;0;WORMS;gap;943975
+Polycitor adriaticus;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;28460
+Polycitor crystallinus;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;WORMS;gap;
+Polycitor searli;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;
+Rhombifera caerulea;Chordata;Ascidiacea;Aplousobranchia;Polycitoridae;WORMS;;;;;gap;

@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Processa acutirostris;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;WORMS;gap;
+Processa canaliculata;Arthropoda;Malacostraca;Decapoda;Processidae;BOLD,WORMS;5;6;1;WORMS;;89916
+Processa edulis;Arthropoda;Malacostraca;Decapoda;Processidae;BOLD;2;3;1;WORMS;;747309;601322
+Processa elegantula;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;;gap;
+Processa intermedia;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;;gap;
+Processa macrodactyla;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;;gap;
+Processa macrophthalma;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;;gap;
+Processa modica;Arthropoda;Malacostraca;Decapoda;Processidae;BOLD;18;27;2;;;181790
+Processa nouveli;Arthropoda;Malacostraca;Decapoda;Processidae;BOLD;18;21;1;;;660290;469388
+Processa parva;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;;gap;
+Processa robusta;Arthropoda;Malacostraca;Decapoda;Processidae;WORMS;;;;;gap;

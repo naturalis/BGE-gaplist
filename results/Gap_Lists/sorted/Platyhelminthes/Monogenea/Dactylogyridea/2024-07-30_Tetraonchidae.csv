@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ergenstrema labrosi;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;WORMS;;;;;gap;
+Ergenstrema mugilis;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;FE,WORMS;;;;;gap;
+Tetraonchus alaskensis;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;FE;;;;WORMS;gap;
+Tetraonchus borealis;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;FE;;;;FE;gap;
+Tetraonchus grumosus;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;FE;;;;;gap;
+Tetraonchus gussevi;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;FE;;;;;gap;
+Tetraonchus monenteron;Platyhelminthes;Monogenea;Dactylogyridea;Tetraonchidae;FE,WORMS;;;;WORMS;gap;

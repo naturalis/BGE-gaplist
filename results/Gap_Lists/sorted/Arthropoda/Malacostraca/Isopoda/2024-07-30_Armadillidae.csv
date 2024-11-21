@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Armadillo hirsutus;Arthropoda;Malacostraca;Isopoda;Armadillidae;FE;;;;;gap;
+Armadillo officinalis;Arthropoda;Malacostraca;Isopoda;Armadillidae;BOLD,FE;152;174;23;;;675471
+Armadillo tuberculatus;Arthropoda;Malacostraca;Isopoda;Armadillidae;FE;;;;;gap;
+Ctenorillo ausseli;Arthropoda;Malacostraca;Isopoda;Armadillidae;FE;;;;FE;gap;

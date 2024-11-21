@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cerylon bescidicum;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;;gap;
+Cerylon deplanatum;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE;8;13;3;;;468264
+Cerylon fagi;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE,iNat;22;32;1;;;167846
+Cerylon ferrugineum;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE,iNat;16;33;1;;;167740
+Cerylon histeroides;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE,iNat;37;57;1;FE;;167598
+Cerylon impressum;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE;3;5;1;;;730951
+Euxestus erithacus;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;FE;gap;
+Euxestus parkii;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;;gap;
+Murmidius ovalis;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;FE;gap;
+Murmidius segregatus;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;;gap;
+Philothermus evanescens;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE;12;13;1;FE;;318230
+Philothermus montandoni;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;;gap;
+Philothermus semistriatus;Arthropoda;Insecta;Coleoptera;Cerylonidae;BOLD,FE;0;3;0;FE;gap;766325
+Ploeosoma ellipticum;Arthropoda;Insecta;Coleoptera;Cerylonidae;FE;;;;;gap;

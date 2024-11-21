@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Macrotritopus defilippi;Mollusca;Cephalopoda;Octopoda;Octopodidae;BOLD;13;43;2;WORMS;;608203
+Octopus salutii;Mollusca;Cephalopoda;Octopoda;Octopodidae;WORMS;;;;WORMS;gap;
+Octopus vulgaris;Mollusca;Cephalopoda;Octopoda;Octopodidae;BOLD,WORMS;445;603;8;WORMS;;26440
+Pteroctopus tetracirrhus;Mollusca;Cephalopoda;Octopoda;Octopodidae;WORMS;;;;WORMS;gap;
+Scaeurgus unicirrhus;Mollusca;Cephalopoda;Octopoda;Octopodidae;WORMS;;;;WORMS;gap;

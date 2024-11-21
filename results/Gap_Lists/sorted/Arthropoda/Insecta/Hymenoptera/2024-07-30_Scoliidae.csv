@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Campsomeriella thoracica;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;14;16;3;FE;;747212
+Colpa interrupta;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD;0;2;0;;gap;892766
+Colpa klugii;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;FE;gap;
+Colpa quinquecincta;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE;7;8;1;FE;;519797
+Colpa sexmaculata;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE,DTN;5;5;1;FE;;852612
+Dasyscolia ciliata;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;0;2;0;FE;gap;892771
+Megascolia bidens;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE;2;2;1;;;921710
+Megascolia maculata;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE;13;20;1;FE;;349400;330501
+Micromeriella aureola;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE;7;14;1;FE;;641215
+Micromeriella hyalina;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD;19;26;4;;;641216;892813
+Proscolia spectator;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;;gap;
+Scolia anatoliae;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;;gap;
+Scolia asiella;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;;gap;
+Scolia carbonaria;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;FE;gap;
+Scolia cypria;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;;gap;
+Scolia erythrocephala;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;0;1;0;;gap;894169
+Scolia fallax;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;FE;gap;
+Scolia flaviceps;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;;gap;
+Scolia fuciformis;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;FE;gap;
+Scolia galbula;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;FE;gap;1155736
+Scolia hirta;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE,iNat,DTN;14;26;1;FE;;349385
+Scolia hortorum;Arthropoda;Insecta;Hymenoptera;Scoliidae;BOLD,FE;2;3;2;FE;;451366;596354
+Scolia orientalis;Arthropoda;Insecta;Hymenoptera;Scoliidae;FE;;;;;gap;

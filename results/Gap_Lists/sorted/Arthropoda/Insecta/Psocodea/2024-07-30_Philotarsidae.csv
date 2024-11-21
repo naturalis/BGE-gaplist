@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aaroniella badonneli;Arthropoda;Insecta;Psocodea;Philotarsidae;FE;10;10;1;FE;;172933
+Philotarsus parviceps;Arthropoda;Insecta;Psocodea;Philotarsidae;BOLD,FE;0;14;0;;gap;596440
+Philotarsus picicornis;Arthropoda;Insecta;Psocodea;Philotarsidae;BOLD,FE;41;53;1;FE;;596439

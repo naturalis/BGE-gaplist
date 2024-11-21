@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Epigonus constanciae;Chordata;Actinopterygii;Perciformes;Epigonidae;WORMS;;;;WORMS;gap;
+Epigonus denticulatus;Chordata;Actinopterygii;Perciformes;Epigonidae;BOLD,WORMS;17;23;2;;;140712
+Epigonus telescopus;Chordata;Actinopterygii;Perciformes;Epigonidae;BOLD,WORMS;40;51;3;WORMS;;11369
+Microichthys coccoi;Chordata;Actinopterygii;Perciformes;Epigonidae;WORMS;;;;;gap;
+Microichthys sanzoi;Chordata;Actinopterygii;Perciformes;Epigonidae;WORMS;;;;;gap;

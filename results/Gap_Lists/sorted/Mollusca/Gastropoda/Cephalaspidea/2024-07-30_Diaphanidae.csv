@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diaphana abyssalis;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;WORMS;;;;;gap;
+Diaphana cretica;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;WORMS;;;;WORMS;gap;
+Diaphana flava;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;WORMS;;;;WORMS;gap;
+Diaphana glacialis;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;BOLD,WORMS;0;1;0;;gap;665569
+Diaphana globosa;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;BOLD,WORMS;5;7;2;WORMS;;599300
+Diaphana hiemalis;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;BOLD,WORMS;4;5;1;WORMS;;599296
+Diaphana lactea;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;BOLD,WORMS;4;6;1;WORMS;;599297
+Diaphana makarovi;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;BOLD,WORMS;0;1;0;WORMS;gap;599301
+Diaphana marshalli;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;WORMS;;;;WORMS;gap;
+Diaphana minuta;Mollusca;Gastropoda;Cephalaspidea;Diaphanidae;BOLD,WORMS;7;11;4;WORMS;;495474

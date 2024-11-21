@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caecilius fuscopterus;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE,iNat;14;17;1;FE;;515585
+Epicaecilius pilipennis;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Lacroixiella martini;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Lienhardiella dahli;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Maoripsocus koriflae;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Stenocaecilius caboverdensis;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Valenzuela atricornis;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE;37;37;1;FE;;515589
+Valenzuela burmeisteri;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE,iNat;1332;1347;2;FE;;515590
+Valenzuela corsicus;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Valenzuela despaxi;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE;17;17;1;FE;;515586
+Valenzuela flavidus;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE,iNat;1948;1962;2;FE;;172925
+Valenzuela fortunatus;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;FE;gap;
+Valenzuela gynapterus;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE;16;17;1;FE;;515588
+Valenzuela labrostylus;Arthropoda;Insecta;Psocodea;Caeciliusidae;FE;;;;;gap;
+Valenzuela piceus;Arthropoda;Insecta;Psocodea;Caeciliusidae;BOLD,FE;302;307;1;FE;;515587

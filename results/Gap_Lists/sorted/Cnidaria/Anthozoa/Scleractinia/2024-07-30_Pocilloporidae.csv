@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Madracis asperula;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;WORMS;;;;WORMS;gap;
+Madracis auretenra;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;BOLD;0;4;0;WORMS;gap;390576
+Madracis decactis;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;BOLD;2;8;1;WORMS;;754024
+Madracis pharensis;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;BOLD,WORMS;2;9;2;WORMS;;668099
+Madracis profunda;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;WORMS;;;;;gap;
+Madracis senaria;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;BOLD;0;3;0;;gap;754025
+Seriatopora hystrix;Cnidaria;Anthozoa;Scleractinia;Pocilloporidae;BOLD;11;46;1;WORMS;;151900

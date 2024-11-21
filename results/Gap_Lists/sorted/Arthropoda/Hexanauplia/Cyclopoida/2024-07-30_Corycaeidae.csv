@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agetus flaccus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;1;0;WORMS;gap;801337
+Agetus limbatus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Agetus typicus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;3;0;WORMS;gap;801338
+Corycaeus clausi;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;3;0;WORMS;gap;753715
+Corycaeus crassiusculus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;4;0;WORMS;gap;753807
+Corycaeus speciosus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;2;26;1;WORMS;;315368
+Ditrichocorycaeus africanus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Ditrichocorycaeus andrewsi;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;2;2;1;WORMS;;935207;349762
+Ditrichocorycaeus anglicus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;BOLD,WORMS;24;49;2;WORMS;;683860;448331
+Ditrichocorycaeus brehmi;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Ditrichocorycaeus lubbocki;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Ditrichocorycaeus minimus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Ditrichocorycaeus subtilis;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Ditrichocorycaeus tenuis;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Farranula carinata;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Farranula curta;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Farranula gracilis;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;1;0;WORMS;gap;753712
+Farranula rostrata;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;4;0;WORMS;gap;801347
+Monocorycaeus robustus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;;gap;
+Onychocorycaeus catus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;349764
+Onychocorycaeus giesbrechti;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;2;0;WORMS;gap;801341
+Onychocorycaeus latus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Onychocorycaeus ovalis;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;2;0;WORMS;gap;801342
+Onychocorycaeus pumilus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;
+Urocorycaeus furcifer;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;0;2;0;WORMS;gap;801344
+Urocorycaeus lautus;Arthropoda;Hexanauplia;Cyclopoida;Corycaeidae;WORMS;;;;WORMS;gap;

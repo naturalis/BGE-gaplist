@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Boreus chadzhigireji;Arthropoda;Insecta;Mecoptera;Boreidae;FE;;;;;gap;
+Boreus hyemalis;Arthropoda;Insecta;Mecoptera;Boreidae;BOLD,FE,iNat;8;10;3;FE;;673542
+Boreus lokayi;Arthropoda;Insecta;Mecoptera;Boreidae;FE;;;;;gap;
+Boreus navasi;Arthropoda;Insecta;Mecoptera;Boreidae;FE;;;;FE;gap;
+Boreus westwoodi;Arthropoda;Insecta;Mecoptera;Boreidae;BOLD,FE,iNat;79;81;7;FE;;642731

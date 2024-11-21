@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acartia bifilosa;Arthropoda;Hexanauplia;Calanoida;Acartiidae;FE;16;16;2;FE;;211874
+Acartia clausi;Arthropoda;Hexanauplia;Calanoida;Acartiidae;BOLD,FE;59;69;4;;;365252
+Acartia clausii;Arthropoda;Hexanauplia;Calanoida;Acartiidae;BOLD;5;6;4;;;799584
+Acartia discaudata;Arthropoda;Hexanauplia;Calanoida;Acartiidae;BOLD,FE;10;11;1;;;667129
+Acartia italica;Arthropoda;Hexanauplia;Calanoida;Acartiidae;FE;;;;;gap;
+Acartia longiremis;Arthropoda;Hexanauplia;Calanoida;Acartiidae;BOLD;194;282;2;;;310780
+Acartia macropus;Arthropoda;Hexanauplia;Calanoida;Acartiidae;FE;;;;;gap;
+Acartia margalefi;Arthropoda;Hexanauplia;Calanoida;Acartiidae;FE;7;7;4;;;503190
+Acartia tonsa;Arthropoda;Hexanauplia;Calanoida;Acartiidae;BOLD,FE,iNat;409;472;23;;;79702
+Paracartia dubia;Arthropoda;Hexanauplia;Calanoida;Acartiidae;WORMS;;;;WORMS;gap;
+Paracartia grani;Arthropoda;Hexanauplia;Calanoida;Acartiidae;BOLD,FE;11;11;1;FE;;667130
+Paracartia latisetosa;Arthropoda;Hexanauplia;Calanoida;Acartiidae;FE,WORMS;8;8;1;WORMS;;503358
+Pteriacartia josephinae;Arthropoda;Hexanauplia;Calanoida;Acartiidae;FE,WORMS;10;10;1;WORMS;;503377

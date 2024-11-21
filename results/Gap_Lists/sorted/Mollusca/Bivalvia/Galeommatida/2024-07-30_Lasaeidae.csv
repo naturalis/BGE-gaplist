@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arculus sykesii;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Bornia geoffroyi;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Bornia sebetia;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Entovalva perrieri;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;ITIS;gap;
+Epilepton clarkiae;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Kellia suborbicularis;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD,WORMS;15;26;2;WORMS;;495427
+Kelliopsis jozinae;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;;gap;
+Kurtiella bidentata;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD;9;23;1;WORMS;;642793;673987
+Kurtiella tumidula;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD;3;3;0;WORMS;;1128309
+Lasaea adansoni;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD;3;5;1;WORMS;;651863
+Lasaea rubra;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Lepton squamosum;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD,WORMS;2;2;1;WORMS;;1005175
+Litigiella corgani;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;;gap;
+Litigiella glabra;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Montacuta goudi;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;;gap;
+Montacuta substriata;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Pseudopythina macandrewi;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Scacchia oblonga;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;WORMS;gap;
+Scacchia zorni;Mollusca;Bivalvia;Galeommatida;Lasaeidae;WORMS;;;;;gap;
+Syssitomya pourtalesiana;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD;1;3;0;;;948206
+Tellimya ferruginosa;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD;7;15;2;WORMS;;277820
+Tellimya tenella;Mollusca;Bivalvia;Galeommatida;Lasaeidae;BOLD;6;7;0;WORMS;;948246

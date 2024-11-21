@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Braula coeca;Arthropoda;Insecta;Diptera;Braulidae;BOLD,FE,SyDip;2;8;0;SyDip;;736226
+Braula orientalis;Arthropoda;Insecta;Diptera;Braulidae;FE,SyDip;;;;;gap;
+Braula schmitzi;Arthropoda;Insecta;Diptera;Braulidae;FE,SyDip;;;;;gap;

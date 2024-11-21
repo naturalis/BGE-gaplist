@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Nepa anophthalma;Arthropoda;Insecta;Hemiptera;Nepidae;FE,CoPH;;;;;gap;
+Nepa cinerea;Arthropoda;Insecta;Hemiptera;Nepidae;BOLD,FE,CoPH,iNat;45;114;5;CoPH;;198454;641457
+Nepa sardiniensis;Arthropoda;Insecta;Hemiptera;Nepidae;BOLD,FE,CoPH;1;4;1;;;967122
+Ranatra (Ranatra) linearis;Arthropoda;Insecta;Hemiptera;Nepidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;198455
+Ranatra (Ranatra) unicolor;Arthropoda;Insecta;Hemiptera;Nepidae;FE,CoPH;;;;CoPH;gap;1149056

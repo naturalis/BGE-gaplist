@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Epitomapta roseola;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;WORMS;gap;
+Euapta godeffroyi;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD;36;60;0;WORMS;;84446
+Euapta lappa;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;WORMS;gap;
+Labidoplax buskii;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD,WORMS;6;7;1;WORMS;;222338
+Labidoplax media;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD,WORMS;0;1;0;WORMS;gap;222340
+Labidoplax similimedia;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;;gap;
+Labidoplax southwardorum;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;;gap;
+Leptosynapta bergensis;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD,WORMS;1;3;0;WORMS;;222346
+Leptosynapta decaria;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD;6;6;1;WORMS;;222349
+Leptosynapta galliennii;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;WORMS;gap;
+Leptosynapta inhaerens;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD,WORMS;3;12;1;WORMS;;222354
+Leptosynapta minuta;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;WORMS;gap;
+Rhabdomolgus ruber;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;WORMS;gap;
+Synapta maculata;Echinodermata;Holothuroidea;Apodida;Synaptidae;BOLD;35;42;1;WORMS;;222418;84411
+Synaptula reciprocans;Echinodermata;Holothuroidea;Apodida;Synaptidae;WORMS;;;;WORMS;gap;

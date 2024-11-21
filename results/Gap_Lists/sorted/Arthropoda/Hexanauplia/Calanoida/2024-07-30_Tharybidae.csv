@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Neoscolecithrix farrani;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;;;;;gap;
+Neoscolecithrix koehleri;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;;;;WORMS;gap;
+Neoscolecithrix watersae;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;;;;WORMS;gap;
+Rythabis atlantica;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;;;;;gap;
+Tharybis angularis;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;;;;;gap;
+Tharybis groenlandica;Arthropoda;Hexanauplia;Calanoida;Tharybidae;BOLD;7;7;2;WORMS;;654408
+Tharybis macrophthalma;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;;;;;gap;
+Undinella oblonga;Arthropoda;Hexanauplia;Calanoida;Tharybidae;WORMS;5;6;1;;;152203

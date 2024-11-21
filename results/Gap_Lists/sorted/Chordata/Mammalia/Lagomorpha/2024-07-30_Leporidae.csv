@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lepus capensis;Chordata;Mammalia;Lagomorpha;Leporidae;FE;52;53;10;;;456585
+Lepus castroviejoi;Chordata;Mammalia;Lagomorpha;Leporidae;FE;;;;;gap;
+Lepus corsicanus;Chordata;Mammalia;Lagomorpha;Leporidae;BOLD,FE;1;1;1;;;914568
+Lepus europaeus;Chordata;Mammalia;Lagomorpha;Leporidae;BOLD,FE,iNat;43;45;2;;;30347
+Lepus granatensis;Chordata;Mammalia;Lagomorpha;Leporidae;BOLD,FE;3;3;2;;;708184
+Lepus timidus;Chordata;Mammalia;Lagomorpha;Leporidae;BOLD,FE,iNat;36;36;4;;;112231
+Lepus tolai;Chordata;Mammalia;Lagomorpha;Leporidae;FE;6;6;3;;;142633
+Oryctolagus cuniculus;Chordata;Mammalia;Lagomorpha;Leporidae;BOLD,FE,iNat;60;78;1;FE;;12087
+Sylvilagus floridanus;Chordata;Mammalia;Lagomorpha;Leporidae;FE;28;43;10;ITIS;;15797

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Rissoella diaphana;Mollusca;Gastropoda;;Rissoellidae;BOLD,WORMS;1;1;0;WORMS;;1138278
+Rissoella globularis;Mollusca;Gastropoda;;Rissoellidae;BOLD,WORMS;0;1;0;WORMS;gap;963213
+Rissoella opalina;Mollusca;Gastropoda;;Rissoellidae;WORMS;;;;WORMS;gap;

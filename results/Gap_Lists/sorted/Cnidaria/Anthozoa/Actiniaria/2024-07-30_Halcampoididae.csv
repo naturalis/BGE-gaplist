@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acthelmis intestinalis;Cnidaria;Anthozoa;Actiniaria;Halcampoididae;WORMS;;;;WORMS;gap;
+Halcampoides abyssorum;Cnidaria;Anthozoa;Actiniaria;Halcampoididae;WORMS;;;;WORMS;gap;726263
+Halcampoides purpureus;Cnidaria;Anthozoa;Actiniaria;Halcampoididae;BOLD;2;5;1;WORMS;;726264;747524
+Siphonactinopsis laevis;Cnidaria;Anthozoa;Actiniaria;Halcampoididae;WORMS;;;;;gap;

@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Platystoma aenescens;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;;gap;
+Platystoma arcuatum;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;SyDip;gap;
+Platystoma dimidiatum;Arthropoda;Insecta;Diptera;Platystomatidae;FE;;;;;gap;
+Platystoma euphorbiinum;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;;gap;
+Platystoma gemmationis;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;SyDip;gap;
+Platystoma gilvipes;Arthropoda;Insecta;Diptera;Platystomatidae;FE;;;;;gap;
+Platystoma hendeli;Arthropoda;Insecta;Diptera;Platystomatidae;FE;;;;;gap;
+Platystoma insularum;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;SyDip;gap;
+Platystoma lugubre;Arthropoda;Insecta;Diptera;Platystomatidae;BOLD,FE,SyDip;4;13;0;SyDip;;470653
+Platystoma plantationis;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;SyDip;gap;
+Platystoma provinciale;Arthropoda;Insecta;Diptera;Platystomatidae;FE;;;;;gap;
+Platystoma pubescens;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;;gap;
+Platystoma punctiventre;Arthropoda;Insecta;Diptera;Platystomatidae;FE;;;;;gap;
+Platystoma rufipes;Arthropoda;Insecta;Diptera;Platystomatidae;FE;;;;;gap;
+Platystoma seminationis;Arthropoda;Insecta;Diptera;Platystomatidae;BOLD,FE,iNat,SyDip;27;42;2;SyDip;;285176
+Platystoma subfasciatum;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;;gap;
+Platystoma subtile;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;SyDip;gap;
+Platystoma tegularium;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;SyDip;gap;
+Rivellia hispanica;Arthropoda;Insecta;Diptera;Platystomatidae;FE,SyDip;;;;;gap;
+Rivellia syngenesiae;Arthropoda;Insecta;Diptera;Platystomatidae;BOLD,FE,iNat,SyDip;75;88;1;SyDip;;285173

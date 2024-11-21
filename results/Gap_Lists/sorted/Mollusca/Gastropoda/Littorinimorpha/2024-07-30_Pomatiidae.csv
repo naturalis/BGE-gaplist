@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cochlostoma elegans;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;BOLD,FE,iNat;1;1;1;FE;;667224;90210
+Leonia mamillaris;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;BOLD,FE;1;1;1;FE;;152950
+Pomatias canariensis;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Pomatias glaucus;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Pomatias laevigatus;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Pomatias lanzarotensis;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Pomatias palmensis;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Pomatias raricosta;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Pomatias rivularis;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;;;;FE;gap;
+Tudorella ferruginea;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;BOLD,FE;9;10;1;FE;;90207
+Tudorella gasulli;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;BOLD;2;2;1;;;152948
+Tudorella mauretanica;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;FE;1;1;1;FE;;901673
+Tudorella sulcata;Mollusca;Gastropoda;Littorinimorpha;Pomatiidae;BOLD,FE;60;72;4;FE;;90208

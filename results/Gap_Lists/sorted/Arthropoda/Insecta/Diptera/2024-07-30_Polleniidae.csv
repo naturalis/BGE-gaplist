@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Morinia doronici;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;9;9;1;SyDip;;804012
+Pollenia amentaria;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,iNat;67;68;1;FE;;406814
+Pollenia angustigena;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;221;224;1;;;406829
+Pollenia atramentaria;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;7;10;1;SyDip;;1130431
+Pollenia griseotomentosa;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;227;229;1;FE;;406836
+Pollenia hungarica;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;131;131;3;;;605215
+Pollenia intermedia;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;448780
+Pollenia labialis;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;304;312;1;FE;;406834
+Pollenia leclercqiana;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;3;3;1;SyDip;;919534
+Pollenia pediculata;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,SyDip;3895;3904;1;FE;;448781
+Pollenia rudis;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,FE,iNat,SyDip;1217;1244;2;ITIS;;407138
+Pollenia vespillo;Arthropoda;Insecta;Diptera;Polleniidae;BOLD,SyDip;1;6;0;SyDip;;1141472

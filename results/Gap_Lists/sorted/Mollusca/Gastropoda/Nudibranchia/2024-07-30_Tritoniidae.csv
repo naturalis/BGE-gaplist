@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Duvaucelia odhneri;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;BOLD;18;20;2;WORMS;;1062402
+Duvaucelia plebeia;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;BOLD;11;11;1;WORMS;;1126714;266254
+Marionia blainvillea;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;BOLD,WORMS;6;7;1;WORMS;;507957
+Tritonia episcopalis;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;WORMS;;;;WORMS;gap;
+Tritonia griegi;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;BOLD,WORMS;4;4;1;;;266284
+Tritonia hombergii;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;BOLD;15;17;1;WORMS;;944384;266280
+Tritonia ingolfiana;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;WORMS;;;;WORMS;gap;
+Tritonia lineata;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;BOLD;7;8;1;;;384844
+Tritoniopsis cincta;Mollusca;Gastropoda;Nudibranchia;Tritoniidae;WORMS;;;;WORMS;gap;

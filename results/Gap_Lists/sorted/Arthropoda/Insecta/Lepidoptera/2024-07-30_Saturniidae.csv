@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Actias isabellae;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF;0;27;0;BT;gap;354112
+Aglia tau;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF,iNat;49;206;1;FE;;94457
+Antheraea pernyi;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF;41;48;1;FE;;28904
+Antheraea yamamai;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF,iNat;59;164;4;FE;;80587;177707
+Samia cynthia;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE;57;202;3;BT;;78879
+Saturnia caecigena;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF;23;54;1;;;95194
+Saturnia josephinae;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,LF;15;23;1;;;205401
+Saturnia pavonia;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF,iNat;110;300;2;FE;;224980
+Saturnia pavoniella;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF;76;142;2;;;352310
+Saturnia pyri;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF;47;176;1;FE;;94454
+Saturnia spini;Arthropoda;Insecta;Lepidoptera;Saturniidae;BOLD,FE,LF;13;16;2;;;205403

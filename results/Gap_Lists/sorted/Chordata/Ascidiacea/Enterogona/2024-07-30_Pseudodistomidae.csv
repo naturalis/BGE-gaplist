@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pseudodistoma arnbacki;Chordata;Ascidiacea;Enterogona;Pseudodistomidae;WORMS;;;;;gap;
+Pseudodistoma crucigaster;Chordata;Ascidiacea;Enterogona;Pseudodistomidae;BOLD,WORMS;13;13;1;;;28463
+Pseudodistoma cyrnusense;Chordata;Ascidiacea;Enterogona;Pseudodistomidae;WORMS;1;1;1;;;28472
+Pseudodistoma obscurum;Chordata;Ascidiacea;Enterogona;Pseudodistomidae;WORMS;;;;;gap;

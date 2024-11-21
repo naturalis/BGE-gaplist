@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brachydeuterus auritus;Chordata;Actinopterygii;Perciformes;Haemulidae;WORMS;;;;WORMS;gap;
+Diagramma pictum;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD;;;;FB;gap;
+Haemulon carbonarium;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD;16;24;1;;;52277
+Haemulon melanurum;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD;13;19;1;WORMS;;201363
+Haemulon plumierii;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD;79;92;3;WORMS;;52239
+Haemulon vittatum;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD;9;10;1;WORMS;;495860
+Parapristipoma humile;Chordata;Actinopterygii;Perciformes;Haemulidae;WORMS;;;;WORMS;gap;
+Parapristipoma octolineatum;Chordata;Actinopterygii;Perciformes;Haemulidae;WORMS;;;;WORMS;gap;
+Plectorhinchus mediterraneus;Chordata;Actinopterygii;Perciformes;Haemulidae;WORMS;;;;WORMS;gap;
+Plectorhinchus vittatus;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD;31;32;5;WORMS;;59258
+Pomadasys incisus;Chordata;Actinopterygii;Perciformes;Haemulidae;BOLD,WORMS;32;48;1;WORMS;;59254
+Pomadasys stridens;Chordata;Actinopterygii;Perciformes;Haemulidae;WORMS;;;;WORMS;gap;

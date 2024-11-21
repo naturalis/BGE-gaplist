@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Polygordius appendiculatus;Annelida;Polychaeta;Canalipalpata;Polygordiidae;BOLD,WORMS;46;47;1;WORMS;;572423
+Polygordius erythrophthalmus;Annelida;Polychaeta;Canalipalpata;Polygordiidae;WORMS;;;;WORMS;gap;
+Polygordius lacteus;Annelida;Polychaeta;Canalipalpata;Polygordiidae;BOLD,WORMS;33;33;1;WORMS;;923559
+Polygordius neapolitanus;Annelida;Polychaeta;Canalipalpata;Polygordiidae;WORMS;18;18;2;;;923560
+Polygordius triestinus;Annelida;Polychaeta;Canalipalpata;Polygordiidae;WORMS;;;;;gap;
+Polygordius villoti;Annelida;Polychaeta;Canalipalpata;Polygordiidae;WORMS;;;;;gap;

@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calobata petronella;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,SyDip;336;337;2;SyDip;;406651
+Cnodacophora sellata;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,SyDip;1;1;0;SyDip;;914335
+Cnodacophora stylifera;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,SyDip;2;2;0;SyDip;;1141563
+Micropeza angustipennis;Arthropoda;Insecta;Diptera;Micropezidae;FE,SyDip;;;;;gap;
+Micropeza brevipennis;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,SyDip;1;1;0;;;1141596
+Micropeza cingulata;Arthropoda;Insecta;Diptera;Micropezidae;FE,SyDip;;;;;gap;
+Micropeza corrigiolata;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,iNat,SyDip;39;39;1;SyDip;;468344
+Micropeza grallatrix;Arthropoda;Insecta;Diptera;Micropezidae;FE,SyDip;;;;;gap;
+Micropeza hispanica;Arthropoda;Insecta;Diptera;Micropezidae;FE,SyDip;;;;;gap;
+Micropeza kawalii;Arthropoda;Insecta;Diptera;Micropezidae;FE;;;;;gap;
+Micropeza lateralis;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,iNat,SyDip;9;9;1;SyDip;;913998
+Neria cibaria;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,iNat,SyDip;72;72;1;SyDip;;406648
+Neria commutata;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE;19;19;1;FE;;406649
+Neria dentigera;Arthropoda;Insecta;Diptera;Micropezidae;FE,SyDip;;;;SyDip;gap;
+Neria ephippium;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE;18;19;1;FE;;483320
+Neria femoralis;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,SyDip;6;6;1;SyDip;;968937
+Neria longiceps;Arthropoda;Insecta;Diptera;Micropezidae;FE,SyDip;;;;SyDip;gap;
+Neria nigricornis;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,iNat,SyDip;1;2;1;SyDip;;483691
+Neria octoannulata;Arthropoda;Insecta;Diptera;Micropezidae;FE;;;;FE;gap;
+Rainieria calceata;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,iNat,SyDip;2;3;0;SyDip;;1141481
+Rainieria latifrons;Arthropoda;Insecta;Diptera;Micropezidae;BOLD,FE,iNat,SyDip;2;2;1;SyDip;;978805

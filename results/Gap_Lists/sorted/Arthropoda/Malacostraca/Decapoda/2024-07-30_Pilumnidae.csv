@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pilumnopeus africanus;Arthropoda;Malacostraca;Decapoda;Pilumnidae;BOLD;1;2;2;WORMS;;934610
+Pilumnopeus vauquelini;Arthropoda;Malacostraca;Decapoda;Pilumnidae;WORMS;;;;WORMS;gap;
+Pilumnus hirtellus;Arthropoda;Malacostraca;Decapoda;Pilumnidae;BOLD,WORMS;36;116;2;WORMS;;178985
+Pilumnus inermis;Arthropoda;Malacostraca;Decapoda;Pilumnidae;BOLD,WORMS;2;7;2;;;89832
+Pilumnus spinifer;Arthropoda;Malacostraca;Decapoda;Pilumnidae;WORMS;;;;;gap;
+Pilumnus villosissimus;Arthropoda;Malacostraca;Decapoda;Pilumnidae;WORMS;;;;WORMS;gap;

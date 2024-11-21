@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chaceon affinis;Arthropoda;Malacostraca;Decapoda;Geryonidae;WORMS;;;;WORMS;gap;
+Chaceon gordonae;Arthropoda;Malacostraca;Decapoda;Geryonidae;WORMS;;;;WORMS;gap;
+Chaceon inglei;Arthropoda;Malacostraca;Decapoda;Geryonidae;WORMS;;;;;gap;
+Chaceon mediterraneus;Arthropoda;Malacostraca;Decapoda;Geryonidae;WORMS;;;;;gap;
+Geryon longipes;Arthropoda;Malacostraca;Decapoda;Geryonidae;BOLD,WORMS;35;37;1;;;89947
+Geryon trispinosus;Arthropoda;Malacostraca;Decapoda;Geryonidae;BOLD,WORMS;7;7;1;WORMS;;512527
+Zariquieyon inflatus;Arthropoda;Malacostraca;Decapoda;Geryonidae;WORMS;;;;;gap;

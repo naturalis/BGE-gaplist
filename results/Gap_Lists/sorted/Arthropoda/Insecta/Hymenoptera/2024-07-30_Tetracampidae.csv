@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dipriocampe diprioni;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE,DTN;;;;FE;gap;
+Dipriocampe elongata;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE;;;;FE;gap;
+Epiclerus femoralis;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE;;;;;gap;
+Epiclerus nomocerus;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE,DTN;;;;FE;gap;
+Epiclerus panyas;Arthropoda;Insecta;Hymenoptera;Tetracampidae;BOLD,FE,DTN;137;147;1;FE;;642176
+Epiclerus temenus;Arthropoda;Insecta;Hymenoptera;Tetracampidae;BOLD,FE,DTN;2;3;1;FE;;968813
+Foersterella erdoesi;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE,DTN;;;;;gap;
+Foersterella reptans;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE,DTN;1;4;0;FE;;656683
+Platynocheilus clematidis;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE;;;;;gap;
+Platynocheilus cuprifrons;Arthropoda;Insecta;Hymenoptera;Tetracampidae;FE,DTN;;;;FE;gap;
+Tetracampe impressa;Arthropoda;Insecta;Hymenoptera;Tetracampidae;BOLD,FE,DTN;1;2;0;;;722229

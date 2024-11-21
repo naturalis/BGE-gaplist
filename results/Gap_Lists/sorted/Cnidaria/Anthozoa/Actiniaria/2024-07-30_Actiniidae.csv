@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Actinia cari;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Actinia equina;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD,WORMS;13;27;1;WORMS;;381298
+Actinia fragacea;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;1;14;0;WORMS;;900179
+Actinia prasina;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Anemonia majano;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD;2;2;0;;;898902
+Anemonia viridis;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD,WORMS;14;22;1;WORMS;;898901
+Anthopleura ballii;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Anthopleura elegantissima;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD;136;160;3;WORMS;;159646
+Anthopleura sola;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD;19;31;2;;;296210
+Anthopleura thallia;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Aulactinia stella;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;4;13;1;WORMS;;559740
+Aulactinia verrucosa;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;ITIS;gap;
+Bolocera maxima;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;;gap;
+Bolocera tuediae;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD,WORMS;5;8;1;WORMS;;599955
+Condylactis aurantiaca;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Cribrinopsis crassa;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Cribrinopsis similis;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Epiactis arctica;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Epiactis incerta;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;;gap;
+Epiactis marsupialis;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;;gap;
+Onubactis rocioi;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;;gap;
+Paractinia striata;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Paranemonia cinerea;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;WORMS;gap;
+Paranemonia vouliagmeniensis;Cnidaria;Anthozoa;Actiniaria;Actiniidae;WORMS;;;;;gap;
+Urticina eques;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD,WORMS;4;4;1;WORMS;;747460;33439
+Urticina felina;Cnidaria;Anthozoa;Actiniaria;Actiniidae;BOLD,WORMS,iNat;32;62;3;WORMS;;33443;33441

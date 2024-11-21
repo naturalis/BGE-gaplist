@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chalcolestes parvidens;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE;21;34;2;SF;;505699
+Chalcolestes viridis;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;78;134;2;SF;;255508
+Lestes barbarus;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;17;56;1;FE;;248223
+Lestes dryas;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;46;104;3;;;94697
+Lestes macrostigma;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE;11;18;1;FE;;505738
+Lestes parvidens x viridis;Arthropoda;Insecta;Odonata;Lestidae;BOLD;1;1;0;;;979355
+Lestes sponsa;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;59;148;1;FE;;248198
+Lestes virens;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;54;88;1;FE;;533987
+Sympecma fusca;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;46;61;1;FE;;255557
+Sympecma paedisca;Arthropoda;Insecta;Odonata;Lestidae;BOLD,FE,iNat;22;40;1;FE;;519447

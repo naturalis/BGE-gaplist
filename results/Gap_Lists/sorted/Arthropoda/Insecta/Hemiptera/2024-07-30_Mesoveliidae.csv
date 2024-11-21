@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mesovelia furcata;Arthropoda;Insecta;Hemiptera;Mesoveliidae;BOLD,FE,CoPH,iNat;35;40;1;CoPH;;198438
+Mesovelia thermalis;Arthropoda;Insecta;Hemiptera;Mesoveliidae;FE,CoPH;1;1;1;;;1158900
+Mesovelia vittigera;Arthropoda;Insecta;Hemiptera;Mesoveliidae;BOLD,FE,CoPH;70;84;4;CoPH;;522023

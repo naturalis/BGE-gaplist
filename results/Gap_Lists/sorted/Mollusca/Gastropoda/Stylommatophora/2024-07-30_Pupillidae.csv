@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gibbulinopsis interrupta;Mollusca;Gastropoda;Stylommatophora;Pupillidae;FE;;;;FE;gap;
+Pupilla alpicola;Mollusca;Gastropoda;Stylommatophora;Pupillidae;BOLD,FE;64;70;1;FE;;446938
+Pupilla bigranata;Mollusca;Gastropoda;Stylommatophora;Pupillidae;BOLD,FE;2;2;1;FE;;961240
+Pupilla muscorum;Mollusca;Gastropoda;Stylommatophora;Pupillidae;BOLD,FE,iNat;33;38;11;FE;;152113
+Pupilla pratensis;Mollusca;Gastropoda;Stylommatophora;Pupillidae;FE;5;5;1;FE;;152112
+Pupilla sterrii;Mollusca;Gastropoda;Stylommatophora;Pupillidae;BOLD,FE;11;12;6;FE;;458574
+Pupilla triplicata;Mollusca;Gastropoda;Stylommatophora;Pupillidae;BOLD,FE;18;23;1;FE;;446953

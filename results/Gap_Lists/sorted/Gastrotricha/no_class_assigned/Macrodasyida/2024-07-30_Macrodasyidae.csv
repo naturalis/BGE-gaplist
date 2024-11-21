@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Macrodasys affinis;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;;;;;gap;
+Macrodasys balticus;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;;;;;gap;
+Macrodasys buddenbrocki;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;0;2;0;;gap;968533
+Macrodasys caudatus;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;0;1;0;;gap;968522
+Macrodasys cephalatus;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;;;;;gap;
+Macrodasys gerlachi;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;;;;;gap;
+Macrodasys neapolitanus;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;;;;;gap;
+Macrodasys thuscus;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;;;;;gap;
+Urodasys mirabilis;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;0;1;0;WORMS;gap;968582
+Urodasys viviparus;Gastrotricha;;Macrodasyida;Macrodasyidae;WORMS;1;2;1;;;968054

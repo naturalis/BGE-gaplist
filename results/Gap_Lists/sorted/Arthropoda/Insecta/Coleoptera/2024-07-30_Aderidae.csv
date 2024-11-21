@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aderus populneus;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE,iNat;32;36;1;ITIS;;312260
+Anidorus lateralis;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Anidorus nigrinus;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE;22;30;1;FE;;318451
+Anidorus sanguinolentus;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE;0;3;0;FE;gap;766292
+Cnopus minor;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Cobososia angulithorax;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Cobososia pallescens;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Euglenes nitidifrons;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Euglenes oculatissimus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Euglenes oculatus;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE,iNat;18;32;1;FE;;330259
+Euglenes pygmaeus;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE;22;22;1;FE;;330308
+Euglenes serricornis;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;;gap;
+Euglenes wollastoni;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;;gap;
+Otolelus atomus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Otolelus flaveolus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Otolelus neglectus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Otolelus obscurithorax;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Otolelus pruinosus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Otolelus ruficollis;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Otolelus symphoniacus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;;gap;
+Phytobaenus amabilis;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE;2;8;1;;;167377
+Pseudanidorus cyprius;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Pseudanidorus laesicollis;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Pseudanidorus pentatomus;Arthropoda;Insecta;Coleoptera;Aderidae;BOLD,FE;2;2;1;FE;;737170
+Pseudolotelus punctatissimus;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;
+Vanonus brevicornis;Arthropoda;Insecta;Coleoptera;Aderidae;FE;;;;FE;gap;

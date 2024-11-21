@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alces alces;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE;19;20;1;ITIS;;201855
+Axis axis;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE;14;37;1;FE;;462564
+Capreolus capreolus;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE,iNat;46;48;2;FE;;329712
+Capreolus pygargus;Chordata;Mammalia;Artiodactyla;Cervidae;FE;14;14;2;FE;;110924
+Cervus elaphus;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE,iNat;109;134;5;;;12369;899606
+Cervus nippon;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE,iNat;245;260;10;;;25122
+Dama dama;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE,iNat;40;47;1;FE;;103790
+Hydropotes inermis;Chordata;Mammalia;Artiodactyla;Cervidae;FE;39;39;1;;;199230
+Muntiacus muntjak;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD;19;103;4;;;30306
+Muntiacus reevesi;Chordata;Mammalia;Artiodactyla;Cervidae;BOLD,FE;12;17;3;FE;;30346;747689
+Odocoileus virginianus;Chordata;Mammalia;Artiodactyla;Cervidae;FE;41;66;2;ITIS;;12372
+Rangifer tarandus;Chordata;Mammalia;Artiodactyla;Cervidae;FE;343;401;2;FE;;19364

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diastobranchus capensis;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;BOLD;;;;FB;gap;
+Dysomma brevirostre;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;WORMS;;;;WORMS;gap;
+Haptenchelys texis;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;WORMS;;;;;gap;
+Histiobranchus bathybius;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;WORMS;;;;WORMS;gap;
+Ilyophis arx;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;WORMS;;;;;gap;
+Ilyophis blachei;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;WORMS;;;;;gap;
+Ilyophis brunneus;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;WORMS;;;;;gap;
+Simenchelys parasitica;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;BOLD,WORMS;32;36;1;WORMS;;72907
+Synaphobranchus affinis;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;BOLD;66;75;2;WORMS;;59401
+Synaphobranchus kaupii;Chordata;Actinopterygii;Anguilliformes;Synaphobranchidae;BOLD,WORMS;103;106;3;WORMS;;29223

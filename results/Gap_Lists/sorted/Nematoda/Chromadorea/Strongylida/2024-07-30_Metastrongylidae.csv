@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Metastrongylus apri;Nematoda;Chromadorea;Strongylida;Metastrongylidae;FE;;;;FE;gap;
+Metastrongylus asymmetricus;Nematoda;Chromadorea;Strongylida;Metastrongylidae;FE;;;;;gap;
+Metastrongylus confusus;Nematoda;Chromadorea;Strongylida;Metastrongylidae;FE;;;;;gap;
+Metastrongylus elongatus;Nematoda;Chromadorea;Strongylida;Metastrongylidae;FE;;;;FE;gap;
+Metastrongylus pudendotectus;Nematoda;Chromadorea;Strongylida;Metastrongylidae;BOLD,FE;9;14;1;;;493738
+Metastrongylus pulmonalis;Nematoda;Chromadorea;Strongylida;Metastrongylidae;FE;;;;;gap;
+Metastrongylus salmi;Nematoda;Chromadorea;Strongylida;Metastrongylidae;BOLD,FE;12;12;1;;;493739

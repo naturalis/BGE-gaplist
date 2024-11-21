@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Abyssascidia millari;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;
+Chelyosoma macleayanum;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;0;7;0;WORMS;gap;807862
+Corella borealis;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;
+Corella halli;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;
+Corella parallelogramma;Chordata;Ascidiacea;Phlebobranchia;Corellidae;BOLD,WORMS;9;18;1;WORMS;;488219
+Corellopsis pedunculata;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;
+Corynascidia hartmeyeri;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;
+Corynascidia suhmi;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;2;2;1;;;371232
+Corynascidia translucida;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;WORMS;gap;
+Dextrogaster suecica;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;
+Rhodosoma turcicum;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;15;20;1;WORMS;;669887
+Xenobranchion tenue;Chordata;Ascidiacea;Phlebobranchia;Corellidae;WORMS;;;;;gap;

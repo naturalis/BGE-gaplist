@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Astacus astacus;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD,FE,iNat;504;535;1;ITIS;;27896
+Austropotamobius fulcisianus;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD;16;24;3;;;934198;934464
+Austropotamobius italicus;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD;75;75;5;;;15737;666697
+Austropotamobius pallipes;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD,FE;766;806;5;ITIS;;27899
+Austropotamobius torrentium;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD,FE,iNat;302;323;18;FE;;27898
+Pacifastacus leniusculus;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD,FE,iNat;307;346;15;ITIS;;170576;667467
+Pontastacus leptodactylus;Arthropoda;Malacostraca;Decapoda;Astacidae;BOLD,FE,iNat;65;73;5;ITIS;;170578;344054
+Pontastacus pachypus;Arthropoda;Malacostraca;Decapoda;Astacidae;FE;;;;ITIS;gap;

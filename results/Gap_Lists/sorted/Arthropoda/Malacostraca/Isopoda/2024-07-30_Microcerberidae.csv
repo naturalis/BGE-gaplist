@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bulgarocerberus phreaticus;Arthropoda;Malacostraca;Isopoda;Microcerberidae;FE;;;;FE;gap;
+Coxicerberus adriaticus;Arthropoda;Malacostraca;Isopoda;Microcerberidae;WORMS;;;;WORMS;gap;
+Coxicerberus arenicola;Arthropoda;Malacostraca;Isopoda;Microcerberidae;WORMS;;;;WORMS;gap;
+Coxicerberus remanei;Arthropoda;Malacostraca;Isopoda;Microcerberidae;WORMS;;;;WORMS;gap;
+Coxicerberus ruffoi;Arthropoda;Malacostraca;Isopoda;Microcerberidae;FE,WORMS;;;;WORMS;gap;
+Microcerberus plesai;Arthropoda;Malacostraca;Isopoda;Microcerberidae;FE;;;;;gap;
+Microcerberus stygius;Arthropoda;Malacostraca;Isopoda;Microcerberidae;FE;;;;;gap;

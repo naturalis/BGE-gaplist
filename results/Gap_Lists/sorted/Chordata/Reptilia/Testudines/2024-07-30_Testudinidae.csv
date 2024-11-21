@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centrochelys sulcata;Chordata;Reptilia;Testudines;Testudinidae;BOLD;7;7;1;ITIS;;758735
+Chelonoidis niger;Chordata;Reptilia;Testudines;Testudinidae;BOLD;4;5;1;;;758604
+Chersina angulata;Chordata;Reptilia;Testudines;Testudinidae;BOLD;16;48;0;ITIS;;166579
+Testudo boettgeri;Chordata;Reptilia;Testudines;Testudinidae;FE;;;;;gap;
+Testudo graeca;Chordata;Reptilia;Testudines;Testudinidae;BOLD,FE;19;19;2;;;81514;1131695
+Testudo hercegovinensis;Chordata;Reptilia;Testudines;Testudinidae;FE;;;;;gap;
+Testudo hermanni;Chordata;Reptilia;Testudines;Testudinidae;BOLD,FE;33;34;2;;;82118;1131684
+Testudo ibera;Chordata;Reptilia;Testudines;Testudinidae;FE;;;;;gap;
+Testudo marginata;Chordata;Reptilia;Testudines;Testudinidae;BOLD,FE;2;2;1;ITIS;;79007

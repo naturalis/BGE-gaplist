@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eukrohnia bathyantarctica;Chaetognatha;Sagittoidea;Phragmophora;Eukrohniidae;BOLD;17;47;2;;;216103
+Eukrohnia bathypelagica;Chaetognatha;Sagittoidea;Phragmophora;Eukrohniidae;WORMS;1;40;6;;;216104
+Eukrohnia fowleri;Chaetognatha;Sagittoidea;Phragmophora;Eukrohniidae;WORMS;10;39;2;;;216107
+Eukrohnia hamata;Chaetognatha;Sagittoidea;Phragmophora;Eukrohniidae;BOLD,WORMS;214;436;10;WORMS;;216108

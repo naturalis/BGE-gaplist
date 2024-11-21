@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthomunna hystrix;Arthropoda;Malacostraca;Isopoda;Dendrotionidae;WORMS;;;;WORMS;gap;
+Dendromunna compsa;Arthropoda;Malacostraca;Isopoda;Dendrotionidae;WORMS;;;;;gap;
+Dendrotion elegans;Arthropoda;Malacostraca;Isopoda;Dendrotionidae;WORMS;;;;;gap;
+Dendrotion paradoxum;Arthropoda;Malacostraca;Isopoda;Dendrotionidae;WORMS;;;;;gap;
+Dendrotion setosum;Arthropoda;Malacostraca;Isopoda;Dendrotionidae;BOLD,WORMS;6;19;1;;;528037
+Dendrotion spinosum;Arthropoda;Malacostraca;Isopoda;Dendrotionidae;BOLD,WORMS;3;4;2;;;785391

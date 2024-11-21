@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pelobates cultripes;Chordata;Amphibia;Anura;Pelobatidae;BOLD,FE;16;17;1;ITIS;;79637
+Pelobates fuscus;Chordata;Amphibia;Anura;Pelobatidae;BOLD,FE,iNat;17;19;1;ITIS;;195627;962145
+Pelobates syriacus;Chordata;Amphibia;Anura;Pelobatidae;FE;5;13;3;ITIS;;271962

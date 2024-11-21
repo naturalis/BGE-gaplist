@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haploembia palaui;Arthropoda;Insecta;Embioptera;Oligotomidae;FE;;;;;gap;
+Haploembia solieri;Arthropoda;Insecta;Embioptera;Oligotomidae;BOLD,FE;24;25;2;FE;;209100
+Oligotoma nigra;Arthropoda;Insecta;Embioptera;Oligotomidae;FE;56;62;1;FE;;209101
+Oligotoma saundersii;Arthropoda;Insecta;Embioptera;Oligotomidae;FE;26;28;2;FE;;152895

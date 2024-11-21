@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cteniza brevidens;Arthropoda;Arachnida;Araneae;Ctenizidae;FE;;;;FE;gap;
+Cteniza genevieveae;Arthropoda;Arachnida;Araneae;Ctenizidae;BOLD;1;1;0;;;949453
+Cteniza moggridgei;Arthropoda;Arachnida;Araneae;Ctenizidae;FE;;;;;gap;
+Cteniza sauvagesi;Arthropoda;Arachnida;Araneae;Ctenizidae;BOLD,FE;1;1;0;FE;;818387
+Cteniza solitaria;Arthropoda;Arachnida;Araneae;Ctenizidae;FE;;;;FE;gap;
+Cyrtocarenum cunicularium;Arthropoda;Arachnida;Araneae;Ctenizidae;FE;82;106;39;FE;;796578
+Cyrtocarenum grajum;Arthropoda;Arachnida;Araneae;Ctenizidae;FE;11;11;5;FE;;796579
+Ummidia occidentalis;Arthropoda;Arachnida;Araneae;Ctenizidae;FE;;;;FE;gap;

@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arothron meleagris;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;33;36;1;WORMS;;10981
+Canthigaster amboinensis;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;24;25;2;WORMS;;84588
+Canthigaster jamestyleri;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;6;11;0;;;501015
+Canthigaster janthinoptera;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;49;53;2;WORMS;;10974
+Canthigaster punctatissima;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;85;93;1;WORMS;;10973
+Canthigaster rostrata;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;WORMS;;;;WORMS;gap;
+Canthigaster sanctaehelenae;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD,WORMS;18;18;0;WORMS;;495616
+Dichotomyctere nigroviridis;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;5;6;1;WORMS;;754784;25127
+Ephippion guttifer;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD,WORMS;18;23;1;WORMS;;108144
+Lagocephalus lagocephalus;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD,WORMS;20;21;2;WORMS;;456450
+Lagocephalus spadiceus;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD,WORMS;76;86;4;WORMS;;92225
+Sphoeroides dorsalis;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD;23;25;1;;;141136
+Sphoeroides marmoratus;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;WORMS;;;;WORMS;gap;
+Sphoeroides pachygaster;Chordata;Actinopterygii;Tetraodontiformes;Tetraodontidae;BOLD,WORMS;75;85;1;WORMS;;69782

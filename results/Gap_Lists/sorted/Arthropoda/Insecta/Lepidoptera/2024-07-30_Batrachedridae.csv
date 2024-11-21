@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Batrachedra amydraula;Arthropoda;Insecta;Lepidoptera;Batrachedridae;LF;2;13;0;;;659158
+Batrachedra confusella;Arthropoda;Insecta;Lepidoptera;Batrachedridae;BOLD;59;59;1;;;1074172
+Batrachedra enormis;Arthropoda;Insecta;Lepidoptera;Batrachedridae;LF;3;8;1;;;170204
+Batrachedra parvulipunctella;Arthropoda;Insecta;Lepidoptera;Batrachedridae;BOLD,FE,LF;6;7;2;FE;;785216
+Batrachedra pinicolella;Arthropoda;Insecta;Lepidoptera;Batrachedridae;BOLD,FE,LF,iNat;47;67;4;FE;;183446
+Batrachedra praeangusta;Arthropoda;Insecta;Lepidoptera;Batrachedridae;BOLD,FE,LF,iNat;65;75;5;FE;;13269
+Duospina europaea;Arthropoda;Insecta;Lepidoptera;Batrachedridae;BOLD,LF;2;2;1;;;1022813

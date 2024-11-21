@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dinophilus gigas;Annelida;Polychaeta;Polychaeta_insertae_sedis;Dinophilidae;WORMS;;;;;gap;
+Dinophilus taeniatus;Annelida;Polychaeta;Polychaeta_insertae_sedis;Dinophilidae;BOLD,WORMS;7;9;2;;;714450
+Dinophilus vorticoides;Annelida;Polychaeta;Polychaeta_insertae_sedis;Dinophilidae;WORMS;;;;WORMS;gap;
+Trilobodrilus axi;Annelida;Polychaeta;Polychaeta_insertae_sedis;Dinophilidae;WORMS;;;;;gap;
+Trilobodrilus heideri;Annelida;Polychaeta;Polychaeta_insertae_sedis;Dinophilidae;WORMS;;;;;gap;

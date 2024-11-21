@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oxus angustipositus;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;11;11;3;;;1131655
+Oxus carpenteri;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;6;7;1;ES;;764981
+Oxus halophilus;Arthropoda;Arachnida;Trombidiformes;Oxidae;FE;;;;;gap;
+Oxus hastata;Arthropoda;Arachnida;Trombidiformes;Oxidae;FE;;;;ES;gap;
+Oxus hastatus ;Arthropoda;Arachnida;Trombidiformes;Oxidae;ES;;;;ES;gap;
+Oxus longisetus;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;11;12;3;ES;;674853
+Oxus lusitanicus;Arthropoda;Arachnida;Trombidiformes;Oxidae;FE;;;;;gap;
+Oxus musculus;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;9;11;3;ES;;674814
+Oxus nodigerus;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;14;15;4;;;674893
+Oxus oblongus;Arthropoda;Arachnida;Trombidiformes;Oxidae;FE;;;;;gap;
+Oxus ovalis;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;14;15;4;FE;;674887
+Oxus setosus;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;6;8;1;FE;;674869
+Oxus strigatus;Arthropoda;Arachnida;Trombidiformes;Oxidae;BOLD,FE;1;5;1;FE;;675664
+Oxus tenuisetis;Arthropoda;Arachnida;Trombidiformes;Oxidae;FE;;;;;gap;
+Oxus variabilis ;Arthropoda;Arachnida;Trombidiformes;Oxidae;ES;;;;ES;gap;

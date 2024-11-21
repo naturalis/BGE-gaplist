@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crawfordia labiata;Arthropoda;Insecta;Strepsiptera;Stylopidae;FE;;;;;gap;
+Eurystylops oenipontana;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD,FE;0;1;0;;gap;715656
+Halictoxenos arnoldi;Arthropoda;Insecta;Strepsiptera;Stylopidae;FE;;;;;gap;
+Halictoxenos simplicis;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;1;0;;gap;715710
+Halictoxenos spencei;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD,FE;0;1;0;ITIS;gap;715711
+Halictoxenos tumulorum;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD,FE;2;17;0;;;715712
+Hylecthrus rubi;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD,FE;0;1;0;ITIS;gap;715802
+Stylops ater;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;3;0;;gap;991451
+Stylops gwynanai;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;;;;ITIS;gap;716704
+Stylops hamellus;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;;;;ITIS;gap;716705
+Stylops japonicus;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;3;7;1;;;716707
+Stylops liliputanus;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;7;0;;gap;716708
+Stylops maxillaris;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;3;0;;gap;716709
+Stylops melittae;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD,FE;14;49;3;ITIS;;667119
+Stylops nassonowi;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;6;6;1;;;937646
+Stylops nevinsoni;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;25;39;1;;;716711
+Stylops obsoletus;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;1;0;;gap;716712
+Stylops risleri;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;1;0;;gap;716713
+Stylops spencii;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;;;;;gap;716716
+Stylops spretus;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;;;;ITIS;gap;716717
+Stylops thwaitei;Arthropoda;Insecta;Strepsiptera;Stylopidae;BOLD;0;3;0;ITIS;gap;716719
+Ulrichia friesei;Arthropoda;Insecta;Strepsiptera;Stylopidae;FE;;;;FE;gap;

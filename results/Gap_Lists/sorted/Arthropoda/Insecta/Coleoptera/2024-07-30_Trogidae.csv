@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Omorgus subcarinatus;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;
+Omorgus suberosus;Arthropoda;Insecta;Coleoptera;Trogidae;FE;22;46;4;ITIS;;312824
+Trox cadaverinus;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD,FE;0;4;0;;gap;771924
+Trox clathratus;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD;1;1;1;;;1057184
+Trox cotodognanensis;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox cribrum;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox cricetulus;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox eversmanni;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;
+Trox eversmannii;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD;1;4;1;;;771925
+Trox fabricii;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;
+Trox granulipennis;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;
+Trox klapperichi;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox leonardii;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox litoralis;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox martini;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox morticinii;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;
+Trox niger;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox nodulosus;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;
+Trox perlatus;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD,FE,iNat;1;6;1;FE;;771926
+Trox perrisii;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD,FE;5;5;1;FE;;534250
+Trox sabulosus;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD,FE,iNat;7;7;1;FE;;502772
+Trox scaber;Arthropoda;Insecta;Coleoptera;Trogidae;BOLD,FE,iNat;18;36;2;ITIS;;309965;330232
+Trox sordidatus;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;;gap;
+Trox transversus;Arthropoda;Insecta;Coleoptera;Trogidae;FE;;;;FE;gap;

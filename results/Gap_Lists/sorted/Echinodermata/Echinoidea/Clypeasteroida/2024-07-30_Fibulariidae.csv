@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echinocyamus grandiporus;Echinodermata;Echinoidea;Clypeasteroida;Fibulariidae;WORMS;;;;WORMS;gap;
+Echinocyamus macrostomus;Echinodermata;Echinoidea;Clypeasteroida;Fibulariidae;WORMS;;;;WORMS;gap;
+Echinocyamus pusillus;Echinodermata;Echinoidea;Clypeasteroida;Fibulariidae;BOLD,WORMS;11;17;1;WORMS;;222073

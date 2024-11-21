@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sisyra bureschi;Arthropoda;Insecta;Neuroptera;Sisyridae;BOLD;1;3;1;;;673549
+Sisyra dalii;Arthropoda;Insecta;Neuroptera;Sisyridae;BOLD,FE;1;3;1;;;673548
+Sisyra iridipennis;Arthropoda;Insecta;Neuroptera;Sisyridae;FE;;;;;gap;
+Sisyra jutlandica;Arthropoda;Insecta;Neuroptera;Sisyridae;BOLD,FE;1;1;1;;;449866
+Sisyra nigra;Arthropoda;Insecta;Neuroptera;Sisyridae;BOLD,FE,iNat;21;33;2;ITIS;;361822
+Sisyra terminalis;Arthropoda;Insecta;Neuroptera;Sisyridae;BOLD,FE,iNat;8;11;1;;;361833

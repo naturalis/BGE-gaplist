@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Parameletus chelifer;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;50;54;2;ITIS;;159092
+Parameletus minor;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;8;8;1;FE;;760545
+Siphlonurus abraxas;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;;;;;gap;
+Siphlonurus aestivalis;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;32;52;2;FE;;643643
+Siphlonurus alternatus;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;125;139;6;ITIS;;9970
+Siphlonurus armatus;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;23;29;2;FE;;733225
+Siphlonurus chankae;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;1;4;1;;;739514
+Siphlonurus croaticus;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;7;8;1;;;514560
+Siphlonurus flavidus;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;;;;FE;gap;
+Siphlonurus hispanicus;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;;;;;gap;
+Siphlonurus irenae;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;;;;;gap;
+Siphlonurus lacustris;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;BOLD,FE;25;44;3;FE;;309891
+Siphlonurus lusoensis;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;;;;;gap;
+Siphlonurus montanus;Arthropoda;Insecta;Ephemeroptera;Siphlonuridae;FE;;;;;gap;

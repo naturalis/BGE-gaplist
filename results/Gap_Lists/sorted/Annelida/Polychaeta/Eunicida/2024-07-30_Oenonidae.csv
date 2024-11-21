@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arabella coeca;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;;gap;
+Arabella geniculata;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;WORMS;gap;
+Arabella iricolor;Annelida;Polychaeta;Eunicida;Oenonidae;BOLD,WORMS;13;18;3;WORMS;;265372;83440
+Drilonereis brattstroemi;Annelida;Polychaeta;Eunicida;Oenonidae;BOLD,WORMS;0;1;0;;gap;1137046
+Drilonereis filum;Annelida;Polychaeta;Eunicida;Oenonidae;BOLD,WORMS;2;7;2;WORMS;;529977
+Halla parthenopeia;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;WORMS;gap;
+Labrorostratus jonicus;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;;gap;
+Labrorostratus parasiticus;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;;gap;
+Notocirrus scoticus;Annelida;Polychaeta;Eunicida;Oenonidae;BOLD,WORMS;0;2;0;;gap;597931
+Oenone fulgida;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;6;8;4;WORMS;;83442;589058
+Oligognathus bonelliae;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;;gap;
+Oligognathus parasiticus;Annelida;Polychaeta;Eunicida;Oenonidae;WORMS;;;;;gap;

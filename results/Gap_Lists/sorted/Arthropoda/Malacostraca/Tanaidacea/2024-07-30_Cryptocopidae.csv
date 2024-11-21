@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cryptocope abbreviata;Arthropoda;Malacostraca;Tanaidacea;Cryptocopidae;WORMS;;;;WORMS;gap;
+Cryptocopoides arctica;Arthropoda;Malacostraca;Tanaidacea;Cryptocopidae;BOLD;0;3;0;;gap;527992
+Cryptocopoides arcticus;Arthropoda;Malacostraca;Tanaidacea;Cryptocopidae;BOLD,WORMS;0;1;0;WORMS;gap;528041

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dentitruncus truttae;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Illiosentidae;FE;;;;;gap;
+Pseudorhadinorhynchus salmothymi;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Illiosentidae;FE;;;;;gap;
+Telosentis exiguus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Illiosentidae;FE,WORMS;;;;WORMS;gap;
+Telosentis molini;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Illiosentidae;WORMS;;;;ITIS;gap;

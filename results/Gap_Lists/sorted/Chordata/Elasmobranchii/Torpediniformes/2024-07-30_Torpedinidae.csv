@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Tetronarce nobiliana;Chordata;Elasmobranchii;Torpediniformes;Torpedinidae;BOLD;;;;FB;gap;
+Torpedo marmorata;Chordata;Elasmobranchii;Torpediniformes;Torpedinidae;BOLD;59;73;1;WORMS;;53743
+Torpedo torpedo;Chordata;Elasmobranchii;Torpediniformes;Torpedinidae;BOLD;28;45;1;WORMS;;265323

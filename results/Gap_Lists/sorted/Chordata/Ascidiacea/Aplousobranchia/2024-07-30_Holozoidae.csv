@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Distaplia bermudensis;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;BOLD,WORMS;26;41;3;WORMS;;714179
+Distaplia clavata;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;WORMS;;;;WORMS;gap;
+Distaplia corolla;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;WORMS;0;5;0;;gap;752202
+Distaplia livida;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;WORMS;;;;WORMS;gap;
+Distaplia magnilarva;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;WORMS;;;;WORMS;gap;
+Distaplia rosea;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;BOLD,WORMS;0;3;0;;gap;1130337
+Protoholozoa pigra;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;WORMS;;;;;gap;
+Sycozoa melopepona;Chordata;Ascidiacea;Aplousobranchia;Holozoidae;WORMS;;;;;gap;

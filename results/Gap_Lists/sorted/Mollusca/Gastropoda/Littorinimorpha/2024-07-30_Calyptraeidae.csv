@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bostrycapulus odites;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;BOLD;1;1;0;WORMS;;212470
+Calyptraea chinensis;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;BOLD,WORMS;6;9;2;WORMS;;31458;31456
+Crepidula fornicata;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;BOLD,WORMS,iNat;75;101;3;WORMS;;31978
+Crepidula porcellana;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;WORMS;7;8;2;WORMS;;384099
+Crepidula unguiformis;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;BOLD,WORMS;2;2;2;WORMS;;25471
+Crepipatella dilatata;Mollusca;Gastropoda;Littorinimorpha;Calyptraeidae;BOLD;68;72;2;WORMS;;31470;25473

@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mompha bradleyi;Arthropoda;Insecta;Lepidoptera;Momphidae;FE,LF;;;;;gap;
+Mompha confusella;Arthropoda;Insecta;Lepidoptera;Momphidae;FE,LF;;;;;gap;
+Mompha conturbatella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;87;93;1;FE;;91846
+Mompha divisella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;19;20;1;;;286124
+Mompha epilobiella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;104;115;1;FE;;198128
+Mompha idaei;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;82;86;1;;;18346
+Mompha jurassicella;Arthropoda;Insecta;Lepidoptera;Momphidae;FE,LF;;;;FE;gap;
+Mompha lacteella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;26;33;1;FE;;258069
+Mompha langiella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF,iNat;71;75;1;;;258070
+Mompha locupletella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;24;25;2;;;197852
+Mompha meridionella;Arthropoda;Insecta;Lepidoptera;Momphidae;FE,LF;;;;;gap;
+Mompha miscella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;85;96;7;;;261771
+Mompha ochraceella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;5;9;1;FE;;197967
+Mompha propinquella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;20;23;1;FE;;197922
+Mompha raschkiella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF,iNat;30;42;2;;;198019
+Mompha sexstrigella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;36;36;3;;;280991
+Mompha sturnipennella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;47;52;3;FE;;198099
+Mompha subbistrigella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF,iNat;92;102;1;FE;;198056
+Mompha terminella;Arthropoda;Insecta;Lepidoptera;Momphidae;BOLD,FE,LF;112;117;5;;;18349

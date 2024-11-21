@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anemonactis mazeli;Cnidaria;Anthozoa;Actiniaria;Haloclavidae;WORMS;;;;WORMS;gap;
+Peachia cylindrica;Cnidaria;Anthozoa;Actiniaria;Haloclavidae;BOLD,WORMS;0;3;0;WORMS;gap;726271
+Peachia hastata;Cnidaria;Anthozoa;Actiniaria;Haloclavidae;BOLD;0;2;0;WORMS;gap;726272
+Peachia quinquecapitata;Cnidaria;Anthozoa;Actiniaria;Haloclavidae;BOLD;4;6;1;WORMS;;808194

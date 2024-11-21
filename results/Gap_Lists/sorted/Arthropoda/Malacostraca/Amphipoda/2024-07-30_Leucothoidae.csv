@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Leucothoe barana;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;BOLD;4;6;0;;;753981
+Leucothoe euryonyx;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;WORMS;gap;
+Leucothoe hortapugai;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;BOLD;0;3;0;;gap;753990
+Leucothoe incisa;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;BOLD,WORMS;2;3;1;;;469370
+Leucothoe lilljeborgi;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;BOLD,WORMS;0;7;0;WORMS;gap;469371
+Leucothoe oboa;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe occulta;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe pachycera;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe procera;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;WORMS;gap;
+Leucothoe rostrata;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe serraticarpa;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe spinicarpa;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;BOLD,WORMS;9;19;3;WORMS;;88705
+Leucothoe spinulosa;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe ubouhu;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;BOLD;3;3;0;;;753997
+Leucothoe uschakovi;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;
+Leucothoe venetiarum;Arthropoda;Malacostraca;Amphipoda;Leucothoidae;WORMS;;;;;gap;

@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aethia cristatella;Chordata;Aves;Charadriiformes;Alcidae;FE;9;13;1;FE;;10154
+Alca torda;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS,iNat;16;20;1;;;10140
+Alle alle;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS,iNat;21;24;1;WORMS;;12292
+Brachyramphus perdix;Chordata;Aves;Charadriiformes;Alcidae;FE;9;9;1;WORMS;;100126
+Cepphus grylle;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS,iNat;11;11;1;WORMS;;10137
+Cyclorrhynchus psittaculus;Chordata;Aves;Charadriiformes;Alcidae;FE;;;;FE;gap;
+Fratercula arctica;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS;21;24;1;WORMS;;19975
+Fratercula cirrhata;Chordata;Aves;Charadriiformes;Alcidae;FE;16;50;1;WORMS;;17419
+Pinguinus impennis;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS;10;10;1;ITIS;;725768
+Synthliboramphus antiquus;Chordata;Aves;Charadriiformes;Alcidae;FE;18;23;1;FE;;12312
+Uria aalge;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS,iNat;30;37;1;WORMS;;10149
+Uria lomvia;Chordata;Aves;Charadriiformes;Alcidae;BOLD,FE,WORMS;21;24;1;FE;;10150

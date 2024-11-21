@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Belone euxini;Chordata;Actinopterygii;Beloniformes;Belonidae;BOLD,WORMS,iNat;;;;FB;gap;
+Belone svetovidovi;Chordata;Actinopterygii;Beloniformes;Belonidae;WORMS;;;;;gap;
+Platybelone lovii;Chordata;Actinopterygii;Beloniformes;Belonidae;BOLD,WORMS;;;;FB;gap;
+Tylosurus choram;Chordata;Actinopterygii;Beloniformes;Belonidae;WORMS;;;;WORMS;gap;
+Tylosurus fodiator;Chordata;Actinopterygii;Beloniformes;Belonidae;BOLD;;;;FB;gap;
+Tylosurus imperialis;Chordata;Actinopterygii;Beloniformes;Belonidae;WORMS;;;;WORMS;gap;
+Tylosurus pacificus;Chordata;Actinopterygii;Beloniformes;Belonidae;BOLD,WORMS;;;;FB;gap;

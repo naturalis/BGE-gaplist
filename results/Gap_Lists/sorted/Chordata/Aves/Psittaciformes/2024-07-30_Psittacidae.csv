@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anodorhynchus hyacinthinus;Chordata;Aves;Psittaciformes;Psittacidae;BOLD;9;14;1;;;91347
+Ara ararauna;Chordata;Aves;Psittaciformes;Psittacidae;BOLD;27;41;1;;;110433
+Myiopsitta monacha;Chordata;Aves;Psittaciformes;Psittacidae;FE;;;;FE;gap;

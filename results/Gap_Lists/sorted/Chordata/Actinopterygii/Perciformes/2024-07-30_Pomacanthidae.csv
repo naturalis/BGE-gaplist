@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Apolemichthys trimaculatus;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;21;25;1;WORMS;;47541
+Centropyge argi;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;35;35;1;;;47214
+Centropyge bispinosa;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;37;37;1;WORMS;;47211
+Centropyge flavissima;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;46;48;3;WORMS;;47266
+Centropyge heraldi;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;19;19;3;WORMS;;47173;747549
+Centropyge loriculus;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;;;;FB;gap;
+Centropyge multispinis;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;28;32;1;WORMS;;18485
+Centropyge nigriocella;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;9;9;1;FB;;502269
+Centropyge resplendens;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;7;7;1;;;495595
+Holacanthus bermudensis;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;;;;FB;gap;
+Holacanthus limbaughi;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;7;7;0;;;484210
+Pomacanthus imperator;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;29;38;3;WORMS;;47175
+Pomacanthus paru;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;35;59;1;WORMS;;78439
+Pygoplites diacanthus;Chordata;Actinopterygii;Perciformes;Pomacanthidae;BOLD;42;46;1;WORMS;;47260

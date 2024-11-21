@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lampromyia (Lampromyia) canariensis;Arthropoda;Insecta;Diptera;Vermileonidae;FE,SyDip;;;;SyDip;gap;
+Lampromyia (Lampromyia) fortunata;Arthropoda;Insecta;Diptera;Vermileonidae;FE,SyDip;;;;SyDip;gap;
+Lampromyia (Lampromyia) funebris;Arthropoda;Insecta;Diptera;Vermileonidae;FE,SyDip;;;;SyDip;gap;
+Lampromyia (Lampromyia) iberica;Arthropoda;Insecta;Diptera;Vermileonidae;FE,SyDip;;;;SyDip;gap;
+Lampromyia hemmingseni;Arthropoda;Insecta;Diptera;Vermileonidae;FE;;;;;gap;
+Vermileo ater;Arthropoda;Insecta;Diptera;Vermileonidae;BOLD,FE,SyDip;1;5;0;;;952828
+Vermileo nigriventris;Arthropoda;Insecta;Diptera;Vermileonidae;FE,SyDip;;;;SyDip;gap;
+Vermileo vermileo;Arthropoda;Insecta;Diptera;Vermileonidae;FE,SyDip;2;19;0;SyDip;;800554

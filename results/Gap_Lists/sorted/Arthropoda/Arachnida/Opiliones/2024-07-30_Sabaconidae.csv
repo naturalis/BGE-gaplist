@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sabacon paradoxus;Arthropoda;Arachnida;Opiliones;Sabaconidae;BOLD;1;1;0;;;668778
+Sabacon pasonianus;Arthropoda;Arachnida;Opiliones;Sabaconidae;BOLD;1;1;0;;;668777
+Sabacon simoni;Arthropoda;Arachnida;Opiliones;Sabaconidae;BOLD,FE;2;2;0;;;302325
+Sabacon viscayanum;Arthropoda;Arachnida;Opiliones;Sabaconidae;BOLD,FE;;;;;gap;952128
+Sabacon viscayanus;Arthropoda;Arachnida;Opiliones;Sabaconidae;BOLD;1;7;0;;;752104;668780

@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Achelous tumidulus;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;2;2;1;WORMS;;934639
+Callinectes danae;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD,WORMS;69;103;1;;;276691
+Callinectes ornatus;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;95;127;2;WORMS;;276693
+Callinectes sapidus;Arthropoda;Malacostraca;Decapoda;Portunidae;WORMS;;;;WORMS;gap;
+Carcinus aestuarii;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD,WORMS;216;312;4;WORMS;;28230
+Carcinus maenas;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD,WORMS,iNat;511;902;2;WORMS;;28231
+Charybdis (Charybdis) hellerii;Arthropoda;Malacostraca;Decapoda;Portunidae;WORMS;;;;WORMS;gap;
+Laleonectes vocans;Arthropoda;Malacostraca;Decapoda;Portunidae;WORMS;;;;WORMS;gap;
+Libystes nitidus;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;6;6;2;WORMS;;344063
+Portumnus latipes;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD,WORMS,iNat;4;4;1;WORMS;;991185;501952
+Portunus anceps;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;3;3;1;;;501907
+Portunus sanguinolentus;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;81;92;3;WORMS;;153355
+Portunus trituberculatus;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;67;80;2;WORMS;;30276
+Portunus ventralis;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;2;2;1;;;501913
+Thalamita chaptali;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;1;2;1;;;934126
+Thalamita cooperi;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;5;5;3;;;934638
+Thalamita gloriensis;Arthropoda;Malacostraca;Decapoda;Portunidae;WORMS;;;;;gap;
+Thalamita poissonii;Arthropoda;Malacostraca;Decapoda;Portunidae;WORMS;;;;WORMS;gap;
+Thalamita seurati;Arthropoda;Malacostraca;Decapoda;Portunidae;BOLD;14;15;3;WORMS;;277645

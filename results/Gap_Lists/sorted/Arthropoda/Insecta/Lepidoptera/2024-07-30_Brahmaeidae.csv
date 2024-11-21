@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthobrahmaea europaea;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD;8;9;1;;;744087
+Brahmaea europaea;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;FE,LF;;;;;gap;
+Lemonia balcanica;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD,FE,LF;32;40;2;FE;;274706
+Lemonia ballioni;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD,FE,LF;7;8;1;FE;;274709
+Lemonia batavorum;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD;3;3;1;;;1137767
+Lemonia dumi;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD,FE,LF,iNat;16;26;1;FE;;86623
+Lemonia friedeli;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD;5;9;3;;;450430
+Lemonia philopalus;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD,FE,LF;0;1;0;FE;gap;467663;274702
+Lemonia strigata;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD,LF;4;4;1;;;340702
+Lemonia taraxaci;Arthropoda;Insecta;Lepidoptera;Brahmaeidae;BOLD,FE,LF;14;17;4;FE;;213413

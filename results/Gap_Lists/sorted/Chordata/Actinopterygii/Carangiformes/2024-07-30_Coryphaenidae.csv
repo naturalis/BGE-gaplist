@@ -1,0 +1,3 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coryphaena equiselis;Chordata;Actinopterygii;Carangiformes;Coryphaenidae;WORMS;;;;WORMS;gap;
+Coryphaena hippurus;Chordata;Actinopterygii;Carangiformes;Coryphaenidae;BOLD,WORMS;566;604;1;WORMS;;13788

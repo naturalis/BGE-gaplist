@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ecteinascidia herdmani;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;WORMS;;;;WORMS;gap;
+Ecteinascidia styeloides;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;WORMS;10;12;1;WORMS;;714187
+Ecteinascidia turbinata;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;BOLD,WORMS;15;34;1;WORMS;;154164
+Perophora bermudensis;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;WORMS;;;;WORMS;gap;
+Perophora japonica;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;BOLD,WORMS;10;26;3;;;406737
+Perophora listeri;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;WORMS;;;;;gap;
+Perophora multiclathrata;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;WORMS;15;24;2;WORMS;;751607
+Perophora viridis;Chordata;Ascidiacea;Phlebobranchia;Perophoridae;WORMS;23;27;1;WORMS;;752207

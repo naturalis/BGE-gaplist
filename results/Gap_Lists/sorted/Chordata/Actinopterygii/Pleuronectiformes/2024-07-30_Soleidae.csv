@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aseraggodes auroculus;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;2;2;1;;;894669
+Aseraggodes melanostictus;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;4;5;2;WORMS;;89315
+Bathysolea profundicola;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;13;14;2;WORMS;;200749
+Buglossidium luteum;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;30;52;1;WORMS;;78402
+Dagetichthys lusitanicus;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;;;;FB;gap;
+Dicologlossa cuneata;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;35;56;3;WORMS;;52092
+Dicologlossa hexophthalma;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;;;;FB;gap;
+Microchirus azevia;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;32;36;1;WORMS;;86799
+Microchirus boscanion;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;8;10;1;WORMS;;53734
+Microchirus ocellatus;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;10;12;1;WORMS;;261835
+Microchirus variegatus;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;40;60;1;WORMS;;34225
+Monochirus hispidus;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;7;8;1;FB;;261837
+Pegusa lascaris;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;26;36;2;WORMS;;77454;516177
+Pegusa nasuta;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;;;;WORMS;gap;
+Solea aegyptiaca;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;7;7;1;WORMS;;200746
+Solea solea;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD,WORMS;157;209;1;WORMS;;51398
+Soleichthys heterorhinos;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;6;7;2;WORMS;;108698
+Synapturichthys kleinii;Chordata;Actinopterygii;Pleuronectiformes;Soleidae;BOLD;22;27;1;WORMS;;17189;516174

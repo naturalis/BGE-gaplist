@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Facciolella oxyrhyncha;Chordata;Actinopterygii;Anguilliformes;Nettastomatidae;BOLD;11;12;3;FB;;53722
+Facciolella oxyrhynchus;Chordata;Actinopterygii;Anguilliformes;Nettastomatidae;WORMS;;;;WORMS;gap;
+Nettastoma melanurum;Chordata;Actinopterygii;Anguilliformes;Nettastomatidae;BOLD;;;;FB;gap;78498
+Saurenchelys cancrivora;Chordata;Actinopterygii;Anguilliformes;Nettastomatidae;WORMS;;;;WORMS;gap;
+Venefica proboscidea;Chordata;Actinopterygii;Anguilliformes;Nettastomatidae;BOLD,WORMS;10;11;1;WORMS;;53740
+Venefica procera;Chordata;Actinopterygii;Anguilliformes;Nettastomatidae;BOLD;8;8;1;FB;;140894

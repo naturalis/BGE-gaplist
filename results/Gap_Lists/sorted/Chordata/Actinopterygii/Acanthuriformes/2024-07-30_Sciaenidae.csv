@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Argyrosomus regius;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;WORMS;;;;WORMS;gap;
+Chrysochir aureus;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;73;78;2;WORMS;;22181
+Cynoscion regalis;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;27;28;1;WORMS;;140398
+Equetus lanceolatus;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;14;16;3;FB;;64461
+Equetus punctatus;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;;;;WORMS;gap;107980
+Larimichthys polyactis;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;;;;WORMS;gap;11435
+Micropogonias furnieri;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;;;;WORMS;gap;88607
+Pennahia pawak;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD;24;25;1;WORMS;;196104
+Pseudotolithus senegalensis;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;WORMS;;;;WORMS;gap;
+Pseudotolithus typus;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;WORMS;;;;WORMS;gap;
+Sciaena umbra;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;WORMS;;;;WORMS;gap;
+Umbrina canariensis;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;BOLD,WORMS;56;75;1;WORMS;;20583
+Umbrina cirrosa;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;WORMS;;;;WORMS;gap;
+Umbrina ronchus;Chordata;Actinopterygii;Acanthuriformes;Sciaenidae;WORMS;;;;WORMS;gap;

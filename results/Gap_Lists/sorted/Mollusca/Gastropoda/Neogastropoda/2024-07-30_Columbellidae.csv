@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphissa acutecostata;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Anachis aliceae;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Anachis avaroides;Mollusca;Gastropoda;Neogastropoda;Columbellidae;BOLD,WORMS;0;9;0;;gap;361884
+Columbella adansoni;Mollusca;Gastropoda;Neogastropoda;Columbellidae;BOLD,WORMS;66;67;1;WORMS;;600173
+Columbella rustica;Mollusca;Gastropoda;Neogastropoda;Columbellidae;BOLD,WORMS;100;100;7;WORMS;;795293
+Mitrella broderipii;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Mitrella bruggeni;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Mitrella gervillii;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Mitrella minor;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Mitrella nitidulina;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;WORMS;gap;
+Mitrella ocellata;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;2;4;1;ITIS;;1069185
+Mitrella scripta;Mollusca;Gastropoda;Neogastropoda;Columbellidae;BOLD,WORMS;2;3;1;WORMS;;795606;524867
+Zafra savignyi;Mollusca;Gastropoda;Neogastropoda;Columbellidae;WORMS;;;;;gap;

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Blatta orientalis;Arthropoda;Insecta;Blattodea;Blattidae;BOLD,FE,iNat;40;49;1;;;152846
+Periplaneta americana;Arthropoda;Insecta;Blattodea;Blattidae;BOLD,FE,iNat;943;1067;5;FE;;14473
+Periplaneta australasiae;Arthropoda;Insecta;Blattodea;Blattidae;BOLD,FE,iNat;121;143;1;FE;;92736
+Periplaneta brunnea;Arthropoda;Insecta;Blattodea;Blattidae;FE;16;17;2;;;152843

@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Clavelina borealis;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;WORMS;;;;WORMS;gap;
+Clavelina dellavallei;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;WORMS;;;;WORMS;gap;
+Clavelina gemmae;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;2;2;0;;;26151
+Clavelina lepadiformis;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD,WORMS;25;35;2;WORMS;;28451
+Clavelina obesa;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;0;1;0;;gap;754033
+Clavelina oblonga;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD,WORMS;35;43;2;WORMS;;28449;648625
+Clavelina producta;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;2;2;1;;;104616
+Clavelina puertosecensis;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;0;1;0;;gap;754038
+Clavelina sabbadini;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;WORMS;5;5;1;;;1152029
+Pycnoclavella atlantica;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;2;3;2;;;82551
+Pycnoclavella aurilucens;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD,WORMS;7;7;2;;;80403
+Pycnoclavella brava;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;4;4;2;;;80402
+Pycnoclavella communis;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;46;52;6;;;80401
+Pycnoclavella nana;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;BOLD;7;7;1;WORMS;;80404
+Pycnoclavella taureanensis;Chordata;Ascidiacea;Aplousobranchia;Clavelinidae;WORMS;;;;WORMS;gap;

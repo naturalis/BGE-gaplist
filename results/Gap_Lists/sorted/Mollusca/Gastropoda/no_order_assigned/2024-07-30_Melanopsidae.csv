@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphimelania holandrii;Mollusca;Gastropoda;;Melanopsidae;FE;;;;FE;gap;
+Fagotia acicularis;Mollusca;Gastropoda;;Melanopsidae;BOLD;2;2;1;;;212111
+Fagotia daudebartii;Mollusca;Gastropoda;;Melanopsidae;FE;;;;FE;gap;
+Fagotia esperi;Mollusca;Gastropoda;;Melanopsidae;FE;;;;FE;gap;
+Holandriana holandri;Mollusca;Gastropoda;;Melanopsidae;BOLD;5;6;2;;;212109
+Holandriana holandrii;Mollusca;Gastropoda;;Melanopsidae;BOLD;0;11;0;;gap;974161
+Melanopsis buccinoidea;Mollusca;Gastropoda;;Melanopsidae;FE;0;12;0;FE;gap;974163
+Melanopsis cariosa;Mollusca;Gastropoda;;Melanopsidae;FE;;;;FE;gap;
+Melanopsis etrusca;Mollusca;Gastropoda;;Melanopsidae;FE;74;76;1;;;974166
+Melanopsis lorcana;Mollusca;Gastropoda;;Melanopsidae;FE;;;;FE;gap;
+Melanopsis parreyssii;Mollusca;Gastropoda;;Melanopsidae;BOLD,FE;3;3;1;FE;;212112
+Melanopsis penchinati;Mollusca;Gastropoda;;Melanopsidae;FE;;;;;gap;
+Melanopsis praemorsa;Mollusca;Gastropoda;;Melanopsidae;FE;6;7;3;FE;;795603
+Melanopsis tricarinata;Mollusca;Gastropoda;;Melanopsidae;BOLD,FE;4;6;2;FE;;961234
+Microcolpia daudebartii;Mollusca;Gastropoda;;Melanopsidae;BOLD;18;36;2;FE;;901053;901054

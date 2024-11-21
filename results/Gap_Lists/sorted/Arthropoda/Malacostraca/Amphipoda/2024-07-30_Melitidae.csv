@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Abludomelita aculeata;Arthropoda;Malacostraca;Amphipoda;Melitidae;WORMS;;;;WORMS;gap;
+Abludomelita gladiosa;Arthropoda;Malacostraca;Amphipoda;Melitidae;WORMS;;;;WORMS;gap;
+Abludomelita obtusata;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD,WORMS;13;16;2;WORMS;;267149
+Allomelita pellucida;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD,WORMS;0;2;0;WORMS;gap;267151
+Exitomelita lignicola;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD;3;3;1;;;675398
+Megamoera dentata;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD;1;4;0;WORMS;;512580;16161
+Melita bulla;Arthropoda;Malacostraca;Amphipoda;Melitidae;FE,WORMS;;;;;gap;
+Melita coroninii;Arthropoda;Malacostraca;Amphipoda;Melitidae;WORMS;;;;;gap;
+Melita dulcicola;Arthropoda;Malacostraca;Amphipoda;Melitidae;FE;;;;;gap;
+Melita hergensis;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD,WORMS;7;7;1;;;730287
+Melita nitida;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD;316;323;2;;;26463
+Melita palmata;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD,WORMS;36;70;1;WORMS;;212382
+Melita valesi;Arthropoda;Malacostraca;Amphipoda;Melitidae;FE;;;;;gap;
+Quasimelita quadrispinosa;Arthropoda;Malacostraca;Amphipoda;Melitidae;BOLD;2;2;1;WORMS;;512603;19346

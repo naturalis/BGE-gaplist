@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dromia marmorea;Arthropoda;Malacostraca;Decapoda;Dromiidae;WORMS;;;;;gap;
+Dromia nodosa;Arthropoda;Malacostraca;Decapoda;Dromiidae;WORMS;;;;;gap;
+Dromia personata;Arthropoda;Malacostraca;Decapoda;Dromiidae;BOLD,WORMS;9;14;2;WORMS;;178984

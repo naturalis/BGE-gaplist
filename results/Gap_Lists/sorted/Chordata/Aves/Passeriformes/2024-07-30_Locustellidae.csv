@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Helopsaltes certhiola;Chordata;Aves;Passeriformes;Locustellidae;BOLD;12;12;1;;;922932
+Locustella fluviatilis;Chordata;Aves;Passeriformes;Locustellidae;BOLD,FE,iNat;5;7;1;FE;;117414
+Locustella lanceolata;Chordata;Aves;Passeriformes;Locustellidae;BOLD,FE,iNat;16;20;1;FE;;86989
+Locustella luscinioides;Chordata;Aves;Passeriformes;Locustellidae;BOLD,FE,iNat;8;8;1;FE;;117415
+Locustella naevia;Chordata;Aves;Passeriformes;Locustellidae;BOLD,FE,iNat;21;22;1;FE;;73232

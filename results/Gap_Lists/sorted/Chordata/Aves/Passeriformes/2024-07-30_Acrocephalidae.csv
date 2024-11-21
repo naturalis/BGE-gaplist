@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acrocephalus agricola;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE;8;10;1;FE;;93234
+Acrocephalus arundinaceus;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;8;17;1;FE;;93224
+Acrocephalus dumetorum;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;17;22;1;;;68526
+Acrocephalus melanopogon;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE;48;49;1;FE;;117303
+Acrocephalus palustris;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;63;65;1;FE;;73223
+Acrocephalus schoenobaenus;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;23;28;1;FE;;93231
+Acrocephalus scirpaceus;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;118;173;1;FE;;93213
+Arundinax aedon;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD;8;15;1;;;857630
+Hippolais icterina;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;17;20;1;FE;;73225
+Hippolais olivetorum;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE;5;6;1;FE;;117398
+Hippolais polyglotta;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE,iNat;8;9;1;FE;;117401
+Iduna pallida;Chordata;Aves;Passeriformes;Acrocephalidae;BOLD,FE;12;17;1;ITIS;;745617

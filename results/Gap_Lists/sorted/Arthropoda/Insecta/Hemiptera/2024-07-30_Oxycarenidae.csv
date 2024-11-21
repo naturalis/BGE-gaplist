@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brachyplax tenuis;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;2;2;0;CoPH;;892453
+Camptotelus lineolatus;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;2;5;0;FE;;477670
+Macroplax fasciata;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;13;15;1;FE;;892443;1080844
+Macroplax preyssleri;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;13;16;1;CoPH;;465427
+Metopoplax ditomoides;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH,iNat;16;25;2;CoPH;;455342
+Metopoplax fuscinervis;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;2;4;1;CoPH;;992688
+Metopoplax origani;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;11;17;1;CoPH;;477671
+Microplax albofasciata;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;0;2;0;CoPH;gap;1080853
+Microplax interrupta;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;1;4;0;FE;;1080861
+Oxycarenus (Euoxycarenus) pallens;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;458206
+Oxycarenus (Oxycarenus) lavaterae;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;458205
+Oxycarenus (Pseudoxycarenus) modestus;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;455403
+Pilophorus perplexus;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;65;67;3;CoPH;;198368;719825
+Tropidophlebia costalis;Arthropoda;Insecta;Hemiptera;Oxycarenidae;BOLD,FE,CoPH;6;11;1;CoPH;;484608

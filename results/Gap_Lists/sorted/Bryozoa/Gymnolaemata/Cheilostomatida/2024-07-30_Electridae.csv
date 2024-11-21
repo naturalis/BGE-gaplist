@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aspidelectra melolontha;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;WORMS;;;;;gap;
+Conopeum seurati;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;WORMS;1;1;0;WORMS;;467569
+Einhornia crustulenta;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;BOLD;3;9;2;WORMS;;785451
+Electra monostachys;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;WORMS;;;;WORMS;gap;
+Electra pilosa;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;BOLD,WORMS,iNat;9;58;2;WORMS;;247912
+Electra posidoniae;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;WORMS;;;;;gap;
+Electra verticillata;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;WORMS;;;;ITIS;gap;
+Pyripora catenularia;Bryozoa;Gymnolaemata;Cheilostomatida;Electridae;BOLD,WORMS;1;1;0;;;785445

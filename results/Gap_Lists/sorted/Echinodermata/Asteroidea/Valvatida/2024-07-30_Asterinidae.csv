@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Asterina conandae;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD;3;8;0;;;415816
+Asterina gibbosa;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD,WORMS;3;8;2;WORMS;;32016
+Asterina gibbosa ;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD;;;;WORMS;gap;899945
+Asterina martinbarriosi;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD;4;8;1;;;899943
+Asterina pancerii;Echinodermata;Asteroidea;Valvatida;Asterinidae;WORMS;;;;WORMS;gap;
+Asterina phylactica;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD,WORMS;5;13;1;;;173624
+Asterina vicentae;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD;3;6;1;;;899944
+Parvulastra exigua;Echinodermata;Asteroidea;Valvatida;Asterinidae;BOLD;242;248;5;WORMS;;96298;30028
+Tremaster mirabilis;Echinodermata;Asteroidea;Valvatida;Asterinidae;WORMS;;;;WORMS;gap;

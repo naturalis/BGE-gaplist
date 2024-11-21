@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aldrovandia affinis;Chordata;Actinopterygii;Notacanthiformes;Halosauridae;WORMS;;;;WORMS;gap;
+Aldrovandia oleosa;Chordata;Actinopterygii;Notacanthiformes;Halosauridae;BOLD;24;24;1;;;178332
+Aldrovandia phalacra;Chordata;Actinopterygii;Notacanthiformes;Halosauridae;WORMS;;;;WORMS;gap;
+Halosauropsis macrochir;Chordata;Actinopterygii;Notacanthiformes;Halosauridae;BOLD,WORMS;58;58;2;WORMS;;59467
+Halosaurus johnsonianus;Chordata;Actinopterygii;Notacanthiformes;Halosauridae;WORMS;;;;WORMS;gap;
+Halosaurus ovenii;Chordata;Actinopterygii;Notacanthiformes;Halosauridae;BOLD,WORMS;15;19;3;WORMS;;108102

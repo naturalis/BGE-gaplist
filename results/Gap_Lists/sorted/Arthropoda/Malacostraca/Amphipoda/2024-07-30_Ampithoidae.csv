@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphithoe rubricata;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD;4;4;1;;;714399
+Amphitholina cuniculus;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD,WORMS;2;2;0;WORMS;;753811
+Ampithoe fastidiosa;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;;gap;
+Ampithoe ferox;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;WORMS;gap;
+Ampithoe gammaroides;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD;0;6;0;ITIS;gap;267153
+Ampithoe helleri;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD;30;37;1;ITIS;;387621
+Ampithoe pomboi;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;WORMS;gap;
+Ampithoe ramondi;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD,WORMS;23;27;3;WORMS;;739799
+Ampithoe riedli;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD,WORMS;5;6;1;;;739800
+Ampithoe rubricata;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD,WORMS;38;48;2;WORMS;;142549
+Ampithoe valida;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;WORMS;gap;
+Biancolina algicola;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;;gap;
+Cymadusa crassicornis;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;WORMS;gap;
+Cymadusa filosa;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;WORMS;;;;;gap;
+Sunamphitoe pelagica;Arthropoda;Malacostraca;Amphipoda;Ampithoidae;BOLD,WORMS;1;7;0;WORMS;;894408

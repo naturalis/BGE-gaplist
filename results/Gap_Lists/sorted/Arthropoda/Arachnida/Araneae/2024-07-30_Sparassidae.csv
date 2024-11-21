@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cerbalus alegranzaensis;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;;gap;
+Cerbalus psammodes;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;;gap;
+Cerbalus verneaui;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Eusparassus dufouri;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;6;6;2;FE;;651013
+Eusparassus levantinus;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;2;2;2;;;651017
+Eusparassus walckenaeri;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;5;5;3;FE;;651022
+Heteropoda scutata;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Heteropoda variata;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Heteropoda variegata;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Heteropoda venatoria;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;52;73;6;ITIS;;303744
+Micrommata aljibica;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;2;2;0;;;809396
+Micrommata aragonensis;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;;gap;
+Micrommata formosa;Arthropoda;Arachnida;Araneae;Sparassidae;FE;7;7;1;;;372046
+Micrommata ligurina;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;5;5;3;FE;;511355
+Micrommata longipes;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Micrommata spinicra;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Micrommata virescens;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE,iNat;60;62;1;FE;;320483
+Olios argelasius;Arthropoda;Arachnida;Araneae;Sparassidae;BOLD,FE;8;8;2;FE;;652705
+Olios canariensis;Arthropoda;Arachnida;Araneae;Sparassidae;FE;1;1;1;FE;;834559
+Olios hirtus;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Olios maderianus;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;
+Olios sanctivicentii;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;;gap;
+Tychicus longipes;Arthropoda;Arachnida;Araneae;Sparassidae;FE;;;;FE;gap;

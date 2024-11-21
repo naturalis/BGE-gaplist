@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cardiomya costellata;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;9;10;1;WORMS;;642783
+Cardiomya striata;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Cuspidaria arctica;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;1;1;0;WORMS;;887452
+Cuspidaria centobi;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Cuspidaria circinata;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Cuspidaria cuspidata;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;11;18;1;WORMS;;30927
+Cuspidaria elliptica;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;;gap;
+Cuspidaria exigua;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Cuspidaria glacialis;Mollusca;Bivalvia;;Cuspidariidae;WORMS;6;7;2;WORMS;;495477
+Cuspidaria jeffreysi;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Cuspidaria jugosa;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Cuspidaria lamellosa;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;6;10;1;WORMS;;948235
+Cuspidaria obesa;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;9;14;1;WORMS;;642784
+Cuspidaria parva;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;;gap;
+Cuspidaria rostrata;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;4;8;2;;;650504
+Cuspidaria subtorta;Mollusca;Bivalvia;;Cuspidariidae;WORMS;2;2;1;WORMS;;502823
+Cuspidaria ventricosa;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;;gap;
+Cuspidaria wollastonii;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Myonera angularis;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;;gap;
+Myonera paucistriata;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Rhinoclama halimera;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Rhinoclama notabilis;Mollusca;Bivalvia;;Cuspidariidae;WORMS;;;;WORMS;gap;
+Tropidomya abbreviata;Mollusca;Bivalvia;;Cuspidariidae;BOLD,WORMS;6;15;1;WORMS;;673998;673982

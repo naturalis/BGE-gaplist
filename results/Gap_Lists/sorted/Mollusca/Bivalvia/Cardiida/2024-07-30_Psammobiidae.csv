@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gari costulata;Mollusca;Bivalvia;Cardiida;Psammobiidae;WORMS;;;;WORMS;gap;
+Gari depressa;Mollusca;Bivalvia;Cardiida;Psammobiidae;BOLD,WORMS;2;4;2;WORMS;;673999
+Gari fervensis;Mollusca;Bivalvia;Cardiida;Psammobiidae;BOLD,WORMS;9;16;1;WORMS;;642317
+Gari pseudoweinkauffi;Mollusca;Bivalvia;Cardiida;Psammobiidae;WORMS;;;;WORMS;gap;
+Gari tellinella;Mollusca;Bivalvia;Cardiida;Psammobiidae;BOLD,WORMS;4;7;1;;;673984

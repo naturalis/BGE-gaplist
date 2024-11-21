@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calopteryx haemorrhoidalis;Arthropoda;Insecta;Odonata;Calopterygidae;BOLD,FE;27;46;1;FE;;537708
+Calopteryx splendens;Arthropoda;Insecta;Odonata;Calopterygidae;BOLD,FE,iNat;59;157;1;FE;;166215
+Calopteryx virgo;Arthropoda;Insecta;Odonata;Calopterygidae;BOLD,FE,iNat;59;154;3;FE;;166214
+Calopteryx xanthostoma;Arthropoda;Insecta;Odonata;Calopterygidae;BOLD,FE;5;16;2;FE;;537719

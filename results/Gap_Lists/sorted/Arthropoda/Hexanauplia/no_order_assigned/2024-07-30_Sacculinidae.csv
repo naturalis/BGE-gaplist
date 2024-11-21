@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Drepanorchis neglecta;Arthropoda;Hexanauplia;;Sacculinidae;BOLD,WORMS;1;2;0;WORMS;;785840
+Sacculina atlantica;Arthropoda;Hexanauplia;;Sacculinidae;WORMS;;;;;gap;
+Sacculina bourdoni;Arthropoda;Hexanauplia;;Sacculinidae;WORMS;;;;;gap;
+Sacculina carcini;Arthropoda;Hexanauplia;;Sacculinidae;BOLD,WORMS;21;26;1;WORMS;;25329
+Sacculina inflata;Arthropoda;Hexanauplia;;Sacculinidae;WORMS;;;;WORMS;gap;
+Sacculina lobata;Arthropoda;Hexanauplia;;Sacculinidae;WORMS;;;;;gap;

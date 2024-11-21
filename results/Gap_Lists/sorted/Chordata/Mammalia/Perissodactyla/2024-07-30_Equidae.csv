@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Equus ferus;Chordata;Mammalia;Perissodactyla;Equidae;BOLD,FE,iNat;285;311;1;ITIS;;673511;701458;717069
+Equus hemionus;Chordata;Mammalia;Perissodactyla;Equidae;FE;8;9;1;;;462359
+Equus kiang;Chordata;Mammalia;Perissodactyla;Equidae;BOLD;3;5;1;;;666113

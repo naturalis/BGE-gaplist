@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ahliesaurus berryi;Chordata;Actinopterygii;Aulopiformes;Notosudidae;WORMS;;;;;gap;
+Scopelosaurus argenteus;Chordata;Actinopterygii;Aulopiformes;Notosudidae;WORMS;;;;WORMS;gap;
+Scopelosaurus hamiltoni;Chordata;Actinopterygii;Aulopiformes;Notosudidae;BOLD;5;6;2;WORMS;;148281
+Scopelosaurus lepidus;Chordata;Actinopterygii;Aulopiformes;Notosudidae;BOLD,WORMS;21;22;2;WORMS;;71308
+Scopelosaurus smithii;Chordata;Actinopterygii;Aulopiformes;Notosudidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Candacia armata;Arthropoda;Hexanauplia;Calanoida;Candaciidae;BOLD,WORMS;4;20;1;WORMS;;326841
+Candacia bipinnata;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;3;3;1;WORMS;;152219
+Candacia curta;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;11;21;2;WORMS;;302295
+Candacia elongata;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;;;;WORMS;gap;
+Candacia ethiopica;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;3;6;3;WORMS;;18224
+Candacia giesbrechti;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;0;2;0;;gap;801319
+Candacia ketchumi;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;;;;;gap;
+Candacia longimana;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;1;1;1;WORMS;;31017
+Candacia norvegica;Arthropoda;Hexanauplia;Calanoida;Candaciidae;BOLD;5;10;1;;;746551
+Candacia pachydactyla;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;8;8;1;WORMS;;302294
+Candacia paenelongimana;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;;;;;gap;
+Candacia simplex;Arthropoda;Hexanauplia;Calanoida;Candaciidae;BOLD;14;16;2;WORMS;;349790
+Candacia tenuimana;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;;;;WORMS;gap;
+Candacia varicans;Arthropoda;Hexanauplia;Calanoida;Candaciidae;WORMS;;;;WORMS;gap;

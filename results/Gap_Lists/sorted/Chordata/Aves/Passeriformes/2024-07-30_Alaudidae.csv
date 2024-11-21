@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alaemon alaudipes;Chordata;Aves;Passeriformes;Alaudidae;FE;2;2;1;FE;;116482
+Alauda arvensis;Chordata;Aves;Passeriformes;Alaudidae;BOLD,FE,iNat;83;94;4;;;9735
+Alauda gulgula;Chordata;Aves;Passeriformes;Alaudidae;FE;9;9;2;;;116484
+Alaudala rufescens;Chordata;Aves;Passeriformes;Alaudidae;BOLD;9;11;1;;;857636
+Ammomanes cinctura;Chordata;Aves;Passeriformes;Alaudidae;FE;0;1;0;ITIS;gap;116487
+Ammomanes deserti;Chordata;Aves;Passeriformes;Alaudidae;FE;2;2;2;FE;;116488
+Calandrella brachydactyla;Chordata;Aves;Passeriformes;Alaudidae;BOLD,FE;19;21;1;FE;;93223
+Calandrella cheleensis;Chordata;Aves;Passeriformes;Alaudidae;FE;;;;FE;gap;
+Calandrella rufescens;Chordata;Aves;Passeriformes;Alaudidae;FE;;;;FE;gap;
+Chersophilus duponti;Chordata;Aves;Passeriformes;Alaudidae;FE;;;;FE;gap;
+Eremophila alpestris;Chordata;Aves;Passeriformes;Alaudidae;BOLD,FE,iNat;44;59;3;ITIS;;9730
+Eremophila bilopha;Chordata;Aves;Passeriformes;Alaudidae;FE;1;1;1;FE;;116520
+Galerida cristata;Chordata;Aves;Passeriformes;Alaudidae;BOLD,FE,iNat;45;48;1;FE;;19789
+Galerida theklae;Chordata;Aves;Passeriformes;Alaudidae;FE;;;;FE;gap;
+Lullula arborea;Chordata;Aves;Passeriformes;Alaudidae;BOLD,FE,iNat;4;4;1;FE;;52585
+Melanocorypha bimaculata;Chordata;Aves;Passeriformes;Alaudidae;FE;6;6;1;FE;;116538
+Melanocorypha calandra;Chordata;Aves;Passeriformes;Alaudidae;BOLD,FE,iNat;3;4;1;FE;;11560
+Melanocorypha leucoptera;Chordata;Aves;Passeriformes;Alaudidae;FE;;;;FE;gap;
+Melanocorypha yeltoniensis;Chordata;Aves;Passeriformes;Alaudidae;FE;;;;FE;gap;

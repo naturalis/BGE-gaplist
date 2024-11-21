@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crassostrea angulata;Mollusca;Bivalvia;Ostreida;Ostreidae;BOLD;;;;;gap;27891
+Crassostrea virginica;Mollusca;Bivalvia;Ostreida;Ostreidae;WORMS;;;;WORMS;gap;
+Magallana gigas;Mollusca;Bivalvia;Ostreida;Ostreidae;BOLD,iNat;400;510;2;WORMS;;799831
+Ostrea edulis;Mollusca;Bivalvia;Ostreida;Ostreidae;BOLD,WORMS,iNat;33;57;1;WORMS;;30931
+Ostrea stentina;Mollusca;Bivalvia;Ostreida;Ostreidae;BOLD;66;70;3;WORMS;;717731;80282;80281

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eucalanus elongatus;Arthropoda;Hexanauplia;Calanoida;Eucalanidae;BOLD;4;6;1;;;302288
+Rhincalanus nasutus;Arthropoda;Hexanauplia;Calanoida;Eucalanidae;BOLD,WORMS;12;29;5;WORMS;;152208
+Subeucalanus crassus;Arthropoda;Hexanauplia;Calanoida;Eucalanidae;BOLD,WORMS;15;15;3;WORMS;;302273

@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Astarte acuticostata;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;ITIS;gap;
+Astarte arctica;Mollusca;Bivalvia;Carditida;Astartidae;BOLD,WORMS;0;2;0;WORMS;gap;887703
+Astarte borealis;Mollusca;Bivalvia;Carditida;Astartidae;BOLD,WORMS;6;23;4;WORMS;;403374;714443;468225;26377
+Astarte crebricostata;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;;gap;
+Astarte crenata;Mollusca;Bivalvia;Carditida;Astartidae;BOLD,WORMS;3;11;1;WORMS;;468226
+Astarte elliptica;Mollusca;Bivalvia;Carditida;Astartidae;BOLD,WORMS;8;21;1;WORMS;;263340;735773
+Astarte fusca;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;WORMS;gap;
+Astarte montagui;Mollusca;Bivalvia;Carditida;Astartidae;BOLD,WORMS;23;73;1;WORMS;;468227;180120
+Astarte sulcata;Mollusca;Bivalvia;Carditida;Astartidae;BOLD,WORMS;4;15;1;WORMS;;642776
+Digitaria digitaria;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;WORMS;gap;
+Goodallia gofasi;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;;gap;
+Goodallia macandrewi;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;WORMS;gap;
+Goodallia micalii;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;;gap;
+Goodallia pusilla;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;WORMS;gap;
+Goodallia triangularis;Mollusca;Bivalvia;Carditida;Astartidae;WORMS;;;;WORMS;gap;

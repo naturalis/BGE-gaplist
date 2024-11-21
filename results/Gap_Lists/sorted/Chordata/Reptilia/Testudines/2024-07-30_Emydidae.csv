@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Emys orbicularis;Chordata;Reptilia;Testudines;Emydidae;BOLD,FE,iNat,RDB;27;27;1;RDB;;190985;769243;769244
+Terrapene mexicana;Chordata;Reptilia;Testudines;Emydidae;BOLD;15;15;3;;;669194
+Terrapene nelsoni;Chordata;Reptilia;Testudines;Emydidae;BOLD;3;3;1;;;668920
+Trachemys scripta;Chordata;Reptilia;Testudines;Emydidae;BOLD,iNat,RDB;22;24;3;RDB;;80311;473408;717355

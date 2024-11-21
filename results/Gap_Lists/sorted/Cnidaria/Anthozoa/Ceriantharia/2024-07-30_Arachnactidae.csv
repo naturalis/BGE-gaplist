@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arachnactis albida;Cnidaria;Anthozoa;Ceriantharia;Arachnactidae;BOLD,WORMS;1;1;1;;;726253
+Arachnanthus sarsi;Cnidaria;Anthozoa;Ceriantharia;Arachnactidae;WORMS;;;;;gap;
+Isarachnanthus maderensis;Cnidaria;Anthozoa;Ceriantharia;Arachnactidae;BOLD;18;18;1;WORMS;;668509
+Isarachnanthus nocturnus;Cnidaria;Anthozoa;Ceriantharia;Arachnactidae;BOLD;24;24;2;WORMS;;668510

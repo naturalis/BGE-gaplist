@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agrypnia colorata;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD;154;158;2;;;91779
+Agrypnia crassicornis;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;3;7;1;FE;;282804;137409
+Agrypnia czerskyi;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;19;23;1;FE;;137412
+Agrypnia glacialis;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD;17;25;1;;;88589
+Agrypnia obsoleta;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;45;60;3;ITIS;;137415
+Agrypnia pagetana;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE,iNat;131;136;1;FE;;137417
+Agrypnia picta;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;19;22;1;FE;;137420
+Agrypnia principalis;Arthropoda;Insecta;Trichoptera;Phryganeidae;FE;;;;;gap;
+Agrypnia sahlbergi;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;5;7;1;FE;;137422
+Agrypnia varia;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;39;49;2;FE;;137425
+Hagenella clathrata;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE,iNat;9;12;2;ITIS;;137449
+Oligostomis reticulata;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE,iNat;16;20;1;FE;;137457
+Oligotricha lapponica;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;10;13;3;ITIS;;107706
+Oligotricha striata;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE,iNat;44;52;1;ITIS;;126518
+Phryganea bipunctata;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;24;30;2;FE;;137466
+Phryganea grandis;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE,iNat;33;36;1;FE;;137469
+Phryganea nattereri;Arthropoda;Insecta;Trichoptera;Phryganeidae;FE;;;;;gap;
+Phryganea rotundata;Arthropoda;Insecta;Trichoptera;Phryganeidae;FE;;;;;gap;
+Semblis atrata;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;9;9;1;FE;;137480
+Semblis phalaenoides;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;4;7;1;FE;;107708
+Trichostegia minor;Arthropoda;Insecta;Trichoptera;Phryganeidae;BOLD,FE;20;24;2;FE;;137484

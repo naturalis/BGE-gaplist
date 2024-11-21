@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amakusanthura iberica;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;
+Anthura gracilis;Arthropoda;Malacostraca;Isopoda;Anthuridae;BOLD,WORMS;11;18;2;WORMS;;267155
+Apanthura corsica;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;
+Apanthura tyrrhenica;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;
+Apanthuroides mediterranea;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;WORMS;gap;
+Apanthuroides spathulicauda;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;WORMS;gap;
+Cyathura carinata;Arthropoda;Malacostraca;Isopoda;Anthuridae;BOLD,WORMS;11;18;1;WORMS;;361862
+Haliophasma alaticauda;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;
+Haliophasma caprii;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;
+Haliophasma mjoelniri;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;
+Malacanthura truncata;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;WORMS;gap;
+Pilosanthura fresii;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;WORMS;gap;
+Quantanthura tyri;Arthropoda;Malacostraca;Isopoda;Anthuridae;WORMS;;;;;gap;

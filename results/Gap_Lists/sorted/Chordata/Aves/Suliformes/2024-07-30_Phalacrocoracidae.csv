@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Leucocarbo atriceps;Chordata;Aves;Suliformes;Phalacrocoracidae;BOLD;21;23;1;ITIS;;858939
+Leucocarbo bransfieldensis;Chordata;Aves;Suliformes;Phalacrocoracidae;BOLD;2;3;1;;;682800
+Leucocarbo georgianus;Chordata;Aves;Suliformes;Phalacrocoracidae;BOLD;1;1;1;;;682801
+Microcarbo pygmaeus;Chordata;Aves;Suliformes;Phalacrocoracidae;BOLD,iNat;1;1;1;;;922347
+Microcarbo pygmeus;Chordata;Aves;Suliformes;Phalacrocoracidae;FE;;;;ITIS;gap;
+Phalacrocorax aristotelis;Chordata;Aves;Suliformes;Phalacrocoracidae;BOLD,FE,WORMS,iNat;3;5;1;WORMS;;93204
+Phalacrocorax auritus;Chordata;Aves;Suliformes;Phalacrocoracidae;FE;6;10;1;WORMS;;10016
+Phalacrocorax carbo;Chordata;Aves;Suliformes;Phalacrocoracidae;BOLD,FE,WORMS,iNat;48;53;1;WORMS;;10018

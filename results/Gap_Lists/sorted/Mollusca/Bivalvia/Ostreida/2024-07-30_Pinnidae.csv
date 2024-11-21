@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atrina pectinata;Mollusca;Bivalvia;Ostreida;Pinnidae;WORMS;;;;WORMS;gap;
+Pinna carnea;Mollusca;Bivalvia;Ostreida;Pinnidae;BOLD;54;56;1;;;653264
+Pinna nobilis;Mollusca;Bivalvia;Ostreida;Pinnidae;BOLD,WORMS;94;397;1;WORMS;;79749;653267
+Pinna rudis;Mollusca;Bivalvia;Ostreida;Pinnidae;WORMS;;;;WORMS;gap;

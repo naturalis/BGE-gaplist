@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthocarpus brevispinis;Arthropoda;Malacostraca;Decapoda;Calappidae;WORMS;;;;WORMS;gap;
+Calappa granulata;Arthropoda;Malacostraca;Decapoda;Calappidae;BOLD,WORMS;28;31;1;WORMS;;178987
+Calappa pelii;Arthropoda;Malacostraca;Decapoda;Calappidae;BOLD,WORMS;9;14;3;WORMS;;414179
+Cryptosoma cristatum;Arthropoda;Malacostraca;Decapoda;Calappidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aplysiopsis elegans;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;WORMS;gap;
+Aplysiopsis formosa;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;WORMS;gap;
+Caliphylla mediterranea;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;WORMS;gap;
+Cyerce antillensis;Mollusca;Gastropoda;;Hermaeidae;BOLD;6;6;3;WORMS;;302880
+Cyerce cristallina;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;WORMS;gap;
+Cyerce graeca;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;;gap;
+Hermaea bifida;Mollusca;Gastropoda;;Hermaeidae;BOLD,WORMS;3;3;1;WORMS;;904134
+Hermaea boucheti;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;;gap;
+Hermaea paucicirra;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;;gap;
+Hermaea variopicta;Mollusca;Gastropoda;;Hermaeidae;WORMS;;;;WORMS;gap;

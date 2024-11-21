@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chondraster grandis;Echinodermata;Asteroidea;Valvatida;Poraniidae;WORMS;;;;WORMS;gap;
+Culcitopsis borealis;Echinodermata;Asteroidea;Valvatida;Poraniidae;BOLD,WORMS;1;2;0;ITIS;;1142024
+Glabraster antarctica;Echinodermata;Asteroidea;Valvatida;Poraniidae;BOLD;301;479;1;ITIS;;761873;193722
+Marginaster capreensis;Echinodermata;Asteroidea;Valvatida;Poraniidae;WORMS;;;;WORMS;gap;
+Porania (Pseudoporania) stormi;Echinodermata;Asteroidea;Valvatida;Poraniidae;WORMS;;;;WORMS;gap;
+Porania pulvillus;Echinodermata;Asteroidea;Valvatida;Poraniidae;BOLD;15;24;1;ITIS;;221678
+Poraniomorpha (Poraniomorpha) bidens;Echinodermata;Asteroidea;Valvatida;Poraniidae;WORMS;;;;;gap;
+Poraniomorpha (Poraniomorpha) tumida;Echinodermata;Asteroidea;Valvatida;Poraniidae;WORMS;;;;WORMS;gap;
+Poraniomorpha hispida;Echinodermata;Asteroidea;Valvatida;Poraniidae;BOLD;1;3;0;ITIS;;221684
+Poraniomorpha tumida;Echinodermata;Asteroidea;Valvatida;Poraniidae;BOLD;2;5;1;ITIS;;221685
+Tylaster willei;Echinodermata;Asteroidea;Valvatida;Poraniidae;BOLD,WORMS;2;4;0;;;221695

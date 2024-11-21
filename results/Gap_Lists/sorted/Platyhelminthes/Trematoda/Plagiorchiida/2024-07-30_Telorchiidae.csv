@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cercorchis ercolanii;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE;;;;FE;gap;
+Cercorchis nematoides;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE;;;;FE;gap;
+Opisthioglyphe medians;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;BOLD;0;1;0;;gap;704921
+Opisthioglyphe ranae;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;BOLD,FE;1;17;1;FE;;704917
+Orchidasma amphiorchis;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE,WORMS;;;;WORMS;gap;
+Telorchis aculeatus;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE,WORMS;;;;WORMS;gap;
+Telorchis assula;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE;;;;FE;gap;
+Telorchis parvus;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE,WORMS;;;;;gap;
+Telorchis poirieri;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE,WORMS;;;;WORMS;gap;
+Telorchis solivagus;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE;;;;;gap;
+Telorchis stossichi;Platyhelminthes;Trematoda;Plagiorchiida;Telorchiidae;FE,WORMS;;;;;gap;

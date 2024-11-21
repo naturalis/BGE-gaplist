@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Barbatula hispanica;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD;38;38;1;;;1123326
+Barbatula leoparda;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD;1;1;1;;;1123327
+Barbatula nuda;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD,iNat;;;;FB;gap;
+Barbatula quignardi;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD,FE;72;72;2;FB;;78154
+Barbatula sturanyi;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD,FE;13;13;1;FB;;598578
+Barbatula vardarensis;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD,FE;32;32;1;FE;;598576
+Barbatula zetensis;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD,FE;8;19;1;FB;;78150
+Oxynoemacheilus bureschi;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD,FE;43;43;1;FB;;598381
+Oxynoemacheilus pindus;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD;10;10;1;FB;;598391
+Oxynoemacheilus theophilii;Chordata;Actinopterygii;Cypriniformes;Nemacheilidae;BOLD;16;17;2;;;598376

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acipenser baerii;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE;70;85;1;WORMS;;47990
+Acipenser gueldenstaedtii;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE,WORMS;133;150;1;WORMS;;50210
+Acipenser naccarii;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE,WORMS;6;6;1;WORMS;;50216
+Acipenser nudiventris;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;FE,WORMS;36;38;1;WORMS;;50215
+Acipenser oxyrinchus;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE;21;29;1;WORMS;;50220
+Acipenser persicus;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;FE;10;11;0;WORMS;;50217
+Acipenser ruthenus;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE,iNat;89;95;1;WORMS;;50218
+Acipenser stellatus;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE,WORMS;94;100;1;WORMS;;29226
+Acipenser sturio;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE,WORMS;7;10;1;WORMS;;50209
+Huso huso;Chordata;Actinopterygii;Acipenseriformes;Acipenseridae;BOLD,FE,WORMS;61;67;2;WORMS;;29692

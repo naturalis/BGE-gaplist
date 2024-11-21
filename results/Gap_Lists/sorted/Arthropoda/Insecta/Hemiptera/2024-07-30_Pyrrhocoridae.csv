@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pyrrhocoris apterus;Arthropoda;Insecta;Hemiptera;Pyrrhocoridae;BOLD,FE,CoPH,iNat;109;121;1;CoPH;;365815
+Pyrrhocoris marginatus;Arthropoda;Insecta;Hemiptera;Pyrrhocoridae;BOLD,FE,CoPH;2;4;0;CoPH;;1059241
+Pyrrhocoris niger;Arthropoda;Insecta;Hemiptera;Pyrrhocoridae;FE,CoPH;;;;;gap;
+Scantius aegyptius;Arthropoda;Insecta;Hemiptera;Pyrrhocoridae;BOLD,FE,CoPH;12;18;1;FE;;965639
+Scantius forsteri;Arthropoda;Insecta;Hemiptera;Pyrrhocoridae;FE,CoPH;;;;CoPH;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Podiceps auritus;Chordata;Aves;Podicipediformes;Podicipedidae;BOLD,FE,WORMS,iNat;7;16;1;WORMS;;15993
+Podiceps cristatus;Chordata;Aves;Podicipediformes;Podicipedidae;BOLD,FE,WORMS,iNat;30;32;1;WORMS;;52474
+Podiceps grisegena;Chordata;Aves;Podicipediformes;Podicipedidae;BOLD,FE,WORMS,iNat;16;19;1;WORMS;;9452
+Podiceps nigricollis;Chordata;Aves;Podicipediformes;Podicipedidae;BOLD,FE,WORMS,iNat;9;18;1;WORMS;;9454
+Tachybaptus ruficollis;Chordata;Aves;Podicipediformes;Podicipedidae;BOLD,FE,iNat;32;33;1;WORMS;;52475

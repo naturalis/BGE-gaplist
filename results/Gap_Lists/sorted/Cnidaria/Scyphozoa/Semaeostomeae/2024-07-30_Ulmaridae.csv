@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aurelia aurita;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;BOLD,FE,WORMS,iNat;248;435;4;WORMS;;79348
+Aurelia coerulea;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;BOLD;270;270;1;WORMS;;798817
+Aurelia relicta;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;BOLD;12;14;1;;;798818
+Aurelia solida;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;BOLD;32;32;1;;;798819
+Deepstaria enigmatica;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;WORMS;;;;;gap;
+Discomedusa lobata;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;WORMS;;;;;gap;
+Poralia rufescens;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;WORMS;;;;;gap;
+Stygiomedusa gigantea;Cnidaria;Scyphozoa;Semaeostomeae;Ulmaridae;WORMS;;;;WORMS;gap;

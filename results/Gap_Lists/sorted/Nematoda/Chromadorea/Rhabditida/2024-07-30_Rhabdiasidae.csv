@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Entomelas dujardini;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;FE;gap;
+Entomelas entomelas;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;FE;gap;
+Entomelas kazachstanica;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;;gap;
+Hexadontophorus ophisauri;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;;gap;
+Rhabdias bufonis;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;FE;gap;
+Rhabdias dossei;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;;gap;
+Rhabdias elaphe;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;;gap;
+Rhabdias esculentarum;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;BOLD;1;9;0;;;667875
+Rhabdias fuscovenosa;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;BOLD,FE;1;4;1;FE;;309552
+Rhabdias nigrovenosum;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;FE;gap;
+Rhabdias rubrovenosa;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;FE;gap;
+Rhabdias sphaerocephala;Nematoda;Chromadorea;Rhabditida;Rhabdiasidae;FE;;;;;gap;

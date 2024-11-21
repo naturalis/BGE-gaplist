@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cryptonyssus pipistrelli;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Macronyssus ellipticus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Macronyssus flavus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Macronyssus granulosus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Macronyssus kolenatii;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Macronyssus longimanus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Macronyssus uncinatus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Ophionyssus lacertinus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;FE;gap;
+Ophionyssus natricis;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;7;10;1;ITIS;;748387
+Ophionyssus saurarum;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Ornithonyssus bacoti;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;1;3;0;ITIS;;211966
+Ornithonyssus sylviarum;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;BOLD,FE;79;91;2;ITIS;;300340
+Steatonyssus occidentalis;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;
+Steatonyssus periblepharus;Arthropoda;Arachnida;Mesostigmata;Macronyssidae;FE;;;;ITIS;gap;

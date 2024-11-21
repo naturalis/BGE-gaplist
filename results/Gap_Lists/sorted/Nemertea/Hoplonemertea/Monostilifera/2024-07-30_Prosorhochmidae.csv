@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arhochmus korotneffi;Nemertea;Hoplonemertea;Monostilifera;Prosorhochmidae;BOLD;1;1;1;WORMS;;200159
+Gononemertes parasita;Nemertea;Hoplonemertea;Monostilifera;Prosorhochmidae;BOLD,WORMS;4;4;1;WORMS;;651229
+Prosorhochmus adriatica;Nemertea;Hoplonemertea;Monostilifera;Prosorhochmidae;WORMS;;;;;gap;
+Prosorhochmus chafarinensis;Nemertea;Hoplonemertea;Monostilifera;Prosorhochmidae;BOLD,WORMS;1;1;1;;;152946
+Prosorhochmus claparedii;Nemertea;Hoplonemertea;Monostilifera;Prosorhochmidae;BOLD,WORMS;12;12;1;WORMS;;152944
+Prosorhochmus subterraneus;Nemertea;Hoplonemertea;Monostilifera;Prosorhochmidae;WORMS;;;;;gap;

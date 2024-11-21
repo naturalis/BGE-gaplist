@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Artediellus atlanticus;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;42;63;2;WORMS;;54206
+Artediellus scaber;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;WORMS;;;;WORMS;gap;
+Artediellus uncinatus;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;WORMS;;;;WORMS;gap;
+Cottus altaicus;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,FE,WORMS;;;;FB;gap;
+Cottus aturi;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;11;11;1;;;104153
+Cottus duranii;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;8;8;1;;;104152
+Cottus hispaniolensis;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,FE,WORMS,iNat;15;15;1;FB;;104149
+Cottus metae;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;8;8;0;;;804286
+Cottus microstomus;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,FE;13;14;1;;;576283
+Cottus perifretum;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;74;82;1;;;104148
+Cottus petiti;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,FE;7;8;1;;;343758
+Cottus rhenanus;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,iNat;42;43;1;;;104147
+Cottus rondeleti;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;6;6;1;;;343757
+Cottus scaturigo;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;4;4;1;;;598343
+Cottus transsilvaniae;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD;4;4;0;;;804287
+Gymnocanthus tricuspis;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;76;90;1;WORMS;;59622
+Icelus bicornis;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;18;20;1;WORMS;;89107
+Icelus spatula;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;68;73;2;WORMS;;59609
+Micrenophrys lilljeborgii;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;WORMS;;;;WORMS;gap;
+Myoxocephalus quadricornis;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,FE;35;36;1;WORMS;;56079
+Myoxocephalus scorpioides;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;36;37;2;WORMS;;11385
+Myoxocephalus scorpius;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS,iNat;114;121;3;WORMS;;59602
+Taurulus bubalis;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS,iNat;9;11;1;WORMS;;77464
+Triglops murrayi;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;26;28;1;WORMS;;59624
+Triglops nybelini;Chordata;Actinopterygii;Scorpaeniformes;Cottidae;BOLD,WORMS;55;58;2;;;20498

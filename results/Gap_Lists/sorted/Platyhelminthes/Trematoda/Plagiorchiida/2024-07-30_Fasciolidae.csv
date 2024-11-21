@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Fasciola gigantica;Platyhelminthes;Trematoda;Plagiorchiida;Fasciolidae;FE;18;475;1;;;24374
+Fasciola hepatica;Platyhelminthes;Trematoda;Plagiorchiida;Fasciolidae;BOLD,FE;18;702;1;;;24375
+Fascioloides magna;Platyhelminthes;Trematoda;Plagiorchiida;Fasciolidae;BOLD,FE;5;52;1;FE;;152142
+Fasciolopsis buski;Platyhelminthes;Trematoda;Plagiorchiida;Fasciolidae;FE;3;10;2;FE;;898994
+Parafasciolopsis fasciolaemorpha;Platyhelminthes;Trematoda;Plagiorchiida;Fasciolidae;FE;;;;;gap;

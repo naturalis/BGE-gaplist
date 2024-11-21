@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bovicola ovis;Arthropoda;Insecta;Psocodea;Trichodectidae;BOLD,FE;1;5;1;FE;;940184
+Damalinia meyeri;Arthropoda;Insecta;Psocodea;Trichodectidae;BOLD,FE;1;51;1;FE;;751874;656601
+Felicola inaequalis;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;FE;gap;
+Felicola subrostratus;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;0;1;0;FE;gap;940365
+Felicola vulpis;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;;gap;
+Lorisicola genettae;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;;gap;
+Lorisicola hercynianus;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;FE;gap;
+Lorisicola isidoroi;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;FE;gap;
+Lutridia exilis;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;FE;gap;
+Trichodectes canis;Arthropoda;Insecta;Psocodea;Trichodectidae;BOLD,FE;4;30;1;FE;;91405
+Trichodectes ermineae;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;;gap;
+Trichodectes jacobi;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;;gap;
+Trichodectes melis;Arthropoda;Insecta;Psocodea;Trichodectidae;BOLD,FE;0;8;0;FE;gap;957460
+Trichodectes mustelae;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;;gap;
+Trichodectes octomaculatus;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;;gap;
+Trichodectes pinguis;Arthropoda;Insecta;Psocodea;Trichodectidae;BOLD,FE;1;3;0;;;989334
+Trichodectes retusus;Arthropoda;Insecta;Psocodea;Trichodectidae;FE;;;;FE;gap;

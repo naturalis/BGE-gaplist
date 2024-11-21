@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aquarius cinereus;Arthropoda;Insecta;Hemiptera;Gerridae;FE,CoPH;1;7;0;CoPH;;170877
+Aquarius najas;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH,iNat;33;116;1;CoPH;;170878
+Aquarius paludum;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH,iNat;475;513;2;FE;;198443
+Aquarius ventralis;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;3;6;0;CoPH;;170730
+Gerris (Gerris) argentatus;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;;;;CoPH;gap;198462
+Gerris (Gerris) brasili;Arthropoda;Insecta;Hemiptera;Gerridae;FE,CoPH;;;;CoPH;gap;166211
+Gerris (Gerris) caucasicus;Arthropoda;Insecta;Hemiptera;Gerridae;CoPH;;;;CoPH;gap;
+Gerris (Gerris) costae;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;168489
+Gerris (Gerris) gibbifer;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;;;;CoPH;gap;166212
+Gerris (Gerris) lacustris;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;166213
+Gerris (Gerris) maculatus;Arthropoda;Insecta;Hemiptera;Gerridae;FE,CoPH;;;;CoPH;gap;166210
+Gerris (Gerris) odontogaster;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;;;;CoPH;gap;248222
+Gerris (Gerris) sphagnetorum;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;;;;CoPH;gap;757110
+Gerris (Gerris) thoracicus;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;;;;CoPH;gap;168487
+Gerris (Gerriselloides) asper;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;;;;CoPH;gap;198461
+Gerris (Gerriselloides) lateralis;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;198452
+Limnoporus rufoscutellatus;Arthropoda;Insecta;Hemiptera;Gerridae;BOLD,FE,CoPH;11;23;1;CoPH;;371624;974372;1142936

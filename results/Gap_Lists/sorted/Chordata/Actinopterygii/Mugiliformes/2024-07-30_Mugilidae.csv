@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chelon auratus;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD,FE;84;106;2;WORMS;;783403
+Chelon labrosus;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD,FE,WORMS,iNat;37;45;1;WORMS;;86781
+Chelon ramada;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD,FE,WORMS;64;70;2;WORMS;;598517
+Chelon saliens;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD,FE;34;36;3;WORMS;;598352
+Crenimugil crenilabis;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD;118;126;5;WORMS;;18571
+Mugil capurrii;Chordata;Actinopterygii;Mugiliformes;Mugilidae;WORMS;;;;WORMS;gap;
+Mugil curvidens;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD;80;80;1;WORMS;;501323
+Oedalechilus labeo;Chordata;Actinopterygii;Mugiliformes;Mugilidae;WORMS;;;;WORMS;gap;
+Planiliza haematocheila;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD,FE;51;58;1;FB;;783409
+Planiliza macrolepis;Chordata;Actinopterygii;Mugiliformes;Mugilidae;BOLD;;;;FB;gap;

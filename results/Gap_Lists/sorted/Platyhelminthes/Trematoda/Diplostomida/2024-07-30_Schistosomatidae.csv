@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Allobilharzia visceralis;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;2;2;1;;;153003
+Anserobilharzia brantae;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD;9;9;2;;;649289
+Bilharziella polonica;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD,FE;1;4;1;WORMS;;31624
+Dendritobilharzia pulverulenta;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;1;1;1;WORMS;;31622
+Gigantobilharzia acotylea;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE,WORMS;;;;;gap;
+Gigantobilharzia mazuriana;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;;gap;
+Gigantobilharzia monocotylea;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;;gap;
+Gigantobilharzia suebica;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;;gap;
+Gigantobilharzia vittensis;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;WORMS;gap;
+Ornithobilharzia bomfordi;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;FE;gap;
+Ornithobilharzia canaliculata;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE,WORMS;1;1;1;WORMS;;31610
+Ornithobilharzia turkestanica;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;FE;gap;
+Pseudobilharziella corvi;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;;gap;
+Pseudobilharziella kowalewskii;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;;gap;
+Schistosoma bovis;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;87;109;1;FE;;29040
+Schistosoma mansoni;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD;37;838;2;;;30536
+Schistosoma rodhaini;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD;3;12;1;;;31600
+Trichobilharzia anseri;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD;0;7;0;;gap;717872
+Trichobilharzia filiformis;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;FE;;;;FE;gap;
+Trichobilharzia franki;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD,FE;25;25;1;;;654579
+Trichobilharzia mergi;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD;2;2;1;;;668664
+Trichobilharzia ocellata;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD,FE,WORMS;1;1;1;WORMS;;31618
+Trichobilharzia physellae;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD;20;22;1;WORMS;;666721
+Trichobilharzia regenti;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD,FE;18;19;1;;;31617
+Trichobilharzia szidati;Platyhelminthes;Trematoda;Diplostomida;Schistosomatidae;BOLD,FE;21;24;2;;;31616

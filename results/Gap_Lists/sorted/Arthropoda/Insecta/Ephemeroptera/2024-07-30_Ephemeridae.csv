@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ephemera aurivillii;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;BOLD;0;1;0;;gap;971342
+Ephemera danica;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;BOLD,FE,iNat;37;258;1;;;198417
+Ephemera glaucops;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;BOLD,FE,iNat;9;17;2;;;309876
+Ephemera hellenica;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;FE;;;;;gap;
+Ephemera lineata;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;BOLD,FE,iNat;16;32;2;;;198416
+Ephemera parnassiana;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;FE;;;;;gap;
+Ephemera vulgata;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;BOLD,FE,iNat;38;62;1;FE;;248199
+Ephemera zettana;Arthropoda;Insecta;Ephemeroptera;Ephemeridae;FE;;;;FE;gap;

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echiichthys vipera;Chordata;Actinopterygii;Trachiniformes;Trachinidae;BOLD;26;34;1;WORMS;;52074
+Trachinus araneus;Chordata;Actinopterygii;Trachiniformes;Trachinidae;WORMS;;;;;gap;
+Trachinus draco;Chordata;Actinopterygii;Trachiniformes;Trachinidae;BOLD,WORMS;51;62;2;WORMS;;18081
+Trachinus radiatus;Chordata;Actinopterygii;Trachiniformes;Trachinidae;BOLD,WORMS;16;16;1;WORMS;;86832

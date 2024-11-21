@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ardea alba;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;34;44;3;ITIS;;10049
+Ardea cinerea;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;61;70;1;;;52476;860599
+Ardea herodias;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE;10;15;1;;;10048
+Ardea melanocephala;Chordata;Aves;Pelecaniformes;Ardeidae;FE;0;9;0;;gap;112763
+Ardea purpurea;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;7;8;1;;;112765
+Ardeirallus sturmii;Chordata;Aves;Pelecaniformes;Ardeidae;FE;;;;FE;gap;
+Ardeola bacchus;Chordata;Aves;Pelecaniformes;Ardeidae;FE;6;6;2;FE;;86973
+Ardeola ralloides;Chordata;Aves;Pelecaniformes;Ardeidae;FE,iNat;8;10;1;FE;;52477
+Botaurus lentiginosus;Chordata;Aves;Pelecaniformes;Ardeidae;FE;5;9;1;FE;;10058
+Botaurus stellaris;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;15;15;1;FE;;96342
+Bubulcus ibis;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;48;71;1;FE;;10056
+Butorides virescens;Chordata;Aves;Pelecaniformes;Ardeidae;FE;11;23;1;FE;;10064
+Egretta caerulea;Chordata;Aves;Pelecaniformes;Ardeidae;FE;7;17;1;ITIS;;10054
+Egretta garzetta;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;15;18;2;FE;;112775
+Egretta gularis;Chordata;Aves;Pelecaniformes;Ardeidae;FE;5;5;1;FE;;112776
+Egretta thula;Chordata;Aves;Pelecaniformes;Ardeidae;FE;7;15;1;WORMS;;10053
+Egretta tricolor;Chordata;Aves;Pelecaniformes;Ardeidae;FE;5;8;1;WORMS;;10052
+Ixobrychus eurhythmus;Chordata;Aves;Pelecaniformes;Ardeidae;FE;10;10;1;FE;;52478
+Ixobrychus exilis;Chordata;Aves;Pelecaniformes;Ardeidae;FE;5;14;1;FE;;10066
+Ixobrychus minutus;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;18;26;1;FE;;52479
+Nycticorax nycticorax;Chordata;Aves;Pelecaniformes;Ardeidae;BOLD,FE,iNat;38;59;2;FE;;10069

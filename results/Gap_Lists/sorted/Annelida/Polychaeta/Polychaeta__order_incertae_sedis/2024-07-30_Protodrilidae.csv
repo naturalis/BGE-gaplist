@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Claudrilus hypoleucus;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD;2;2;2;WORMS;;923617
+Lindrilus rubropharyngeus;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD;0;2;0;WORMS;gap;766920
+Megadrilus schneideri;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD;1;1;1;WORMS;;923619
+Meiodrilus adhaerens;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD;1;1;1;WORMS;;923615
+Meiodrilus gracilis;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD;1;1;1;WORMS;;923620
+Protodrilus affinis;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD,WORMS;1;1;1;;;923562
+Protodrilus albicans;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;WORMS;;;;;gap;
+Protodrilus brevis;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;WORMS;;;;;gap;
+Protodrilus ciliatus;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD,WORMS;1;1;1;;;923563
+Protodrilus hatscheki;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;WORMS;;;;;gap;
+Protodrilus leuckartii;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;WORMS;;;;WORMS;gap;
+Protodrilus oculifer;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;BOLD,WORMS;1;1;1;WORMS;;923564
+Protodrilus robustus;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;WORMS;;;;;gap;
+Protodrilus spongioides;Annelida;Polychaeta;Polychaeta__order_incertae_sedis;Protodrilidae;WORMS;;;;;gap;

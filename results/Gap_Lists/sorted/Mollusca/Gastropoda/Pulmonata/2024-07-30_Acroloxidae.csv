@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acroloxus improvisus;Mollusca;Gastropoda;Pulmonata;Acroloxidae;BOLD,FE;22;23;4;;;794849
+Acroloxus lacustris;Mollusca;Gastropoda;Pulmonata;Acroloxidae;BOLD,FE,iNat;42;48;4;FE;;29500
+Acroloxus macedonicus;Mollusca;Gastropoda;Pulmonata;Acroloxidae;BOLD,FE;38;38;2;;;794850
+Acroloxus tetensi;Mollusca;Gastropoda;Pulmonata;Acroloxidae;BOLD,FE;2;2;1;FE;;794851

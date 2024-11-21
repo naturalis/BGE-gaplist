@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Clavodorum adriaticum;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Clavodorum fauchaldi;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Commensodorum commensalis;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;WORMS;gap;
+Ephesiella abyssorum;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;BOLD,WORMS;6;10;2;WORMS;;524754
+Ephesiella cantonei;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Ephesiella ramosae;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Euritmia hamulisetosa;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Sphaerodoridium longiparapodium;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Sphaerodoropsis baltica;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;WORMS;gap;
+Sphaerodoropsis chardyi;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Sphaerodoropsis disticha;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;BOLD;1;1;1;;;729493
+Sphaerodoropsis fauchaldi;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;BOLD;3;4;1;;;729476
+Sphaerodoropsis laureci;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Sphaerodoropsis longipapillata;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Sphaerodoropsis minuta;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;BOLD;4;9;3;;;729484
+Sphaerodoropsis parva;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;0;1;0;WORMS;gap;524757
+Sphaerodoropsis philippi;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;BOLD,WORMS;14;16;1;WORMS;;524756
+Sphaerodoropsis sibuetae;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;
+Sphaerodorum gracilis;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;BOLD,WORMS;9;9;3;WORMS;;401417;524755
+Sphaerodorum ophiurophoretos;Annelida;Polychaeta;Phyllodocida;Sphaerodoridae;WORMS;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ismarus dorsiger;Arthropoda;Insecta;Hymenoptera;Ismaridae;BOLD,FE,DTN;21;35;2;;;718292
+Ismarus flavicornis;Arthropoda;Insecta;Hymenoptera;Ismaridae;BOLD,FE;10;13;1;FE;;725792
+Ismarus halydayi;Arthropoda;Insecta;Hymenoptera;Ismaridae;BOLD;2;5;1;;;733946
+Ismarus longicornis;Arthropoda;Insecta;Hymenoptera;Ismaridae;BOLD,FE;0;2;0;FE;gap;1137005
+Ismarus rugulosus;Arthropoda;Insecta;Hymenoptera;Ismaridae;BOLD,FE,DTN;102;108;3;;;725793

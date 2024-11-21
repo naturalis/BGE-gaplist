@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Thenea abyssorum;Porifera;Demospongiae;Tetractinellida;Theneidae;BOLD,WORMS;1;2;1;WORMS;;238878
+Thenea grayi;Porifera;Demospongiae;Tetractinellida;Theneidae;BOLD;0;1;0;WORMS;gap;238889
+Thenea levis;Porifera;Demospongiae;Tetractinellida;Theneidae;BOLD,WORMS;8;9;1;;;238893
+Thenea muricata;Porifera;Demospongiae;Tetractinellida;Theneidae;BOLD,WORMS;35;41;1;WORMS;;238902
+Thenea schmidtii;Porifera;Demospongiae;Tetractinellida;Theneidae;BOLD;8;8;1;WORMS;;1131540
+Thenea valdiviae;Porifera;Demospongiae;Tetractinellida;Theneidae;BOLD,WORMS;5;6;1;;;238912

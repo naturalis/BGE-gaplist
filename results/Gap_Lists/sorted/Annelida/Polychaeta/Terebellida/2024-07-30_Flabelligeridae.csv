@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brada granulosa;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;WORMS;gap;
+Brada incrustata;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD,WORMS;1;1;1;;;598209
+Brada inhabilis;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD,WORMS;7;8;3;WORMS;;714433
+Brada rugosa;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;WORMS;gap;
+Brada strelzovi;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;1;1;1;;;598210
+Brada villosa;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;8;16;2;;;190347
+Brada villosa type;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;2;2;1;;;955782
+Diplocirrus glaucus;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD,WORMS;22;27;4;WORMS;;473801
+Diplocirrus hirsutus;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;0;2;0;;gap;598211
+Diplocirrus longisetosus;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;15;19;1;;;256921
+Flabelligera affinis;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD,WORMS;22;42;8;WORMS;;190368
+Flabelligera biscayensis;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;;gap;
+Flabelligera diplochaitus;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;WORMS;gap;
+Flabelligera infundibularis;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;1;2;1;;;201267
+Ilyphagus ilyvestis;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;;gap;
+Pherusa arctica;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;;gap;
+Pherusa falcata;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;1;2;1;;;598170
+Pherusa flabellata;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD;3;5;1;;;598212
+Pherusa plumosa;Annelida;Polychaeta;Terebellida;Flabelligeridae;BOLD,WORMS;15;22;3;WORMS;;214517
+Piromis eruca;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;WORMS;gap;
+Therochaeta collarifera;Annelida;Polychaeta;Terebellida;Flabelligeridae;WORMS;;;;WORMS;gap;

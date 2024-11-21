@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pedicellina cernua;Entoprocta;Entoprocta_class_incertae_sedis;Coloniales;Pedicellinidae;BOLD,WORMS;3;8;2;WORMS;;304579
+Pedicellina hispida;Entoprocta;Entoprocta_class_incertae_sedis;Coloniales;Pedicellinidae;WORMS;;;;;gap;
+Pedicellina nutans;Entoprocta;Entoprocta_class_incertae_sedis;Coloniales;Pedicellinidae;WORMS;;;;;gap;

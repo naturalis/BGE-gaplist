@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Idunella aequicornis;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;BOLD;6;8;1;;;597871
+Idunella aeqvicornis;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;WORMS;gap;
+Idunella excavata;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;BOLD,WORMS;7;8;0;;;348700
+Idunella nana;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;;gap;
+Idunella pirata;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;;gap;
+Liljeborgia charybdis;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;BOLD;1;2;0;;;766864
+Liljeborgia dellavallei;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;WORMS;gap;
+Liljeborgia fissicornis;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;BOLD,WORMS;3;7;1;WORMS;;683979
+Liljeborgia inermis;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;;gap;
+Liljeborgia kinahani;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;WORMS;gap;
+Liljeborgia macronyx;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;;gap;
+Liljeborgia ossiani;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;BOLD;5;5;1;;;683980
+Liljeborgia pallida;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;BOLD,WORMS;8;9;1;WORMS;;683981
+Liljeborgia psaltrica;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;;gap;
+Sextonia longirostris;Arthropoda;Malacostraca;Amphipoda;Liljeborgiidae;WORMS;;;;WORMS;gap;

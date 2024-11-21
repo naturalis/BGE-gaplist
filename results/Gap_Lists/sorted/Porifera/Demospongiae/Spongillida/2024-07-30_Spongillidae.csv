@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ephydatia fluviatilis;Porifera;Demospongiae;Spongillida;Spongillidae;BOLD,FE;23;54;1;FE;;81410
+Ephydatia muelleri;Porifera;Demospongiae;Spongillida;Spongillidae;BOLD,FE;154;181;1;FE;;80638
+Eunapius carteri;Porifera;Demospongiae;Spongillida;Spongillidae;FE;3;4;1;FE;;242192
+Eunapius fragilis;Porifera;Demospongiae;Spongillida;Spongillidae;FE;23;27;1;FE;;82772
+Eunapius subterraneus;Porifera;Demospongiae;Spongillida;Spongillidae;FE;3;4;1;;;242203
+Heteromeyenia baileyi;Porifera;Demospongiae;Spongillida;Spongillidae;FE;0;3;0;FE;gap;242206
+Heteromeyenia stepanowii;Porifera;Demospongiae;Spongillida;Spongillidae;FE;1;1;1;FE;;242212
+Racekiela ryderi;Porifera;Demospongiae;Spongillida;Spongillidae;FE;;;;FE;gap;
+Radiospongilla cerebellata;Porifera;Demospongiae;Spongillida;Spongillidae;FE;;;;FE;gap;
+Sanidastra yokotonensis;Porifera;Demospongiae;Spongillida;Spongillidae;FE;;;;;gap;
+Spongilla arctica;Porifera;Demospongiae;Spongillida;Spongillidae;FE;;;;;gap;
+Spongilla lacustris;Porifera;Demospongiae;Spongillida;Spongillidae;BOLD,FE;39;53;1;FE;;79357
+Spongilla prespensis;Porifera;Demospongiae;Spongillida;Spongillidae;FE;;;;;gap;
+Spongilla stankovici;Porifera;Demospongiae;Spongillida;Spongillidae;FE;;;;;gap;
+Trochospongilla horrida;Porifera;Demospongiae;Spongillida;Spongillidae;BOLD,FE;1;3;1;;;153557

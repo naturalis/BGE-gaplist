@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Clarias batrachus;Chordata;Actinopterygii;Siluriformes;Clariidae;BOLD;192;215;5;WORMS;;47347
+Clarias gariepinus;Chordata;Actinopterygii;Siluriformes;Clariidae;BOLD;346;416;4;FB;;78211
+Clarias macrocephalus;Chordata;Actinopterygii;Siluriformes;Clariidae;BOLD;76;78;1;;;174047

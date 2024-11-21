@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dermanyssus alaudae;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;FE;;;;ITIS;gap;
+Dermanyssus apodis;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;BOLD;15;15;0;;;506350
+Dermanyssus carpathicus;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;BOLD;32;33;1;;;199914
+Dermanyssus chelidonis;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;BOLD,FE;;;;ITIS;gap;211969
+Dermanyssus gallinae;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;BOLD,FE;1278;1569;7;ITIS;;199915
+Dermanyssus lacertarum;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;FE;;;;;gap;
+Dermanyssus longipes;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;BOLD;11;11;1;;;211970
+Dermanyssus passerinus;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;FE;;;;;gap;
+Dermanyssus quintus;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;FE;1;1;0;;;211971
+Dermanyssus richiardii;Arthropoda;Arachnida;Mesostigmata;Dermanyssidae;FE;;;;;gap;

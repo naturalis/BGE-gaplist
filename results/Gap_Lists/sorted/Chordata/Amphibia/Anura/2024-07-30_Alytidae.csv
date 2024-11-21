@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alytes almogavarii;Chordata;Amphibia;Anura;Alytidae;BOLD;3;3;1;;;982783
+Alytes cisternasii;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;6;11;1;ITIS;;212785
+Alytes dickhilleni;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;5;7;1;;;455291
+Alytes muletensis;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;4;6;1;ITIS;;455292
+Alytes obstetricans;Chordata;Amphibia;Anura;Alytidae;BOLD,FE,iNat;38;58;5;ITIS;;27182;716911
+Discoglossus galganoi;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;37;40;4;ITIS;;27180
+Discoglossus jeanneae;Chordata;Amphibia;Anura;Alytidae;BOLD;17;22;1;;;212782
+Discoglossus montalentii;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;5;5;1;ITIS;;668105
+Discoglossus pictus;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;;;;ITIS;gap;211061
+Discoglossus sardus;Chordata;Amphibia;Anura;Alytidae;BOLD,FE;8;8;1;ITIS;;668106
+Discoglossus scovazzi;Chordata;Amphibia;Anura;Alytidae;BOLD;39;40;1;;;211058

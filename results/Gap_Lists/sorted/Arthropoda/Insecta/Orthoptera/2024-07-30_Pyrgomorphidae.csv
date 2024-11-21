@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pyrgomorpha bispinosa;Arthropoda;Insecta;Orthoptera;Pyrgomorphidae;FE;0;1;0;;gap;1030290
+Pyrgomorpha cognata;Arthropoda;Insecta;Orthoptera;Pyrgomorphidae;FE;;;;;gap;
+Pyrgomorpha conica;Arthropoda;Insecta;Orthoptera;Pyrgomorphidae;BOLD,FE;143;156;3;FE;;165398
+Pyrgomorpha cypria;Arthropoda;Insecta;Orthoptera;Pyrgomorphidae;FE;;;;;gap;
+Pyrgomorphella serbica;Arthropoda;Insecta;Orthoptera;Pyrgomorphidae;FE;;;;FE;gap;

@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cecropis daurica;Chordata;Aves;Passeriformes;Hirundinidae;BOLD,FE;12;12;2;ITIS;;102764
+Delichon urbicum;Chordata;Aves;Passeriformes;Hirundinidae;BOLD,FE,iNat;28;36;1;ITIS;;16969
+Hirundo rustica;Chordata;Aves;Passeriformes;Hirundinidae;BOLD,FE,iNat;114;155;2;;;9642
+Petrochelidon pyrrhonota;Chordata;Aves;Passeriformes;Hirundinidae;FE;17;22;1;ITIS;;9681
+Ptyonoprogne rupestris;Chordata;Aves;Passeriformes;Hirundinidae;BOLD,FE,iNat;6;7;2;ITIS;;52592
+Riparia diluta;Chordata;Aves;Passeriformes;Hirundinidae;FE;8;8;1;FE;;116647
+Riparia riparia;Chordata;Aves;Passeriformes;Hirundinidae;BOLD,FE,iNat;34;59;1;FE;;9640
+Tachycineta bicolor;Chordata;Aves;Passeriformes;Hirundinidae;FE;12;12;1;ITIS;;9638

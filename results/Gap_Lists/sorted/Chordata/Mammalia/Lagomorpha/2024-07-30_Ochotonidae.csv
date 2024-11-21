@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ochotona hyperborea;Chordata;Mammalia;Lagomorpha;Ochotonidae;FE;107;126;10;FE;;8747
+Ochotona pusilla;Chordata;Mammalia;Lagomorpha;Ochotonidae;FE;3;4;1;FE;;112237
+Prolagus sardus;Chordata;Mammalia;Lagomorpha;Ochotonidae;FE;;;;FE;gap;

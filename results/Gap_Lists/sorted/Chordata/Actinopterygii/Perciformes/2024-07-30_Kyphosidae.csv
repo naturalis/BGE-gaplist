@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Kyphosus cinerascens;Chordata;Actinopterygii;Perciformes;Kyphosidae;BOLD;48;54;1;WORMS;;141021
+Kyphosus elegans;Chordata;Actinopterygii;Perciformes;Kyphosidae;BOLD;26;39;1;WORMS;;11346
+Kyphosus incisor;Chordata;Actinopterygii;Perciformes;Kyphosidae;WORMS;;;;WORMS;gap;
+Kyphosus ocyurus;Chordata;Actinopterygii;Perciformes;Kyphosidae;BOLD;7;7;0;WORMS;;754717
+Kyphosus sectatrix;Chordata;Actinopterygii;Perciformes;Kyphosidae;BOLD;;;;FB;gap;
+Kyphosus vaigiensis;Chordata;Actinopterygii;Perciformes;Kyphosidae;BOLD;90;110;2;WORMS;;11344

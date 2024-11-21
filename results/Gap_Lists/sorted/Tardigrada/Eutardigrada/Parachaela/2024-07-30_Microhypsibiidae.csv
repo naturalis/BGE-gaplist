@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Fractonotus caelatus;Tardigrada;Eutardigrada;Parachaela;Microhypsibiidae;BOLD,FE;4;7;1;ITIS;;856156
+Microhypsibius bertolanii;Tardigrada;Eutardigrada;Parachaela;Microhypsibiidae;FE;;;;;gap;
+Microhypsibius truncatus;Tardigrada;Eutardigrada;Parachaela;Microhypsibiidae;FE;;;;ITIS;gap;

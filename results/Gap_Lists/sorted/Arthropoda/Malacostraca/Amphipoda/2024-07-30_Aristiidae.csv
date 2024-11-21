@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aristias falcatus;Arthropoda;Malacostraca;Amphipoda;Aristiidae;BOLD,WORMS;0;2;0;;gap;746536
+Aristias megalops;Arthropoda;Malacostraca;Amphipoda;Aristiidae;WORMS;;;;;gap;
+Aristias microps;Arthropoda;Malacostraca;Amphipoda;Aristiidae;WORMS;;;;;gap;
+Aristias neglectus;Arthropoda;Malacostraca;Amphipoda;Aristiidae;BOLD,WORMS;3;4;1;WORMS;;708817
+Aristias topsenti;Arthropoda;Malacostraca;Amphipoda;Aristiidae;WORMS;;;;;gap;
+Aristias tumidus;Arthropoda;Malacostraca;Amphipoda;Aristiidae;BOLD,WORMS;4;10;2;WORMS;;512566
+Perrierella audouiniana;Arthropoda;Malacostraca;Amphipoda;Aristiidae;BOLD,WORMS;0;1;0;WORMS;gap;708889

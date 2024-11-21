@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Megayoldia thraciaeformis;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Microgloma guilonardi;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Microgloma pusilla;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Portlandia arctica;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Yoldia amygdalea;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD;1;2;1;;;736344
+Yoldia hyperborea;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;27;43;2;;;151135
+Yoldiella annenkovae;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Yoldiella dissimilis;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;;gap;
+Yoldiella expansa;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Yoldiella folini;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;;gap;
+Yoldiella frami;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;;gap;
+Yoldiella frigida;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;9;9;2;WORMS;;495417
+Yoldiella insculpta;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Yoldiella intermedia;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;;;;WORMS;gap;948245
+Yoldiella jeffreysi;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Yoldiella lenticula;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;5;10;2;WORMS;;893667
+Yoldiella lucida;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;2;16;0;WORMS;;154199
+Yoldiella nana;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;5;8;2;WORMS;;495415
+Yoldiella philippiana;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;10;10;2;WORMS;;154198
+Yoldiella propinqua;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;7;7;1;WORMS;;154197
+Yoldiella semistriata;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;
+Yoldiella solidula;Mollusca;Bivalvia;Nuculanida;Yoldiidae;BOLD,WORMS;0;4;0;;gap;1128321
+Yoldiella tamara;Mollusca;Bivalvia;Nuculanida;Yoldiidae;WORMS;;;;WORMS;gap;

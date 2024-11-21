@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Margarites costalis;Mollusca;Gastropoda;Trochida;Margaritidae;BOLD,WORMS;20;26;2;WORMS;;151129
+Margarites groenlandicus;Mollusca;Gastropoda;Trochida;Margaritidae;BOLD,WORMS;11;35;2;WORMS;;159186
+Margarites helicinus;Mollusca;Gastropoda;Trochida;Margaritidae;BOLD,WORMS;49;80;3;WORMS;;201586
+Margarites olivaceus;Mollusca;Gastropoda;Trochida;Margaritidae;WORMS;;;;WORMS;gap;
+Margarites vahlii;Mollusca;Gastropoda;Trochida;Margaritidae;WORMS;;;;WORMS;gap;
+Pinctada radiata;Mollusca;Gastropoda;Trochida;Margaritidae;WORMS;;;;WORMS;gap;

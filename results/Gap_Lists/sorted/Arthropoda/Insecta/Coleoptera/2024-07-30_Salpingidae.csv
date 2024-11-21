@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aglenus brunneus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;2;5;0;FE;;649061
+Colposis mutilatus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;2;2;1;FE;;534290
+Lissodema cursor;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;16;21;2;FE;;528715
+Lissodema denticolle;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;5;27;1;FE;;318062
+Lissodema lituratum;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;2;2;1;FE;;534285
+Rabdocerus foveolatus;Arthropoda;Insecta;Coleoptera;Salpingidae;FE;;;;FE;gap;
+Rabdocerus gabrieli;Arthropoda;Insecta;Coleoptera;Salpingidae;FE;;;;FE;gap;
+Rabocerus foveolatus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD;6;6;1;;;468310
+Rabocerus gabrieli;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD;1;2;1;;;330076
+Rhinosimus planirostris;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD;;;;;gap;350001
+Rhinosimus ruficollis;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD;;;;;gap;167250
+Salpingus aeneus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;1;2;0;FE;;706451;560371
+Salpingus castaneus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD;0;1;0;;gap;167835
+Salpingus planirostris;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE,iNat;54;76;1;FE;;199684
+Salpingus ruficollis;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE,iNat;28;42;2;FE;;310279
+Salpingus tapirus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;1;1;1;FE;;534286
+Sphaeriestes aeratus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;0;1;0;FE;gap;766460
+Sphaeriestes bimaculatus;Arthropoda;Insecta;Coleoptera;Salpingidae;FE;;;;FE;gap;
+Sphaeriestes castaneus;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;8;15;1;FE;;534288
+Sphaeriestes exsanguis;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;1;3;0;FE;;534291
+Sphaeriestes impressus;Arthropoda;Insecta;Coleoptera;Salpingidae;FE;;;;;gap;
+Sphaeriestes reyi;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE;0;2;0;FE;gap;766462
+Vincenzellus ruficollis;Arthropoda;Insecta;Coleoptera;Salpingidae;BOLD,FE,iNat;38;46;1;FE;;167381

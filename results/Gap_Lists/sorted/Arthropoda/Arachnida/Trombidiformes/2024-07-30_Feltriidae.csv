@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Feltria amplexa;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria armata;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria brevipes;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria cantonatii;Arthropoda;Arachnida;Trombidiformes;Feltriidae;ES;;;;ES;gap;
+Feltria conjuncta;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria cornuta;Arthropoda;Arachnida;Trombidiformes;Feltriidae;BOLD,FE;2;2;1;;;915031
+Feltria denticulata;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria drilonensis;Arthropoda;Arachnida;Trombidiformes;Feltriidae;ES;;;;ES;gap;
+Feltria inconstans;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria longispina;Arthropoda;Arachnida;Trombidiformes;Feltriidae;BOLD;4;4;1;;;915030
+Feltria menzeli;Arthropoda;Arachnida;Trombidiformes;Feltriidae;BOLD,FE;6;6;2;;;915043
+Feltria minuta;Arthropoda;Arachnida;Trombidiformes;Feltriidae;BOLD,FE;18;26;1;ES;;741900
+Feltria mira;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria motasi;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria oedipoda;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria pectinifera;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria phreaticola;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria piersigi;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria raetica;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria rouxi;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;FE;gap;
+Feltria rubra;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;ES;gap;
+Feltria schusteri;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria setigera;Arthropoda;Arachnida;Trombidiformes;Feltriidae;BOLD,FE;9;9;1;ES;;915009
+Feltria subterranea;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;ES;gap;
+Feltria tsemberae;Arthropoda;Arachnida;Trombidiformes;Feltriidae;FE;;;;;gap;
+Feltria zschokkei;Arthropoda;Arachnida;Trombidiformes;Feltriidae;BOLD,FE;4;7;0;ES;;1080823

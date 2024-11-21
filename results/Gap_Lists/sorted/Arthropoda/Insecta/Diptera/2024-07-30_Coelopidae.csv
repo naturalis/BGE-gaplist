@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coelopa (Coelopa) pilipes;Arthropoda;Insecta;Diptera;Coelopidae;BOLD,FE,SyDip;;;;SyDip;gap;237213
+Coelopa (Fucomyia) frigida;Arthropoda;Insecta;Diptera;Coelopidae;BOLD,FE,SyDip;;;;SyDip;gap;237212;709157
+Malacomyia sciomyzina;Arthropoda;Insecta;Diptera;Coelopidae;BOLD,FE,SyDip;3;3;0;SyDip;;237215

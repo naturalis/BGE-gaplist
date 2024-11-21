@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anteliaster scaber;Echinodermata;Asteroidea;Forcipulatida;Pedicellasteridae;BOLD;4;4;1;ITIS;;218285
+Hydrasterias sexradiata;Echinodermata;Asteroidea;Forcipulatida;Pedicellasteridae;WORMS;;;;WORMS;gap;
+Pedicellaster typicus;Echinodermata;Asteroidea;Forcipulatida;Pedicellasteridae;BOLD,WORMS;0;1;0;WORMS;gap;218298

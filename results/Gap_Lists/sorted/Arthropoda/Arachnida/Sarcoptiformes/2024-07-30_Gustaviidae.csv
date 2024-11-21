@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gustavia bicornis;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;FE;;;;FE;gap;
+Gustavia fusifera;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;FE;;;;FE;gap;
+Gustavia globulus;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;FE;;;;FE;gap;
+Gustavia longicornis;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;FE;;;;FE;gap;
+Gustavia longirostris;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;BOLD,FE;3;4;1;;;1133304
+Gustavia maior;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;FE;;;;FE;gap;
+Gustavia microcephala;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;BOLD,FE;40;42;2;FE;;480976
+Gustavia oceanica;Arthropoda;Arachnida;Sarcoptiformes;Gustaviidae;FE;;;;;gap;

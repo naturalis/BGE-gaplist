@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Celleporella angusta;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;WORMS;10;10;1;;;152746
+Celleporella hyalina;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;BOLD,WORMS;261;281;40;WORMS;;103314;714446
+Haplota clavata;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;WORMS;;;;WORMS;gap;
+Hippothoa divaricata;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;WORMS;;;;;gap;
+Hippothoa flagellum;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;BOLD,WORMS;1;2;0;ITIS;;785440
+Plesiothoa gigerium;Bryozoa;Gymnolaemata;Cheilostomatida;Hippothoidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Abarenicola pusilla;Annelida;Polychaeta;Capitellida;Arenicolidae;WORMS;;;;WORMS;gap;
+Arenicola cristata;Annelida;Polychaeta;Capitellida;Arenicolidae;WORMS;;;;WORMS;gap;
+Arenicola defodiens;Annelida;Polychaeta;Capitellida;Arenicolidae;BOLD,WORMS;8;8;1;;;649396
+Arenicola marina;Annelida;Polychaeta;Capitellida;Arenicolidae;BOLD,WORMS,iNat;46;57;2;WORMS;;198405
+Arenicolides branchialis;Annelida;Polychaeta;Capitellida;Arenicolidae;WORMS;;;;WORMS;gap;
+Arenicolides ecaudata;Annelida;Polychaeta;Capitellida;Arenicolidae;BOLD,WORMS;3;10;0;WORMS;;991719
+Arenicolides grubii;Annelida;Polychaeta;Capitellida;Arenicolidae;WORMS;;;;;gap;
+Branchiomaldane vincentii;Annelida;Polychaeta;Capitellida;Arenicolidae;WORMS;;;;WORMS;gap;

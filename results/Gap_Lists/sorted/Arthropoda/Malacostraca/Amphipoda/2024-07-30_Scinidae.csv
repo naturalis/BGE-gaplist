@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthoscina acanthodes;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;1;2;1;WORMS;;153393
+Scina borealis;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;10;16;2;WORMS;;754999
+Scina crassicornis;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;;;;WORMS;gap;
+Scina marginata;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;;;;WORMS;gap;
+Scina megameros;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;;;;;gap;
+Scina rattrayi;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;2;2;0;WORMS;;1141114
+Scina spinosa;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;2;2;0;WORMS;;777719
+Scina submarginata;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;;;;;gap;
+Scina tullbergi;Arthropoda;Malacostraca;Amphipoda;Scinidae;WORMS;4;4;0;WORMS;;777720

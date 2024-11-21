@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Limnozetes amnicus;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;FE;;;;;gap;
+Limnozetes ciliatus;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;BOLD,FE;15;63;1;ITIS;;753430
+Limnozetes foveolatus;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;BOLD,FE;0;24;0;;gap;805844
+Limnozetes lustrum;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;BOLD;12;20;1;;;1060381
+Limnozetes onandaga;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;FE;;;;;gap;
+Limnozetes rugosus;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;BOLD,FE;4;32;1;FE;;753422
+Limnozetes solhoyorum;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;BOLD;0;3;0;;gap;1137438
+Limnozetes sphagni;Arthropoda;Arachnida;Sarcoptiformes;Limnozetidae;FE;;;;FE;gap;

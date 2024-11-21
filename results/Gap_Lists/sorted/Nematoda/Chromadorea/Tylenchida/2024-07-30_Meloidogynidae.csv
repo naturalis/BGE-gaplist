@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Meloidogyne ardenensis;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;0;1;0;FE;gap;896698
+Meloidogyne arenaria;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;11;32;1;FE;;708402
+Meloidogyne artiellia;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;0;2;0;;gap;896632
+Meloidogyne chitwoodi;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;37;38;1;;;652218
+Meloidogyne duytsi;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;0;1;0;;gap;896633
+Meloidogyne exigua;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;3;3;0;;;897005
+Meloidogyne fallax;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;1;6;0;;;896631
+Meloidogyne graminis;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;FE;gap;
+Meloidogyne hapla;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;38;68;0;;;173076
+Meloidogyne hispanica;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;0;4;0;;gap;896508
+Meloidogyne incognita;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;BOLD,FE;26;72;1;FE;;652220
+Meloidogyne javanica;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;8;50;1;FE;;708403
+Meloidogyne kralli;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;;gap;
+Meloidogyne lusitanica;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;;gap;
+Meloidogyne maritima;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;;gap;
+Meloidogyne naasi;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;4;12;0;;;717807
+Meloidogyne thamesi;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;;gap;
+Meloidogyne ulmi;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;;gap;
+Spartonema kikuyense;Nematoda;Chromadorea;Tylenchida;Meloidogynidae;FE;;;;FE;gap;

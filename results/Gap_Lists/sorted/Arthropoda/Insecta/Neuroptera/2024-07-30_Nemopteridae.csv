@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Josandreva sazi;Arthropoda;Insecta;Neuroptera;Nemopteridae;BOLD,FE;0;1;0;;gap;886032
+Lertha ledereri;Arthropoda;Insecta;Neuroptera;Nemopteridae;FE;1;1;1;FE;;886093
+Lertha sofiae;Arthropoda;Insecta;Neuroptera;Nemopteridae;FE;;;;;gap;
+Nemoptera bipennis;Arthropoda;Insecta;Neuroptera;Nemopteridae;BOLD,FE;4;7;1;FE;;886123
+Nemoptera coa;Arthropoda;Insecta;Neuroptera;Nemopteridae;BOLD,FE;3;4;1;FE;;246719
+Nemoptera sinuata;Arthropoda;Insecta;Neuroptera;Nemopteridae;BOLD,FE;2;2;1;;;852996
+Pterocrose capillaris;Arthropoda;Insecta;Neuroptera;Nemopteridae;FE;;;;FE;gap;

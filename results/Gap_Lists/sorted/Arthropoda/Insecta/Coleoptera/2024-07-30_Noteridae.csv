@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Canthydrus diophthalmus;Arthropoda;Insecta;Coleoptera;Noteridae;FE;;;;FE;gap;
+Noterus clavicornis;Arthropoda;Insecta;Coleoptera;Noteridae;BOLD,FE,iNat;25;53;2;FE;;167923
+Noterus crassicornis;Arthropoda;Insecta;Coleoptera;Noteridae;BOLD,FE;18;29;1;FE;;248226
+Noterus laevis;Arthropoda;Insecta;Coleoptera;Noteridae;FE;;;;;gap;
+Notomicrus tenellus;Arthropoda;Insecta;Coleoptera;Noteridae;BOLD;0;8;0;;gap;170094

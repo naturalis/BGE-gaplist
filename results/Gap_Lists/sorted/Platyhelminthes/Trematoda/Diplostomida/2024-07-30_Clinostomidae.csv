@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Clinostomum complanatum;Platyhelminthes;Trematoda;Diplostomida;Clinostomidae;BOLD,FE;25;79;2;WORMS;;70386
+Clinostomum foliiforme;Platyhelminthes;Trematoda;Diplostomida;Clinostomidae;FE;;;;;gap;
+Clinostomum phalacrocoracis;Platyhelminthes;Trematoda;Diplostomida;Clinostomidae;FE;3;4;1;;;307058
+Euclinostomum heterostomum;Platyhelminthes;Trematoda;Diplostomida;Clinostomidae;FE;20;23;1;FE;;724327

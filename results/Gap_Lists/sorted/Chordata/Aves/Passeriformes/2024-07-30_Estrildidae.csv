@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amandava amandava;Chordata;Aves;Passeriformes;Estrildidae;FE;1;1;0;FE;;119935
+Estrilda astrild;Chordata;Aves;Passeriformes;Estrildidae;FE;11;14;2;FE;;119962
+Estrilda melpoda;Chordata;Aves;Passeriformes;Estrildidae;FE;7;7;0;FE;;119968

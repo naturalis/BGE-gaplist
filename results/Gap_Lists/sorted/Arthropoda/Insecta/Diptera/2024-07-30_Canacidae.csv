@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Apetaenus enderleini;Arthropoda;Insecta;Diptera;Canacidae;BOLD,SyDip;3;3;1;;;894816
+Apetaenus litoralis;Arthropoda;Insecta;Diptera;Canacidae;BOLD,SyDip;6;6;1;;;894823
+Canace actites;Arthropoda;Insecta;Diptera;Canacidae;FE,SyDip;;;;;gap;
+Canace nasica;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;1;1;1;SyDip;;237164
+Canace salonitana;Arthropoda;Insecta;Diptera;Canacidae;FE,SyDip;;;;;gap;
+Pelomyia occidentalis;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;37;38;1;FE;;406587
+Pelomyiella (Leptomyza) cinerella;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;;;;SyDip;gap;406585
+Pelomyiella mallochi;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;104;107;8;ITIS;;406584
+Tethina albosetulosa;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;3;3;1;WORMS;;406580
+Tethina grisea;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;1;5;1;WORMS;;406582
+Tethina illota;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;4;4;1;WORMS;;406579
+Tethina strobliana;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;3;4;1;WORMS;;406581
+Xanthocanace ranula;Arthropoda;Insecta;Diptera;Canacidae;BOLD,FE,SyDip;3;4;1;SyDip;;237166

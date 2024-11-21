@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Erithacus rubecula;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;123;139;2;FE;;68509
+Ficedula albicilla;Chordata;Aves;Passeriformes;Muscicapidae;FE;42;42;1;FE;;117683
+Ficedula albicollis;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;12;13;1;FE;;101143
+Ficedula hypoleuca;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;32;38;1;FE;;70322
+Ficedula parva;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;31;34;2;FE;;93210
+Ficedula semitorquata;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE;6;7;1;FE;;117699
+Luscinia luscinia;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;19;21;1;FE;;68507
+Luscinia megarhynchos;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;43;45;2;;;68517
+Luscinia svecica;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;141;146;1;FE;;9582
+Monticola saxatilis;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;11;14;1;FE;;52619
+Monticola solitarius;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE;16;17;2;FE;;117062
+Muscicapa latirostris;Chordata;Aves;Passeriformes;Muscicapidae;FE;;;;ITIS;gap;86988
+Muscicapa tyrrhenica;Chordata;Aves;Passeriformes;Muscicapidae;BOLD;2;2;2;;;858131;870181
+Oenanthe cypriaca;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE;9;9;1;FE;;117772
+Oenanthe hispanica;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE;49;54;3;FE;;105362
+Oenanthe oenanthe;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;68;71;1;FE;;9579
+Oenanthe pleschanka;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;33;33;1;FE;;52622
+Phoenicurus ochruros;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;61;79;6;FE;;52630
+Phoenicurus phoenicurus;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;261;271;2;FE;;52631
+Saxicola dacotiae;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE;3;3;0;FE;;117807
+Saxicola rubetra;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;30;30;1;FE;;52624
+Saxicola rubicola;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;10;15;1;FE;;117814
+Saxicola torquatus;Chordata;Aves;Passeriformes;Muscicapidae;BOLD;28;30;4;ITIS;;73247
+Setophaga striata;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;28;64;1;ITIS;;670057
+Tarsiger cyanurus;Chordata;Aves;Passeriformes;Muscicapidae;BOLD,FE,iNat;29;30;1;FE;;52628

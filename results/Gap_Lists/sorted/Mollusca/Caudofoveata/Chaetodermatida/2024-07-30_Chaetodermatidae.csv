@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chaetoderma intermedium;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;
+Chaetoderma luitfredi;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;
+Chaetoderma marinae;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;714529
+Chaetoderma nitidulum;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;BOLD,WORMS;10;28;2;WORMS;;30123
+Chaetoderma pellucidum;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;
+Chaetoderma tetradens;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;
+Falcidens aequabilis;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;;gap;
+Falcidens crossotus;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;BOLD,WORMS;5;7;1;WORMS;;598240
+Falcidens gutturosus;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;
+Falcidens halanychi;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;BOLD;5;6;1;;;717667
+Falcidens sagittiferus;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;BOLD,WORMS;6;7;2;;;598241
+Falcidens sterreri;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;WORMS;gap;
+Falcidens thorensis;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;;gap;
+Falcidens vasconiensis;Mollusca;Caudofoveata;Chaetodermatida;Chaetodermatidae;WORMS;;;;;gap;

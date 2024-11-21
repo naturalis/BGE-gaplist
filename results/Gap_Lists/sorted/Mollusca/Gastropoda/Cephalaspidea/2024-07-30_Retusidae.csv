@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pyrunculus hoernesi;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Pyrunculus ovatus;Mollusca;Gastropoda;Cephalaspidea;Retusidae;BOLD,WORMS;2;2;1;WORMS;;599309
+Pyrunculus spretus;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Relichna simplex;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;;gap;
+Retusa leptoeneilema;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Retusa mammillata;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Retusa mariei;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Retusa minutissima;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Retusa obtusa;Mollusca;Gastropoda;Cephalaspidea;Retusidae;BOLD,WORMS;6;9;3;WORMS;;495476;999447
+Retusa tornata;Mollusca;Gastropoda;Cephalaspidea;Retusidae;WORMS;;;;WORMS;gap;
+Retusa truncatula;Mollusca;Gastropoda;Cephalaspidea;Retusidae;BOLD,WORMS;1;13;1;WORMS;;665566;665568
+Retusa umbilicata;Mollusca;Gastropoda;Cephalaspidea;Retusidae;BOLD;8;14;3;WORMS;;599288

@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eurynome aspera;Arthropoda;Malacostraca;Decapoda;Majidae;BOLD,WORMS;11;18;1;WORMS;;343764
+Eurynome spinosa;Arthropoda;Malacostraca;Decapoda;Majidae;BOLD,WORMS;2;3;1;WORMS;;89909
+Maja brachydactyla;Arthropoda;Malacostraca;Decapoda;Majidae;BOLD,WORMS;40;80;1;WORMS;;151531
+Maja crispata;Arthropoda;Malacostraca;Decapoda;Majidae;BOLD,WORMS;20;22;1;WORMS;;151529
+Maja goltziana;Arthropoda;Malacostraca;Decapoda;Majidae;BOLD;;;;;gap;302631
+Maja squinado;Arthropoda;Malacostraca;Decapoda;Majidae;BOLD,WORMS;37;41;2;WORMS;;151530
+Micippa thalia;Arthropoda;Malacostraca;Decapoda;Majidae;WORMS;;;;WORMS;gap;

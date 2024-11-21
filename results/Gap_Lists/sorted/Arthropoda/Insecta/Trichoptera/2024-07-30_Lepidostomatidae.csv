@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crunoecia bosniaca;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;FE;;;;;gap;
+Crunoecia fortuna;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;FE;;;;;gap;
+Crunoecia irrorata;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;BOLD,FE;15;30;2;FE;;133508
+Crunoecia kempnyi;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;BOLD,FE;3;3;2;;;133510
+Crunoecia monospina;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;FE;;;;;gap;
+Lasiocephala basalis;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;BOLD,FE,iNat;5;5;1;FE;;359993
+Lasiocephala doehleri;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;FE;;;;;gap;
+Lepidostoma basale;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;BOLD;44;60;1;;;126510
+Lepidostoma doehleri;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;BOLD;1;1;1;;;133202
+Lepidostoma hirtum;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;BOLD,FE;108;126;3;FE;;133239
+Lepidostoma tenerifensis;Arthropoda;Insecta;Trichoptera;Lepidostomatidae;FE;;;;;gap;

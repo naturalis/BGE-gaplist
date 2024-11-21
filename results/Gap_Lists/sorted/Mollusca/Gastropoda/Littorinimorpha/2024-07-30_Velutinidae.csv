@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calyptoconcha pellucida;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;WORMS;gap;
+Lamellaria latens;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;BOLD,WORMS;2;8;2;WORMS;;740195
+Lamellaria perspicua;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;BOLD,WORMS;0;11;0;WORMS;gap;708827
+Marseniella borealis;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;WORMS;gap;
+Marsenina glabra;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;WORMS;gap;
+Onchidiopsis glacialis;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;WORMS;gap;
+Onchidiopsis spitzbergensis;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;;gap;
+Piliscus commodus;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;WORMS;gap;
+Pseudotorellia fragilis;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;;gap;
+Velutina plicatilis;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;BOLD,WORMS;7;9;1;WORMS;;559746
+Velutina schneideri;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;WORMS;;;;WORMS;gap;
+Velutina velutina;Mollusca;Gastropoda;Littorinimorpha;Velutinidae;BOLD,WORMS;25;47;4;WORMS;;306835

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Biphyllus frater;Arthropoda;Insecta;Coleoptera;Biphyllidae;BOLD,FE;1;8;1;FE;;534218
+Biphyllus lunatus;Arthropoda;Insecta;Coleoptera;Biphyllidae;BOLD,FE;8;16;2;FE;;534217
+Biphyllus subellipticus;Arthropoda;Insecta;Coleoptera;Biphyllidae;FE;;;;FE;gap;
+Biphyllus typhaeoides;Arthropoda;Insecta;Coleoptera;Biphyllidae;FE;;;;FE;gap;
+Diplocoelus fagi;Arthropoda;Insecta;Coleoptera;Biphyllidae;BOLD,FE,iNat;6;29;1;;;318221

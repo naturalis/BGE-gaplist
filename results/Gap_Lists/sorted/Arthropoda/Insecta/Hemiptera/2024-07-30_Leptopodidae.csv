@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Erianotus lanosus;Arthropoda;Insecta;Hemiptera;Leptopodidae;FE,CoPH;;;;CoPH;gap;
+Leptopus hispanus;Arthropoda;Insecta;Hemiptera;Leptopodidae;FE,CoPH;;;;CoPH;gap;
+Leptopus marmoratus;Arthropoda;Insecta;Hemiptera;Leptopodidae;BOLD,FE,CoPH,iNat;2;7;0;CoPH;;1056676
+Patapius spinosus;Arthropoda;Insecta;Hemiptera;Leptopodidae;FE,CoPH;;;;CoPH;gap;

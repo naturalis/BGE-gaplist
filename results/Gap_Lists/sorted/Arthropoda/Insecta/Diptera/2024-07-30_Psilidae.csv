@@ -1,0 +1,51 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chamaepsila atra;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;64;72;1;FE;;468360
+Chamaepsila bicolor;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;5;8;1;FE;;510639
+Chamaepsila buccata;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;FE;gap;
+Chamaepsila clunalis;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;FE;gap;
+Chamaepsila humeralis;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;0;5;0;FE;gap;483613
+Chamaepsila kaszabi;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;FE;gap;
+Chamaepsila limbatella;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;0;8;0;FE;gap;467383
+Chamaepsila longipennis;Arthropoda;Insecta;Diptera;Psilidae;FE;;;;FE;gap;
+Chamaepsila luteola;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;FE;gap;
+Chamaepsila morio;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;0;5;0;FE;gap;467384
+Chamaepsila nigra;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;101;106;2;FE;;483496
+Chamaepsila nigricornis;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;36;45;1;FE;;467385
+Chamaepsila nigrotaeniata;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Chamaepsila obscuritarsis;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;3;13;1;FE;;406850
+Chamaepsila pallida;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;0;10;0;FE;gap;468361
+Chamaepsila pectoralis;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;7;29;1;FE;;483625
+Chamaepsila persimilis;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;FE;gap;
+Chamaepsila quadrilineata;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Chamaepsila rosae;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE;29;38;3;FE;;1067989
+Chamaepsila rufa;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;1;1;0;FE;;1067990
+Chamaepsila sardoa;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Chamaepsila strigata;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;1;3;0;FE;;760460
+Chamaepsila unilineata;Arthropoda;Insecta;Diptera;Psilidae;FE;;;;FE;gap;
+Chamaepsila villosula;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;FE;gap;
+Chyliza (Chyliza) gracilis;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Chyliza (Chyliza) leptogaster;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;495140
+Chyliza (Chyliza) nova;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;993032
+Chyliza (Chyliza) vittata;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;483378
+Chyliza (Dasyna) extenuata;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;1141562
+Chyliza annulipes;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;10;14;1;;;406818
+Loxocera (Imantimyia) albiseta;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;969365
+Loxocera (Imantimyia) fulviventris;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;969386
+Loxocera (Imantimyia) nigrifrons;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;969387
+Loxocera (Imantimyia) sylvatica;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;969361
+Loxocera (Loxocera) aristata;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;483333
+Loxocera (Loxocera) hoffmannseggi;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;1140921
+Loxocera (Loxocera) maculata;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Oxypsila abdominalis;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;0;3;0;FD;gap;1067993
+Psila (Freyopsila) sibirica;Arthropoda;Insecta;Diptera;Psilidae;BOLD,SyDip;;;;SyDip;gap;483629
+Psila (Psila) hennigi;Arthropoda;Insecta;Diptera;Psilidae;BOLD,SyDip;;;;SyDip;gap;956435
+Psila fimetaria;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;38;46;1;SyDip;;110919
+Psila martineki;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Psila merdaria;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;116;117;1;;;402895
+Psila pallida;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;;;;SyDip;gap;1067987
+Psila problematica;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Psila pseudobicolor;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Psila rosae;Arthropoda;Insecta;Diptera;Psilidae;BOLD;;;;ITIS;gap;492654
+Psila rozkosnyi;Arthropoda;Insecta;Diptera;Psilidae;FE,SyDip;;;;SyDip;gap;
+Psilosoma audouini;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,SyDip;9;17;1;SyDip;;483598
+Psilosoma lefebvrei;Arthropoda;Insecta;Diptera;Psilidae;BOLD,FE,iNat,SyDip;8;12;0;SyDip;;483338

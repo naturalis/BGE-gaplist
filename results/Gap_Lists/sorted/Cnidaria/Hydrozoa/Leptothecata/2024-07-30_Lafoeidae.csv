@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acryptolaria conferta;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;WORMS;gap;
+Acryptolaria crassicaulis;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;WORMS;gap;
+Acryptolaria longitheca;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;WORMS;gap;
+Cryptolarella abyssicola;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;WORMS;gap;
+Filellum disaggregatum;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;;gap;
+Filellum serpens;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;BOLD,WORMS;1;4;0;WORMS;;726298
+Filellum serratum;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;WORMS;gap;
+Grammaria abietina;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;BOLD,WORMS;4;9;0;WORMS;;767046
+Grammaria immersa;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;1;1;1;WORMS;;930773
+Lafoea dumosa;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;BOLD,WORMS;21;35;5;WORMS;;264644
+Lafoea grandis;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;WORMS;;;;;gap;
+Lafoeina tenuis;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;BOLD,WORMS;0;7;0;WORMS;gap;726308
+Zygophylax pinnata;Cnidaria;Hydrozoa;Leptothecata;Lafoeidae;BOLD,WORMS;1;2;0;WORMS;;767048

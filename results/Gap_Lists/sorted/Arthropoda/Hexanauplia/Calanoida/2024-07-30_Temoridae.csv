@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eurytemora affinis;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,FE;377;451;7;FE;;68599
+Eurytemora americana;Arthropoda;Hexanauplia;Calanoida;Temoridae;FE,WORMS;1;1;0;WORMS;;955906
+Eurytemora canadensis;Arthropoda;Hexanauplia;Calanoida;Temoridae;FE;;;;WORMS;gap;
+Eurytemora carolleeae;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD;52;52;1;;;376525
+Eurytemora grimmi;Arthropoda;Hexanauplia;Calanoida;Temoridae;WORMS;;;;WORMS;gap;
+Eurytemora lacustris;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,FE,WORMS;12;12;1;WORMS;;295845
+Eurytemora raboti;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,FE,WORMS;2;4;1;WORMS;;740638
+Eurytemora velox;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,FE,WORMS;10;11;1;WORMS;;719568
+Heterocope appendiculata;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,FE;1;4;1;;;746814
+Heterocope borealis;Arthropoda;Hexanauplia;Calanoida;Temoridae;FE;0;2;0;WORMS;gap;746811
+Heterocope caspia;Arthropoda;Hexanauplia;Calanoida;Temoridae;FE;;;;;gap;
+Heterocope saliens;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,FE;1;5;1;FE;;746799
+Temora longicornis;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,WORMS;51;90;2;WORMS;;142593
+Temora stylifera;Arthropoda;Hexanauplia;Calanoida;Temoridae;BOLD,WORMS;23;34;1;WORMS;;13950
+Temora turbinata;Arthropoda;Hexanauplia;Calanoida;Temoridae;WORMS;19;22;2;WORMS;;654374

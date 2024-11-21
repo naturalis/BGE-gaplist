@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eudyptes moseleyi;Chordata;Aves;Sphenisciformes;Spheniscidae;BOLD;44;44;1;WORMS;;858898
+Spheniscus demersus;Chordata;Aves;Sphenisciformes;Spheniscidae;BOLD;12;14;1;;;9587
+Spheniscus humboldti;Chordata;Aves;Sphenisciformes;Spheniscidae;BOLD;13;16;1;;;81447

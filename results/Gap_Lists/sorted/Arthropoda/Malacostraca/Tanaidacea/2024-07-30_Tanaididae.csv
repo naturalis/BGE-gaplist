@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hexapleomera bultidactyla;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD;0;1;0;;gap;1141302
+Hexapleomera robusta;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;WORMS;;;;ITIS;gap;
+Parasinelobus chevreuxi;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD,WORMS;0;1;0;WORMS;gap;371892
+Sinelobus vanhaareni;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD;6;11;1;;;856476
+Tanais Grimaldii;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;WORMS;;;;WORMS;gap;
+Tanais dulongii;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD,WORMS;24;50;8;WORMS;;212369
+Tanais grimaldii;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD;5;5;3;WORMS;;771851
+Zeuxo exsargasso;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD;2;5;1;WORMS;;771855
+Zeuxo holdichi;Arthropoda;Malacostraca;Tanaidacea;Tanaididae;BOLD;2;3;1;WORMS;;939287

@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Altiverruca carinata;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Altiverruca costata;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Altiverruca crenata;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Altiverruca erecta;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Altiverruca gibbosa;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Altiverruca inermis;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Altiverruca obliqua;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;WORMS;gap;
+Metaverruca aequalis;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Metaverruca cornuta;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;WORMS;gap;
+Metaverruca recta;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;1;1;1;WORMS;;675572
+Metaverruca sensibilis;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Newmaniverruca ferruginea;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Verruca spengleri;Arthropoda;Thecostraca;Sessilia;Verrucidae;WORMS;;;;;gap;
+Verruca stroemia;Arthropoda;Thecostraca;Sessilia;Verrucidae;BOLD,WORMS;22;28;1;WORMS;;173993

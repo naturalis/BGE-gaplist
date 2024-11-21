@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Conus chaldaeus;Mollusca;Gastropoda;Neogastropoda;Conidae;BOLD;101;101;1;WORMS;;507536
+Conus ebraeus;Mollusca;Gastropoda;Neogastropoda;Conidae;BOLD;180;187;1;WORMS;;85004
+Conus ermineus;Mollusca;Gastropoda;Neogastropoda;Conidae;BOLD;10;12;1;WORMS;;303641
+Conus jourdani;Mollusca;Gastropoda;Neogastropoda;Conidae;BOLD;7;7;1;WORMS;;901941
+Conus vayssierei;Mollusca;Gastropoda;Neogastropoda;Conidae;WORMS;;;;WORMS;gap;

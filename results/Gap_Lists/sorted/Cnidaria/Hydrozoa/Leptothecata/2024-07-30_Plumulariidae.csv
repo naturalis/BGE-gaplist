@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dentitheca dendritica;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD;8;10;2;WORMS;;753988
+Monotheca margaretta;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD,WORMS;0;3;0;ITIS;gap;390487
+Monotheca obliqua;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD,WORMS;0;4;0;WORMS;gap;390486
+Monotheca pulchella;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;WORMS;gap;
+Nemertesia antennina;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD,WORMS;3;18;2;WORMS;;390475;593629
+Nemertesia belini;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD;0;2;0;;gap;390473
+Nemertesia falcicula;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;WORMS;gap;
+Nemertesia norvegica;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD,WORMS;1;5;0;WORMS;;390472
+Nemertesia perrieri;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;WORMS;gap;
+Nemertesia ramosa;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD,WORMS;4;19;2;WORMS;;390470
+Nemertesia tetrasticha;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;WORMS;gap;
+Nemertesia ventriculiformis;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;0;7;0;WORMS;gap;390469
+Plumularia canariensis;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;;gap;
+Plumularia filicula;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;;gap;
+Plumularia floridana;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;4;4;4;WORMS;;942377;593616
+Plumularia setacea;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD,WORMS;37;79;19;WORMS;;390484
+Plumularia strictocarpa;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;BOLD;5;12;3;WORMS;;653353
+Plumularia syriaca;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;;gap;
+Pseudoplumaria marocana;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;WORMS;gap;
+Pseudoplumaria sabinae;Cnidaria;Hydrozoa;Leptothecata;Plumulariidae;WORMS;;;;;gap;

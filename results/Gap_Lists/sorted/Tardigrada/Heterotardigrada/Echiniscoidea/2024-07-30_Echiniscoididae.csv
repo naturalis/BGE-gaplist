@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echiniscoides bruni;Tardigrada;Heterotardigrada;Echiniscoidea;Echiniscoididae;WORMS;;;;;gap;
+Echiniscoides hoepneri;Tardigrada;Heterotardigrada;Echiniscoidea;Echiniscoididae;WORMS;;;;;gap;
+Echiniscoides sigismundi;Tardigrada;Heterotardigrada;Echiniscoidea;Echiniscoididae;BOLD,WORMS;6;13;1;WORMS;;939068;939069
+Isoechiniscoides sifae;Tardigrada;Heterotardigrada;Echiniscoidea;Echiniscoididae;BOLD;7;9;1;;;938940

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Epimeria cornigera;Arthropoda;Malacostraca;Amphipoda;Epimeriidae;BOLD;33;40;2;;;347158
+Epimeria loricata;Arthropoda;Malacostraca;Amphipoda;Epimeriidae;BOLD;10;15;1;;;88670
+Epimeria parasitica;Arthropoda;Malacostraca;Amphipoda;Epimeriidae;BOLD;3;3;0;;;746525
+Epimeria tuberculata;Arthropoda;Malacostraca;Amphipoda;Epimeriidae;BOLD;1;3;1;;;683970
+Paramphithoe hystrix;Arthropoda;Malacostraca;Amphipoda;Epimeriidae;BOLD,WORMS;56;66;5;WORMS;;19333

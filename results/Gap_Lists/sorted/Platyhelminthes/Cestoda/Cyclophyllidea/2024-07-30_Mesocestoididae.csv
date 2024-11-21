@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mesocestoides alaudae;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;;gap;
+Mesocestoides ambiguus;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;;gap;
+Mesocestoides angustatus;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;FE;gap;
+Mesocestoides canislagopodis;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;BOLD,FE;0;9;0;FE;gap;905383
+Mesocestoides imbutiformis;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;FE;gap;
+Mesocestoides leptothylacus;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;;gap;
+Mesocestoides lineatus;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;BOLD,FE;0;9;0;FE;gap;905224
+Mesocestoides litteratus;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;BOLD,FE;2;75;1;FE;;889930
+Mesocestoides melesi;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;;gap;
+Mesocestoides perlatus;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;FE;gap;
+Mesocestoides petrowi;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;;gap;
+Mesocestoides zacharovae;Platyhelminthes;Cestoda;Cyclophyllidea;Mesocestoididae;FE;;;;;gap;

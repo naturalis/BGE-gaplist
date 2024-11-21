@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyanistes caeruleus;Chordata;Aves;Passeriformes;Paridae;BOLD,FE,iNat;56;70;1;MU;;86964
+Cyanistes cyanus;Chordata;Aves;Passeriformes;Paridae;FE;9;11;1;MU;;86965
+Cyanistes teneriffae;Chordata;Aves;Passeriformes;Paridae;BOLD,FE;46;46;6;MU;;118658
+Lophophanes cristatus;Chordata;Aves;Passeriformes;Paridae;BOLD,FE,iNat;14;18;1;MU;;86980
+Parus major;Chordata;Aves;Passeriformes;Paridae;BOLD,FE,iNat;172;187;5;;;70326
+Periparus ater;Chordata;Aves;Passeriformes;Paridae;BOLD,FE,iNat;87;101;5;ITIS;;86975
+Poecile cinctus;Chordata;Aves;Passeriformes;Paridae;BOLD,FE;10;12;1;ITIS;;746241
+Poecile lugubris;Chordata;Aves;Passeriformes;Paridae;BOLD,FE;36;37;1;MU;;118694
+Poecile montanus;Chordata;Aves;Passeriformes;Paridae;BOLD,FE,iNat;86;105;3;ITIS;;746242
+Poecile palustris;Chordata;Aves;Passeriformes;Paridae;BOLD,FE,iNat;73;87;3;MU;;73245

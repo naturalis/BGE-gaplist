@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chaenophryne draco;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;9;9;2;WORMS;;47369
+Chaenophryne longiceps;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;8;8;2;WORMS;;125610
+Ctenochirichthys longimanus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;
+Dolopichthys allector;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;
+Dolopichthys danae;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;
+Dolopichthys jubatus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;
+Dolopichthys karsteni;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD;8;8;1;;;141131
+Dolopichthys longicornis;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;WORMS;gap;
+Leptacanthichthys gracilispinis;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;4;4;1;WORMS;;806120
+Lophodolos acanthognathus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;9;9;1;WORMS;;125629
+Microlophichthys microlophus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;5;5;1;WORMS;;263456
+Oneirodes anisacanthus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;WORMS;gap;
+Oneirodes carlsbergi;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;WORMS;gap;
+Oneirodes clarkei;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;
+Oneirodes eschrichtii;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;10;12;2;WORMS;;71311
+Oneirodes macronema;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;WORMS;gap;
+Oneirodes macrosteus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;BOLD,WORMS;8;9;1;;;140592
+Oneirodes myrionemus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;
+Pentherichthys atratus;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;FB;gap;
+Phyllorhinichthys micractis;Chordata;Actinopterygii;Lophiiformes;Oneirodidae;WORMS;;;;;gap;

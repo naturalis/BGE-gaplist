@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Argulus arcassonensis;Arthropoda;Ichthyostraca;Arguloida;Argulidae;WORMS;;;;WORMS;gap;
+Argulus coregoni;Arthropoda;Ichthyostraca;Arguloida;Argulidae;FE;;;;FE;gap;
+Argulus foliaceus;Arthropoda;Ichthyostraca;Arguloida;Argulidae;BOLD,FE;3;10;1;WORMS;;649422
+Argulus japonicus;Arthropoda;Ichthyostraca;Arguloida;Argulidae;FE;22;33;3;FE;;649424

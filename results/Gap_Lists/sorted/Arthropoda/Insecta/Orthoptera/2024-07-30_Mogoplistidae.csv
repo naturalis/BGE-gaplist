@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arachnocephalus vestitus;Arthropoda;Insecta;Orthoptera;Mogoplistidae;BOLD,FE;16;20;6;;;331371
+Cycloptiloides canariensis;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;;;;FE;gap;
+Cycloptiloides orientalis;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;2;2;1;;;924987
+Mogoplistes brunneus;Arthropoda;Insecta;Orthoptera;Mogoplistidae;BOLD,FE;2;4;0;;;471446
+Mogoplistes kinzelbachi;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;;;;;gap;
+Paramogoplistes dentatus;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;;;;;gap;
+Paramogoplistes novaki;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;;;;FE;gap;
+Pseudomogoplistes byzantius;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;;;;;gap;
+Pseudomogoplistes madeirae;Arthropoda;Insecta;Orthoptera;Mogoplistidae;FE;;;;;gap;
+Pseudomogoplistes squamiger;Arthropoda;Insecta;Orthoptera;Mogoplistidae;BOLD,FE;1;4;0;FE;;471472
+Pseudomogoplistes vicentae;Arthropoda;Insecta;Orthoptera;Mogoplistidae;BOLD,FE;2;3;1;;;1030197

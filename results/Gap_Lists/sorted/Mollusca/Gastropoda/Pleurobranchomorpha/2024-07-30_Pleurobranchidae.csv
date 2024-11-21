@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Berthella aurantiaca;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;WORMS;;;;WORMS;gap;
+Berthella elongata;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;WORMS;;;;WORMS;gap;
+Berthella ocellata;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD,WORMS;2;2;1;WORMS;;717963
+Berthella perforata;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD;4;4;2;WORMS;;987924
+Berthella plumula;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD,WORMS;7;9;3;WORMS;;265633
+Berthella sideralis;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD,WORMS;2;5;1;;;32984
+Berthella stellata;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD,WORMS;35;36;4;WORMS;;717965
+Berthellina edwardsii;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD;5;5;2;WORMS;;901745
+Gymnotoplax citrina;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;WORMS;;;;ITIS;gap;
+Pleurobranchus forskalii;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;WORMS;;;;WORMS;gap;
+Pleurobranchus membranaceus;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD,WORMS;6;6;1;WORMS;;717974
+Pleurobranchus reticulatus;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;BOLD;5;5;1;WORMS;;717975
+Pleurobranchus testudinarius;Mollusca;Gastropoda;Pleurobranchomorpha;Pleurobranchidae;WORMS;;;;WORMS;gap;

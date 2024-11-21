@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Microscolex dubius;Annelida;Clitellata;Haplotaxida;Acanthodrilidae;BOLD,FE;62;64;4;ITIS;;258702
+Microscolex enzenspergeri;Annelida;Clitellata;Haplotaxida;Acanthodrilidae;BOLD;3;3;1;;;894817
+Microscolex phosphoreus;Annelida;Clitellata;Haplotaxida;Acanthodrilidae;BOLD,FE;110;115;9;ITIS;;258704
+Neodrilus terrestris;Annelida;Clitellata;Haplotaxida;Acanthodrilidae;BOLD;1;1;0;;;594958

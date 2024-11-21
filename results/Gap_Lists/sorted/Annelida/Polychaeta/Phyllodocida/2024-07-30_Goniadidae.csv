@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Glycinde bonhourei;Annelida;Polychaeta;Phyllodocida;Goniadidae;WORMS;;;;WORMS;gap;497221
+Glycinde nordmanni;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD,WORMS;6;8;1;WORMS;;572437
+Goniada emerita;Annelida;Polychaeta;Phyllodocida;Goniadidae;WORMS;4;6;3;;;201740
+Goniada maculata;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD,WORMS;66;81;7;WORMS;;258864
+Goniada norvegica;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD,WORMS;4;6;1;WORMS;;641155
+Goniada pallida;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD,WORMS;1;3;1;;;706590
+Goniadella bobrezkii;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD,WORMS;1;3;0;WORMS;;746750
+Goniadella galaica;Annelida;Polychaeta;Phyllodocida;Goniadidae;WORMS;;;;WORMS;gap;
+Goniadella gracilis;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD,WORMS;6;6;1;WORMS;;766964
+Gonida maculata;Annelida;Polychaeta;Phyllodocida;Goniadidae;BOLD;1;1;1;;;598222
+Progoniada regularis;Annelida;Polychaeta;Phyllodocida;Goniadidae;WORMS;6;18;2;;;303633

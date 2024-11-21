@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centroscymnus coelolepis;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD,WORMS;25;58;1;WORMS;;92274
+Centroscymnus crepidater;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD,WORMS;20;66;1;WORMS;;11092;681824
+Scymnodalatias garricki;Chordata;Elasmobranchii;Squaliformes;Somniosidae;WORMS;;;;;gap;
+Scymnodon ringens;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD,WORMS;13;18;1;;;179882
+Somniosus antarcticus;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD;1;44;1;;;325390
+Somniosus microcephalus;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD,WORMS;33;47;1;WORMS;;34629
+Somniosus rostratus;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD,WORMS;14;15;1;WORMS;;179883
+Zameus squamulosus;Chordata;Elasmobranchii;Squaliformes;Somniosidae;BOLD;;;;FB;gap;

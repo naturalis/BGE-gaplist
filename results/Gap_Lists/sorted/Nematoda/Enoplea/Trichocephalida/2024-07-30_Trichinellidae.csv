@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Trichinella britovi;Nematoda;Enoplea;Trichocephalida;Trichinellidae;BOLD,FE;26;36;1;;;170388
+Trichinella murrelli;Nematoda;Enoplea;Trichocephalida;Trichinellidae;FE;3;5;1;;;170387
+Trichinella nativa;Nematoda;Enoplea;Trichocephalida;Trichinellidae;FE;17;20;1;;;169837
+Trichinella nelsoni;Nematoda;Enoplea;Trichocephalida;Trichinellidae;FE;2;4;1;;;170385
+Trichinella pseudospiralis;Nematoda;Enoplea;Trichocephalida;Trichinellidae;FE;7;16;2;;;167097
+Trichinella spiralis;Nematoda;Enoplea;Trichocephalida;Trichinellidae;BOLD,FE;15;35;1;FE;;30418

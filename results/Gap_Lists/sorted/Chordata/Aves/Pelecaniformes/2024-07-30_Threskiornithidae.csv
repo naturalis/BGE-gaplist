@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Geronticus eremita;Chordata;Aves;Pelecaniformes;Threskiornithidae;BOLD,FE,iNat;15;17;1;FE;;112819
+Platalea alba;Chordata;Aves;Pelecaniformes;Threskiornithidae;FE;3;6;1;;;10037
+Platalea leucorodia;Chordata;Aves;Pelecaniformes;Threskiornithidae;BOLD,FE,iNat;5;5;1;;;747386
+Plegadis falcinellus;Chordata;Aves;Pelecaniformes;Threskiornithidae;BOLD,FE,iNat;6;12;1;WORMS;;10032
+Threskiornis aethiopicus;Chordata;Aves;Pelecaniformes;Threskiornithidae;BOLD,FE,iNat;16;69;3;FE;;88828

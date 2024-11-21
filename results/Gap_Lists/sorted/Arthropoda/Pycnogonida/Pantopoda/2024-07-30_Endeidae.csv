@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Endeis charybdaea;Arthropoda;Pycnogonida;Pantopoda;Endeidae;WORMS;;;;WORMS;gap;
+Endeis gracilis;Arthropoda;Pycnogonida;Pantopoda;Endeidae;BOLD,WORMS;;;;ITIS;gap;26062
+Endeis mollis;Arthropoda;Pycnogonida;Pantopoda;Endeidae;WORMS;1;4;1;WORMS;;103238
+Endeis straughani;Arthropoda;Pycnogonida;Pantopoda;Endeidae;WORMS;;;;WORMS;gap;

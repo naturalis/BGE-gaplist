@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Laetmatophilus ledoyeri;Arthropoda;Malacostraca;Amphipoda;Podoceridae;WORMS;;;;;gap;
+Laetmatophilus purus;Arthropoda;Malacostraca;Amphipoda;Podoceridae;WORMS;;;;;gap;
+Laetmatophilus tuberculata;Arthropoda;Malacostraca;Amphipoda;Podoceridae;BOLD;3;3;1;;;597882
+Laetmatophilus tuberculatus;Arthropoda;Malacostraca;Amphipoda;Podoceridae;BOLD,WORMS;4;7;1;WORMS;;683894
+Parunciola seurati;Arthropoda;Malacostraca;Amphipoda;Podoceridae;WORMS;;;;WORMS;gap;
+Podocerus brasiliensis;Arthropoda;Malacostraca;Amphipoda;Podoceridae;BOLD;18;25;2;WORMS;;753986
+Podocerus chelonophilus;Arthropoda;Malacostraca;Amphipoda;Podoceridae;WORMS;;;;WORMS;gap;
+Podocerus cristatus;Arthropoda;Malacostraca;Amphipoda;Podoceridae;WORMS;;;;WORMS;gap;
+Podocerus schieckei;Arthropoda;Malacostraca;Amphipoda;Podoceridae;WORMS;;;;;gap;
+Podocerus variegatus;Arthropoda;Malacostraca;Amphipoda;Podoceridae;BOLD,WORMS;8;10;0;WORMS;;739797
+Xenodice frauenfeldti;Arthropoda;Malacostraca;Amphipoda;Podoceridae;BOLD,WORMS;1;5;0;;;706964

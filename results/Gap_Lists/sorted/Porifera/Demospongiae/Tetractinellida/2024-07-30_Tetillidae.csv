@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Craniella cranium;Porifera;Demospongiae;Tetractinellida;Tetillidae;BOLD;6;7;1;WORMS;;245265
+Craniella zetlandica;Porifera;Demospongiae;Tetractinellida;Tetillidae;BOLD;4;5;1;WORMS;;245296
+Tetilla geniculata;Porifera;Demospongiae;Tetractinellida;Tetillidae;WORMS;;;;;gap;
+Tetilla nimia;Porifera;Demospongiae;Tetractinellida;Tetillidae;WORMS;;;;WORMS;gap;
+Tetilla repens;Porifera;Demospongiae;Tetractinellida;Tetillidae;WORMS;;;;WORMS;gap;
+Tetilla sandalina;Porifera;Demospongiae;Tetractinellida;Tetillidae;WORMS;;;;;gap;
+Tetilla sibirica;Porifera;Demospongiae;Tetractinellida;Tetillidae;WORMS;;;;WORMS;gap;
+Tetilla truncata;Porifera;Demospongiae;Tetractinellida;Tetillidae;WORMS;;;;WORMS;gap;

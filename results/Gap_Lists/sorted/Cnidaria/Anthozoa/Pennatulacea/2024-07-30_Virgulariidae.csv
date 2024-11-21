@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Stylatula elegans;Cnidaria;Anthozoa;Pennatulacea;Virgulariidae;BOLD,WORMS;2;3;1;WORMS;;726279
+Virgularia glacialis;Cnidaria;Anthozoa;Pennatulacea;Virgulariidae;WORMS;1;1;0;WORMS;;514308
+Virgularia mirabilis;Cnidaria;Anthozoa;Pennatulacea;Virgulariidae;BOLD,WORMS;12;15;1;WORMS;;726281
+Virgularia tuberculata;Cnidaria;Anthozoa;Pennatulacea;Virgulariidae;BOLD,WORMS;2;2;1;;;726282

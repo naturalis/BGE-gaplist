@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ergasilus briani;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE;;;;;gap;
+Ergasilus gibbus;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE,WORMS;;;;;gap;
+Ergasilus gobiorum;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE;;;;;gap;
+Ergasilus lizae;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE,WORMS;4;4;1;WORMS;;598126
+Ergasilus ponticus;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;WORMS;;;;;gap;
+Ergasilus sieboldi;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE;;;;;gap;
+Ergasilus tissensis;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE;;;;;gap;
+Neoergasilus japonicus;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE;6;6;2;FE;;799596
+Nipergasilus bora;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;WORMS;;;;WORMS;gap;
+Paraergasilus longidigitus;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE,WORMS;;;;;gap;
+Paraergasilus rylovi;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE;;;;WORMS;gap;
+Thersitina gasterostei;Arthropoda;Maxillopoda;Poecilostomatoida;Ergasilidae;FE,WORMS;2;7;2;WORMS;;598129

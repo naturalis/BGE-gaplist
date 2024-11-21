@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gaussia princeps;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;;;;WORMS;gap;
+Metridia alata;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;;;;;gap;
+Metridia brevicauda;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;;;;;gap;
+Metridia curticauda;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;0;6;0;;gap;967666
+Metridia discreta;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;;;;;gap;
+Metridia effusa;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;3;3;1;;;652283
+Metridia gurjanovae;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;;;;;gap;
+Metridia longa;Arthropoda;Hexanauplia;Calanoida;Metridinidae;BOLD,WORMS;15;72;1;WORMS;;91751
+Metridia lucens;Arthropoda;Hexanauplia;Calanoida;Metridinidae;BOLD;226;244;5;;;8206
+Metridia macrura;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;;;;;gap;
+Metridia princeps;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;0;1;0;WORMS;gap;957221
+Metridia venusta;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;1;2;0;;;152199
+Pleuromamma abdominalis;Arthropoda;Hexanauplia;Calanoida;Metridinidae;BOLD;55;1002;9;;;152211
+Pleuromamma borealis;Arthropoda;Hexanauplia;Calanoida;Metridinidae;BOLD,WORMS;17;18;2;WORMS;;302275
+Pleuromamma gracilis;Arthropoda;Hexanauplia;Calanoida;Metridinidae;BOLD;69;94;9;;;315369
+Pleuromamma piseki;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;17;18;4;WORMS;;152167
+Pleuromamma robusta;Arthropoda;Hexanauplia;Calanoida;Metridinidae;BOLD;14;19;2;;;746550
+Pleuromamma xiphias;Arthropoda;Hexanauplia;Calanoida;Metridinidae;WORMS;214;214;2;WORMS;;152210

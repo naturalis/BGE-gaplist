@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anomia ephippium;Mollusca;Bivalvia;Pectinida;Anomiidae;BOLD,WORMS;0;17;0;WORMS;gap;342477
+Heteranomia squamula;Mollusca;Bivalvia;Pectinida;Anomiidae;BOLD,WORMS;1;38;0;WORMS;;306804
+Pododesmus patelliformis;Mollusca;Bivalvia;Pectinida;Anomiidae;BOLD,WORMS;4;14;1;WORMS;;767339;674380
+Pododesmus squama;Mollusca;Bivalvia;Pectinida;Anomiidae;BOLD,WORMS;;;;WORMS;gap;674381

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Homarus americanus;Arthropoda;Malacostraca;Decapoda;Nephropidae;BOLD;22;104;1;WORMS;;19177
+Homarus gammarus;Arthropoda;Malacostraca;Decapoda;Nephropidae;BOLD,WORMS,iNat;54;61;1;WORMS;;172172
+Nephrops norvegicus;Arthropoda;Malacostraca;Decapoda;Nephropidae;BOLD,WORMS;65;91;1;WORMS;;89911
+Nephropsis atlantica;Arthropoda;Malacostraca;Decapoda;Nephropidae;BOLD,WORMS;5;5;1;;;209854

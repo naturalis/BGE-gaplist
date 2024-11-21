@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Emmericia expansilabris;Mollusca;Gastropoda;Littorinimorpha;Emmericiidae;BOLD,FE;2;6;1;FE;;1144570
+Emmericia narentana;Mollusca;Gastropoda;Littorinimorpha;Emmericiidae;FE;;;;;gap;
+Emmericia patula;Mollusca;Gastropoda;Littorinimorpha;Emmericiidae;FE,iNat;;;;FE;gap;
+Emmericia ventricosa;Mollusca;Gastropoda;Littorinimorpha;Emmericiidae;FE;;;;FE;gap;

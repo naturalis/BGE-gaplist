@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Kirchenpaueria bonnevieae;Cnidaria;Hydrozoa;Leptothecata;Kirchenpaueriidae;BOLD;4;4;0;WORMS;;1133288
+Kirchenpaueria pinnata;Cnidaria;Hydrozoa;Leptothecata;Kirchenpaueriidae;BOLD,WORMS;4;26;0;WORMS;;726306
+Ophinella parasitica;Cnidaria;Hydrozoa;Leptothecata;Kirchenpaueriidae;WORMS;;;;WORMS;gap;

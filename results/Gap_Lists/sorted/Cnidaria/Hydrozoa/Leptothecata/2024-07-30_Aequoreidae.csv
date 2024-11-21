@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aequorea conica;Cnidaria;Hydrozoa;Leptothecata;Aequoreidae;WORMS;8;8;1;;;103519
+Aequorea forskalea;Cnidaria;Hydrozoa;Leptothecata;Aequoreidae;BOLD,WORMS;2;5;1;WORMS;;805470
+Aequorea macrodactyla;Cnidaria;Hydrozoa;Leptothecata;Aequoreidae;WORMS;1;3;1;WORMS;;649035
+Aequorea pensilis;Cnidaria;Hydrozoa;Leptothecata;Aequoreidae;WORMS;;;;WORMS;gap;
+Aequorea vitrina;Cnidaria;Hydrozoa;Leptothecata;Aequoreidae;BOLD,WORMS;2;2;1;WORMS;;726287

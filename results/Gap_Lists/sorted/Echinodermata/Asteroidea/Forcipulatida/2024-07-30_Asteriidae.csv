@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anasterias directa;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;5;7;1;WORMS;;218124
+Anasterias rupicola;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;10;61;1;WORMS;;218129
+Asterias rubens;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD,iNat;128;176;1;ITIS;;104590;268534
+Coronaster volsellatus;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;WORMS;gap;
+Coscinasterias tenuispina;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD,WORMS;29;42;1;WORMS;;218156
+Diplasterias brandti;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;5;7;2;WORMS;;151836
+Diplasterias brucei;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;74;97;9;WORMS;;193720
+Diplasterias meridionalis;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;61;173;2;WORMS;;218160
+Icasterias panopla;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD,WORMS;6;9;2;WORMS;;218173
+Leptasterias (Hexasterias) polaris;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;WORMS;gap;
+Leptasterias canuti;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;;gap;
+Leptasterias clavispina;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;;gap;
+Leptasterias degerboelli;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;;gap;
+Leptasterias muelleri;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;19;21;1;ITIS;;104587
+Lysasterias perrieri;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;10;12;3;WORMS;;218217;218128
+Marthasterias glacialis;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD,WORMS,iNat;105;118;2;WORMS;;104584
+Saliasterias brachiata;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;1;11;0;;;218231
+Sclerasterias guernei;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;;gap;
+Sclerasterias neglecta;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;WORMS;gap;
+Sclerasterias richardi;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;WORMS;;;;WORMS;gap;
+Smilasterias triremis;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD;18;91;2;WORMS;;218249
+Stephanasterias albula;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD,WORMS;5;9;1;WORMS;;104572
+Urasterias lincki;Echinodermata;Asteroidea;Forcipulatida;Asteriidae;BOLD,WORMS;16;27;2;WORMS;;33069

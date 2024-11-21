@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carinostoma carinatum;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE;2;3;0;FE;;361430
+Centetostoma centetes;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE;0;1;0;FE;gap;469712
+Histricostoma dentipalpe;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE;4;8;1;FE;;469710
+Mitostoma alpinum;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE;3;3;0;FE;;1081237
+Mitostoma chrysomelas;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE,iNat;28;29;1;FE;;472164
+Nemastoma bidentatum;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE;5;7;1;;;361432
+Nemastoma bimaculatum;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE,iNat;14;26;1;FE;;472153
+Nemastoma dentigerum;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE,iNat;18;18;1;;;361433
+Nemastoma lugubre;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE,iNat;40;44;2;FE;;361434
+Nemastoma triste;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE;16;16;1;FE;;361435
+Nemastomella bacillifera;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD;0;2;0;;gap;952129
+Nemastomella monchiquense;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD;;;;;gap;971276
+Paranemastoma quadripunctatum;Arthropoda;Arachnida;Opiliones;Nemastomatidae;BOLD,FE,iNat;49;52;1;FE;;361437

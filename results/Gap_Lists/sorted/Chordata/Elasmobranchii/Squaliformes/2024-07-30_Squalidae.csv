@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Squalus acanthias;Chordata;Elasmobranchii;Squaliformes;Squalidae;BOLD,WORMS;288;535;2;WORMS;;12653
+Squalus blainville;Chordata;Elasmobranchii;Squaliformes;Squalidae;BOLD,WORMS;200;208;2;WORMS;;162256
+Squalus megalops;Chordata;Elasmobranchii;Squaliformes;Squalidae;BOLD,WORMS;53;78;2;WORMS;;12721

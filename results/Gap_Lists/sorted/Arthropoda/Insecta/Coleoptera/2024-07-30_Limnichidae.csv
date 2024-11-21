@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bothriophorus atomus;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;ITIS;gap;
+Limnichus angustulus;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;;gap;
+Limnichus aurosericeus;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;FE;gap;
+Limnichus incanus;Arthropoda;Insecta;Coleoptera;Limnichidae;BOLD,FE;3;3;1;;;577145
+Limnichus inornatus;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;;gap;
+Limnichus lederi;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;;gap;
+Limnichus pumilio;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;;gap;
+Limnichus punctipennis;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;;gap;
+Limnichus pygmaeus;Arthropoda;Insecta;Coleoptera;Limnichidae;BOLD,FE;1;8;0;FE;;167217
+Limnichus sericeus;Arthropoda;Insecta;Coleoptera;Limnichidae;BOLD,FE;9;19;1;FE;;502374
+Pelochares murinus;Arthropoda;Insecta;Coleoptera;Limnichidae;FE;;;;ITIS;gap;
+Pelochares versicolor;Arthropoda;Insecta;Coleoptera;Limnichidae;BOLD,FE,iNat;8;10;0;FE;;318326

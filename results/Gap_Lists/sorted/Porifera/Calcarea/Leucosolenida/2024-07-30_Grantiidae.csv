@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphiute paulini;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;;gap;
+Aphroceras corticata;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;WORMS;gap;
+Aphroceras ensata;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;WORMS;gap;
+Grantia canadensis;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;;gap;
+Grantia capillosa;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;WORMS;gap;
+Grantia compressa;Porifera;Calcarea;Leucosolenida;Grantiidae;BOLD,WORMS;0;5;0;WORMS;gap;237750
+Grantia singularis;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;WORMS;gap;
+Sycandra utriculus;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;WORMS;gap;
+Sycodorus hystrix;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;WORMS;gap;
+Ute gladiata;Porifera;Calcarea;Leucosolenida;Grantiidae;WORMS;;;;;gap;

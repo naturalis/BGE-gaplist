@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gymnocephalus acerina;Chordata;Actinopterygii;Perciformes;Percidae;FE;;;;FB;gap;
+Gymnocephalus ambriaelacus;Chordata;Actinopterygii;Perciformes;Percidae;BOLD;4;4;1;;;393676
+Gymnocephalus baloni;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;13;19;1;;;206460
+Gymnocephalus cernua;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE,iNat;141;152;5;WORMS;;398376
+Gymnocephalus schraetser;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;19;21;1;FB;;140364
+Perca flavescens;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE,iNat;;;;FB;gap;
+Percarina demidoffii;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;15;20;1;WORMS;;71243
+Percarina maeotica;Chordata;Actinopterygii;Perciformes;Percidae;FE;;;;WORMS;gap;
+Romanichthys valsanicola;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;2;3;1;;;140368
+Sander lucioperca;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE,iNat;139;150;1;WORMS;;151166;493553
+Sander volgensis;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;18;25;1;WORMS;;206458
+Zingel asper;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;2;2;1;FB;;598595
+Zingel balcanicus;Chordata;Actinopterygii;Perciformes;Percidae;FE;;;;FB;gap;
+Zingel streber;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;29;34;1;FB;;140369
+Zingel zingel;Chordata;Actinopterygii;Perciformes;Percidae;BOLD,FE;26;28;1;FB;;140366

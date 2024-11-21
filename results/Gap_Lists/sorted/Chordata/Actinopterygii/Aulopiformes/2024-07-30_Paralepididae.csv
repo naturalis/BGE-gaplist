@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anotopterus pharao;Chordata;Actinopterygii;Aulopiformes;Paralepididae;BOLD,WORMS;8;9;1;FB;;56038
+Arctozenus risso;Chordata;Actinopterygii;Aulopiformes;Paralepididae;BOLD,WORMS;70;87;6;WORMS;;59407
+Lestidiops affinis;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Lestidiops pacificus;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;FB;gap;
+Lestidiops sphyrenoides;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Macroparalepis affinis;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Macroparalepis brevis;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Macroparalepis nigra;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Magnisudis atlantica;Chordata;Actinopterygii;Aulopiformes;Paralepididae;BOLD,WORMS;23;27;4;WORMS;;72899
+Notolepis coatsi;Chordata;Actinopterygii;Aulopiformes;Paralepididae;BOLD;24;24;3;;;72306
+Paralepis brevirostris;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Paralepis coregonoides;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Sudis hyalina;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Uncisudis longirostra;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;
+Uncisudis quadrimaculata;Chordata;Actinopterygii;Aulopiformes;Paralepididae;WORMS;;;;WORMS;gap;

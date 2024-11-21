@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Achlya flavicornis;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;48;53;2;FE;;183381
+Asphalia ruficollis;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF;2;2;1;FE;;369825
+Cilix algirica;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF;3;8;0;;;981254
+Cilix asiatica;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF;9;9;1;;;368816
+Cilix glaucata;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;68;71;1;FE;;179116
+Cilix hispanica;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF;7;11;1;;;981212
+Cymatophorina diluta;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;32;36;1;FE;;197774
+Drepana binaria;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD;0;2;1;;gap;176061
+Drepana cultraria;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD;1;1;1;;;288128
+Drepana curvatula;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;25;26;1;FE;;109508
+Drepana falcataria;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;57;59;1;FE;;26226
+Falcaria lacertinaria;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;33;36;1;FE;;152099
+Habrosyne pyritoides;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;69;77;1;FE;;197719
+Ochropacha duplaris;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;30;35;1;FE;;179047
+Polyploca corbi;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD;5;5;2;;;378666
+Polyploca korbi;Arthropoda;Insecta;Lepidoptera;Drepanidae;LF;;;;;gap;
+Polyploca neoridens;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD;3;3;2;;;288126
+Polyploca ridens;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;20;23;2;FE;;258170
+Sabra harpagula;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;24;27;3;FE;;109514;370788
+Tethea ocularis;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;68;70;1;FE;;197786
+Tethea or;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;63;69;7;FE;;183468
+Tetheella fluctuosa;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;26;29;1;FE;;183482
+Thyatira batis;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;96;105;3;FE;;109507
+Watsonalla binaria;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;58;63;1;FE;;197679
+Watsonalla cultraria;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF,iNat;50;53;1;FE;;204420
+Watsonalla uncinula;Arthropoda;Insecta;Lepidoptera;Drepanidae;BOLD,FE,LF;37;40;2;FE;;266463

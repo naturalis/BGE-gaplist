@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cynoglossus browni;Chordata;Actinopterygii;Pleuronectiformes;Cynoglossidae;BOLD,WORMS;;;;WORMS;gap;
+Cynoglossus sinusarabici;Chordata;Actinopterygii;Pleuronectiformes;Cynoglossidae;WORMS;;;;WORMS;gap;
+Symphurus ligulatus;Chordata;Actinopterygii;Pleuronectiformes;Cynoglossidae;WORMS;;;;WORMS;gap;
+Symphurus nigrescens;Chordata;Actinopterygii;Pleuronectiformes;Cynoglossidae;BOLD,WORMS;9;14;1;WORMS;;78485
+Symphurus reticulatus;Chordata;Actinopterygii;Pleuronectiformes;Cynoglossidae;BOLD,WORMS;0;1;0;;gap;253450

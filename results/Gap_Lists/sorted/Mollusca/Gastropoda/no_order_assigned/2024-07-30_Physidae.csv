@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aplexa hypnorum;Mollusca;Gastropoda;;Physidae;BOLD,FE,iNat;11;23;1;FE;;171908
+Haitia acuta;Mollusca;Gastropoda;;Physidae;FE;;;;FE;gap;
+Physa fontalis;Mollusca;Gastropoda;;Physidae;BOLD;1;1;1;;;360330
+Physa fontinalis;Mollusca;Gastropoda;;Physidae;BOLD,FE,iNat;14;47;2;FE;;28884
+Physella acuta;Mollusca;Gastropoda;;Physidae;BOLD,iNat;693;1092;15;ITIS;;656105
+Physella gyrina;Mollusca;Gastropoda;;Physidae;BOLD,FE;71;107;3;ITIS;;28880;152849
+Physella heterostropha;Mollusca;Gastropoda;;Physidae;BOLD;7;12;2;ITIS;;640682;642093

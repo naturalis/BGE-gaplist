@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arbacia lixula;Echinodermata;Echinoidea;Arbacioida;Arbaciidae;BOLD,WORMS;241;406;1;WORMS;;26140
+Arbaciella elegans;Echinodermata;Echinoidea;Arbacioida;Arbaciidae;WORMS;4;6;0;;;217502
+Habrocidaris scutata;Echinodermata;Echinoidea;Arbacioida;Arbaciidae;WORMS;;;;WORMS;gap;
+Podocidaris sculpta;Echinodermata;Echinoidea;Arbacioida;Arbaciidae;WORMS;;;;;gap;

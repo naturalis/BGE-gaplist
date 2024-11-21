@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Merluccius capensis;Chordata;Actinopterygii;Gadiformes;Merlucciidae;BOLD,WORMS;;;;FB;gap;
+Merluccius hubbsi;Chordata;Actinopterygii;Gadiformes;Merlucciidae;BOLD;52;93;1;WORMS;;54121
+Merluccius paradoxus;Chordata;Actinopterygii;Gadiformes;Merlucciidae;BOLD;63;76;1;WORMS;;47381
+Merluccius senegalensis;Chordata;Actinopterygii;Gadiformes;Merlucciidae;WORMS;;;;WORMS;gap;

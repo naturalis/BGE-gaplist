@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sphyraena barracuda;Chordata;Actinopterygii;Istiophoriformes;Sphyraenidae;BOLD,WORMS;150;170;2;FB;;11262
+Sphyraena chrysotaenia;Chordata;Actinopterygii;Istiophoriformes;Sphyraenidae;BOLD,WORMS;70;71;1;WORMS;;11323
+Sphyraena viridensis;Chordata;Actinopterygii;Istiophoriformes;Sphyraenidae;WORMS;;;;WORMS;gap;

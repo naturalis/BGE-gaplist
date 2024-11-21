@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ditomyia fasciata;Arthropoda;Insecta;Diptera;Ditomyiidae;BOLD,FE,iNat,SyDip;9;12;1;SyDip;;362074
+Ditomyia macroptera;Arthropoda;Insecta;Diptera;Ditomyiidae;FE,SyDip;2;2;1;;;1149902
+Symmerus annulatus;Arthropoda;Insecta;Diptera;Ditomyiidae;BOLD,FE,SyDip;22;25;2;ITIS;;710144
+Symmerus nobilis;Arthropoda;Insecta;Diptera;Ditomyiidae;BOLD,FE,SyDip;5;8;1;;;788883

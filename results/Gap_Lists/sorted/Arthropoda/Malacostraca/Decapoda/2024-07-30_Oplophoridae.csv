@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Janicella spinicauda;Arthropoda;Malacostraca;Decapoda;Oplophoridae;WORMS;;;;WORMS;gap;
+Oplophorus spinosus;Arthropoda;Malacostraca;Decapoda;Oplophoridae;BOLD,WORMS;26;36;1;WORMS;;89932
+Systellaspis cristata;Arthropoda;Malacostraca;Decapoda;Oplophoridae;WORMS;;;;WORMS;gap;
+Systellaspis debilis;Arthropoda;Malacostraca;Decapoda;Oplophoridae;BOLD,WORMS;48;101;1;WORMS;;89933
+Systellaspis pellucida;Arthropoda;Malacostraca;Decapoda;Oplophoridae;BOLD,WORMS;8;23;2;WORMS;;181789

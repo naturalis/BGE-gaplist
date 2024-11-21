@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diodora dorsata;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Diodora gibberula;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD,WORMS;4;9;1;WORMS;;650682
+Diodora graeca;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD,WORMS;8;12;1;WORMS;;30949
+Diodora italica;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Diodora producta;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Diodora ruppellii;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Emarginula adriatica;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Emarginula christiaensi;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Emarginula crassa;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD,WORMS;7;7;1;WORMS;;673974
+Emarginula divae;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Emarginula fissura;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD,WORMS;7;9;1;WORMS;;642807
+Emarginula huzardii;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Emarginula multistriata;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Emarginula octaviana;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Emarginula punctulum;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Emarginula pustula;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Emarginula sicula;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD,WORMS;2;4;1;WORMS;;667249;642318
+Emarginula solidula;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Emarginula tenera;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Emarginula tuberculosa;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Fissurella nodosa;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD;5;6;2;;;651065
+Fissurella nubecula;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;WORMS;gap;
+Fissurella rosea;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD;4;5;2;WORMS;;754009
+Fissurisepta granulosa;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;
+Puncturella noachina;Mollusca;Gastropoda;Lepetellida;Fissurellidae;BOLD,WORMS;4;8;2;WORMS;;708836
+Zeidora naufraga;Mollusca;Gastropoda;Lepetellida;Fissurellidae;WORMS;;;;;gap;

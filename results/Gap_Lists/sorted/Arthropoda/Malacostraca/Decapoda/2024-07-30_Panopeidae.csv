@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dyspanopeus sayi;Arthropoda;Malacostraca;Decapoda;Panopeidae;WORMS;;;;WORMS;gap;
+Panopeus africanus;Arthropoda;Malacostraca;Decapoda;Panopeidae;BOLD,WORMS;3;3;1;;;798284
+Rhithropanopeus harrisii;Arthropoda;Malacostraca;Decapoda;Panopeidae;BOLD,WORMS,iNat;303;315;2;WORMS;;8362

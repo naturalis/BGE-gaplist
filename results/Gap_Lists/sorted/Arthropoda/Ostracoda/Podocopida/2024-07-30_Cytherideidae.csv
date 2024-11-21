@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyprideis torosa;Arthropoda;Ostracoda;Podocopida;Cytherideidae;FE,WORMS;1;1;0;WORMS;;880177
+Cytheridea angustata;Arthropoda;Ostracoda;Podocopida;Cytherideidae;WORMS;;;;;gap;
+Cytheridea muelleri;Arthropoda;Ostracoda;Podocopida;Cytherideidae;WORMS;;;;;gap;
+Cytherissa lacustris;Arthropoda;Ostracoda;Podocopida;Cytherideidae;BOLD,FE;0;5;0;ITIS;gap;503251
+Heterocyprideis fascis;Arthropoda;Ostracoda;Podocopida;Cytherideidae;WORMS;;;;WORMS;gap;
+Heterocyprideis sorbyana;Arthropoda;Ostracoda;Podocopida;Cytherideidae;FE,WORMS;;;;WORMS;gap;
+Paracyprideis fennica;Arthropoda;Ostracoda;Podocopida;Cytherideidae;FE,WORMS;;;;FE;gap;
+Sarsicytheridea bradii;Arthropoda;Ostracoda;Podocopida;Cytherideidae;WORMS;;;;WORMS;gap;
+Sarsicytheridea macrolaminata;Arthropoda;Ostracoda;Podocopida;Cytherideidae;WORMS;;;;;gap;
+Sarsicytheridea punctillata;Arthropoda;Ostracoda;Podocopida;Cytherideidae;WORMS;;;;WORMS;gap;

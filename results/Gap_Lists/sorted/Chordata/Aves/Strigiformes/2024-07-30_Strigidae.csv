@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aegolius funereus;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;19;22;2;ITIS;;9493
+Asio capensis;Chordata;Aves;Strigiformes;Strigidae;FE;0;4;0;ITIS;gap;114368
+Asio flammeus;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;44;49;3;ITIS;;9482
+Asio otus;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;57;64;1;ITIS;;9483
+Athene noctua;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;69;72;3;ITIS;;52555
+Bubo bubo;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;54;56;1;ITIS;;93205
+Bubo scandiacus;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE;25;27;1;ITIS;;34922
+Glaucidium passerinum;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;9;10;2;ITIS;;73231
+Ketupa zeylonensis;Chordata;Aves;Strigiformes;Strigidae;FE;3;3;0;ITIS;;114423
+Otus brucei;Chordata;Aves;Strigiformes;Strigidae;FE;2;2;2;ITIS;;114473
+Otus cyprius;Chordata;Aves;Strigiformes;Strigidae;BOLD;1;1;1;ITIS;;858919
+Otus scops;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;14;19;2;ITIS;;96329
+Strix aluco;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;52;82;2;;;93218
+Strix nebulosa;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE;18;19;2;;;9489
+Strix uralensis;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;45;45;2;;;52556
+Surnia ulula;Chordata;Aves;Strigiformes;Strigidae;BOLD,FE,iNat;7;14;1;ITIS;;16826

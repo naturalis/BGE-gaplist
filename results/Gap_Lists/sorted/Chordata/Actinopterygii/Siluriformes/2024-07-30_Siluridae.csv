@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ompok bimaculatus;Chordata;Actinopterygii;Siluriformes;Siluridae;BOLD;236;257;5;WORMS;;211882
+Silurus aristotelis;Chordata;Actinopterygii;Siluriformes;Siluridae;BOLD,FE;10;10;2;FB;;156684
+Silurus glanis;Chordata;Actinopterygii;Siluriformes;Siluridae;BOLD,FE,iNat;104;110;1;WORMS;;278848

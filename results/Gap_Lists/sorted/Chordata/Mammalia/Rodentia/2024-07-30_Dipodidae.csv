@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Allactaga elater;Chordata;Mammalia;Rodentia;Dipodidae;FE;35;36;7;ITIS;;124124
+Allactaga major;Chordata;Mammalia;Rodentia;Dipodidae;FE;6;6;1;ITIS;;124126
+Dipus sagitta;Chordata;Mammalia;Rodentia;Dipodidae;FE;176;177;6;ITIS;;124114
+Pygeretmus pumilio;Chordata;Mammalia;Rodentia;Dipodidae;FE;3;4;1;ITIS;;124118
+Sicista betulina;Chordata;Mammalia;Rodentia;Dipodidae;BOLD,FE;6;24;3;ITIS;;101367
+Sicista severtzovi;Chordata;Mammalia;Rodentia;Dipodidae;FE;9;10;2;;;101358
+Sicista strandi;Chordata;Mammalia;Rodentia;Dipodidae;FE;8;8;2;;;90517
+Sicista subtilis;Chordata;Mammalia;Rodentia;Dipodidae;BOLD,FE;55;57;6;ITIS;;90516
+Stylodipus telum;Chordata;Mammalia;Rodentia;Dipodidae;FE;4;4;2;ITIS;;142632

@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Falco biarmicus;Chordata;Aves;Falconiformes;Falconidae;FE;3;10;1;;;10293
+Falco cherrug;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;8;23;1;;;95514
+Falco columbarius;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;19;23;2;;;10295
+Falco concolor;Chordata;Aves;Falconiformes;Falconidae;FE;2;2;1;;;113119
+Falco eleonorae;Chordata;Aves;Falconiformes;Falconidae;FE;;;;;gap;
+Falco naumanni;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;5;16;2;;;52491
+Falco pelegrinoides;Chordata;Aves;Falconiformes;Falconidae;FE;;;;;gap;
+Falco peregrinus;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;65;101;1;;;10296
+Falco rusticolus;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;10;19;1;;;10292
+Falco sparverius;Chordata;Aves;Falconiformes;Falconidae;FE;38;50;1;;;10234
+Falco subbuteo;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;32;36;1;;;10233
+Falco tinnunculus;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;80;85;2;;;10290
+Falco vespertinus;Chordata;Aves;Falconiformes;Falconidae;BOLD,FE,iNat;6;10;1;;;52636

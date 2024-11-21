@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eunice aphroditois;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;4;12;1;WORMS;;545058
+Eunice dubitata;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD,WORMS;0;5;0;WORMS;gap;598218;378423
+Eunice norvegica;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD,WORMS;3;11;2;WORMS;;300503
+Eunice oerstedii;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;;;;;gap;
+Eunice pennata;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD,WORMS;15;29;1;WORMS;;82170
+Eunice purpurea;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;;;;;gap;
+Eunice rubrocincta;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;;;;;gap;
+Eunice schizobranchia;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;;;;;gap;
+Eunice vittata;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD,WORMS;9;13;2;WORMS;;378422
+Leodice harassii;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD;2;4;1;WORMS;;920876;300508
+Lysidice collaris;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;4;40;1;WORMS;;168956
+Lysidice ninetta;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD,WORMS;12;84;2;WORMS;;168957
+Marphysa bellii;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD;3;7;1;;;540833
+Marphysa sanguinea;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD,WORMS;56;68;3;WORMS;;28563
+Marphysa victori;Annelida;Polychaeta;Eunicida;Eunicidae;BOLD;10;11;1;WORMS;;921071
+Palola siciliensis;Annelida;Polychaeta;Eunicida;Eunicidae;WORMS;4;10;1;WORMS;;942222;285925

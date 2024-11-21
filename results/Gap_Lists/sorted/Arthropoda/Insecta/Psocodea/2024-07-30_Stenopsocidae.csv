@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Graphopsocus cruciatus;Arthropoda;Insecta;Psocodea;Stenopsocidae;BOLD,FE,iNat;1162;1169;3;FE;;172930
+Stenopsocus immaculatus;Arthropoda;Insecta;Psocodea;Stenopsocidae;BOLD,FE;17;19;1;FE;;515595
+Stenopsocus lachlani;Arthropoda;Insecta;Psocodea;Stenopsocidae;BOLD,FE;6;7;1;;;515596
+Stenopsocus stigmaticus;Arthropoda;Insecta;Psocodea;Stenopsocidae;BOLD,FE,iNat;5;6;1;FE;;515597

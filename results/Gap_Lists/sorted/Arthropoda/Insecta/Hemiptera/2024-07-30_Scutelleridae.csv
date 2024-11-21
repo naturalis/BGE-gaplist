@@ -1,0 +1,47 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eurygaster austriaca;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH,iNat;1;11;1;CoPH;;458196
+Eurygaster dilaticollis;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;4;4;2;CoPH;;790923
+Eurygaster hottentotta;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Eurygaster integriceps;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;11;35;1;CoPH;;492711
+Eurygaster maura;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH,iNat;39;106;2;CoPH;;365859
+Eurygaster testudinaria;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH,iNat;62;82;2;CoPH;;380444
+Irochrotus caspius;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;AS;gap;
+Irochrotus caucasicus;Arthropoda;Insecta;Hemiptera;Scutelleridae;CoPH;;;;CoPH;gap;
+Irochrotus lanatus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Irochrotus maculiventris;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;1;1;0;CoPH;;1139883
+Irochrotus turanicus;Arthropoda;Insecta;Hemiptera;Scutelleridae;CoPH;;;;AS;gap;
+Odontoscelis (Obscuromorpha) hispidula;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontoscelis (Odontoscelis) byrrhus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontoscelis (Odontoscelis) fuliginosa;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;;;;CoPH;gap;719931
+Odontoscelis (Odontoscelis) hispanica;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontoscelis (Odontoscelis) lineola;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;455304
+Odontoscelis (Odontoscelis) minuta;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontoscelis (Odontoscelis) montandoni;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontoscelis (Odontoscelis) signata;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontoscelis dorsalis;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE;;;;AS;gap;
+Odontoscelis litura;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE;;;;AS;gap;
+Odontotarsus callosus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontotarsus caudatus;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;2;4;1;CoPH;;1080850
+Odontotarsus crassus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontotarsus grammicus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontotarsus intermedius;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;3;3;1;CoPH;;1139880
+Odontotarsus oculatus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE;;;;CoPH;gap;
+Odontotarsus parvulus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;AS;gap;
+Odontotarsus plicatulus;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Odontotarsus purpureolineatus;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH,iNat;17;19;3;CoPH;;464451
+Odontotarsus robustus;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;3;4;1;CoPH;;969826
+Odontotarsus rufescens;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Phimodera amblygonia;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Phimodera flori;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;5;5;1;CoPH;;880209
+Phimodera fumosa;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Phimodera humeralis;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;9;10;2;CoPH;;719929
+Phimodera lapponica;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;2;3;1;CoPH;;719930
+Phimodera oculata;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Phimodera tuberculata;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;
+Psacasta (Cryptodontus) neglecta;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE,CoPH;;;;CoPH;gap;969899
+Psacasta (Cryptodontus) tuberculata;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;;;;CoPH;gap;992687
+Psacasta (Psacasta) cypria;Arthropoda;Insecta;Hemiptera;Scutelleridae;FE;;;;CoPH;gap;
+Psacasta (Psacasta) exanthematica;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;;;;CoPH;gap;952736
+Psacasta (Psacasta) granulata;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;;;;CoPH;gap;1056853
+Solenosthedium bilunatum;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD,FE,CoPH;2;4;1;CoPH;;969975
+Sphyrocoris obliquus;Arthropoda;Insecta;Hemiptera;Scutelleridae;BOLD;1;11;1;ITIS;;389022

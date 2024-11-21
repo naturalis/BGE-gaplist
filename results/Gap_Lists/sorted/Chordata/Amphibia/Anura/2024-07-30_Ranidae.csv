@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lithobates catesbeianus;Chordata;Amphibia;Anura;Ranidae;FE,iNat;10;14;1;ITIS;;195629;8704
+Pelophylax bedriagae;Chordata;Amphibia;Anura;Ranidae;FE;11;15;4;ITIS;;101467
+Pelophylax bergeri;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;3;4;1;ITIS;;801473
+Pelophylax cerigensis;Chordata;Amphibia;Anura;Ranidae;FE;3;3;1;ITIS;;1074982
+Pelophylax cretensis;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;5;5;1;ITIS;;708424
+Pelophylax cypriensis;Chordata;Amphibia;Anura;Ranidae;BOLD;2;2;1;;;708425
+Pelophylax epeiroticus;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;2;2;1;ITIS;;708426
+Pelophylax esculentus;Chordata;Amphibia;Anura;Ranidae;BOLD;13;15;2;;;317552
+Pelophylax kurtmuelleri;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;47;47;1;ITIS;;708246
+Pelophylax lessonae;Chordata;Amphibia;Anura;Ranidae;BOLD,FE,iNat;20;20;3;ITIS;;599915
+Pelophylax perezi;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;14;37;5;ITIS;;402574
+Pelophylax ridibundus;Chordata;Amphibia;Anura;Ranidae;BOLD,FE,iNat;236;262;5;ITIS;;101471
+Pelophylax shqipericus;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;3;3;1;ITIS;;708427
+Rana arvalis;Chordata;Amphibia;Anura;Ranidae;BOLD,FE,iNat;19;46;1;ITIS;;599914
+Rana dalmatina;Chordata;Amphibia;Anura;Ranidae;BOLD,FE,iNat;46;103;1;ITIS;;101474
+Rana graeca;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;50;56;1;;;101473
+Rana iberica;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;13;178;2;;;191359
+Rana italica;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;4;5;2;;;794421
+Rana latastei;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;1;1;0;;;801474
+Rana parvipalmata;Chordata;Amphibia;Anura;Ranidae;BOLD;3;3;1;;;982787
+Rana pyrenaica;Chordata;Amphibia;Anura;Ranidae;BOLD,FE;5;6;1;;;455295
+Rana temporaria;Chordata;Amphibia;Anura;Ranidae;BOLD,FE,iNat;95;132;10;ITIS;;174046

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mulloidichthys martinicus;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD;71;97;2;WORMS;;64232
+Mulloidichthys vanicolensis;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD;83;100;2;WORMS;;89394
+Parupeneus crassilabris;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD;14;14;1;WORMS;;384406
+Parupeneus cyclostomus;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD;51;59;1;WORMS;;47198
+Parupeneus multifasciatus;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD;84;95;1;WORMS;;89163
+Pseudupeneus maculatus;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD;99;102;1;WORMS;;71586
+Pseudupeneus prayensis;Chordata;Actinopterygii;Perciformes;Mullidae;WORMS;;;;WORMS;gap;
+Upeneichthys lineatus;Chordata;Actinopterygii;Perciformes;Mullidae;BOLD,WORMS;;;;FB;gap;
+Upeneus asymmetricus;Chordata;Actinopterygii;Perciformes;Mullidae;WORMS;;;;WORMS;gap;
+Upeneus moluccensis;Chordata;Actinopterygii;Perciformes;Mullidae;WORMS;;;;WORMS;gap;

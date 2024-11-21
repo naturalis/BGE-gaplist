@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Choeroichthys brachysoma;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD;5;6;2;WORMS;;89219;1012705
+Doryrhamphus excisus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD;85;99;4;WORMS;;89217
+Entelurus aequoreus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS;10;11;1;WORMS;;59460
+Hippocampus guttulatus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS,iNat;12;14;2;WORMS;;66238
+Micrognathus crinitus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD;;;;FB;gap;
+Minyichthys sentus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;;gap;
+Nerophis lumbriciformis;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS;3;3;1;WORMS;;971774
+Nerophis maculatus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;WORMS;gap;
+Nerophis ophidion;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS,iNat;7;8;2;WORMS;;306935
+Phoxocampus diacanthus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD;7;7;2;WORMS;;797566
+Syngnathus abaster;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,FE,WORMS;49;52;4;WORMS;;598489;852635
+Syngnathus acus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS;77;88;5;WORMS;;66256
+Syngnathus phlegon;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;;gap;
+Syngnathus rostellatus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS,iNat;15;22;1;WORMS;;306936
+Syngnathus schmidti;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;;gap;
+Syngnathus taenionotus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;;gap;
+Syngnathus tenuirostris;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;;gap;
+Syngnathus typhle;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;BOLD,WORMS,iNat;52;70;1;WORMS;;96537;111894
+Syngnathus variegatus;Chordata;Actinopterygii;Syngnathiformes;Syngnathidae;WORMS;;;;;gap;

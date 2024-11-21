@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Rhizostoma luteum;Cnidaria;Scyphozoa;Rhizostomeae;Rhizostomatidae;BOLD;3;6;1;WORMS;;657291
+Rhizostoma octopus;Cnidaria;Scyphozoa;Rhizostomeae;Rhizostomatidae;BOLD,iNat;63;65;1;WORMS;;667334
+Rhizostoma pulmo;Cnidaria;Scyphozoa;Rhizostomeae;Rhizostomatidae;BOLD;75;84;2;WORMS;;657292
+Rhopilema rhopalophorum;Cnidaria;Scyphozoa;Rhizostomeae;Rhizostomatidae;WORMS;;;;WORMS;gap;

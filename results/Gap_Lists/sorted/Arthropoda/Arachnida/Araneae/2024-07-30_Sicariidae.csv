@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Loxosceles decemnotata;Arthropoda;Arachnida;Araneae;Sicariidae;FE;;;;;gap;
+Loxosceles laeta;Arthropoda;Arachnida;Araneae;Sicariidae;FE;3;6;1;FE;;211649
+Loxosceles rufescens;Arthropoda;Arachnida;Araneae;Sicariidae;BOLD,FE;366;491;11;FE;;211688

@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aequipecten commutatus;Mollusca;Bivalvia;Pectinida;Pectinidae;WORMS;;;;WORMS;gap;
+Aequipecten opercularis;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;1;57;1;WORMS;;304799
+Bractechlamys corallinoides;Mollusca;Bivalvia;Pectinida;Pectinidae;WORMS;;;;WORMS;gap;
+Caribachlamys pellucens;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD;0;1;0;WORMS;gap;754015
+Caribachlamys sentis;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD;0;2;0;WORMS;gap;754019
+Chlamys islandica;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;1;19;1;WORMS;;82823
+Delectopecten vitreus;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;9;26;1;WORMS;;673983
+Hyalopecten frigidus;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;0;6;0;WORMS;gap;1128311
+Karnekampia sulcata;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD;9;29;1;WORMS;;887700
+Laevichlamys multisquamata;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD;0;1;0;WORMS;gap;754032
+Mimachlamys varia;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD;9;61;2;WORMS;;304796
+Palliolum incomparabile;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;2;12;2;WORMS;;674379
+Palliolum striatum;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;5;20;1;WORMS;;674387
+Palliolum tigerinum;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;5;24;2;WORMS;;674388
+Pecten maximus;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;3;67;2;WORMS;;80651
+Pseudamussium clavatum;Mollusca;Bivalvia;Pectinida;Pectinidae;WORMS;;;;WORMS;gap;
+Pseudamussium peslutrae;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD,WORMS;2;39;1;WORMS;;402905
+Talochlamys pusio;Mollusca;Bivalvia;Pectinida;Pectinidae;BOLD;1;16;1;WORMS;;304797;730960

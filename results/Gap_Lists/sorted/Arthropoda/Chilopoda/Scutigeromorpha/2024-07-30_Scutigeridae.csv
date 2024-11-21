@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Scutigera coleoptrata;Arthropoda;Chilopoda;Scutigeromorpha;Scutigeridae;BOLD,FE,iNat;14;34;2;ITIS;;29375
+Scutigera tonsoris;Arthropoda;Chilopoda;Scutigeromorpha;Scutigeridae;FE;;;;;gap;
+Tachythereua hispanica;Arthropoda;Chilopoda;Scutigeromorpha;Scutigeridae;FE;;;;ITIS;gap;

@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Delphinus delphis;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;37;50;1;WORMS;;88950;211503
+Feresa attenuata;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Globicephala macrorhynchus;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Globicephala melas;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;13;25;2;WORMS;;302654
+Grampus griseus;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;20;28;1;WORMS;;88952
+Lagenodelphis hosei;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;;gap;
+Lagenorhynchus acutus;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD;8;8;1;ITIS;;16260
+Lagenorhynchus albirostris;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;9;9;1;WORMS;;29233
+Orcinus orca;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;171;178;1;WORMS;;88943
+Peponocephala electra;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Pseudorca crassidens;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Stenella attenuata;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Stenella clymene;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Stenella coeruleoalba;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;22;28;1;WORMS;;88953
+Stenella frontalis;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;24;24;1;WORMS;;53191
+Stenella longirostris;Chordata;Mammalia;Artiodactyla;Delphinidae;WORMS;;;;WORMS;gap;
+Steno bredanensis;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS;12;13;1;WORMS;;83185
+Tursiops truncatus;Chordata;Mammalia;Artiodactyla;Delphinidae;BOLD,WORMS,iNat;138;164;4;WORMS;;81876

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Allocyttus verrucosus;Chordata;Actinopterygii;Zeiformes;Oreosomatidae;WORMS;;;;WORMS;gap;
+Neocyttus helgae;Chordata;Actinopterygii;Zeiformes;Oreosomatidae;BOLD,WORMS;10;10;1;WORMS;;10495
+Pseudocyttus maculatus;Chordata;Actinopterygii;Zeiformes;Oreosomatidae;WORMS;;;;WORMS;gap;

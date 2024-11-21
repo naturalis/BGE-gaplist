@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dumetella carolinensis;Chordata;Aves;Passeriformes;Mimidae;FE;27;41;1;FE;;9728
+Mimus polyglottus;Chordata;Aves;Passeriformes;Mimidae;FE;;;;FE;gap;
+Toxostoma rufa;Chordata;Aves;Passeriformes;Mimidae;FE;;;;FE;gap;

@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gorilla gorilla;Chordata;Mammalia;Primates;Hominidae;BOLD;50;55;1;;;12438
+Homo heidelbergensis;Chordata;Mammalia;Primates;Hominidae;BOLD;2;2;1;;;747467
+Homo neanderthalensis;Chordata;Mammalia;Primates;Hominidae;BOLD;25;26;1;;;941212
+Homo sapiens;Chordata;Mammalia;Primates;Hominidae;BOLD;50828;51890;1;ITIS;;12439
+Pan paniscus;Chordata;Mammalia;Primates;Hominidae;BOLD;86;86;2;;;12440
+Pongo abelii;Chordata;Mammalia;Primates;Hominidae;BOLD;17;19;1;ITIS;;151926

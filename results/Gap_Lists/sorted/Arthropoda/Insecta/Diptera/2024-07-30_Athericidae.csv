@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atherix aurichalcea;Arthropoda;Insecta;Diptera;Athericidae;FE,SyDip;;;;;gap;
+Atherix ibis;Arthropoda;Insecta;Diptera;Athericidae;BOLD,FE,iNat,SyDip;21;35;2;SyDip;;316696
+Atherix marginata;Arthropoda;Insecta;Diptera;Athericidae;BOLD,SyDip;24;37;3;SyDip;;316697
+Atherix picta;Arthropoda;Insecta;Diptera;Athericidae;FE,SyDip;;;;;gap;
+Atherix vaillanti;Arthropoda;Insecta;Diptera;Athericidae;FE,SyDip;;;;SyDip;gap;
+Atrichops crassipes;Arthropoda;Insecta;Diptera;Athericidae;BOLD,FE,SyDip;10;10;1;SyDip;;974356
+Ibisia apfelbecki;Arthropoda;Insecta;Diptera;Athericidae;FE,SyDip;;;;FE;gap;
+Ibisia dispar;Arthropoda;Insecta;Diptera;Athericidae;FE,SyDip;;;;FE;gap;
+Ibisia marginata;Arthropoda;Insecta;Diptera;Athericidae;BOLD,FE;;;;FE;gap;786606
+Ibisia vicina;Arthropoda;Insecta;Diptera;Athericidae;FE;;;;FE;gap;
+Suragina apollinis;Arthropoda;Insecta;Diptera;Athericidae;FE,SyDip;;;;FE;gap;

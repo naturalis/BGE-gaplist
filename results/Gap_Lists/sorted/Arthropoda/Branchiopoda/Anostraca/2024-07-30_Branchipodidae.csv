@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Branchipus blanchardi;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE;;;;ITIS;gap;
+Branchipus cortesi;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE;309;309;9;;;1147465
+Branchipus intermedius;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE;;;;;gap;
+Branchipus pasai;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE;;;;;gap;
+Branchipus schaefferi;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;BOLD,FE,iNat;76;158;6;ITIS;;509295
+Tanymastix motasi;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE;;;;;gap;
+Tanymastix stagnalis;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE,iNat;49;322;14;ITIS;;24862
+Tanymastix stellae;Arthropoda;Branchiopoda;Anostraca;Branchipodidae;FE;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Glycymeris bimaculata;Mollusca;Bivalvia;Arcida;Glycymerididae;BOLD,WORMS;2;2;1;WORMS;;901444
+Glycymeris decussata;Mollusca;Bivalvia;Arcida;Glycymerididae;BOLD;0;1;0;WORMS;gap;754017
+Glycymeris glycymeris;Mollusca;Bivalvia;Arcida;Glycymerididae;BOLD,WORMS;26;30;1;WORMS;;285858
+Glycymeris nummaria;Mollusca;Bivalvia;Arcida;Glycymerididae;BOLD;2;3;1;WORMS;;901445
+Glycymeris pilosa;Mollusca;Bivalvia;Arcida;Glycymerididae;BOLD;19;19;1;WORMS;;901446

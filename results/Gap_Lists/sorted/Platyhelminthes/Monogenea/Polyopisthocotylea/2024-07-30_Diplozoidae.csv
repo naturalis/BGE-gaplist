@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diplozoon bergi;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;;gap;
+Diplozoon bileki;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;;gap;
+Diplozoon paradoxum;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE,WORMS;0;1;0;;gap;906394
+Eudiplozoon nipponicum;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;BOLD,FE;0;4;0;FE;gap;906048
+Paradiplozoon alburni;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;;gap;
+Paradiplozoon bliccae;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE,WORMS;;;;WORMS;gap;
+Paradiplozoon ergensi;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon homoion;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;0;1;0;WORMS;gap;906095
+Paradiplozoon leucisci;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;;gap;
+Paradiplozoon marinae;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon megan;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon nagibinae;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon pavlovskii;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon rutili;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE,WORMS;;;;WORMS;gap;
+Paradiplozoon sapae;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon tisae;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;;gap;
+Paradiplozoon vojteki;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;
+Paradiplozoon zeller;Platyhelminthes;Monogenea;Polyopisthocotylea;Diplozoidae;FE;;;;FE;gap;

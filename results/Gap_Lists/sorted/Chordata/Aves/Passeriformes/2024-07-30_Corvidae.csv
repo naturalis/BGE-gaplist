@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coloeus dauuricus;Chordata;Aves;Passeriformes;Corvidae;FE;8;8;1;ITIS;;857734
+Coloeus monedula;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;21;21;1;ITIS;;809067;17131
+Corvus corax;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;53;58;2;;;17135
+Corvus cornix;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;14;17;1;;;119568
+Corvus corone;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;57;62;3;;;17129
+Corvus frugilegus;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;37;41;3;;;11716
+Corvus ruficollis;Chordata;Aves;Passeriformes;Corvidae;FE;3;3;1;;;119588
+Corvus splendens;Chordata;Aves;Passeriformes;Corvidae;FE;130;134;1;;;119590
+Cyanopica cooki;Chordata;Aves;Passeriformes;Corvidae;BOLD;0;1;0;;gap;857741
+Cyanopica cyanus;Chordata;Aves;Passeriformes;Corvidae;FE;16;17;1;ITIS;;88904
+Garrulus glandarius;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;71;73;5;FE;;93216;866672
+Nucifraga caryocatactes;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;22;23;1;FE;;73236
+Perisoreus infaustus;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE;14;15;1;FE;;73226
+Pica pica;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;65;68;3;FE;;17055
+Pyrrhocorax graculus;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE,iNat;4;5;1;FE;;119640
+Pyrrhocorax pyrrhocorax;Chordata;Aves;Passeriformes;Corvidae;BOLD,FE;8;8;2;FE;;9753

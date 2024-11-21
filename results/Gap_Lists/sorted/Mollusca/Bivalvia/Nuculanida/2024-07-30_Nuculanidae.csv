@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ledella messanensis;Mollusca;Bivalvia;Nuculanida;Nuculanidae;BOLD;5;6;1;WORMS;;948238
+Nuculana minuta;Mollusca;Bivalvia;Nuculanida;Nuculanidae;BOLD,WORMS;28;37;3;WORMS;;30939
+Nuculana pernula;Mollusca;Bivalvia;Nuculanida;Nuculanidae;BOLD,WORMS;29;49;2;WORMS;;152294;600747

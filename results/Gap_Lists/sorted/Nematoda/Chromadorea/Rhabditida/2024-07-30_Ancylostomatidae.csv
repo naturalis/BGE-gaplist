@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ancylostoma caninum;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;3;77;1;FE;;103764
+Ancylostoma duodenale;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;3;23;2;FE;;28707
+Ancylostoma martinezi;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;;;;;gap;
+Ancylostoma tubaeforme;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;BOLD,FE;3;25;1;FE;;171722
+Bunostomum phlebotomum;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;3;3;1;FE;;211628
+Bunostomum trigonocephalum;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;3;41;1;FE;;171726
+Globocephalus longemucronatus;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;;;;;gap;
+Globocephalus urosubulatus;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;;;;FE;gap;
+Grammocephalus hybridatus;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;;;;;gap;
+Necator americanus;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;77;152;2;FE;;26215
+Uncinaria criniformis;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;;;;FE;gap;
+Uncinaria hamiltoni;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;BOLD;1;4;1;;;1068874
+Uncinaria stenocephala;Nematoda;Chromadorea;Rhabditida;Ancylostomatidae;FE;0;27;0;FE;gap;171724

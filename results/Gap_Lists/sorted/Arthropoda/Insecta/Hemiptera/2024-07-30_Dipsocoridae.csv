@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alpagut castaneovitreum;Arthropoda;Insecta;Hemiptera;Dipsocoridae;CoPH;;;;CoPH;gap;
+Alpagut castaneovitreus;Arthropoda;Insecta;Hemiptera;Dipsocoridae;FE;;;;FE;gap;
+Alpagut medius;Arthropoda;Insecta;Hemiptera;Dipsocoridae;FE,CoPH;;;;CoPH;gap;
+Cryptostemma (Cryptostemma) alienum;Arthropoda;Insecta;Hemiptera;Dipsocoridae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;892399
+Cryptostemma (Cryptostemma) carpaticum;Arthropoda;Insecta;Hemiptera;Dipsocoridae;FE,CoPH;;;;CoPH;gap;
+Cryptostemma (Cryptostemma) remanei;Arthropoda;Insecta;Hemiptera;Dipsocoridae;FE,CoPH;;;;CoPH;gap;
+Cryptostemma (Cryptostemma) roubali;Arthropoda;Insecta;Hemiptera;Dipsocoridae;FE,CoPH;;;;CoPH;gap;
+Cryptostemma pusillimum;Arthropoda;Insecta;Hemiptera;Dipsocoridae;BOLD;0;5;0;;gap;719792
+Pachycoleus pusillimum;Arthropoda;Insecta;Hemiptera;Dipsocoridae;FE;;;;FE;gap;
+Pachycoleus pusillimus;Arthropoda;Insecta;Hemiptera;Dipsocoridae;BOLD,CoPH;4;4;1;CoPH;;677945
+Pachycoleus waltli;Arthropoda;Insecta;Hemiptera;Dipsocoridae;BOLD,FE,CoPH;2;7;0;CoPH;;677996

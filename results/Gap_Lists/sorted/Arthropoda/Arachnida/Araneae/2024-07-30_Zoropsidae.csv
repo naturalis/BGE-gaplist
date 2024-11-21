@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Akamasia cyprogenia;Arthropoda;Arachnida;Araneae;Zoropsidae;FE;;;;FE;gap;
+Zoropsis bilineata;Arthropoda;Arachnida;Araneae;Zoropsidae;FE;;;;;gap;
+Zoropsis lutea;Arthropoda;Arachnida;Araneae;Zoropsidae;BOLD,FE;27;27;1;FE;;347227
+Zoropsis media;Arthropoda;Arachnida;Araneae;Zoropsidae;BOLD,FE;24;24;0;;;809458
+Zoropsis oertzeni;Arthropoda;Arachnida;Araneae;Zoropsidae;BOLD,FE;0;1;0;;gap;286945
+Zoropsis rufipes;Arthropoda;Arachnida;Araneae;Zoropsidae;FE;1;1;1;FE;;850793
+Zoropsis spinimana;Arthropoda;Arachnida;Araneae;Zoropsidae;BOLD,FE,iNat;9;12;4;FE;;720066

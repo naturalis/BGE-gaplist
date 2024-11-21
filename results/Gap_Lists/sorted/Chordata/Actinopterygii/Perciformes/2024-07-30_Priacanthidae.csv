@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cookeolus japonicus;Chordata;Actinopterygii;Perciformes;Priacanthidae;BOLD,WORMS;49;54;2;WORMS;;71723
+Heteropriacanthus carolinus;Chordata;Actinopterygii;Perciformes;Priacanthidae;BOLD;29;30;1;WORMS;;909150
+Heteropriacanthus cruentatus;Chordata;Actinopterygii;Perciformes;Priacanthidae;BOLD,WORMS;128;137;3;WORMS;;14252
+Priacanthus arenatus;Chordata;Actinopterygii;Perciformes;Priacanthidae;WORMS;;;;WORMS;gap;
+Priacanthus macracanthus;Chordata;Actinopterygii;Perciformes;Priacanthidae;BOLD;92;97;3;WORMS;;78628

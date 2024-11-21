@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Conochilus coenobasis;Rotifera;Eurotatoria;;Conochilidae;FE;0;10;0;;gap;659647
+Conochilus deltaicus;Rotifera;Eurotatoria;;Conochilidae;FE;;;;;gap;
+Conochilus dossuarius;Rotifera;Eurotatoria;;Conochilidae;FE;0;9;0;;gap;595926
+Conochilus hippocrepis;Rotifera;Eurotatoria;;Conochilidae;FE;;;;FE;gap;
+Conochilus natans;Rotifera;Eurotatoria;;Conochilidae;FE;;;;;gap;
+Conochilus unicornis;Rotifera;Eurotatoria;;Conochilidae;FE;4;15;1;FE;;281616

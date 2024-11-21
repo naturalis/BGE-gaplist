@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Macroxenus enghoffi;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Macroxenus rubromarginatus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;2;2;0;FE;;760658
+Mesoxenontus primus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Polyxenus albus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;2;2;1;;;760664
+Polyxenus argentifer;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;BOLD,FE;13;13;9;FE;;561042
+Polyxenus chalcidicus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Polyxenus fasciculatus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;1;2;0;;;1021684
+Polyxenus lagurus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;BOLD,FE,iNat;116;131;6;WORMS;;237315
+Polyxenus lapidicola;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Polyxenus macedonicus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Polyxenus oromii;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Propolyxenus aegeus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;;;;;gap;
+Propolyxenus argentifer;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;BOLD;10;10;0;;;1021608
+Propolyxenus trivittatus;Arthropoda;Diplopoda;Polyxenida;Polyxenidae;FE;0;1;0;FE;gap;939721;1021589

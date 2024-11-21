@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hyperoodon ampullatus;Chordata;Mammalia;Artiodactyla;Ziphiidae;BOLD,iNat;7;7;1;WORMS;;29229
+Mesoplodon europaeus;Chordata;Mammalia;Artiodactyla;Ziphiidae;WORMS;;;;WORMS;gap;
+Mesoplodon grayi;Chordata;Mammalia;Artiodactyla;Ziphiidae;WORMS;;;;WORMS;gap;
+Mesoplodon hectori;Chordata;Mammalia;Artiodactyla;Ziphiidae;WORMS;;;;ITIS;gap;
+Mesoplodon mirus;Chordata;Mammalia;Artiodactyla;Ziphiidae;WORMS;;;;WORMS;gap;
+Ziphius cavirostris;Chordata;Mammalia;Artiodactyla;Ziphiidae;BOLD,WORMS;40;45;2;WORMS;;53189

@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Actinauge abyssorum;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;
+Actinauge richardi;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Adamsia palliata;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;BOLD;9;12;1;ITIS;;805306
+Allantactis parasitica;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;BOLD,WORMS;0;3;0;WORMS;gap;805311
+Calliactis parasitica;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Cataphellia brodricii;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Chondrophellia coronata;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Hormathia alba;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;
+Hormathia coronata;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Hormathia digitata;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;BOLD,WORMS;10;15;2;WORMS;;381302
+Hormathia marioni;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Hormathia nodosa;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;BOLD,WORMS;24;31;1;WORMS;;526164
+Monactis vestita;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Paracalliactis azorica;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;
+Paracalliactis mediterranea;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;
+Paracalliactis michaelsarsi;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;
+Paracalliactis stephensoni;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;
+Paraphellia expansa;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Phelliactis pulchra;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;WORMS;gap;
+Phelliactis robusta;Cnidaria;Anthozoa;Actiniaria;Hormathiidae;WORMS;;;;;gap;

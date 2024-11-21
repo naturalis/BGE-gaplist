@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Megalothorax aquaticus;Arthropoda;Collembola;Neelipleona;Neelidae;FE;;;;;gap;
+Megalothorax massoudi;Arthropoda;Collembola;Neelipleona;Neelidae;FE;;;;;gap;
+Megalothorax minimus;Arthropoda;Collembola;Neelipleona;Neelidae;BOLD,FE;23;30;8;ITIS;;402510
+Megalothorax perspicillum;Arthropoda;Collembola;Neelipleona;Neelidae;BOLD;7;7;3;;;652170
+Megalothorax sp4;Arthropoda;Collembola;Neelipleona;Neelidae;BOLD;1;1;1;;;705057
+Megalothorax svalbardensis;Arthropoda;Collembola;Neelipleona;Neelidae;BOLD;1;1;1;;;652172
+Megalothorax tuberculatus;Arthropoda;Collembola;Neelipleona;Neelidae;FE;;;;;gap;
+Neelides folsomi;Arthropoda;Collembola;Neelipleona;Neelidae;BOLD,FE;1;4;0;;;140160
+Neelides minutus;Arthropoda;Collembola;Neelipleona;Neelidae;FE;;;;FE;gap;
+Neelus incertus;Arthropoda;Collembola;Neelipleona;Neelidae;FE;;;;ITIS;gap;1004270
+Neelus koseli;Arthropoda;Collembola;Neelipleona;Neelidae;BOLD;1;1;1;;;668007
+Neelus murinus;Arthropoda;Collembola;Neelipleona;Neelidae;FE;;;;;gap;

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Abronia deppii;Chordata;Reptilia;Squamata;Anguidae;BOLD;1;3;0;ITIS;;276548
+Anguis cephallonicus;Chordata;Reptilia;Squamata;Anguidae;FE;;;;;gap;
+Anguis fragilis;Chordata;Reptilia;Squamata;Anguidae;BOLD,FE,iNat,RDB;42;44;1;RDB;;173408
+Pseudopus apodus;Chordata;Reptilia;Squamata;Anguidae;FE,RDB;25;31;0;RDB;;1129911

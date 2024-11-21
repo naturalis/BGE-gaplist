@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathothauma lyromma;Mollusca;Cephalopoda;Oegopsida;Cranchiidae;WORMS;;;;WORMS;gap;
+Helicocranchia pfefferi;Mollusca;Cephalopoda;Oegopsida;Cranchiidae;WORMS;12;13;4;WORMS;;33077
+Leachia atlantica;Mollusca;Cephalopoda;Oegopsida;Cranchiidae;WORMS;11;13;1;WORMS;;386821
+Liocranchia reinhardtii;Mollusca;Cephalopoda;Oegopsida;Cranchiidae;WORMS;24;25;1;;;448116
+Taonius pavo;Mollusca;Cephalopoda;Oegopsida;Cranchiidae;WORMS;3;5;1;WORMS;;300371
+Teuthowenia megalops;Mollusca;Cephalopoda;Oegopsida;Cranchiidae;BOLD,WORMS;6;7;1;WORMS;;82057

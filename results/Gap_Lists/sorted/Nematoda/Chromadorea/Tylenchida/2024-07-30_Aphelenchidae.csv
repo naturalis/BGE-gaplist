@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aphelenchus avenae;Nematoda;Chromadorea;Tylenchida;Aphelenchidae;BOLD,FE;2;47;1;;;740836
+Aphelenchus eremitus;Nematoda;Chromadorea;Tylenchida;Aphelenchidae;FE;;;;;gap;
+Aphelenchus paramonovi;Nematoda;Chromadorea;Tylenchida;Aphelenchidae;FE;;;;;gap;

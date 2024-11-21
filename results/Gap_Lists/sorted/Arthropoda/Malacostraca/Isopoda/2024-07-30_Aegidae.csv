@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aega affinis;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;;gap;
+Aega bicarinata;Arthropoda;Malacostraca;Isopoda;Aegidae;BOLD,WORMS;2;2;1;WORMS;;785392;776839
+Aega crenulata;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;ITIS;gap;
+Aega hirsuta;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;;gap;
+Aega megalops;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;;gap;
+Aega microphthalma;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;ITIS;gap;
+Aega monophthalma;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;ITIS;gap;
+Aega psora;Arthropoda;Malacostraca;Isopoda;Aegidae;BOLD,WORMS;3;4;2;WORMS;;142603
+Aega stroemi;Arthropoda;Malacostraca;Isopoda;Aegidae;BOLD;2;2;1;;;770558
+Aega tridens;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;ITIS;gap;
+Aega webbii;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;WORMS;gap;
+Aegapheles deshaysiana;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;WORMS;gap;
+Aegiochus arctica;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;WORMS;gap;
+Aegiochus gracilipes;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;WORMS;gap;
+Aegiochus incisa;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;WORMS;gap;
+Aegiochus ventrosa;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;1;1;1;WORMS;;683921
+Rocinela danmoniensis;Arthropoda;Malacostraca;Isopoda;Aegidae;BOLD,WORMS;3;3;1;ITIS;;683922
+Syscenus atlanticus;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;;gap;
+Syscenus infelix;Arthropoda;Malacostraca;Isopoda;Aegidae;BOLD;6;6;1;WORMS;;142605
+Xenuraega ptilocera;Arthropoda;Malacostraca;Isopoda;Aegidae;WORMS;;;;;gap;

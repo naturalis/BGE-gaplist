@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haematopinus apri;Arthropoda;Insecta;Phthiraptera;Haematopinidae;FE;13;13;1;;;670523
+Haematopinus asini;Arthropoda;Insecta;Phthiraptera;Haematopinidae;FE;1;1;1;FE;;651344
+Haematopinus eurysternus;Arthropoda;Insecta;Phthiraptera;Haematopinidae;FE;0;1;0;FE;gap;940233
+Haematopinus suis;Arthropoda;Insecta;Phthiraptera;Haematopinidae;FE;2;3;1;FE;;670524
+Haematopinus tuberculatus;Arthropoda;Insecta;Phthiraptera;Haematopinidae;FE;0;4;0;FE;gap;940235

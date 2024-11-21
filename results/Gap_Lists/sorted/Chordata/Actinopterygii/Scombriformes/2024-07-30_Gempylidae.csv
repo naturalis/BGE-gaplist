@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diplospinus multistriatus;Chordata;Actinopterygii;Scombriformes;Gempylidae;WORMS;;;;;gap;
+Gempylus serpens;Chordata;Actinopterygii;Scombriformes;Gempylidae;WORMS;;;;WORMS;gap;
+Lepidocybium flavobrunneum;Chordata;Actinopterygii;Scombriformes;Gempylidae;BOLD,WORMS;101;119;2;WORMS;;52764
+Nealotus tripes;Chordata;Actinopterygii;Scombriformes;Gempylidae;WORMS;;;;WORMS;gap;
+Nesiarchus nasutus;Chordata;Actinopterygii;Scombriformes;Gempylidae;BOLD,WORMS;41;51;3;WORMS;;71689
+Paradiplospinus gracilis;Chordata;Actinopterygii;Scombriformes;Gempylidae;BOLD;19;22;2;WORMS;;59298
+Promethichthys prometheus;Chordata;Actinopterygii;Scombriformes;Gempylidae;WORMS;;;;WORMS;gap;
+Ruvettus pretiosus;Chordata;Actinopterygii;Scombriformes;Gempylidae;BOLD,WORMS;69;75;1;WORMS;;52776

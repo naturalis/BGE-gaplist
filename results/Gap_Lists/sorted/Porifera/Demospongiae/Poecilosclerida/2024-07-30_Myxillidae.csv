@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hymenancora conjungens;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;;gap;
+Hymenancora duplicata;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;WORMS;gap;
+Hymenancora interjecta;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;;gap;
+Hymenancora pecqueryi;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;WORMS;gap;
+Hymenancora tenuisclera;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;WORMS;gap;
+Melonanchora elliptica;Porifera;Demospongiae;Poecilosclerida;Myxillidae;BOLD,WORMS;1;2;0;;;244686
+Melonanchora emphysema;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;WORMS;gap;
+Myxilla brunnea;Porifera;Demospongiae;Poecilosclerida;Myxillidae;WORMS;;;;;gap;
+Myxilla fimbriata;Porifera;Demospongiae;Poecilosclerida;Myxillidae;BOLD;2;22;1;;;244716
+Myxilla incrustans;Porifera;Demospongiae;Poecilosclerida;Myxillidae;BOLD;7;16;1;ITIS;;244724;244753
+Plocamiancora arndti;Porifera;Demospongiae;Poecilosclerida;Myxillidae;BOLD,WORMS;1;5;0;;;244762

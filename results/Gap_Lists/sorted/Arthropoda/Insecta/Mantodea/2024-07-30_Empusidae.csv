@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Blepharopsis mendica;Arthropoda;Insecta;Mantodea;Empusidae;FE;;;;FE;gap;
+Empusa fasciata;Arthropoda;Insecta;Mantodea;Empusidae;BOLD,FE;8;10;1;;;331350
+Empusa pennata;Arthropoda;Insecta;Mantodea;Empusidae;BOLD,FE;12;19;2;FE;;980585
+Empusa pennicornis;Arthropoda;Insecta;Mantodea;Empusidae;FE;;;;FE;gap;
+Hypsicorypha gracilis;Arthropoda;Insecta;Mantodea;Empusidae;FE;;;;FE;gap;

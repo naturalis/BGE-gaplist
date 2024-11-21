@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hispanomydas hispanicus;Arthropoda;Insecta;Diptera;Mydidae;FE,SyDip;;;;;gap;
+Leptomydas corsicanus;Arthropoda;Insecta;Diptera;Mydidae;FE,SyDip;;;;;gap;
+Leptomydas lusitanicus;Arthropoda;Insecta;Diptera;Mydidae;BOLD,FE,SyDip;1;1;1;SyDip;;784816
+Leptomydas rufipes;Arthropoda;Insecta;Diptera;Mydidae;FE,SyDip;;;;SyDip;gap;
+Leptomydas sardous;Arthropoda;Insecta;Diptera;Mydidae;FE,SyDip;1;1;1;SyDip;;769146
+Syllegomydas bueni;Arthropoda;Insecta;Diptera;Mydidae;BOLD,SyDip;2;2;1;SyDip;;988607

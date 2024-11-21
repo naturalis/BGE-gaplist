@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Tectocepheus \N;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;
+Tectocepheus alatus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;BOLD,FE;5;7;3;;;540967
+Tectocepheus angulatus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;
+Tectocepheus granulatus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;
+Tectocepheus ibericus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;
+Tectocepheus inflexus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;
+Tectocepheus minor;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;BOLD,FE;16;29;2;ITIS;;365647
+Tectocepheus personatus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;FE;gap;
+Tectocepheus sarekensis;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;BOLD,FE;165;171;7;WORMS;;216788
+Tectocepheus tenuis;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;BOLD;0;4;0;;gap;540959
+Tectocepheus velatus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;BOLD,FE;95;125;24;WORMS;;298094
+Tegeozetes angolensis;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;
+Tegeozetes tunicatus;Arthropoda;Arachnida;Sarcoptiformes;Tectocepheidae;FE;;;;;gap;

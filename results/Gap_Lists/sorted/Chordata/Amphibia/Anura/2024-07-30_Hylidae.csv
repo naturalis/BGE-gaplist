@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hyla arborea;Chordata;Amphibia;Anura;Hylidae;BOLD,FE,iNat;23;58;1;ITIS;;101479
+Hyla intermedia;Chordata;Amphibia;Anura;Hylidae;BOLD,FE;5;17;2;ITIS;;503024
+Hyla meridionalis;Chordata;Amphibia;Anura;Hylidae;BOLD,FE;14;65;2;ITIS;;212786
+Hyla molleri;Chordata;Amphibia;Anura;Hylidae;BOLD;147;149;2;;;216691
+Hyla orientalis;Chordata;Amphibia;Anura;Hylidae;BOLD;18;34;1;;;503022
+Hyla sarda;Chordata;Amphibia;Anura;Hylidae;BOLD,FE;1;12;1;ITIS;;503025
+Hyla savignyi;Chordata;Amphibia;Anura;Hylidae;BOLD;17;41;3;;;191376

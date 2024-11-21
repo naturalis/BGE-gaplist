@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eoleptestheria ticinensis;Arthropoda;Branchiopoda;Spinicaudata;Leptestheriidae;FE;;;;FE;gap;
+Leptestheria dahalacensis;Arthropoda;Branchiopoda;Spinicaudata;Leptestheriidae;BOLD;23;23;1;;;103358
+Leptestheria dahalencis;Arthropoda;Branchiopoda;Spinicaudata;Leptestheriidae;FE;;;;FE;gap;
+Leptestheria mayeti;Arthropoda;Branchiopoda;Spinicaudata;Leptestheriidae;FE;2;2;2;FE;;1004323

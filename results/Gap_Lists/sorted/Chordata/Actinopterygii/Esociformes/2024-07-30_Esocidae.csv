@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Esox aquitanicus;Chordata;Actinopterygii;Esociformes;Esocidae;BOLD;13;15;1;;;645998
+Esox cisalpinus;Chordata;Actinopterygii;Esociformes;Esocidae;BOLD;89;91;1;FB;;598479
+Esox lucius;Chordata;Actinopterygii;Esociformes;Esocidae;BOLD,FE,iNat;319;511;1;WORMS;;29373

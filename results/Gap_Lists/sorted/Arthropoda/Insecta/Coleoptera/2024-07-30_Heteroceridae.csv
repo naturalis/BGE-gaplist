@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Augyles aureolus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles crinitus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles flavidus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles gravidus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles hispidulus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE;20;23;1;;;753628
+Augyles intermedius;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE;3;5;1;;;710229
+Augyles maritimus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE;1;3;1;;;1142945
+Augyles marmota;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles obliteratus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles pruinosus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles senescens;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Augyles sericans;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;;gap;
+Heterocerus aragonicus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE;2;2;1;FE;;733012
+Heterocerus fenestratus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE,iNat;49;68;3;WORMS;;248225
+Heterocerus flexuosus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE,iNat;18;18;1;FE;;453480
+Heterocerus fossor;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE;4;5;1;FE;;502954;535218
+Heterocerus fusculus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE,iNat;7;16;1;FE;;318404
+Heterocerus holosericeus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;FE;gap;
+Heterocerus obsoletus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD,FE;33;33;1;FE;;453479;403079
+Littorimus crinitus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD;;;;FE;gap;403078
+Littorimus intermedius;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD;;;;FE;gap;502955
+Littorimus pruinosus;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD;;;;FE;gap;771976
+Littorimus sericans;Arthropoda;Insecta;Coleoptera;Heteroceridae;BOLD;;;;FE;gap;399039
+Micilus murinus;Arthropoda;Insecta;Coleoptera;Heteroceridae;FE;;;;FE;gap;

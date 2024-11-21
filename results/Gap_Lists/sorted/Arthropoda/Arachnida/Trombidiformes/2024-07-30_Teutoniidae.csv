@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Limnolegeria longiseta;Arthropoda;Arachnida;Trombidiformes;Teutoniidae;FE;1;1;1;ES;;1138386
+Limnolegeria longiseta ;Arthropoda;Arachnida;Trombidiformes;Teutoniidae;ES;;;;ES;gap;
+Teutonia cometes;Arthropoda;Arachnida;Trombidiformes;Teutoniidae;BOLD,FE;9;10;2;FE;;700630
+Teutonia corsicana;Arthropoda;Arachnida;Trombidiformes;Teutoniidae;ES;;;;ES;gap;
+Teutonia subalpina;Arthropoda;Arachnida;Trombidiformes;Teutoniidae;FE;;;;;gap;

@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphorina andra;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD;8;9;2;;;993835
+Amphorina farrani;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD;18;21;1;WORMS;;988204;266276
+Amphorina linensis;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD;8;9;1;WORMS;;988203
+Amphorina pallida;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD;16;17;1;;;988205
+Eubranchus arci;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;WORMS;;;;;gap;
+Eubranchus doriae;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD;3;4;1;;;673978
+Eubranchus exiguus;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD,WORMS;27;34;2;WORMS;;266278
+Eubranchus pallidus;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD;8;13;1;ITIS;;266269
+Eubranchus prietoi;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;WORMS;;;;;gap;
+Eubranchus rupium;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD,WORMS;40;41;1;WORMS;;495435
+Eubranchus tricolor;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD,WORMS;16;18;3;WORMS;;266263
+Eubranchus vittatus;Mollusca;Gastropoda;Nudibranchia;Eubranchidae;BOLD,WORMS;2;5;1;WORMS;;673976

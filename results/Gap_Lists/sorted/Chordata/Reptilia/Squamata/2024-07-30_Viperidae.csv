@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gloydius halys;Chordata;Reptilia;Squamata;Viperidae;FE;36;37;9;ITIS;;171603
+Macrovipera lebetina;Chordata;Reptilia;Squamata;Viperidae;FE;4;4;1;ITIS;;853061
+Macrovipera schweizeri;Chordata;Reptilia;Squamata;Viperidae;FE;;;;FE;gap;
+Montivipera xanthina;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE;35;35;4;ITIS;;922269
+Vipera ammodytes;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE,RDB;23;24;2;RDB;;473474;1141890;1141891;1141892
+Vipera aspis;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE,iNat;7;7;1;ITIS;;599912;606432
+Vipera berus;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE,iNat;38;39;2;ITIS;;599913
+Vipera hugyi;Chordata;Reptilia;Squamata;Viperidae;FE;;;;;gap;
+Vipera kaznakovi;Chordata;Reptilia;Squamata;Viperidae;FE;6;6;1;;;922204
+Vipera latasti;Chordata;Reptilia;Squamata;Viperidae;FE;;;;;gap;
+Vipera renardi;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE;15;17;1;ITIS;;922207
+Vipera seoanei;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE;1;1;1;;;922208
+Vipera ursinii;Chordata;Reptilia;Squamata;Viperidae;BOLD,FE;18;19;4;ITIS;;207025

@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bufo bufo;Chordata;Amphibia;Anura;Bufonidae;BOLD,FE,iNat;50;138;2;ITIS;;101499
+Bufo spinosus;Chordata;Amphibia;Anura;Bufonidae;BOLD;18;28;3;ITIS;;402545
+Bufotes boulengeri;Chordata;Amphibia;Anura;Bufonidae;BOLD;8;23;1;ITIS;;803379
+Bufotes viridis;Chordata;Amphibia;Anura;Bufonidae;BOLD,FE,iNat;29;34;3;ITIS;;771615;101477;350684
+Epidalea calamita;Chordata;Amphibia;Anura;Bufonidae;BOLD,FE,iNat;28;32;1;ITIS;;402548;195573
+Melanophryniscus klappenbachi;Chordata;Amphibia;Anura;Bufonidae;BOLD;2;2;1;;;83110

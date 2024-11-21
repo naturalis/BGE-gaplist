@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Osphyoplesius anophthalmus;Arthropoda;Insecta;Coleoptera;Pythidae;FE;;;;;gap;
+Osphyoplesius loebli;Arthropoda;Insecta;Coleoptera;Pythidae;FE;;;;;gap;
+Pytho abieticola;Arthropoda;Insecta;Coleoptera;Pythidae;BOLD,FE;2;2;1;;;683842
+Pytho depressus;Arthropoda;Insecta;Coleoptera;Pythidae;BOLD,FE;20;21;1;;;286795
+Pytho kolwensis;Arthropoda;Insecta;Coleoptera;Pythidae;BOLD,FE;3;4;1;FE;;286796

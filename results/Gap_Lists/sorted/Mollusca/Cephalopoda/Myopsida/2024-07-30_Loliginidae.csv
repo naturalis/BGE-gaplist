@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Loligo forbesii;Mollusca;Cephalopoda;Myopsida;Loliginidae;BOLD,WORMS;47;54;2;WORMS;;608189
+Loligo media;Mollusca;Cephalopoda;Myopsida;Loliginidae;BOLD;;;;ITIS;gap;201723
+Loligo subulata;Mollusca;Cephalopoda;Myopsida;Loliginidae;BOLD;;;;ITIS;gap;201722
+Loligo vulgaris;Mollusca;Cephalopoda;Myopsida;Loliginidae;BOLD,WORMS;94;128;1;WORMS;;33088

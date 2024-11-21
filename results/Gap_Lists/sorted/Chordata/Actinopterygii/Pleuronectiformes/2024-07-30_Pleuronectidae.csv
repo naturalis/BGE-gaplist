@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Glyptocephalus cynoglossus;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,WORMS;81;110;4;WORMS;;34606
+Hippoglossoides platessoides;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,WORMS;86;115;2;WORMS;;34573
+Hippoglossus stenolepis;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,WORMS;;;;FB;gap;
+Limanda aspera;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD;129;139;2;WORMS;;101084
+Limanda limanda;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,WORMS;43;64;1;WORMS;;78404
+Liopsetta glacialis;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;FE;6;6;1;WORMS;;495937
+Microstomus kitt;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,WORMS;38;46;1;WORMS;;78403
+Platichthys flesus;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,FE,WORMS,iNat;120;136;3;WORMS;;77459
+Pleuronectes platessa;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,FE,WORMS,iNat;111;124;2;WORMS;;72438
+Poecilopsetta beanii;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD;3;3;1;WORMS;;140474
+Reinhardtius hippoglossoides;Chordata;Actinopterygii;Pleuronectiformes;Pleuronectidae;BOLD,WORMS;96;118;2;WORMS;;34619

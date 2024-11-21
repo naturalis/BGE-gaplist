@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Capnia atra;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;36;40;2;;;184251
+Capnia bifrons;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;FE;gap;
+Capnia nigra;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;24;27;2;ITIS;;184309
+Capnia pygmaea;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;14;15;2;ITIS;;184320
+Capnia vidua;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;22;26;5;;;184347
+Capnia zaicevi;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura aptera;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura balkanica;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura brachyptera;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura gelesae;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura libera;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;1;1;1;ITIS;;979244
+Capnioneura mitis;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;5;5;1;;;184362
+Capnioneura narcea;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura nemuroides;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;6;9;1;;;184364
+Capnioneura petitpierrae;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura petitpierreae;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD;1;1;1;;;184365
+Capnioneura petricola;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnioneura valandovi;Arthropoda;Insecta;Plecoptera;Capniidae;FE;;;;;gap;
+Capnopsis chilleri;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD;1;1;1;;;738426
+Capnopsis schilleri;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD,FE;12;14;3;ITIS;;184369
+Mesocapnia variabilis;Arthropoda;Insecta;Plecoptera;Capniidae;FE;20;25;3;ITIS;;184416
+Zwicknia bifrons;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD;51;72;5;ITIS;;646457
+Zwicknia rupprechti;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD;11;11;3;;;646455
+Zwicknia westermanni;Arthropoda;Insecta;Plecoptera;Capniidae;BOLD;19;19;1;;;646456

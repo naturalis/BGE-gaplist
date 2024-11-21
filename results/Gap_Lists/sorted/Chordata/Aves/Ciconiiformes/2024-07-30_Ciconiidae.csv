@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ciconia ciconia;Chordata;Aves;Ciconiiformes;Ciconiidae;BOLD,FE,iNat;20;23;2;FE;;30435
+Ciconia nigra;Chordata;Aves;Ciconiiformes;Ciconiidae;BOLD,FE,iNat;10;12;1;FE;;112800
+Leptoptilos crumeniferus;Chordata;Aves;Ciconiiformes;Ciconiidae;FE;;;;FE;gap;

@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthinula aculeata;Mollusca;Gastropoda;Stylommatophora;Valloniidae;BOLD,FE,iNat;16;16;1;FE;;458573
+Acanthinula azorica;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;;gap;
+Acanthinula spinifera;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Gittenbergia sororcula;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Plagyrona placida;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Spermodea lamellata;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Spermodea monas;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Vallonia costata;Mollusca;Gastropoda;Stylommatophora;Valloniidae;BOLD,FE,iNat;37;46;1;FE;;312065
+Vallonia declivis;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Vallonia enniensis;Mollusca;Gastropoda;Stylommatophora;Valloniidae;BOLD,FE;9;9;1;FE;;856589
+Vallonia excentrica;Mollusca;Gastropoda;Stylommatophora;Valloniidae;BOLD,FE,iNat;7;12;3;FE;;407571
+Vallonia pulchella;Mollusca;Gastropoda;Stylommatophora;Valloniidae;BOLD,FE,iNat;20;24;1;FE;;312077
+Vallonia suevica;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;;;;FE;gap;
+Zoogenetes harpa;Mollusca;Gastropoda;Stylommatophora;Valloniidae;FE;35;35;1;FE;;462022

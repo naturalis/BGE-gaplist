@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calanoides carinatus;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;47;60;4;WORMS;;211870
+Calanus euxinus;Arthropoda;Hexanauplia;Calanoida;Calanidae;WORMS;17;18;1;WORMS;;25133
+Calanus finmarchicus;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;31;123;2;WORMS;;31235
+Calanus glacialis;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;1041;1170;2;;;8733
+Calanus helgolandicus;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;61;89;1;WORMS;;25132
+Calanus hyperboreus;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;54;66;3;WORMS;;31232
+Ctenocalanus vanus;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;121;128;1;WORMS;;503240
+Mesocalanus tenuicornis;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;20;26;5;WORMS;;32384
+Nannocalanus minor;Arthropoda;Hexanauplia;Calanoida;Calanidae;BOLD,WORMS;65;77;4;WORMS;;32381
+Neocalanus cristatus;Arthropoda;Hexanauplia;Calanoida;Calanidae;WORMS;284;360;1;WORMS;;24528
+Neocalanus gracilis;Arthropoda;Hexanauplia;Calanoida;Calanidae;WORMS;5;8;2;WORMS;;31947
+Neocalanus robustior;Arthropoda;Hexanauplia;Calanoida;Calanidae;WORMS;14;15;2;WORMS;;15652
+Undinula vulgaris;Arthropoda;Hexanauplia;Calanoida;Calanidae;WORMS;127;136;8;WORMS;;211858

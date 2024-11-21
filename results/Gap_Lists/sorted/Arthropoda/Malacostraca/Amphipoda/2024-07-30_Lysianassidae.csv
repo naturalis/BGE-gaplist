@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lysianassa caesarea;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;WORMS;gap;
+Lysianassa costae;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;;gap;
+Lysianassa insperata;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;;gap;
+Lysianassa pilicornis;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;WORMS;gap;
+Lysianassa plumosa;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;BOLD,WORMS;3;4;0;WORMS;;348711
+Martensia martensi;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;WORMS;gap;
+Nannonyx goesii;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;BOLD;3;4;0;WORMS;;991752
+Nannonyx propinquus;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;;gap;
+Nannonyx spinimanus;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;;gap;
+Parawaldeckia kidderi;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;BOLD;63;65;1;WORMS;;302243
+Socarnes bidenticulatus;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;WORMS;gap;
+Socarnes filicornis;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;WORMS;gap;
+Socarnes vahlii;Arthropoda;Malacostraca;Amphipoda;Lysianassidae;WORMS;;;;WORMS;gap;

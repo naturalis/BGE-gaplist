@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carinina ochracea;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;BOLD;3;6;1;;;853119
+Protubulanus theeli;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;WORMS;gap;
+Tubulanus ambiguus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;BOLD;1;1;1;WORMS;;599439
+Tubulanus annulatus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;BOLD,WORMS;2;6;1;WORMS;;110007
+Tubulanus borealis;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;;gap;
+Tubulanus groenlandicus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;WORMS;gap;
+Tubulanus holorhynchocoelomicus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;;gap;
+Tubulanus linearis;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;BOLD,WORMS;1;1;1;WORMS;;599445
+Tubulanus norvegicus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;;gap;
+Tubulanus panormitanus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;;gap;
+Tubulanus polymorphus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;BOLD,WORMS;20;36;6;WORMS;;370531
+Tubulanus rubicundus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;WORMS;gap;
+Tubulanus superbus;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;BOLD,WORMS;2;2;1;WORMS;;599438
+Tubulanus tubicola;Nemertea;Palaeonemertea;Tubulaniformes;Tubulanidae;WORMS;;;;WORMS;gap;

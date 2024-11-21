@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carychium ibazoricum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;5;5;1;;;297403
+Carychium minimum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;355;361;1;FE;;202832
+Carychium tridentatum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE,iNat;445;454;3;;;272067
+Leucophytia bidentata;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE;;;;WORMS;gap;463740
+Myosotella denticulata;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE;;;;FE;gap;
+Myosotella myosotis;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE,WORMS;26;31;4;WORMS;;164637
+Ovatella aequalis;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE,WORMS;;;;WORMS;gap;
+Ovatella firminii;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE,WORMS;1;2;1;WORMS;;667358
+Ovatella vulcani;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE,WORMS;3;5;1;WORMS;;463742
+Pedipes pedipes;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE;3;5;1;WORMS;;463744
+Pseudomelampus exiguus;Mollusca;Gastropoda;Ellobiida;Ellobiidae;FE,WORMS;;;;WORMS;gap;
+Zospeum alpestre;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;9;10;2;FE;;297412
+Zospeum amoenum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;3;3;2;FE;;558824
+Zospeum biscaiense;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;1;1;1;;;502551
+Zospeum exiguum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;6;7;1;;;297409
+Zospeum frauenfeldi;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;5;5;1;FE;;297407
+Zospeum isselianum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;7;7;2;;;297411
+Zospeum obesum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;3;3;1;FE;;502552
+Zospeum pretneri;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;1;1;1;;;297410
+Zospeum spelaeum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;9;9;4;FE;;297406
+Zospeum suarezi;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;2;3;1;;;502555
+Zospeum subobesum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD,FE;7;7;2;;;297408
+Zospeum tholussum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD;1;1;1;;;558823
+Zospeum vasconicum;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD;12;12;1;;;704138
+Zospeum zaldivarae;Mollusca;Gastropoda;Ellobiida;Ellobiidae;BOLD;3;3;1;;;704139

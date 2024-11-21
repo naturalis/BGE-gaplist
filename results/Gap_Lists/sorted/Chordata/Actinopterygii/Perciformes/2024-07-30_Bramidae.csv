@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brama brama;Chordata;Actinopterygii;Perciformes;Bramidae;BOLD,WORMS;67;77;2;WORMS;;13301
+Pteraclis carolinus;Chordata;Actinopterygii;Perciformes;Bramidae;WORMS;;;;WORMS;gap;
+Pterycombus brama;Chordata;Actinopterygii;Perciformes;Bramidae;BOLD,WORMS;18;20;1;WORMS;;99843
+Taractes asper;Chordata;Actinopterygii;Perciformes;Bramidae;WORMS;;;;WORMS;gap;
+Taractes rubescens;Chordata;Actinopterygii;Perciformes;Bramidae;WORMS;;;;WORMS;gap;
+Taractichthys longipinnis;Chordata;Actinopterygii;Perciformes;Bramidae;WORMS;;;;WORMS;gap;

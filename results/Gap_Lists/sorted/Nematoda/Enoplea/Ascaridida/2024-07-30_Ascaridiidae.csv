@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ascaridia alectoris;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;;gap;
+Ascaridia columbae;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;2;2;1;FE;;670986
+Ascaridia compar;Nematoda;Enoplea;Ascaridida;Ascaridiidae;BOLD,FE;1;1;1;FE;;900112
+Ascaridia cylindrica;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;FE;gap;
+Ascaridia dissimilis;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;;gap;
+Ascaridia galli;Nematoda;Enoplea;Ascaridida;Ascaridiidae;BOLD,FE;23;116;2;FE;;670987
+Ascaridia lineata;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;FE;gap;
+Ascaridia magnipapilla;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;FE;gap;
+Ascaridia numidae;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;FE;gap;
+Ascaridia perspicillum;Nematoda;Enoplea;Ascaridida;Ascaridiidae;FE;;;;FE;gap;

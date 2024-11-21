@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calcinus tubularis;Arthropoda;Malacostraca;Decapoda;Diogenidae;BOLD,WORMS;9;26;2;WORMS;;178977
+Clibanarius aequabilis;Arthropoda;Malacostraca;Decapoda;Diogenidae;WORMS;;;;WORMS;gap;
+Clibanarius erythropus;Arthropoda;Malacostraca;Decapoda;Diogenidae;BOLD,WORMS;15;53;1;WORMS;;178978
+Dardanus arrosor;Arthropoda;Malacostraca;Decapoda;Diogenidae;BOLD,WORMS;27;42;2;WORMS;;89925
+Dardanus calidus;Arthropoda;Malacostraca;Decapoda;Diogenidae;BOLD,WORMS;6;18;1;WORMS;;178976
+Dardanus venosus;Arthropoda;Malacostraca;Decapoda;Diogenidae;BOLD;10;10;1;WORMS;;751687
+Diogenes pugilator;Arthropoda;Malacostraca;Decapoda;Diogenidae;BOLD,WORMS,iNat;49;62;5;WORMS;;360437
+Paguristes eremita;Arthropoda;Malacostraca;Decapoda;Diogenidae;WORMS;;;;WORMS;gap;
+Paguristes rubropictus;Arthropoda;Malacostraca;Decapoda;Diogenidae;WORMS;;;;WORMS;gap;
+Paguristes streaensis;Arthropoda;Malacostraca;Decapoda;Diogenidae;WORMS;;;;;gap;
+Paguristes syrtensis;Arthropoda;Malacostraca;Decapoda;Diogenidae;WORMS;;;;;gap;

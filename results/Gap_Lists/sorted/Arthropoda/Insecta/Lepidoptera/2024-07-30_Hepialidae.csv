@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gazoryctra fuscoargenteus;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;1;1;1;FE;;370714
+Gazoryctra ganna;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;10;12;3;FE;;324159
+Hepialus humuli;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF,iNat;153;233;4;FE;;164127
+Korscheltellus castillanus;Arthropoda;Insecta;Lepidoptera;Hepialidae;FE,LF;;;;FD;gap;
+Korscheltellus fusconebulosa;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;47;50;1;FD;;726757
+Korscheltellus lupulina;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF,iNat;108;114;1;FD;;17968
+Pharmacis aemilianus;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;5;5;1;FE;;955886
+Pharmacis anselminae;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;4;4;1;FE;;448274
+Pharmacis bertrandi;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;6;7;1;FE;;266439
+Pharmacis cantabricus;Arthropoda;Insecta;Lepidoptera;Hepialidae;LF;;;;;gap;
+Pharmacis carna;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;20;21;1;FE;;246316
+Pharmacis claudiae;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;4;4;1;;;399896
+Pharmacis pyrenaicus;Arthropoda;Insecta;Lepidoptera;Hepialidae;FE,LF;;;;FE;gap;
+Phymatopus hecta;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF,iNat;35;42;1;FE;;183484
+Triodia adriaticus;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF;5;5;1;FE;;518713
+Triodia amasinus;Arthropoda;Insecta;Lepidoptera;Hepialidae;FE,LF;;;;FE;gap;
+Triodia sylvina;Arthropoda;Insecta;Lepidoptera;Hepialidae;BOLD,FE,LF,iNat;108;116;3;BT;;179183
+Zenophassus schamyl;Arthropoda;Insecta;Lepidoptera;Hepialidae;LF;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyrtodaria siliqua;Mollusca;Bivalvia;Adapedonta;Hiatellidae;WORMS;;;;WORMS;gap;
+Hiatella arctica;Mollusca;Bivalvia;Adapedonta;Hiatellidae;BOLD,WORMS;9;216;3;WORMS;;81256;593421;194439
+Hiatella rugosa;Mollusca;Bivalvia;Adapedonta;Hiatellidae;WORMS;;;;WORMS;gap;
+Panomya norvegica;Mollusca;Bivalvia;Adapedonta;Hiatellidae;BOLD,WORMS;0;3;0;WORMS;gap;992075
+Panopea glycimeris;Mollusca;Bivalvia;Adapedonta;Hiatellidae;WORMS;;;;WORMS;gap;

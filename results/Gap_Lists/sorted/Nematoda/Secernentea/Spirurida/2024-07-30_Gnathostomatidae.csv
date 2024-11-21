@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echinocephalus uncinatus;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE,WORMS;;;;WORMS;gap;
+Gnathostoma hispidum;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE;0;2;0;;gap;171071
+Gnathostoma pelecani;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE;;;;FE;gap;
+Gnathostoma spinigerum;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE;3;22;1;;;107042
+Gnathostoma turgidum;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE;;;;;gap;
+Spiroxys contorta;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE;;;;FE;gap;
+Spiroxys transversalata;Nematoda;Secernentea;Spirurida;Gnathostomatidae;FE;;;;;gap;

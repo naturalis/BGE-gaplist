@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haplozetes vindobonensis;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;FE;gap;
+Indoribates fusifer;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;ITIS;gap;
+Lauritzenia atlantica;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Lauritzenia depilis;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Lauritzenia elegans;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;FE;gap;
+Lauritzenia hispanicus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Lauritzenia pallida;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;ITIS;gap;
+Lauritzenia similis;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Lauritzenia sinuatus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;FE;gap;
+Lauritzenia tenuifusus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;ITIS;gap;
+Peloribates europaeus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Peloribates glaber;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;ITIS;gap;
+Peloribates hungaricus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;FE;gap;
+Peloribates longipilosus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Peloribates pilosus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;124;125;3;;;208812
+Peloribates tunisiensis;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Pilobates carpetanus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Protoribates capucinus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;BOLD,FE;1;4;0;;;645574
+Protoribates lophotrichus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;BOLD,FE;2;6;1;FE;;216806
+Rostrozetes foveolatus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;;gap;
+Xylobates vastus;Arthropoda;Arachnida;Sarcoptiformes;Haplozetidae;FE;;;;FE;gap;

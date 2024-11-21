@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arcitalitrus dorrieni;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;4;17;2;;;675408
+Britorchestia ugolinii;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;3;5;1;WORMS;;676813
+Cryptorchestia cavimana;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;20;41;0;;;676814
+Cryptorchestia garbinii;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,iNat;195;210;1;;;731306
+Cryptorchestia guancha;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;1;4;0;;;593149
+Deshayesorchestia deshayesii;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;24;32;3;WORMS;;168727
+Macarorchestia martini;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;0;1;0;;gap;754875
+Macarorchestia pavesiae;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;9;10;1;;;731303
+Macarorchestia remyi;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS;10;10;1;WORMS;;675410
+Macarorchestia roffensis;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;0;2;0;WORMS;gap;754876
+Orchestia aestuarensis;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS;6;42;1;;;593107
+Orchestia cavimana;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,FE;1;3;0;;;754989
+Orchestia gammarellus;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS;308;361;4;WORMS;;142026
+Orchestia mediterranea;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS;38;55;2;WORMS;;142027;731534
+Orchestia montagui;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS;86;92;2;;;503352
+Orchestia stephenseni;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;3;6;1;;;166280
+Palmorchestia epigaea;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;1;2;0;;;166279
+Platorchestia monodi;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD;98;111;2;;;248230
+Platorchestia platensis;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS;225;266;3;WORMS;;100252
+Talitrus saltator;Arthropoda;Malacostraca;Amphipoda;Talitridae;BOLD,WORMS,iNat;42;131;4;WORMS;;142031

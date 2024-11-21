@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ophiocten abyssicolum;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Ophiocten affinis;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;21;23;1;WORMS;;220223
+Ophiocten centobi;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;;gap;
+Ophiocten gracilis;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;43;47;1;WORMS;;220233
+Ophiocten hastatum;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Ophiocten sericeum;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;51;62;1;WORMS;;203287
+Ophiomastus meridionalis;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD;21;24;6;WORMS;;220273;220451
+Ophionotus victoriae;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD;363;839;6;WORMS;;208483
+Ophiopleura borealis;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;31;32;1;WORMS;;220326
+Ophioplinthus gelida;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD;322;332;6;WORMS;;220340;257691
+Ophiostriatus striatus;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD;1;1;0;WORMS;;220393
+Ophiura (Dictenophiura) carnea;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;;;;WORMS;gap;220419
+Ophiura albida;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS,iNat;53;63;1;WORMS;;151488
+Ophiura flagellata;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Ophiura grubei;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Ophiura imprudens;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Ophiura ljungmani;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Ophiura lymani;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD;71;79;5;;;220449
+Ophiura nitida;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;;gap;
+Ophiura ophiura;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS,iNat;64;71;2;WORMS;;220460;674524
+Ophiura robusta;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;59;71;2;WORMS;;203289
+Ophiura sarsii;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;199;259;6;WORMS;;220470
+Ophiura violainae;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;WORMS;;;;WORMS;gap;
+Stegophiura nodosa;Echinodermata;Ophiuroidea;Ophiurida;Ophiuridae;BOLD,WORMS;14;16;1;WORMS;;220505

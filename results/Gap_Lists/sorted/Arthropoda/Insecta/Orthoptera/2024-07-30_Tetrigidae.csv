@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Depressotetrix depressus;Arthropoda;Insecta;Orthoptera;Tetrigidae;FE;;;;FE;gap;
+Paratettix meridionalis;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE;23;32;1;FE;;471450
+Tetrix bipunctata;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE,iNat;29;38;2;FE;;261073;675641
+Tetrix bolivari;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE;57;66;1;;;331360
+Tetrix ceperoi;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE,iNat;43;54;1;;;261084
+Tetrix depressa;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD;18;20;2;;;331420
+Tetrix fuliginosa;Arthropoda;Insecta;Orthoptera;Tetrigidae;FE;;;;FE;gap;
+Tetrix nodulosa;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD;2;2;1;;;766711
+Tetrix subulata;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE,iNat;47;126;4;FE;;208618
+Tetrix tenuicornis;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE,iNat;36;48;1;FE;;261074
+Tetrix transsylvanica;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD;1;2;1;;;719160
+Tetrix tuerki;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE,iNat;5;10;1;FE;;261085
+Tetrix undulata;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE,iNat;22;61;4;FE;;208634
+Uvarovitettix depressus;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD;0;2;0;;gap;471448
+Uvarovitettix nodulosus;Arthropoda;Insecta;Orthoptera;Tetrigidae;BOLD,FE;0;1;0;FE;gap;1142192
+Uvarovitettix transsylvanicus;Arthropoda;Insecta;Orthoptera;Tetrigidae;FE;;;;FE;gap;

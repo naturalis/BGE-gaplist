@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Astegistes bicornis;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;FE;gap;
+Astegistes pilosus;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;BOLD,FE;0;3;0;WORMS;gap;738016;856921
+Cultroribula bicultrata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;BOLD,FE;0;4;0;FE;gap;762663
+Cultroribula confinis;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;ITIS;gap;
+Cultroribula falcata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;;gap;
+Cultroribula grandis;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;;gap;
+Cultroribula juncta;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;FE;gap;
+Cultroribula lata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;;gap;
+Cultroribula microdentata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;;gap;
+Cultroribula szentivani;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;;gap;
+Cultroribula tridenata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;;gap;
+Furcoppia dentata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;FE;;;;ITIS;gap;
+Furcoribula furcillata;Arthropoda;Arachnida;Sarcoptiformes;Astegistidae;BOLD,FE;12;15;4;ITIS;;805805

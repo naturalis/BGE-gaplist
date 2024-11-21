@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mantispa aphavexelte;Arthropoda;Insecta;Neuroptera;Mantispidae;BOLD,FE;3;4;1;;;775170
+Mantispa perla;Arthropoda;Insecta;Neuroptera;Mantispidae;FE;;;;;gap;
+Mantispa scabricollis;Arthropoda;Insecta;Neuroptera;Mantispidae;FE;1;1;1;;;884084
+Mantispa styriaca;Arthropoda;Insecta;Neuroptera;Mantispidae;BOLD,FE;16;47;2;ITIS;;673558
+Nampista auriventris;Arthropoda;Insecta;Neuroptera;Mantispidae;FE;;;;FE;gap;

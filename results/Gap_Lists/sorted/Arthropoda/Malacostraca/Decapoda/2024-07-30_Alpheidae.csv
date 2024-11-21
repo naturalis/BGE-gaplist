@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alpheopsis africana;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;WORMS;gap;
+Alpheus amblyonyx;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;7;11;1;;;173980
+Alpheus armillatus;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;5;14;1;;;168312
+Alpheus bahamensis;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;20;29;1;WORMS;;173986
+Alpheus dentipes;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;WORMS;gap;
+Alpheus floridanus;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;7;12;2;;;213961
+Alpheus formosus;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;31;35;1;WORMS;;149554
+Alpheus glaber;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD,WORMS;15;32;2;WORMS;;89923
+Alpheus lobidens;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;WORMS;gap;
+Alpheus macrocheles;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD,WORMS;1;5;1;WORMS;;173964;223310
+Alpheus migrans;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;;gap;
+Alpheus packardii;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;25;30;2;WORMS;;149556
+Alpheus platydactylus;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;;gap;
+Alpheus rapacida;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;;gap;
+Alpheus simus;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD;1;3;1;WORMS;;173950
+Alpheus talismani;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;;gap;
+Athanas amazone;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;WORMS;gap;
+Athanas grimaldii;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;;gap;
+Athanas nitescens;Arthropoda;Malacostraca;Decapoda;Alpheidae;BOLD,WORMS;19;34;1;WORMS;;179006
+Automate branchialis;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;;gap;
+Salmoneus jarli;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;WORMS;gap;
+Synalpheus gambarelloides;Arthropoda;Malacostraca;Decapoda;Alpheidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sialis abchasica;Arthropoda;Insecta;Megaloptera;Sialidae;FE;;;;;gap;
+Sialis dorochovae;Arthropoda;Insecta;Megaloptera;Sialidae;FE;;;;;gap;
+Sialis fuliginosa;Arthropoda;Insecta;Megaloptera;Sialidae;BOLD,FE,iNat;42;55;4;;;394082
+Sialis gonzalezi;Arthropoda;Insecta;Megaloptera;Sialidae;FE;;;;;gap;
+Sialis klingstedti;Arthropoda;Insecta;Megaloptera;Sialidae;FE;;;;;gap;
+Sialis lutaria;Arthropoda;Insecta;Megaloptera;Sialidae;BOLD,FE,iNat;39;75;4;FE;;361829
+Sialis morio;Arthropoda;Insecta;Megaloptera;Sialidae;BOLD,FE;3;3;2;;;394080
+Sialis nigripes;Arthropoda;Insecta;Megaloptera;Sialidae;BOLD,FE;4;5;2;;;361830
+Sialis sibirica;Arthropoda;Insecta;Megaloptera;Sialidae;BOLD,FE;2;9;1;;;880554
+Sialis sordida;Arthropoda;Insecta;Megaloptera;Sialidae;BOLD,FE;1;1;0;;;880565

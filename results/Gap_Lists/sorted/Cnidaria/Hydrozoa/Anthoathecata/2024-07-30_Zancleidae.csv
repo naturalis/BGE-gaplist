@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halocoryne epizoica;Cnidaria;Hydrozoa;Anthoathecata;Zancleidae;WORMS;;;;;gap;
+Zanclea costata;Cnidaria;Hydrozoa;Anthoathecata;Zancleidae;WORMS;;;;WORMS;gap;
+Zanclea implexa;Cnidaria;Hydrozoa;Anthoathecata;Zancleidae;BOLD;4;5;1;WORMS;;726329
+Zanclea sessilis;Cnidaria;Hydrozoa;Anthoathecata;Zancleidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cuneopalpus cyanops;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;42;51;1;FE;;515603
+Elipsocus abdominalis;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;0;9;0;;gap;515608
+Elipsocus annulatus;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Elipsocus azoricus;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Elipsocus brincki;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Elipsocus coloripennis;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Elipsocus fasciatus;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;FE;gap;
+Elipsocus hyalinus;Arthropoda;Insecta;Psocodea;Elipsocidae;FE,iNat;;;;FE;gap;
+Elipsocus lanceloticus;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Elipsocus moebiusi;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;15;24;1;;;515607
+Elipsocus nuptialis;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Elipsocus pumilis;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;1;5;0;FE;;515605
+Elipsocus pusillus;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Hemineura bigoti;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Hemineura blascoi;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Hemineura clunialis;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Hemineura dispar;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;4;6;1;;;515610
+Hemineura hispanica;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;1;1;0;FE;;1157949
+Hemineura sclerophallina;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Hemineura wittmeri;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Propsocus pulchripennis;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;133;138;1;FE;;655113
+Pseudopsocus fusciceps;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;4;4;1;FE;;596443
+Pseudopsocus meridionalis;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Pseudopsocus rostocki;Arthropoda;Insecta;Psocodea;Elipsocidae;FE;;;;;gap;
+Reuterella helvimacula;Arthropoda;Insecta;Psocodea;Elipsocidae;BOLD,FE;26;28;4;FE;;515613

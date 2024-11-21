@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ichthyococcus ovatus;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;WORMS;;;;WORMS;gap;
+Pollichthys mauli;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;WORMS;;;;WORMS;gap;
+Polymetme corythaeola;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;BOLD,WORMS;27;30;4;WORMS;;78496
+Polymetme thaeocoryla;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;BOLD,WORMS;13;15;1;;;72134
+Vinciguerria attenuata;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;BOLD,WORMS;38;49;3;WORMS;;202064
+Vinciguerria nimbaria;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;WORMS;;;;WORMS;gap;
+Vinciguerria poweriae;Chordata;Actinopterygii;Stomiiformes;Phosichthyidae;BOLD,WORMS;41;44;2;WORMS;;70970

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Laodicea undulata;Cnidaria;Hydrozoa;Leptothecata;Laodiceidae;BOLD,WORMS;11;18;2;WORMS;;591919
+Melicertissa adriatica;Cnidaria;Hydrozoa;Leptothecata;Laodiceidae;WORMS;;;;;gap;
+Ptychogena crocea;Cnidaria;Hydrozoa;Leptothecata;Laodiceidae;BOLD,WORMS;12;16;1;WORMS;;746452;671403
+Ptychogena lactea;Cnidaria;Hydrozoa;Leptothecata;Laodiceidae;BOLD,WORMS;20;28;2;WORMS;;599783
+Staurostoma mertensii;Cnidaria;Hydrozoa;Leptothecata;Laodiceidae;BOLD;10;15;1;WORMS;;714406

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acasta spongites;Arthropoda;Thecostraca;Sessilia;Archaeobalanidae;BOLD,WORMS;3;4;1;;;1004716
+Austrominius modestus;Arthropoda;Thecostraca;Sessilia;Archaeobalanidae;BOLD,iNat;117;174;1;WORMS;;703965;373072
+Conopea calceola;Arthropoda;Thecostraca;Sessilia;Archaeobalanidae;BOLD,WORMS;3;3;2;WORMS;;503235
+Semibalanus balanoides;Arthropoda;Thecostraca;Sessilia;Archaeobalanidae;BOLD,WORMS,iNat;986;1019;4;WORMS;;14241

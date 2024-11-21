@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eulaemobothrion atrum;Arthropoda;Insecta;Psocodea;Laemobothriidae;FE;;;;FE;gap;
+Eulaemobothrion chloropodis;Arthropoda;Insecta;Psocodea;Laemobothriidae;FE;;;;FE;gap;
+Laemobothrion maximum;Arthropoda;Insecta;Psocodea;Laemobothriidae;FE;;;;FE;gap;
+Laemobothrion tinnunculi;Arthropoda;Insecta;Psocodea;Laemobothriidae;BOLD,FE;1;3;1;FE;;989349
+Laemobothrion vulturis;Arthropoda;Insecta;Psocodea;Laemobothriidae;FE;2;2;1;FE;;528504

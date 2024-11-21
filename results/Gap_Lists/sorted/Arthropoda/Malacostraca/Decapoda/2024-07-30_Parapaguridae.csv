@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oncopagurus bicristatus;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;WORMS;gap;
+Paragiopagurus ruticheles;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;WORMS;gap;
+Parapagurus abyssorum;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;;gap;
+Parapagurus alaminos;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;;gap;
+Parapagurus nudus;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;WORMS;gap;
+Parapagurus pilosimanus;Arthropoda;Malacostraca;Decapoda;Parapaguridae;BOLD,WORMS;1;4;0;WORMS;;210724
+Strobopagurus gracilipes;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;WORMS;gap;
+Sympagurus acinops;Arthropoda;Malacostraca;Decapoda;Parapaguridae;WORMS;;;;;gap;

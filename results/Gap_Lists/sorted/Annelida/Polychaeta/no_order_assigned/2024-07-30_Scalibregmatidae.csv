@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Asclerocheilus intermedius;Annelida;Polychaeta;;Scalibregmatidae;WORMS;;;;WORMS;gap;
+Lipobranchius jeffreysii;Annelida;Polychaeta;;Scalibregmatidae;BOLD;1;2;1;WORMS;;725385
+Polyphysia baffinensis;Annelida;Polychaeta;;Scalibregmatidae;BOLD;2;5;2;WORMS;;714489
+Polyphysia crassa;Annelida;Polychaeta;;Scalibregmatidae;BOLD;23;29;2;WORMS;;415340
+Pseudoscalibregma parvum;Annelida;Polychaeta;;Scalibregmatidae;BOLD,WORMS;7;7;2;WORMS;;279334
+Scalibregma celticum;Annelida;Polychaeta;;Scalibregmatidae;WORMS;;;;;gap;
+Scalibregma inflatum;Annelida;Polychaeta;;Scalibregmatidae;BOLD,WORMS;65;78;5;WORMS;;214519
+Sclerobregma branchiatum;Annelida;Polychaeta;;Scalibregmatidae;WORMS;;;;;gap;
+Sclerocheilus minutus;Annelida;Polychaeta;;Scalibregmatidae;WORMS;;;;;gap;

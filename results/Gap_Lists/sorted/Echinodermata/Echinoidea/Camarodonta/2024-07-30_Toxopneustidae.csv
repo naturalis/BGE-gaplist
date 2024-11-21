@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Sphaerechinus granularis;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;BOLD,WORMS;7;31;0;WORMS;;172030
+Tripneustes gratilla;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;BOLD;68;260;1;WORMS;;84419
+Tripneustes ventricosus;Echinodermata;Echinoidea;Camarodonta;Toxopneustidae;BOLD;12;15;1;WORMS;;272791

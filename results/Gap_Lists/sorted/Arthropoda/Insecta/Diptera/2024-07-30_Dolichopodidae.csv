@@ -1,0 +1,790 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Achalcus bimaculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Achalcus britannicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Achalcus cinereus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;11;1;SyDip;;469839
+Achalcus flavicollis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;7;1;SyDip;;483710
+Achalcus melanotrichus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Achalcus nigropunctatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;1;;;805357
+Achalcus phragmitidis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;2;0;;gap;918641
+Achalcus thalhammeri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Achalcus vaillanti;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;8;1;;;483662
+Acropsilus niger;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Amblypsilopus flavipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Anahydrophorus cinereus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Anepsiomyia flaviventris;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;11;0;SyDip;;166733
+Aphrosylus aculeatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus argyreatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus atlanticus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;;;1140617
+Aphrosylus beckeri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus calcarator;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus canariensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus celtiber;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;;gap;237224
+Aphrosylus ferox;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus fur;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus fuscipennis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus jucundus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;;;1140618
+Aphrosylus madeirensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus mitis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus occultus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus piscator;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus raptor;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Aphrosylus venator;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;;;1140619
+Argyra argentina;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;8;1;SyDip;;166704
+Argyra argyria;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;3;0;SyDip;gap;166741
+Argyra atriceps;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;166702
+Argyra auricollis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;8;1;SyDip;;483475
+Argyra canariensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra corsica;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;1;1;0;;;1140622
+Argyra diaphana;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;15;21;2;SyDip;;166744
+Argyra discedens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra elongata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;4;1;SyDip;;483342
+Argyra flabellifera;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra fracta;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;166682
+Argyra grata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;166691
+Argyra hoffmeisteri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Argyra ilonae;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;14;17;1;FE;;468353
+Argyra leucocephala;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;9;1;SyDip;;166745
+Argyra loewi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Argyra magnicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;SyDip;;483414
+Argyra miki;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Argyra oreada;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra perplexa;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;5;1;;;166703
+Argyra setimana;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra setulipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra skufjini;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra spoliata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;483430
+Argyra striaticollis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra subarctica;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Argyra vestita;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;8;13;1;SyDip;;166678
+Asyndetus aurocupreus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Asyndetus connexus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Asyndetus exunguis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Asyndetus latifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;4;0;SyDip;;918642
+Asyndetus longicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Asyndetus melanopselaphus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Asyndetus negrobovi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Asyndetus separatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Asyndetus varus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus alpinus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;8;1;SyDip;;166731
+Campsicnemus armatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;2;SyDip;;805354
+Campsicnemus armoricanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus articulatellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;1;3;1;;;643665
+Campsicnemus atlanticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Campsicnemus compeditus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;7;1;;;499465
+Campsicnemus crinitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus curvipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;36;43;1;SyDip;;166739
+Campsicnemus dasycnemus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Campsicnemus femoratus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus filipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus loripes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;18;23;1;SyDip;;166734
+Campsicnemus lumbatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;4;0;;gap;499466
+Campsicnemus maculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus magius;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Campsicnemus mamillatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus mammiculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Campsicnemus marginatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;5;1;SyDip;;497019
+Campsicnemus paradoxus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;3;1;SyDip;;499467
+Campsicnemus picticornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;4;1;SyDip;;166722
+Campsicnemus pumilio;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;4;0;SyDip;gap;166723
+Campsicnemus pusillus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;8;1;SyDip;;499473
+Campsicnemus scambus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;12;18;1;SyDip;;166726
+Campsicnemus simplicissimus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;4;1;;;1140615
+Campsicnemus umbripennis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;30;30;1;SyDip;;786607
+Campsicnemus varipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysosoma exsul;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Chrysotimus chlorinus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Chrysotimus flaviventris;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;25;26;1;SyDip;;918660
+Chrysotimus molliculus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;8;1;SyDip;;499330
+Chrysotimus varicoloris;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotimus viridana;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Chrysotus (Achradocera) chilensis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166720
+Chrysotus albibarbus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Chrysotus alpicola;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Chrysotus arcticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus barretoi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus blepharosceles;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;6;1;;;166693
+Chrysotus cilipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;63;78;2;SyDip;;166729
+Chrysotus collini;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus cupreus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;6;1;SyDip;;967402
+Chrysotus elongatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Chrysotus gramineus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;20;22;1;SyDip;;166724;469872
+Chrysotus laesus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;24;28;1;SyDip;;166728
+Chrysotus melampodius;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus monochaetus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Chrysotus neglectus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;24;27;1;SyDip;;166738
+Chrysotus pallidipalpus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Chrysotus palustris;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus pennatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus polleti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus polychaetus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Chrysotus pulchellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;185;201;1;;;166735
+Chrysotus ringdahli;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;1;0;;gap;1140620
+Chrysotus romanicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus suavis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;6;0;;gap;166730
+Chrysotus verralli;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus vulcanicola;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Chrysotus xanthoprasinus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Coracocephalus miki;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Coracocephalus strobli;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Cryptophlebs kerteszi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Cyrturella albosetosa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Diaphorus africus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus bezzi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Diaphorus deliquescens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus disjunctus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus exunguiculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus genuinus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus graecus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus gredleri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus halteralis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus hoffmannseggi;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;5;2;SyDip;;468369
+Diaphorus jacobsi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus lautus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus lugubris;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus merlimontensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus nigricans;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;10;2;ITIS;;166737;483318
+Diaphorus nitidulus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus oculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;4;7;1;SyDip;;918645
+Diaphorus oldenbergi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Diaphorus unguiculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus vitripennis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diaphorus winthemi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Diostracus (Sphyrotarsus) argyrostomus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;956330
+Diostracus (Sphyrotarsus) hervebazini;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Diostracus (Sphyrotarsus) hessei;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Diostracus (Sphyrotarsus) hygrophilus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;956331
+Diostracus (Sphyrotarsus) parenti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Diostracus lemavajulorum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;1;1;1;;;1056803
+Diostracus leucostomus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichophorus kerteszi;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;10;1;SyDip;;589102
+Dolichopus (Dolichopus) acuticornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483356
+Dolichopus (Dolichopus) albifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) anacrostichus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) andorrensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) angustipennis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) annulitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) apicalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483665
+Dolichopus (Dolichopus) armillatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483663
+Dolichopus (Dolichopus) asiaticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) atratus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) atripes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168288
+Dolichopus (Dolichopus) atritibialis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168304
+Dolichopus (Dolichopus) austriacus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483664
+Dolichopus (Dolichopus) bonsdorfii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) caligatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483239
+Dolichopus (Dolichopus) calinotus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483256
+Dolichopus (Dolichopus) cilifemoratus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166754
+Dolichopus (Dolichopus) cinctipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483666
+Dolichopus (Dolichopus) ciscaucasicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) claviger;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168289
+Dolichopus (Dolichopus) clavipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166749
+Dolichopus (Dolichopus) costalis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) discimanus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483667
+Dolichopus (Dolichopus) eurypterus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) excisus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;166752
+Dolichopus (Dolichopus) falcatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) flavipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;457017
+Dolichopus (Dolichopus) fraterculus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483441
+Dolichopus (Dolichopus) geniculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) genicupallidus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;168303
+Dolichopus (Dolichopus) grandicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;1141559
+Dolichopus (Dolichopus) griseipennis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166748
+Dolichopus (Dolichopus) hilaris;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) immaculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) jaxarticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) lancearius;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483244
+Dolichopus (Dolichopus) laticola;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) latilimbatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168293
+Dolichopus (Dolichopus) lepidus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168292
+Dolichopus (Dolichopus) linearis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166757
+Dolichopus (Dolichopus) lineatocornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;1067373
+Dolichopus (Dolichopus) litorellus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) longitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168279
+Dolichopus (Dolichopus) maculipennis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483363
+Dolichopus (Dolichopus) marshalli;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) mediicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) meigeni;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) melanopus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) migrans;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483411
+Dolichopus (Dolichopus) miki;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) modestus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) nigrescens;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;;;;SyDip;gap;1056801
+Dolichopus (Dolichopus) nigripes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) nimbatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) nitidus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483479
+Dolichopus (Dolichopus) nivalis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) nubilus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166753
+Dolichopus (Dolichopus) pennatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168286
+Dolichopus (Dolichopus) phaeopus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) picipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168284
+Dolichopus (Dolichopus) planitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483331
+Dolichopus (Dolichopus) plumipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168296
+Dolichopus (Dolichopus) popularis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168300
+Dolichopus (Dolichopus) propinquus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168285
+Dolichopus (Dolichopus) pseudomigrans;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483670
+Dolichopus (Dolichopus) punctum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483373
+Dolichopus (Dolichopus) pyrenaicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) ruthei;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) sabinus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168302
+Dolichopus (Dolichopus) salictorum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) segregatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) sicardi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) siculus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) signatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;166760
+Dolichopus (Dolichopus) simillimus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) simius;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) spretus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168297
+Dolichopus (Dolichopus) steini;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) strigipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) sublimbatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) subpennatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166758
+Dolichopus (Dolichopus) syracusanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) tanythrix;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;168294
+Dolichopus (Dolichopus) uralensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) virgultorum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) wahlbergi;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168282
+Dolichopus (Dolichopus) zernyi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Dolichopus (Dolichopus) zetterstedti;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483446
+Dolichopus (Hygroceleuthus) latipennis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;457048
+Dolichopus andalusiacus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;5;6;1;FE;;980540
+Dolichopus arbustorum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;1;4;0;FE;;1141546
+Dolichopus argyrotarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;0;1;0;FE;gap;1067370
+Dolichopus balius;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Dolichopus bonsdorffi;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;1;1;1;;;969378
+Dolichopus brachyurus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Dolichopus brevipennis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;260;266;1;;;168301
+Dolichopus bruesi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;ITIS;gap;
+Dolichopus campestris;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;2;7;1;FE;;168283
+Dolichopus coloradensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;ITIS;gap;
+Dolichopus diadema;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;7;10;1;FE;;166747
+Dolichopus festivus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;13;19;1;FE;;166759
+Dolichopus friedrichi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Dolichopus groenlandicus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;29;36;1;;;457031
+Dolichopus gubernator;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;1;;;483668
+Dolichopus kowarzianus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;483669
+Dolichopus longicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;43;44;1;;;166756
+Dolichopus maculicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Dolichopus mannerheimi;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;1067374
+Dolichopus micropygus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;1;1;1;;;769506
+Dolichopus mucronatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Dolichopus nigricornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;17;32;1;ITIS;;168287;407169
+Dolichopus nigriscens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Dolichopus nudus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;17;23;1;;;457041
+Dolichopus occultus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Dolichopus platylepis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Dolichopus plumitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;;;1141555
+Dolichopus polleti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;;gap;918647
+Dolichopus remipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;23;25;1;;;350418
+Dolichopus rupestris;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;87;88;1;ITIS;;483368
+Dolichopus signifer;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Dolichopus simplex;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;20;26;1;FE;;168291
+Dolichopus stenhammari;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;63;68;2;ITIS;;350420
+Dolichopus thalhammeri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Dolichopus ungulatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;45;67;1;ITIS;;168278
+Epithalassius corsicanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Epithalassius elegantula;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Epithalassius sanctimarci;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Epithalassius stackelbergi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Ethiromyia chalybea;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;2;6;1;;;978654
+Ethiromyia chalybeus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;0;2;0;;gap;483323
+Eucoryphus brunneri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;918495
+Eucoryphus coeruleus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;9;10;1;;;733704
+Eucoryphus piscariviverus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;1;1;1;;;1056804
+Falbouria acorensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Gymnopternus aerosus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;29;34;2;FE;;168298
+Gymnopternus angustifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;4;5;1;FE;;168290
+Gymnopternus assimilis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;0;1;0;FE;gap;168281
+Gymnopternus brevicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;19;34;1;FE;;166751
+Gymnopternus celer;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;21;31;2;FE;;166755
+Gymnopternus chalybeus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;0;1;0;FE;gap;168274
+Gymnopternus cupreus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;3;8;1;FE;;168299
+Gymnopternus metallicus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;12;16;1;FE;;168295
+Hercostomus (Gymnopternus) blankaartensis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;1140878;168280
+Hercostomus (Gymnopternus) silvestris;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;168273
+Hercostomus (Hercostomus) apollo;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) appendiculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;980539
+Hercostomus (Hercostomus) argentifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) armenorum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) blepharopus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) brevicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;;;;SyDip;gap;1140925
+Hercostomus (Hercostomus) canariensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) caucasicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) caudatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) celer;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;;;;SyDip;gap;1140877
+Hercostomus (Hercostomus) chaerophylli;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;918648
+Hercostomus (Hercostomus) chalybeus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;;;;SyDip;gap;1140940
+Hercostomus (Hercostomus) chetifer;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;707304
+Hercostomus (Hercostomus) convergens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) costatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) cupreus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;;;;SyDip;gap;1140741
+Hercostomus (Hercostomus) discriminatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) exarticulatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) excipiens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) flavipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) fugax;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;918649
+Hercostomus (Hercostomus) gavarniae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) gracilis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;1121944
+Hercostomus (Hercostomus) griseifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;963370
+Hercostomus (Hercostomus) labiatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) lichtwardti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) longiventris;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;918651
+Hercostomus (Hercostomus) luteus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) nanus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168275
+Hercostomus (Hercostomus) nigrihalteratus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) nigrilamellatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;918652
+Hercostomus (Hercostomus) nigripennis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;168276
+Hercostomus (Hercostomus) nigriplantis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;918584
+Hercostomus (Hercostomus) pandellei;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) phoebus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) pilifer;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166674
+Hercostomus (Hercostomus) placidus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) plagiatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;166672
+Hercostomus (Hercostomus) pokornyi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) rogenhoferi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) rostellatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) rothi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;504514
+Hercostomus (Hercostomus) rusticus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;1141482
+Hercostomus (Hercostomus) sahlbergi;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;483335
+Hercostomus (Hercostomus) santosi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) separatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) tenebricosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus (Hercostomus) vivax;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;504516
+Hercostomus (Hercostomus) vockerothi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;504517
+Hercostomus aerosus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;13;14;0;SyDip;;1140742
+Hercostomus chrysozygos;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;3;3;0;FE;;166673
+Hercostomus congoensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus cypricus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Hercostomus dacicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hercostomus fulvicaudis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;166686
+Hercostomus germanus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;3;0;SyDip;;918650
+Hercostomus inornatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Hercostomus insularum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hercostomus laufferi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hercostomus morenae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Hercostomus parvilamellatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;0;2;0;FE;gap;168277
+Hercostomus ruficauda;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Hercostomus stroblianus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hercostomus transsylvanicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hercostomus verbekei;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;0;;;504515
+Hydrophorus albiceps;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;5;2;SyDip;;483394
+Hydrophorus albosignatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;2;0;;gap;483389
+Hydrophorus alpinus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;57;57;1;SyDip;;467436
+Hydrophorus altivagus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;6;1;ITIS;;483421
+Hydrophorus balticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hydrophorus bipunctatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;6;1;SyDip;;483388
+Hydrophorus borealis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;8;3;;;166712
+Hydrophorus brunnicosus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;2;0;;gap;483336
+Hydrophorus callostomus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hydrophorus freyi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hydrophorus geminus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;2;SyDip;;483672
+Hydrophorus kolensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hydrophorus litoreus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;SyDip;;483393
+Hydrophorus nebulosus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;5;1;FE;;483390
+Hydrophorus norvegicus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;;;483332
+Hydrophorus oceanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hydrophorus pectinatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;SyDip;;964355
+Hydrophorus pilipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;2;0;;gap;483673
+Hydrophorus ponojensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;;gap;1079012
+Hydrophorus praecox;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;10;1;ITIS;;166685
+Hydrophorus rogenhoferi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;2;0;;gap;166706
+Hydrophorus rufibarbis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;SyDip;;483442
+Hydrophorus rufinasutus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Hydrophorus signifer;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;ITIS;gap;
+Hydrophorus signiferus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;2;6;2;SyDip;;483674
+Hydrophorus viridis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Hypophyllus obscurellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;;;;;gap;786595
+Lamprochromus bifasciatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;4;0;SyDip;gap;918664
+Lamprochromus buchtojarovi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Lamprochromus dalmaticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Lamprochromus defectivus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Lamprochromus kowarzi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Lamprochromus moraviensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Lamprochromus semiflavus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;0;5;0;;gap;1061454
+Lamprochromus speciosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Lamprochromus strobli;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Liancalus glaucus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Liancalus virens;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,iNat,SyDip;13;17;1;SyDip;;166708
+Ludovicius dufourii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Ludovicius eucerus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Machaerium maritimae;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;7;1;FE;;914022
+Machaerium sordidum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Machaerium thinophilum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera (Medetera) ambigua;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;504554
+Medetera abstrusa;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;34;37;1;SyDip;;467461
+Medetera acanthura;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;;;467462
+Medetera adjaniae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Medetera albiseta;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera albisetosa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera annulitarsus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera apicalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;52;60;2;ITIS;;387966
+Medetera arrogans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera betulae;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;151;153;1;;;483330
+Medetera bisecta;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera bispinosa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera borealis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;11;12;2;;;483505
+Medetera brevitarsa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera caeruleifacies;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;1;1;0;;;1140624
+Medetera capillata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera capitiloba;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera chrysotimiformis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera collarti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera complicata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera cuspidata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera delita;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera dendrobaena;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;3;0;SyDip;gap;504555
+Medetera diadema;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;2;0;ITIS;gap;166700
+Medetera dichrocera;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;1;SyDip;;469833
+Medetera excellens;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;1;SyDip;;483677
+Medetera excisa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera fasciata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;1;;;967407
+Medetera feminina;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;2;0;;gap;918655
+Medetera flavides;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera freyi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera fumida;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;467463
+Medetera glauca;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera glaucella;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera gracilicauda;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera gussakovskii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera impigra;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;2;0;;gap;166688
+Medetera incrassata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera infumata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;46;52;1;FE;;483287
+Medetera inspissata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;;;1067390
+Medetera jacula;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;449;456;1;SyDip;;166698
+Medetera jugalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;4;1;;;166681
+Medetera kerzhneri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera krivosheinae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera longa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera lorea;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;4;1;;;504556
+Medetera melancholica;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;8;8;2;;;483300
+Medetera micacea;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;1;3;1;SyDip;;504557
+Medetera mixta;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera morgei;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera muralis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;5;1;SyDip;;504558;1140621;483489
+Medetera murina;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera negrobovi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Medetera nitida;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;6;1;SyDip;;483435
+Medetera obesa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera obscura;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;1;SyDip;;483294
+Medetera oscillans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera pallens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera pallidior;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera pallipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;196;200;1;SyDip;;483329
+Medetera parenti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera parvicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera perfida;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera perplexa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera petrophila;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;166668
+Medetera pinicola;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;7;2;SyDip;;387968
+Medetera plumbella;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera polonica;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera prjachinae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera protuberans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera pseudoapicalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;28;29;3;;;483468
+Medetera pulchrifacies;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera relicta;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Medetera roghii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera saxatilis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;10;1;;;166697
+Medetera seguyi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera senicula;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;SyDip;;483348
+Medetera setiventris;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;4;1;;;467464
+Medetera signaticornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;104;105;3;ITIS;;387970
+Medetera stackelbergiana;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera storai;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera striata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;1;;;483416
+Medetera sylvestris;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera takagii;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;1;0;;gap;1140625
+Medetera taurica;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera tenuicauda;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera tristis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;5;1;SyDip;;589093
+Medetera truncorum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;7;13;1;;;166699
+Medetera tumidula;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Medetera unisetosa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Medetera vagans;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;4;1;SyDip;;483299
+Medetera veles;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;7;1;ITIS;;483360
+Medetera zinovjevi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Melanostolus melancholicus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;9;1;SyDip;;483326
+Melanostolus nigricilius;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Melanostolus tatjanae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Micromorphus albipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;ITIS;gap;918661
+Micromorphus claripennis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Micromorphus minusculus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Micromorphus shamshevi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Microphor anomalus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;7;8;1;SyDip;;546385
+Microphor crassipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;1;SyDip;;918479
+Microphor holosericeus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;101;104;2;SyDip;;469879
+Microphor intermedius;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;SyDip;;546387
+Microphor strobli;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;0;;;546386
+Microphorella curtipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;1056796
+Microphorella praecox;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;3;0;SyDip;gap;546384
+Micropygus vagans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Muscidideicus praetextatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Nematoproctus distendens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;918573
+Nematoproctus longifilus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Nematoproctus praesectus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;0;;;968932
+Neurigona abdominalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;4;0;SyDip;gap;495163
+Neurigona biflexa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Neurigona cilipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Neurigona dobrogica;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Neurigona erichsoni;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Neurigona lineata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;918658
+Neurigona nubifera;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Neurigona pallida;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;53;55;1;SyDip;;469891
+Neurigona quadrifasciata;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,iNat,SyDip;187;195;1;SyDip;;166718
+Neurigona suturalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;8;1;SyDip;;499328
+Neurigona unicolor;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Nodicornis binodicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;1149908
+Nodicornis maerens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Nodicornis nodicornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;FE;gap;1140876
+Nodicornis setosa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Oncopygius distans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;2;0;SyDip;gap;921990
+Oncopygius formosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Oncopygius magnificus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Orthoceratium lacustre;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Ortochile barbicoxa;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Ortochile nigrocoerulea;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Ortochile soccata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Parathalassius blasigii;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;0;SyDip;;737206
+Peloropeodes acuticornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;ITIS;gap;
+Peloropeodes meridionalis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Peodes forcipatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Peodes petsamoensis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;483676
+Poecilobothrus (Poecilobothrus) comitialis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Poecilobothrus (Poecilobothrus) ducalis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Poecilobothrus (Poecilobothrus) majesticus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Poecilobothrus (Poecilobothrus) nobilitatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;166690
+Poecilobothrus (Poecilobothrus) regalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;504519
+Poecilobothrus basilicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Poecilobothrus bigoti;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Poecilobothrus principalis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;1;4;1;FE;;504518
+Rhaphium albifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;499331
+Rhaphium albomaculatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium angusticorne;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Rhaphium antennatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium auctum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium basale;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Rhaphium bidilatatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium brevicorne;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;7;8;1;ITIS;;1056798
+Rhaphium caliginosum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;10;12;2;SyDip;;495196;499335
+Rhaphium commune;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;8;10;1;SyDip;;166740
+Rhaphium confine;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Rhaphium crassipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;12;13;1;ITIS;;166742
+Rhaphium discigerum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Rhaphium discolor;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;21;23;1;ITIS;;350382
+Rhaphium elegantulum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;7;1;ITIS;;350421
+Rhaphium ensicorne;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;166687
+Rhaphium fasciatum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;;;499332
+Rhaphium fascipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;3;0;ITIS;gap;499333
+Rhaphium fissum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;7;1;SyDip;;499334
+Rhaphium glaciale;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;1;SyDip;;467524
+Rhaphium gravipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium holmgreni;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;1;1;1;FE;;643667
+Rhaphium hungaricum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium intermedium;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium laticorne;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;5;1;SyDip;;166713
+Rhaphium latimanum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;12;12;1;;;467525
+Rhaphium lehri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Rhaphium longicorne;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;7;8;1;SyDip;;166727
+Rhaphium macrocerum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;4;0;SyDip;;1140880;166743
+Rhaphium micans;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;7;1;SyDip;;166701
+Rhaphium monotrichum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;10;13;2;SyDip;;468409
+Rhaphium nasutum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;5;5;1;SyDip;;483275
+Rhaphium nigribarbatum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;6;1;SyDip;;483678
+Rhaphium obscuripes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium patulum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;1;SyDip;;467526
+Rhaphium pectinatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium penicillatum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;3;0;;;166683
+Rhaphium psilopoda;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium quadrispinosum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium riparium;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;1;SyDip;;893793
+Rhaphium rivale;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium speciosum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Rhaphium suave;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium tridactylum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;SyDip;;643666
+Rhaphium tripartitum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;ITIS;gap;
+Rhaphium umbripenne;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;3;1;SyDip;;483679
+Rhaphium xiphias;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Rhaphium zetterstedti;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;6;6;0;SyDip;;1140879
+Rhinchoschizus imbellis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Scellus dolichocerus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Scellus gallicanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Scellus notatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;5;1;SyDip;;1141918
+Scellus obuchovae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Scellus spinimanus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;64;64;1;ITIS;;457081
+Schistostoma truncatum;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;3;1;SyDip;;574592
+Schoenophilus versutus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus aberrans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus albifrons;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;SyDip;;968933
+Sciapus albovittatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus algirus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus basilicus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;510507
+Sciapus bellus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus calceolatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus contristans;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus corsicanus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;10;13;1;;;963369
+Sciapus costae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus discretus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus euchromus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus euzonus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus evanidus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus flavicinctus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;SyDip;;1140616
+Sciapus frater;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;1;1;0;FE;;1141554
+Sciapus glaucescens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus heteropygus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus holoxanthos;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus laetus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus lesinensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Sciapus lobipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus longulus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;9;10;2;SyDip;;469880
+Sciapus maritimus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;4;1;SyDip;;510508
+Sciapus maurus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus montium;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus nervosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus nigricornis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus oldenbergi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus opacus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus pallens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;ITIS;gap;
+Sciapus palmipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus platypterus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,iNat,SyDip;135;144;1;SyDip;;166725
+Sciapus spiniger;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;SyDip;;677247
+Sciapus spinosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sciapus tenuinervis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sciapus ukrainensis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Sciapus venetus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Sciapus wiedemanni;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;8;12;1;SyDip;;166670
+Sciapus zonatulus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;4;6;1;FE;;483498
+Sybistroma (Hercostomus) lorifer;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sybistroma crinicauda;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sybistroma crinipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;SyDip;;504520
+Sybistroma discipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;SyDip;gap;504521
+Sybistroma impar;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sybistroma obcurella;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;1;1;1;;;1056797
+Sybistroma obscurella;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;22;39;2;SyDip;;1061453
+Sybistroma obscurellum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Sybistroma parvula;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sybistroma sciophilum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Sybistroma spectabilis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sybistroma sphenopterum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Sybistroma theodori;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Symbolia linearis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sympycnus (Sympycnus) bullocki;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sympycnus aeneicoxa;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;8;2;SyDip;;918665
+Sympycnus annulipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;2;2;0;FE;;1141602
+Sympycnus balearicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sympycnus brevimanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sympycnus cirripes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sympycnus desoutteri;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE;5;8;0;FE;;166696
+Sympycnus gregori;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sympycnus hispidus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sympycnus ignotus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sympycnus kowarzi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sympycnus pessimplex;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;;;;SyDip;gap;1138107
+Sympycnus pugiopes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sympycnus pulicarius;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;117;125;4;SyDip;;468419
+Sympycnus spiculatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Sympycnus strobli;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Sympycnus tenuifacies;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Syntormon abbreviatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Syntormon aulicum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon bicolorellum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Syntormon bicolorellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD;7;9;1;;;969383
+Syntormon codinai;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Syntormon denticulatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon dobrogicum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Syntormon filiger;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Syntormon freymuthae;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;499468
+Syntormon fuscipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;3;0;SyDip;gap;963373
+Syntormon giordanii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Syntormon luteicorne;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Syntormon macula;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Syntormon metathesis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;SyDip;;499469
+Syntormon mikii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Syntormon monile;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon mutillatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Syntormon pallipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;29;36;2;SyDip;;166680
+Syntormon pennatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Syntormon praeteritum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon pseudospicatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon pumilum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon pumilus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;9;13;2;SyDip;;468420;166719
+Syntormon punctatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon setosum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon silvianum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Syntormon subinermis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Syntormon submonile;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Syntormon sulcipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Syntormon tabarkae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Syntormon tarsatum;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Syntormon tarsatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;3;5;1;SyDip;;499477
+Syntormon triangulipes;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Syntormon zelleri;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;3;4;2;SyDip;;166711
+Systenus bipartitus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Systenus leucurus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;;gap;918656
+Systenus mallochi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Systenus pallipes;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;2;0;SyDip;;1067398
+Systenus scholtzii;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Tachytrechus ammobates;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;SyDip;;483426
+Tachytrechus beckeri;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Tachytrechus chetiger;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus clarus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus consobrinus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Tachytrechus doriae;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus eucerus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Tachytrechus genualis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus hamatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;1;0;;gap;483671
+Tachytrechus insignis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Tachytrechus kowarzi;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Tachytrechus melaleucus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus melanolepis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Tachytrechus notatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;9;11;1;SyDip;;504633;483354
+Tachytrechus novus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus ocior;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus planitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;FE;gap;
+Tachytrechus ripicola;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Tachytrechus robustus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Tachytrechus transitorius;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;0;1;0;;gap;504634
+Telmaturgus tumidulus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;6;0;SyDip;gap;499476
+Teneriffa spicata;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Teuchophorus bipilosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Teuchophorus calcaratus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;2;6;2;SyDip;;166694
+Teuchophorus cristulatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Teuchophorus monacanthus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;7;2;SyDip;;166676
+Teuchophorus nigricosta;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;6;11;1;SyDip;;166705
+Teuchophorus signatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;2;2;0;SyDip;;1140778
+Teuchophorus simplex;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;2;6;1;FE;;918670
+Teuchophorus spinigerellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;14;19;1;SyDip;;495201
+Teuchophorus tenuemarginatus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;
+Thinophilus achilleus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;FE;gap;
+Thinophilus argyropalpis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thinophilus flavipalpis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Thinophilus indigenus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thinophilus mirandus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thinophilus modestus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thinophilus ruficornis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;5;1;SyDip;;468422
+Thinophilus setulipalpis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thinophilus spinitarsis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thrypticus atomus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;2;1;;;483367
+Thrypticus bellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;4;2;SyDip;;499322
+Thrypticus cuneatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;3;1;SyDip;;499323
+Thrypticus divisus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Thrypticus exiguus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Thrypticus fennicus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thrypticus fulgidus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Thrypticus incanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thrypticus inconspicuus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Thrypticus intercedens;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;1;0;FE;gap;499324
+Thrypticus laetus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;1;1;1;;;499325
+Thrypticus nigricauda;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;2;6;1;;;499326
+Thrypticus politus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thrypticus pollinosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thrypticus pruinosus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Thrypticus smaragdinus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;0;5;0;;gap;499327
+Thrypticus tarsalis;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;6;2;;;510631
+Thrypticus virescens;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Thrypticus viridis;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Vetimicrotes mediterraneus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;SyDip;gap;
+Xanthochlorus fulvus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Xanthochlorus galbanus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,SyDip;2;4;1;;;1121952
+Xanthochlorus luridus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE,SyDip;;;;;gap;
+Xanthochlorus ornatus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;4;9;1;SyDip;;499474
+Xanthochlorus tenellus;Arthropoda;Insecta;Diptera;Dolichopodidae;BOLD,FE,SyDip;74;81;1;SyDip;;483467
+Xanthochlorus ultramontanus;Arthropoda;Insecta;Diptera;Dolichopodidae;FE;;;;;gap;

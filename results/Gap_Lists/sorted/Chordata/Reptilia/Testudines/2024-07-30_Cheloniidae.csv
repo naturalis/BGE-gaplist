@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caretta caretta;Chordata;Reptilia;Testudines;Cheloniidae;BOLD,FE,WORMS,RDB;64;104;1;WORMS;;158933
+Chelonia mydas;Chordata;Reptilia;Testudines;Cheloniidae;BOLD,FE,WORMS,RDB;73;80;1;WORMS;;26699
+Lepidochelys kempii;Chordata;Reptilia;Testudines;Cheloniidae;FE,WORMS,RDB;7;119;1;RDB;;190952

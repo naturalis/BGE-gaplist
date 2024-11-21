@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aplysia dactylomela;Mollusca;Gastropoda;Aplysiida;Aplysiidae;BOLD,WORMS;34;39;3;WORMS;;30859
+Aplysia depilans;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;;;;WORMS;gap;
+Aplysia fasciata;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;12;13;3;WORMS;;30858
+Aplysia juliana;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;9;10;3;WORMS;;30861
+Aplysia parvula;Mollusca;Gastropoda;Aplysiida;Aplysiidae;BOLD,WORMS;23;36;7;WORMS;;277007
+Aplysia punctata;Mollusca;Gastropoda;Aplysiida;Aplysiidae;BOLD,WORMS,iNat;43;60;3;WORMS;;33121
+Bursatella leachii;Mollusca;Gastropoda;Aplysiida;Aplysiidae;BOLD,WORMS;49;54;1;WORMS;;33120
+Dolabrifera edmundsi;Mollusca;Gastropoda;Aplysiida;Aplysiidae;BOLD;5;5;1;;;901718
+Notarchus indicus;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;;;;WORMS;gap;
+Notarchus punctatus;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;;;;WORMS;gap;
+Petalifera gravieri;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;;;;WORMS;gap;
+Petalifera petalifera;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;;;;WORMS;gap;
+Petalifera ramosa;Mollusca;Gastropoda;Aplysiida;Aplysiidae;BOLD;4;4;3;WORMS;;33116
+Phyllaplysia lafonti;Mollusca;Gastropoda;Aplysiida;Aplysiidae;WORMS;;;;WORMS;gap;

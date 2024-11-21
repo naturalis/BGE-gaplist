@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anisarchus medius;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;BOLD,WORMS;46;50;1;WORMS;;59614
+Chirolophis ascanii;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;WORMS;;;;WORMS;gap;
+Eumesogrammus praecisus;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;BOLD;27;35;1;WORMS;;54204
+Leptoclinus maculatus;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;BOLD,WORMS;77;82;2;WORMS;;34578
+Lumpenus fabricii;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;WORMS;;;;FB;gap;
+Lumpenus lampretaeformis;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;BOLD;36;44;1;WORMS;;59599
+Stichaeus punctatus;Chordata;Actinopterygii;Scorpaeniformes;Stichaeidae;BOLD;46;47;2;WORMS;;72892

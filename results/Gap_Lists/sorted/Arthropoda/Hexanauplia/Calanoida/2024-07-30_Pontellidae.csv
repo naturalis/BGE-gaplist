@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anomalocera patersoni;Arthropoda;Hexanauplia;Calanoida;Pontellidae;BOLD;34;35;2;;;607191
+Calanopia americana;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;0;4;0;;gap;753716
+Calanopia elliptica;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;6;21;2;WORMS;;349755
+Calanopia media;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;;gap;
+Labidocera acuta;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;55;96;3;WORMS;;315364
+Labidocera acutifrons;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;8;20;2;WORMS;;349757
+Labidocera aestiva;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;4;4;0;WORMS;;753714
+Labidocera brunescens;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;WORMS;gap;
+Labidocera detruncata;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;3;4;1;WORMS;;799620
+Labidocera madurae;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;7;7;1;;;651838
+Labidocera nerii;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;WORMS;gap;
+Labidocera orsinii;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;;gap;
+Labidocera pavo;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;3;3;2;;;799624
+Labidocera wollastoni;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;1;2;0;WORMS;;801331
+Pontella atlantica;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;WORMS;gap;
+Pontella lobiancoi;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;WORMS;gap;
+Pontella mediterranea;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;WORMS;gap;
+Pontella securifer;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;;;;WORMS;gap;
+Pontella spinipes;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;10;10;1;;;799608
+Pontellina plumata;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;13;24;5;WORMS;;82131
+Pontellopsis brevis;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;0;1;0;WORMS;gap;349769
+Pontellopsis regalis;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;3;3;1;WORMS;;82813
+Pontellopsis villosa;Arthropoda;Hexanauplia;Calanoida;Pontellidae;WORMS;0;2;0;WORMS;gap;801334

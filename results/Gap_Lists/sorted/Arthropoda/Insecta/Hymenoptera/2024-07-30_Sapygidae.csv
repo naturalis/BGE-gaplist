@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Monosapyga clavicornis;Arthropoda;Insecta;Hymenoptera;Sapygidae;BOLD,FE,iNat,DTN;21;28;1;FE;;330493
+Monosapyga theresae;Arthropoda;Insecta;Hymenoptera;Sapygidae;FE;;;;;gap;
+Polochrum repandum;Arthropoda;Insecta;Hymenoptera;Sapygidae;FE;;;;FE;gap;
+Sapyga morawitzi;Arthropoda;Insecta;Hymenoptera;Sapygidae;FE;;;;FE;gap;
+Sapyga multinotata;Arthropoda;Insecta;Hymenoptera;Sapygidae;FE;;;;;gap;
+Sapyga octoguttata;Arthropoda;Insecta;Hymenoptera;Sapygidae;FE;;;;;gap;
+Sapyga quinquepunctata;Arthropoda;Insecta;Hymenoptera;Sapygidae;BOLD,FE,iNat,HySI,DTN;23;31;2;FE;;349394
+Sapyga similis;Arthropoda;Insecta;Hymenoptera;Sapygidae;BOLD,FE,DTN;26;28;3;FE;;349388
+Sapygina decemguttata;Arthropoda;Insecta;Hymenoptera;Sapygidae;BOLD,FE,iNat,DTN;28;30;2;FE;;330490;349379
+Sapygina kurzenkoi;Arthropoda;Insecta;Hymenoptera;Sapygidae;FE;;;;;gap;

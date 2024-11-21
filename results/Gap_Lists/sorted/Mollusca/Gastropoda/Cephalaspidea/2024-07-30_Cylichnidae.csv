@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bogasonia volutoides;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;WORMS;;;;;gap;
+Cylichna alba;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;BOLD,WORMS;29;40;6;WORMS;;468224
+Cylichna cylindracea;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;BOLD,WORMS;9;14;2;WORMS;;642800
+Cylichna lemchei;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;BOLD,WORMS;1;2;0;;;665578
+Cylichna magna;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;BOLD;1;4;1;;;599292
+Cylichna occulta;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;BOLD;1;12;0;;;665570
+Cylichna propecylindracea;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;WORMS;;;;WORMS;gap;
+Mamillocylichna abyssicola;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;WORMS;;;;;gap;
+Mamillocylichna richardi;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;WORMS;;;;WORMS;gap;
+Toledonia limnaeoides;Mollusca;Gastropoda;Cephalaspidea;Cylichnidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ophioconis forbesi;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;WORMS;;;;WORMS;gap;
+Ophioconis vivipara;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;WORMS;;;;;gap;
+Ophiolycus purpureus;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;BOLD;10;10;1;WORMS;;598122
+Ophiomyxa flaccida;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;BOLD;1;5;0;WORMS;;219868
+Ophiomyxa pentagona;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;WORMS;;;;WORMS;gap;
+Ophiomyxa serpentaria;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;WORMS;;;;WORMS;gap;
+Ophioscolex glacialis;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiomyxidae;BOLD,WORMS;7;10;2;WORMS;;219889

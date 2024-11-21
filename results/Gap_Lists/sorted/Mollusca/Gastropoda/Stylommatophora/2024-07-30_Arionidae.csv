@@ -1,0 +1,53 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ariolimax columbianus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;7;10;2;;;350910
+Arion anguloi;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;1;1;1;;;82882
+Arion anthracius;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion ater;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE,iNat;43;61;6;FE;;83464;999510
+Arion ater x Arion rufus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;3;8;3;;;649434
+Arion atripunctatus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion baeticus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;1;1;1;;;79729
+Arion circumscriptus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;13;18;3;;;80816
+Arion distinctus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE,iNat;54;66;2;;;26681
+Arion euthymeanus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion fagophilus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion fasciatus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;40;48;3;;;79730
+Arion flagellus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;3;8;3;;;82200
+Arion franciscoloi;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;2;2;2;;;79731
+Arion fuligineus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion fuscus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;282;343;3;;;81531
+Arion gilvus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion hispanicus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion hortensis;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE,iNat;36;41;4;;;26682
+Arion intermedius;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE,iNat;37;38;2;;;26679
+Arion iratii;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;1;1;1;;;82201
+Arion isseli;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion lizarrustii;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;1;1;1;;;82883
+Arion lusitanicus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;15;19;1;FE;;79732
+Arion magnus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;2;2;1;;;1160742
+Arion molinae;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;1;2;1;;;80817
+Arion nobrei;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;0;1;1;;gap;902497
+Arion obesoductus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;2;2;0;;;856595
+Arion occultus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;2;2;1;;;304562
+Arion owenii;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;5;6;1;;;26680
+Arion paularensis;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;1;1;1;;;82884
+Arion ponsi;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion rufus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE,iNat;24;35;2;FE;;79733
+Arion rufus x vulgaris;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;1;1;0;;;856585
+Arion silvaticus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;15;19;5;ITIS;;82885
+Arion simrothi;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion subfuscus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE,iNat;227;243;10;;;79734
+Arion transsylvanus;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion urbiae;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;1;1;1;;;79735
+Arion vejdowskyi;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;;gap;
+Arion vulgaris;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,iNat;141;183;4;;;640683
+Arion vulgaris x Arion ater;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;6;8;4;;;904862
+Arion vulgaris x Arion rufus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;2;3;2;;;649435
+Arion wiktori;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;2;3;2;;;80818
+Ariunculus speziae;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;FE;gap;
+Geomalacus anguiformis;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;122;142;9;;;904492
+Geomalacus maculosus;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD,FE;364;403;12;FE;;82203
+Geomalacus malagensis;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;99;110;2;;;904493
+Geomalacus oliveirae;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;67;92;11;;;795454
+Kobeltia intermedius;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;;;;FE;gap;81530
+Letourneuxia moreleti;Mollusca;Gastropoda;Stylommatophora;Arionidae;FE;;;;FE;gap;
+Prophysaon foliolatum;Mollusca;Gastropoda;Stylommatophora;Arionidae;BOLD;29;31;9;;;28897

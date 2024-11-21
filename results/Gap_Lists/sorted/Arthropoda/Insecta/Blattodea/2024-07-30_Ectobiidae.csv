@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Blattella germanica;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE,iNat;241;310;3;FE;;201708
+Capraiellus panzeri;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;34;43;2;FE;;991218
+Ectobius balcani;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;3;3;0;FE;;1140381
+Ectobius brunneri;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;2;3;0;;;991219
+Ectobius corsorum;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;6;6;2;;;1056694
+Ectobius erythronotus;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;15;15;2;;;767400
+Ectobius intermedius;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;10;10;2;;;1056693
+Ectobius lapponicus;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE,iNat;36;42;1;FE;;394077
+Ectobius lucidus;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;4;7;1;FE;;544938
+Ectobius pallidus;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE,iNat;32;37;1;FE;;593812
+Ectobius sylvestris;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE,iNat;49;63;1;FE;;544940
+Ectobius vittiventris;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE,iNat;62;70;1;FE;;544939
+Loboptera decipiens;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;25;29;1;FE;;700420
+Phyllodromica brullei;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;1;1;1;FE;;937576
+Phyllodromica iberica;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;6;6;1;;;154049
+Phyllodromica maculata;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE,iNat;2;2;0;FE;;1140383
+Phyllodromica marginata;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;2;8;1;FE;;331390
+Phyllodromica megerlei;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;4;4;0;FE;;1140382
+Phyllodromica quadracantha;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;2;2;1;;;154048
+Phyllodromica subaptera;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD,FE;7;8;2;FE;;154050
+Planuncus vinzi;Arthropoda;Insecta;Blattodea;Ectobiidae;BOLD;3;3;1;;;1057423

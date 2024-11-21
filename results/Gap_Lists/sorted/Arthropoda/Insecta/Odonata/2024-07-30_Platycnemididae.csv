@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Platycnemis acutipennis;Arthropoda;Insecta;Odonata;Platycnemididae;BOLD,FE;6;14;1;;;303505
+Platycnemis latipes;Arthropoda;Insecta;Odonata;Platycnemididae;BOLD,FE;5;11;0;;;538958
+Platycnemis pennipes;Arthropoda;Insecta;Odonata;Platycnemididae;BOLD,FE,iNat;121;190;1;FE;;248203

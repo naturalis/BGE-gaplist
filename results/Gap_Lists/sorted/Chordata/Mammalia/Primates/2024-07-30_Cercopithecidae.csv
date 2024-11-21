@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cercopithecus ascanius;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;11;11;1;;;12477
+Cercopithecus neglectus;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;9;9;3;ITIS;;647703
+Cercopithecus roloway;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;1;3;1;ITIS;;647708
+Chlorocebus sabaeus;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;24;26;1;ITIS;;79026
+Macaca mulatta;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;56;72;7;ITIS;;12471
+Macaca sylvanus;Chordata;Mammalia;Primates;Cercopithecidae;FE;6;6;1;ITIS;;30410
+Mandrillus leucophaeus;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;6;7;1;;;16487
+Mandrillus sphinx;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;14;17;2;ITIS;;53165
+Papio anubis;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;44;52;4;ITIS;;12531
+Papio hamadryas;Chordata;Mammalia;Primates;Cercopithecidae;BOLD;16;16;1;ITIS;;12530

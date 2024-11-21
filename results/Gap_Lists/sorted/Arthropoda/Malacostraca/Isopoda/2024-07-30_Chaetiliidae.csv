@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chiridotea tuftsii;Arthropoda;Malacostraca;Isopoda;Chaetiliidae;WORMS;7;7;1;WORMS;;142561
+Parachiridotea panousei;Arthropoda;Malacostraca;Isopoda;Chaetiliidae;WORMS;;;;;gap;
+Saduria entomon;Arthropoda;Malacostraca;Isopoda;Chaetiliidae;BOLD,WORMS;10;11;2;WORMS;;785393
+Saduria megalura;Arthropoda;Malacostraca;Isopoda;Chaetiliidae;WORMS;;;;WORMS;gap;
+Saduria sabini;Arthropoda;Malacostraca;Isopoda;Chaetiliidae;BOLD,WORMS;10;15;2;WORMS;;373995
+Saduriella losadai;Arthropoda;Malacostraca;Isopoda;Chaetiliidae;WORMS;;;;;gap;

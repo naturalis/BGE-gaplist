@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Licnodamaeus baccetti;Arthropoda;Arachnida;Sarcoptiformes;Licnodamaeidae;FE;;;;;gap;
+Licnodamaeus costula;Arthropoda;Arachnida;Sarcoptiformes;Licnodamaeidae;FE;;;;;gap;
+Licnodamaeus pulcherrimus;Arthropoda;Arachnida;Sarcoptiformes;Licnodamaeidae;BOLD,FE;3;7;1;FE;;738013
+Licnodamaeus undulatus;Arthropoda;Arachnida;Sarcoptiformes;Licnodamaeidae;FE;;;;FE;gap;

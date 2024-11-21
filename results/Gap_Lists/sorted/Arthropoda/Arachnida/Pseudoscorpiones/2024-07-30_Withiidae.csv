@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Withius despaxi;Arthropoda;Arachnida;Pseudoscorpiones;Withiidae;FE;;;;;gap;
+Withius faunus;Arthropoda;Arachnida;Pseudoscorpiones;Withiidae;FE;;;;FE;gap;
+Withius hispanus;Arthropoda;Arachnida;Pseudoscorpiones;Withiidae;BOLD,FE;6;7;3;FE;;330732
+Withius piger;Arthropoda;Arachnida;Pseudoscorpiones;Withiidae;FE;1;2;1;ITIS;;1150825

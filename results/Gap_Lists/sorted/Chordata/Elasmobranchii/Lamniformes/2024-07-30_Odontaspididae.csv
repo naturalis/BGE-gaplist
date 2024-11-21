@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carcharias taurus;Chordata;Elasmobranchii;Lamniformes;Odontaspididae;WORMS;115;129;2;WORMS;;64251;179818
+Odontaspis ferox;Chordata;Elasmobranchii;Lamniformes;Odontaspididae;BOLD,WORMS;13;17;1;WORMS;;85725
+Odontaspis noronhai;Chordata;Elasmobranchii;Lamniformes;Odontaspididae;WORMS;5;6;1;WORMS;;179831

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Melphidippa borealis;Arthropoda;Malacostraca;Amphipoda;Melphidippidae;BOLD,WORMS;8;12;2;;;597880
+Melphidippa goesi;Arthropoda;Malacostraca;Amphipoda;Melphidippidae;BOLD,WORMS;1;4;0;WORMS;;894435
+Melphidippa macrura;Arthropoda;Malacostraca;Amphipoda;Melphidippidae;BOLD,WORMS;3;4;0;;;766865
+Melphidippella macra;Arthropoda;Malacostraca;Amphipoda;Melphidippidae;WORMS;;;;WORMS;gap;

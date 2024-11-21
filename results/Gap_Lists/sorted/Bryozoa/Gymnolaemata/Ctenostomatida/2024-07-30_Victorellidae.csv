@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bulbella abscondita;Bryozoa;Gymnolaemata;Ctenostomatida;Victorellidae;FE,WORMS;;;;;gap;
+Victorella muelleri;Bryozoa;Gymnolaemata;Ctenostomatida;Victorellidae;FE,WORMS;;;;WORMS;gap;
+Victorella pavida;Bryozoa;Gymnolaemata;Ctenostomatida;Victorellidae;BOLD,FE,WORMS;2;6;1;;;507087

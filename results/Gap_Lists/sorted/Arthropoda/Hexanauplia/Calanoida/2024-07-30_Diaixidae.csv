@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diaixis helenae;Arthropoda;Hexanauplia;Calanoida;Diaixidae;WORMS;;;;;gap;
+Diaixis hibernica;Arthropoda;Hexanauplia;Calanoida;Diaixidae;BOLD,WORMS;3;4;3;WORMS;;656614
+Diaixis pygmaea;Arthropoda;Hexanauplia;Calanoida;Diaixidae;WORMS;;;;WORMS;gap;
+Diaixis trunovi;Arthropoda;Hexanauplia;Calanoida;Diaixidae;WORMS;;;;;gap;

@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Apus affinis;Chordata;Aves;Apodiformes;Apodidae;FE;14;17;1;ITIS;;114668
+Apus apus;Chordata;Aves;Apodiformes;Apodidae;BOLD,FE,iNat;46;56;2;ITIS;;9912
+Apus caffer;Chordata;Aves;Apodiformes;Apodidae;FE;0;3;0;ITIS;gap;114675
+Apus pallidus;Chordata;Aves;Apodiformes;Apodidae;BOLD,FE,iNat;4;4;1;ITIS;;114679
+Apus unicolor;Chordata;Aves;Apodiformes;Apodidae;BOLD,FE;3;3;0;ITIS;;114680
+Chaetura pelagica;Chordata;Aves;Apodiformes;Apodidae;FE;8;11;2;ITIS;;9918
+Hirundapus caudacutus;Chordata;Aves;Apodiformes;Apodidae;FE;8;8;1;ITIS;;52562
+Tachymarptis melba;Chordata;Aves;Apodiformes;Apodidae;BOLD,FE,iNat;6;6;1;ITIS;;102766

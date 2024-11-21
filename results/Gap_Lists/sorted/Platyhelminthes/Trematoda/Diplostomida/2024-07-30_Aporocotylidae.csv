@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aporocotyle simplex;Platyhelminthes;Trematoda;Diplostomida;Aporocotylidae;WORMS;;;;;gap;
+Aporocotyle spinosicanalis;Platyhelminthes;Trematoda;Diplostomida;Aporocotylidae;WORMS;;;;;gap;
+Cardicola forsteri;Platyhelminthes;Trematoda;Diplostomida;Aporocotylidae;BOLD;1;2;0;;;906222
+Cardicola opisthorchis;Platyhelminthes;Trematoda;Diplostomida;Aporocotylidae;BOLD;0;1;0;;gap;906221
+Chimaerohemecus trondheimensis;Platyhelminthes;Trematoda;Diplostomida;Aporocotylidae;BOLD,WORMS;1;1;1;;;31627
+Hyperandrotrema cetorhini;Platyhelminthes;Trematoda;Diplostomida;Aporocotylidae;WORMS;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Donax semistriatus;Mollusca;Bivalvia;Cardiida;Donacidae;WORMS;;;;;gap;
+Donax trunculus;Mollusca;Bivalvia;Cardiida;Donacidae;BOLD,WORMS;21;37;1;WORMS;;285865
+Donax variegatus;Mollusca;Bivalvia;Cardiida;Donacidae;BOLD;8;14;1;WORMS;;898434
+Donax venustus;Mollusca;Bivalvia;Cardiida;Donacidae;WORMS;;;;WORMS;gap;
+Donax vittatus;Mollusca;Bivalvia;Cardiida;Donacidae;BOLD,WORMS,iNat;93;104;1;WORMS;;642320

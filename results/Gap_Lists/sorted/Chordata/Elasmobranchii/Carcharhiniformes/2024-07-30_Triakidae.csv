@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Galeorhinus galeus;Chordata;Elasmobranchii;Carcharhiniformes;Triakidae;BOLD,WORMS;44;80;1;WORMS;;12791
+Mustelus asterias;Chordata;Elasmobranchii;Carcharhiniformes;Triakidae;BOLD,WORMS;45;57;1;WORMS;;77456
+Mustelus mustelus;Chordata;Elasmobranchii;Carcharhiniformes;Triakidae;BOLD,WORMS;184;222;1;WORMS;;78400
+Mustelus punctulatus;Chordata;Elasmobranchii;Carcharhiniformes;Triakidae;BOLD,WORMS;185;188;1;WORMS;;265327

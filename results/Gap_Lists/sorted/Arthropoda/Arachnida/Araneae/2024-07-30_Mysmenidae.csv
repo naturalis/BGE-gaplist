@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Microdipoena jobi;Arthropoda;Arachnida;Araneae;Mysmenidae;BOLD;1;2;0;;;831596
+Mysmena gibbosa;Arthropoda;Arachnida;Araneae;Mysmenidae;FE;;;;;gap;
+Mysmena leucoplagiata;Arthropoda;Arachnida;Araneae;Mysmenidae;FE;;;;FE;gap;
+Mysmenella jobi;Arthropoda;Arachnida;Araneae;Mysmenidae;FE;;;;FE;gap;
+Trogloneta canariensis;Arthropoda;Arachnida;Araneae;Mysmenidae;FE;;;;;gap;
+Trogloneta granulum;Arthropoda;Arachnida;Araneae;Mysmenidae;FE;;;;FE;gap;
+Trogloneta madeirensis;Arthropoda;Arachnida;Araneae;Mysmenidae;FE;1;1;1;;;848206

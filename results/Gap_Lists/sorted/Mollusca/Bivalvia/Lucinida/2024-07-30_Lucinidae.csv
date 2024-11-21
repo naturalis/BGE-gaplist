@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ctena decussata;Mollusca;Bivalvia;Lucinida;Lucinidae;WORMS;;;;WORMS;gap;
+Lucinella divaricata;Mollusca;Bivalvia;Lucinida;Lucinidae;WORMS;;;;WORMS;gap;
+Lucinoma borealis;Mollusca;Bivalvia;Lucinida;Lucinidae;BOLD,WORMS;7;17;1;WORMS;;674384
+Megaxinus appendiculatus;Mollusca;Bivalvia;Lucinida;Lucinidae;WORMS;;;;WORMS;gap;
+Megaxinus unguiculinus;Mollusca;Bivalvia;Lucinida;Lucinidae;WORMS;;;;;gap;
+Myrtea amorpha;Mollusca;Bivalvia;Lucinida;Lucinidae;WORMS;;;;WORMS;gap;
+Myrtea spinifera;Mollusca;Bivalvia;Lucinida;Lucinidae;BOLD,WORMS;4;15;1;WORMS;;673994

@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hymenopenaeus aphoticus;Arthropoda;Malacostraca;Decapoda;Solenoceridae;WORMS;;;;;gap;
+Hymenopenaeus chacei;Arthropoda;Malacostraca;Decapoda;Solenoceridae;BOLD,WORMS;0;1;0;;gap;181788
+Hymenopenaeus debilis;Arthropoda;Malacostraca;Decapoda;Solenoceridae;BOLD,WORMS;17;35;4;WORMS;;181787
+Pleoticus muelleri;Arthropoda;Malacostraca;Decapoda;Solenoceridae;BOLD;79;104;1;WORMS;;500030
+Solenocera africana;Arthropoda;Malacostraca;Decapoda;Solenoceridae;WORMS;9;9;2;WORMS;;558943
+Solenocera crassicornis;Arthropoda;Malacostraca;Decapoda;Solenoceridae;WORMS;35;49;6;WORMS;;173093
+Solenocera membranacea;Arthropoda;Malacostraca;Decapoda;Solenoceridae;BOLD,WORMS;15;22;1;WORMS;;89893

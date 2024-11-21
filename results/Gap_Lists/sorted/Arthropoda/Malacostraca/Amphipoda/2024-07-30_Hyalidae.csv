@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Apohyale media;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD;18;18;4;WORMS;;721513
+Apohyale perieri;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD,WORMS;21;21;4;WORMS;;721512;212377;721515
+Apohyale prevostii;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD;71;72;1;WORMS;;347148;32045
+Apohyale stebbingi;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD;41;43;11;;;721514
+Hyale stebbingi;Arthropoda;Malacostraca;Amphipoda;Hyalidae;WORMS;;;;WORMS;gap;
+Parhyale aquilina;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD,WORMS;2;4;1;WORMS;;753705
+Parhyale hawaiensis;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD;20;22;3;WORMS;;153383
+Parhyale plumicornis;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD,WORMS;2;2;2;WORMS;;798301
+Protohyale (Protohyale) schmidtii;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD;34;34;5;WORMS;;721516
+Serejohyale spinidactylus;Arthropoda;Malacostraca;Amphipoda;Hyalidae;BOLD;27;27;5;WORMS;;721518

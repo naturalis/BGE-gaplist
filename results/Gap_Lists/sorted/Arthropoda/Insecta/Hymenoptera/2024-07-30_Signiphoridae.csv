@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chartocerus conjugalis;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;FE;gap;
+Chartocerus elongatus;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;FE;gap;
+Chartocerus kurdjumovi;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;FE;gap;
+Chartocerus niger;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;1;1;1;FE;;959085
+Chartocerus simillimus;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;FE;gap;
+Chartocerus subaeneus;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE,DTN;;;;FE;gap;
+Clytina giraudi;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;;gap;
+Signiphora aleyrodis;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;;gap;
+Signiphora merceti;Arthropoda;Insecta;Hymenoptera;Signiphoridae;FE;;;;;gap;
+Thysanus ater;Arthropoda;Insecta;Hymenoptera;Signiphoridae;BOLD,FE,DTN;2;4;1;;;758585

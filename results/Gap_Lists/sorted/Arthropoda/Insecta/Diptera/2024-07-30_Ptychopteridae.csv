@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ptychoptera agnes;Arthropoda;Insecta;Diptera;Ptychopteridae;FE,SyDip;;;;;gap;
+Ptychoptera albimana;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE;60;68;1;FE;;310722
+Ptychoptera contaminata;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,iNat,SyDip;39;50;1;SyDip;;316693
+Ptychoptera delmastroi;Arthropoda;Insecta;Diptera;Ptychopteridae;FE,SyDip;;;;;gap;
+Ptychoptera handlirschi;Arthropoda;Insecta;Diptera;Ptychopteridae;FE,SyDip;;;;SyDip;gap;
+Ptychoptera helena;Arthropoda;Insecta;Diptera;Ptychopteridae;FE,SyDip;;;;SyDip;gap;
+Ptychoptera hugoi;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,SyDip;2;2;1;;;497023
+Ptychoptera lacustris;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,SyDip;26;32;2;SyDip;;310723
+Ptychoptera longicauda;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,SyDip;25;26;1;SyDip;;316695
+Ptychoptera minuta;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,SyDip;33;36;3;;;316694
+Ptychoptera obscura;Arthropoda;Insecta;Diptera;Ptychopteridae;FE,SyDip;;;;SyDip;gap;
+Ptychoptera paludosa;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,SyDip;27;29;1;;;316692
+Ptychoptera scutellaris;Arthropoda;Insecta;Diptera;Ptychopteridae;BOLD,FE,SyDip;22;25;2;;;310726
+Ptychoptera silvicola;Arthropoda;Insecta;Diptera;Ptychopteridae;FE,SyDip;;;;;gap;

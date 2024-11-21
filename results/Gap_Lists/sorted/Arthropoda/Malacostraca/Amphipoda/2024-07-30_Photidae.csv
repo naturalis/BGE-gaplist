@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gammaropsis abyssalis;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis crenulata;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis dentata;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis emancipata;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis lobata;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis maculata;Arthropoda;Malacostraca;Amphipoda;Photidae;BOLD,WORMS;4;9;1;WORMS;;361864
+Gammaropsis melanops;Arthropoda;Malacostraca;Amphipoda;Photidae;BOLD,WORMS;5;14;1;WORMS;;683974
+Gammaropsis nitida;Arthropoda;Malacostraca;Amphipoda;Photidae;BOLD,WORMS;11;14;1;WORMS;;469357
+Gammaropsis ostroumowi;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis palmata;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;WORMS;gap;
+Gammaropsis pseudostroumowi;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Gammaropsis sophiae;Arthropoda;Malacostraca;Amphipoda;Photidae;BOLD,WORMS;1;4;0;WORMS;;708824
+Gammaropsis ulrici;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Megamphopus brevidactylus;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Megamphopus cornutus;Arthropoda;Malacostraca;Amphipoda;Photidae;BOLD,WORMS;9;16;1;WORMS;;593138
+Megamphopus longicornis;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;WORMS;gap;
+Photis lamellifera;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;
+Photis longicaudata;Arthropoda;Malacostraca;Amphipoda;Photidae;BOLD,WORMS;10;22;1;WORMS;;387630
+Photis pollex;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;WORMS;gap;
+Photis tenuicornis;Arthropoda;Malacostraca;Amphipoda;Photidae;WORMS;;;;;gap;

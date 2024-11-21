@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ablepharus budaki;Chordata;Reptilia;Squamata;Scincidae;FE;8;8;6;;;987059
+Ablepharus kitaibelii;Chordata;Reptilia;Squamata;Scincidae;FE,RDB;3;4;2;RDB;;987061;169308
+Chalcides bedriagai;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Chalcides chalcides;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Chalcides ocellatus;Chordata;Reptilia;Squamata;Scincidae;FE,RDB;15;15;5;RDB;;169317
+Chalcides sexlineatus;Chordata;Reptilia;Squamata;Scincidae;FE;;;;;gap;
+Chalcides simonyi;Chordata;Reptilia;Squamata;Scincidae;FE;;;;;gap;
+Chalcides striatus;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Chalcides viridanus;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Cryptoblepharus boutonii;Chordata;Reptilia;Squamata;Scincidae;BOLD;9;9;5;WORMS;;460048
+Euprepis auratus;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Euprepis vittatus;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Flexiseps johannae;Chordata;Reptilia;Squamata;Scincidae;BOLD;;;;ITIS;gap;535354
+Heremites auratus;Chordata;Reptilia;Squamata;Scincidae;RDB;;;;RDB;gap;
+Novoeumeces schneiderii;Chordata;Reptilia;Squamata;Scincidae;FE;;;;FE;gap;
+Ophiomorus punctatissimus;Chordata;Reptilia;Squamata;Scincidae;FE;13;13;5;FE;;169310

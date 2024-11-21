@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crex crex;Chordata;Aves;Gruiformes;Rallidae;BOLD,FE,iNat;10;11;1;FE;;52507
+Fulica americana;Chordata;Aves;Gruiformes;Rallidae;FE;7;9;1;;;10023
+Fulica atra;Chordata;Aves;Gruiformes;Rallidae;BOLD,FE,iNat;28;33;1;;;52508
+Fulica cristata;Chordata;Aves;Gruiformes;Rallidae;FE;1;1;1;;;113466
+Gallinula chloropus;Chordata;Aves;Gruiformes;Rallidae;BOLD,FE,iNat;47;57;1;FE;;12047
+Limnocorax flavirostris;Chordata;Aves;Gruiformes;Rallidae;FE;;;;FE;gap;
+Porphyrio alleni;Chordata;Aves;Gruiformes;Rallidae;FE;6;6;1;ITIS;;113509
+Porphyrio martinica;Chordata;Aves;Gruiformes;Rallidae;FE;11;16;1;ITIS;;17299
+Porphyrio poliocephalus;Chordata;Aves;Gruiformes;Rallidae;FE;1;1;1;FE;;857587
+Porphyrio porphyrio;Chordata;Aves;Gruiformes;Rallidae;FE;8;16;1;FE;;88781
+Porzana carolina;Chordata;Aves;Gruiformes;Rallidae;FE;6;8;1;FE;;10025
+Porzana parva;Chordata;Aves;Gruiformes;Rallidae;BOLD,FE,iNat;4;5;0;FE;;113515
+Porzana porzana;Chordata;Aves;Gruiformes;Rallidae;BOLD,FE,iNat;5;6;1;FE;;52505
+Porzana pusilla;Chordata;Aves;Gruiformes;Rallidae;FE,iNat;5;8;1;FE;;91337
+Rallus aquaticus;Chordata;Aves;Gruiformes;Rallidae;BOLD,FE,iNat;94;96;2;;;52504

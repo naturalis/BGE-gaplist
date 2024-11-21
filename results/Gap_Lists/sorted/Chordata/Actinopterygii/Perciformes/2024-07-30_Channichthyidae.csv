@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Champsocephalus gunnari;Chordata;Actinopterygii;Perciformes;Channichthyidae;BOLD;33;52;1;WORMS;;11118
+Channichthys rhinoceratus;Chordata;Actinopterygii;Perciformes;Channichthyidae;BOLD;61;123;1;WORMS;;72300
+Channichthys velifer;Chordata;Actinopterygii;Perciformes;Channichthyidae;BOLD;8;13;0;WORMS;;349800

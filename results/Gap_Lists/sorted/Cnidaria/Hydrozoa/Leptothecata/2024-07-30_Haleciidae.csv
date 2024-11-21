@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halecium articulosum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium banyulense;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium beanii;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD;12;18;2;WORMS;;726299
+Halecium birulai;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD,WORMS;0;1;0;;gap;1058790
+Halecium conicum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;WORMS;gap;
+Halecium corrugatum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;930771
+Halecium curvicaule;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD,WORMS;3;6;0;WORMS;;767051
+Halecium delicatulum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;0;1;0;WORMS;gap;976405
+Halecium groenlandicum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium halecinum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD;21;46;8;WORMS;;591128
+Halecium labrosum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD,WORMS;13;19;1;;;726300
+Halecium lankesterii;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;WORMS;gap;
+Halecium liouvillei;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium mediterraneum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium muricatum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD,WORMS;17;24;1;;;726301
+Halecium nanum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium ornatum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium petrosum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium profundum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium pusillum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;WORMS;gap;
+Halecium sessile;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD,WORMS;1;2;0;;;726302
+Halecium tenellum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;;;;;gap;
+Halecium textum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD;0;2;0;;gap;726303
+Halecium undulatum;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;WORMS;0;1;0;;gap;930761
+Nemalecium lighti;Cnidaria;Hydrozoa;Leptothecata;Haleciidae;BOLD;5;8;1;WORMS;;754002

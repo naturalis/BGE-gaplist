@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Phylloscopus bonelli;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;6;6;1;FE;;117470
+Phylloscopus borealis;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;99;103;4;FE;;9738
+Phylloscopus canariensis;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE;68;70;1;FE;;117472
+Phylloscopus collybita;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;83;110;2;FE;;73240
+Phylloscopus fuscatus;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;32;34;1;FE;;101146
+Phylloscopus humei;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;9;20;1;FE;;101147
+Phylloscopus ibericus;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;28;28;1;;;117483
+Phylloscopus inornatus;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;24;29;1;FE;;93219
+Phylloscopus orientalis;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE;3;5;1;FE;;117494
+Phylloscopus proregulus;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;21;30;1;FE;;93232
+Phylloscopus sibillatrix;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;;;;ITIS;gap;93222
+Phylloscopus tenellipes;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD;34;34;1;;;117506
+Phylloscopus trochiloides;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;24;27;2;FE;;93211
+Phylloscopus trochilus;Chordata;Aves;Passeriformes;Phylloscopidae;BOLD,FE,iNat;61;69;1;FE;;86961

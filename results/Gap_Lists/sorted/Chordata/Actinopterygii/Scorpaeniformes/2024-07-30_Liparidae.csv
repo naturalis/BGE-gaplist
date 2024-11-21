@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Careproctus aciculipunctatus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Careproctus dubius;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;3;3;1;;;785396
+Careproctus kidoi;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;2;2;1;;;477664
+Careproctus merretti;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Careproctus micropus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;11;12;1;WORMS;;71297
+Careproctus reinhardti;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;35;36;1;WORMS;;54213
+Liparis barbatus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;;;;FB;gap;
+Liparis bathyarcticus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;57;59;1;;;360471
+Liparis fabricii;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;49;53;1;WORMS;;71296
+Liparis montagui;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;2;2;1;WORMS;;493552
+Liparis tunicatus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;75;78;3;WORMS;;10724
+Paraliparis abyssorum;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Paraliparis bathybius;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;13;14;2;WORMS;;89112
+Paraliparis bipolaris;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Paraliparis challengeri;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Paraliparis copei;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;9;11;1;;;84626
+Paraliparis edwardsi;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;WORMS;gap;
+Paraliparis garmani;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;7;7;2;;;154854
+Paraliparis hystrix;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Paraliparis membranaceus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Paraliparis murieli;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Paraliparis neelovi;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;9;11;2;;;269914
+Paraliparis operculosus;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;24;33;1;;;269915
+Paraliparis thalassobathyalis;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD;2;6;1;;;269916
+Psednos christinae;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;WORMS;;;;;gap;
+Rhodichthys regina;Chordata;Actinopterygii;Scorpaeniformes;Liparidae;BOLD,WORMS;11;11;1;ITIS;;89114

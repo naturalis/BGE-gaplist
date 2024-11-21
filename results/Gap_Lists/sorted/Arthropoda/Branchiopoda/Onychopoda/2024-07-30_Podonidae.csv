@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cornigerus bicornis;Arthropoda;Branchiopoda;Onychopoda;Podonidae;FE;;;;FE;gap;
+Cornigerus maeoticus;Arthropoda;Branchiopoda;Onychopoda;Podonidae;FE;;;;FE;gap;
+Evadne nordmanni;Arthropoda;Branchiopoda;Onychopoda;Podonidae;BOLD,WORMS,iNat;111;140;4;WORMS;;163734
+Evadne spinifera;Arthropoda;Branchiopoda;Onychopoda;Podonidae;WORMS;18;31;2;;;8950
+Pleopis polyphemoides;Arthropoda;Branchiopoda;Onychopoda;Podonidae;BOLD;49;67;2;WORMS;;163731
+Podon intermedius;Arthropoda;Branchiopoda;Onychopoda;Podonidae;BOLD,WORMS;;;;;gap;163735
+Podon leuckartii;Arthropoda;Branchiopoda;Onychopoda;Podonidae;BOLD,WORMS;40;53;1;WORMS;;154586;8951
+Podonevadne trigona;Arthropoda;Branchiopoda;Onychopoda;Podonidae;FE;6;6;1;WORMS;;31630
+Pseudevadne tergestina;Arthropoda;Branchiopoda;Onychopoda;Podonidae;WORMS;10;18;3;WORMS;;163733

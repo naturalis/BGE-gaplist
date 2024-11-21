@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eupasiphae gilesii;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;WORMS;gap;
+Eupasiphae serrata;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;WORMS;gap;
+Glyphus marsupialis;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;WORMS;gap;
+Parapasiphae compta;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;;gap;
+Parapasiphae cristata;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;WORMS;gap;
+Parapasiphae sulcatifrons;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;WORMS;gap;
+Pasiphaea hoplocerca;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;BOLD,WORMS;2;3;1;;;181794
+Pasiphaea liocerca;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;;gap;
+Pasiphaea multidentata;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;BOLD,WORMS;26;33;1;WORMS;;88150
+Pasiphaea sivado;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;BOLD,WORMS;15;24;1;WORMS;;89915
+Pasiphaea tarda;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;BOLD,WORMS;20;30;4;WORMS;;8411
+Psathyrocaris fragilis;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;WORMS;gap;
+Psathyrocaris infirma;Arthropoda;Malacostraca;Decapoda;Pasiphaeidae;WORMS;;;;;gap;

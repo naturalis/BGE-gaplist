@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eucilodes caucasicus;Arthropoda;Insecta;Coleoptera;Eucinetidae;BOLD,FE;1;1;1;FE;;747197
+Eucinetus haemorrhoidalis;Arthropoda;Insecta;Coleoptera;Eucinetidae;BOLD,FE;39;54;2;FE;;318016
+Nycteus bicolor;Arthropoda;Insecta;Coleoptera;Eucinetidae;FE;;;;FE;gap;
+Nycteus hopffgarteni;Arthropoda;Insecta;Coleoptera;Eucinetidae;FE;;;;FE;gap;
+Nycteus meridionalis;Arthropoda;Insecta;Coleoptera;Eucinetidae;BOLD,FE;1;2;1;FE;;534294;640031
+Nycteus oertzeni;Arthropoda;Insecta;Coleoptera;Eucinetidae;FE;;;;FE;gap;
+Nycteus prospector;Arthropoda;Insecta;Coleoptera;Eucinetidae;FE;;;;FE;gap;
+Nycteus wollastoni;Arthropoda;Insecta;Coleoptera;Eucinetidae;FE;;;;FE;gap;

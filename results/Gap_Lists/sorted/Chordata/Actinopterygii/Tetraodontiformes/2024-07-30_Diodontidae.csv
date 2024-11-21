@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chilomycterus antillarum;Chordata;Actinopterygii;Tetraodontiformes;Diodontidae;BOLD;16;17;1;WORMS;;64346
+Diodon eydouxii;Chordata;Actinopterygii;Tetraodontiformes;Diodontidae;WORMS;;;;WORMS;gap;
+Diodon holocanthus;Chordata;Actinopterygii;Tetraodontiformes;Diodontidae;BOLD,WORMS;168;180;1;WORMS;;10997

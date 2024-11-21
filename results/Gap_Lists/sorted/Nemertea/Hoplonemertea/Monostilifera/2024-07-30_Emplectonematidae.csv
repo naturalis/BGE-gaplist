@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cryptonemertes actinophila;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Emplectonema bocki;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;;gap;
+Emplectonema derjugini;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;;gap;
+Emplectonema duoni;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Emplectonema echinoderma;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Emplectonema gracile;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;BOLD,WORMS;47;47;1;WORMS;;25925
+Emplectonema intestinalis;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;;gap;
+Emplectonema marioni;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Emplectonema nordgaardi;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Emplectonema spongicola;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Nemertopsis bivittata;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;WORMS;gap;
+Nemertopsis capitulata;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;WORMS;;;;;gap;
+Nemertopsis flavida;Nemertea;Hoplonemertea;Monostilifera;Emplectonematidae;BOLD,WORMS;8;8;0;WORMS;;120812

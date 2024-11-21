@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Spinther arcticus;Annelida;Polychaeta;Aciculata;Spintheridae;BOLD,WORMS;1;2;0;WORMS;;777019
+Spinther citrinus;Annelida;Polychaeta;Aciculata;Spintheridae;WORMS;;;;WORMS;gap;
+Spinther oniscoides;Annelida;Polychaeta;Aciculata;Spintheridae;WORMS;;;;WORMS;gap;

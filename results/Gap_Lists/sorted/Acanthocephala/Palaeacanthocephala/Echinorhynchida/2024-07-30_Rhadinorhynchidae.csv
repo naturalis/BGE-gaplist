@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Leptorhynchoides plagicephalus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Rhadinorhynchidae;FE,WORMS;;;;WORMS;gap;
+Rhadinorhynchus cadenati;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Rhadinorhynchidae;WORMS;;;;WORMS;gap;
+Rhadinorhynchus lintoni;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Rhadinorhynchidae;WORMS;;;;;gap;
+Rhadinorhynchus pristis;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Rhadinorhynchidae;BOLD,WORMS;1;9;0;WORMS;;506798
+Rhadinorhynchus saltatrix;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Rhadinorhynchidae;WORMS;;;;ITIS;gap;

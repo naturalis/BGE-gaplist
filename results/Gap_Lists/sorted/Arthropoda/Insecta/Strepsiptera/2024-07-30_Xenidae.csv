@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Paraxenos erberi;Arthropoda;Insecta;Strepsiptera;Xenidae;BOLD,FE;0;1;0;;gap;716306
+Paraxenos hofenederi;Arthropoda;Insecta;Strepsiptera;Xenidae;FE;;;;ITIS;gap;
+Paraxenos hungaricus;Arthropoda;Insecta;Strepsiptera;Xenidae;FE;;;;FE;gap;
+Paraxenos sphecidarum;Arthropoda;Insecta;Strepsiptera;Xenidae;FE;0;1;0;ITIS;gap;716308
+Pseudoxenos heydeni;Arthropoda;Insecta;Strepsiptera;Xenidae;FE;;;;FE;gap;
+Xenos minor;Arthropoda;Insecta;Strepsiptera;Xenidae;FE;;;;;gap;
+Xenos vesparum;Arthropoda;Insecta;Strepsiptera;Xenidae;BOLD,FE,iNat;11;25;1;;;199090

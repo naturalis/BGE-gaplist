@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphilochoides boecki;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD;3;3;1;;;683960
+Amphilochoides boeckii;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;WORMS;gap;
+Amphilochoides serratipes;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;WORMS;gap;
+Amphilochopsis hamatus;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD;2;2;2;;;706966
+Amphilochus manudens;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;18;24;4;WORMS;;455782
+Amphilochus planierensis;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;;gap;
+Amphilochus tenuimanus;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;4;10;2;;;597873
+Apolochus neapolitanus;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD;2;5;2;WORMS;;747307
+Gitana abyssicola;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;2;9;1;;;706986
+Gitana dominica;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD;0;5;0;;gap;753995
+Gitana longicarpus;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;;gap;
+Gitana rostrata;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;;gap;
+Gitana sarsi;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;10;12;2;WORMS;;469356
+Gitanopsis arctica;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;0;7;0;;gap;512574
+Gitanopsis bispinosa;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;4;15;0;WORMS;;597872
+Gitanopsis inermis;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;WORMS;gap;
+Paramphilochoides intermedius;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;WORMS;;;;WORMS;gap;
+Paramphilochoides odontonyx;Arthropoda;Malacostraca;Amphipoda;Amphilochidae;BOLD,WORMS;0;2;0;WORMS;gap;683985

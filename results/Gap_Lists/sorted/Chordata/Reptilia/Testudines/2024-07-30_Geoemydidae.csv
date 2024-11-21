@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mauremys leprosa;Chordata;Reptilia;Testudines;Geoemydidae;BOLD,FE;8;8;2;FE;;29438;1131679
+Mauremys rivulata;Chordata;Reptilia;Testudines;Geoemydidae;FE;3;3;1;ITIS;;29437
+Rhinoclemmys punctularia;Chordata;Reptilia;Testudines;Geoemydidae;BOLD;2;2;1;;;669883

@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Octobranchus floriceps;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;0;9;0;;gap;641133
+Octobranchus lingulatus;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD,WORMS;1;2;1;WORMS;;999186
+Terebellides bakkeni;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;2;2;1;;;1137009
+Terebellides gracilis;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;86;86;2;WORMS;;921092
+Terebellides irinae;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;7;8;1;;;921093
+Terebellides norvegica;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;2;2;1;;;1137008
+Terebellides shetlandica;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;64;72;1;;;921094
+Terebellides stroemii;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD,WORMS;42;86;5;WORMS;;541661;83178
+Trichobranchus glacialis;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD,WORMS;5;12;0;WORMS;;643594
+Trichobranchus roseus;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD,WORMS;10;13;1;WORMS;;641132
+Trichobranchus sikorskii;Annelida;Polychaeta;Terebellida;Trichobranchidae;BOLD;4;12;1;;;700394

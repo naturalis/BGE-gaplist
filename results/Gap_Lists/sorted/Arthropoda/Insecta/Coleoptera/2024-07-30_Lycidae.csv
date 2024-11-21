@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Benibotarus alternatus;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE;1;1;1;FE;;534239
+Benibotarus taygetanus;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE;4;7;1;;;528132
+Dictyoptera aurora;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE,iNat;77;92;11;FE;;349736
+Erotides cosnardi;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,iNat;8;14;1;;;911457
+Lopheros lineatus;Arthropoda;Insecta;Coleoptera;Lycidae;FE;;;;FE;gap;
+Lopheros rubens;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE,iNat;7;10;1;FE;;641180
+Lygistopterus anorachilus;Arthropoda;Insecta;Coleoptera;Lycidae;FE;;;;;gap;
+Lygistopterus sanguineus;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE,iNat;56;63;1;FE;;286749
+Platycis cosnardi;Arthropoda;Insecta;Coleoptera;Lycidae;FE;;;;FE;gap;
+Platycis minuta;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD;;;;;gap;517921
+Platycis minutus;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE,iNat;18;26;1;FE;;167149
+Platycis nasutus;Arthropoda;Insecta;Coleoptera;Lycidae;FE;;;;FE;gap;
+Pyropterus nigroruber;Arthropoda;Insecta;Coleoptera;Lycidae;BOLD,FE,iNat;25;33;2;FE;;330177
+Xylobanellus erythropterus;Arthropoda;Insecta;Coleoptera;Lycidae;FE;;;;FE;gap;

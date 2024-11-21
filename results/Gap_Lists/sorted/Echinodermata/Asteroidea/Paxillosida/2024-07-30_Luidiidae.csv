@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Luidia atlantidea;Echinodermata;Asteroidea;Paxillosida;Luidiidae;WORMS;;;;;gap;
+Luidia ciliaris;Echinodermata;Asteroidea;Paxillosida;Luidiidae;BOLD,WORMS;5;9;1;WORMS;;220789
+Luidia sarsii;Echinodermata;Asteroidea;Paxillosida;Luidiidae;BOLD;4;4;1;WORMS;;998244;220816

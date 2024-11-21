@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Geogarypus canariensis;Arthropoda;Arachnida;Pseudoscorpiones;Geogarypidae;FE;;;;FE;gap;
+Geogarypus hungaricus;Arthropoda;Arachnida;Pseudoscorpiones;Geogarypidae;FE;;;;FE;gap;
+Geogarypus minor;Arthropoda;Arachnida;Pseudoscorpiones;Geogarypidae;BOLD,FE;3;4;1;ITIS;;1056289

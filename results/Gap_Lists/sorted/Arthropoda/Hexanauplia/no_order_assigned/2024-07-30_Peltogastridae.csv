@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Galatheascus striatus;Arthropoda;Hexanauplia;;Peltogastridae;BOLD,WORMS;7;9;0;WORMS;;735016
+Lernaeodiscus ingolfi;Arthropoda;Hexanauplia;;Peltogastridae;BOLD,WORMS;6;6;1;;;735012
+Lernaeodiscus squamifera;Arthropoda;Hexanauplia;;Peltogastridae;BOLD;6;7;1;;;785841
+Lernaeodiscus squamiferae;Arthropoda;Hexanauplia;;Peltogastridae;WORMS;;;;;gap;
+Peltogaster curvatus;Arthropoda;Hexanauplia;;Peltogastridae;BOLD;3;6;0;;;735017
+Peltogaster paguri;Arthropoda;Hexanauplia;;Peltogastridae;BOLD,WORMS;7;13;1;;;669572
+Tortugaster boschmai;Arthropoda;Hexanauplia;;Peltogastridae;BOLD,WORMS;5;6;1;WORMS;;735010
+Trachelosaccus hymenodorae;Arthropoda;Hexanauplia;;Peltogastridae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chlopsis bicolor;Chordata;Actinopterygii;Anguilliformes;Chlopsidae;BOLD,WORMS;3;4;1;;;464213
+Kaupichthys hyoproroides;Chordata;Actinopterygii;Anguilliformes;Chlopsidae;BOLD;24;24;2;WORMS;;99849
+Kaupichthys japonicus;Chordata;Actinopterygii;Anguilliformes;Chlopsidae;BOLD;;;;FB;gap;
+Kaupichthys nuchalis;Chordata;Actinopterygii;Anguilliformes;Chlopsidae;BOLD;11;11;1;;;111880

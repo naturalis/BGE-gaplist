@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dissostichus eleginoides;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;627;687;1;WORMS;;18152
+Gobionotothen acuta;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;11;16;1;WORMS;;148291
+Lepidonotothen squamifrons;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;105;156;1;WORMS;;77429;681609
+Lindbergichthys mizops;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;;;;FB;gap;
+Notothenia cyanobrancha;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;;;;FB;gap;
+Notothenia neglecta;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;;;;FB;gap;
+Notothenia rossii;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;25;27;2;WORMS;;77417
+Nototheniops larseni;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;;;;FB;gap;
+Paranotothenia magellanica;Chordata;Actinopterygii;Perciformes;Nototheniidae;BOLD;13;28;1;WORMS;;359205

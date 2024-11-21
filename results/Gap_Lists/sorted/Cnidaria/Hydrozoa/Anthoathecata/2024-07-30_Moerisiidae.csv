@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Moerisia lyonsi;Cnidaria;Hydrozoa;Anthoathecata;Moerisiidae;WORMS;;;;;gap;
+Moerisia pallasi;Cnidaria;Hydrozoa;Anthoathecata;Moerisiidae;FE,WORMS;;;;WORMS;gap;
+Odessia maeotica;Cnidaria;Hydrozoa;Anthoathecata;Moerisiidae;BOLD,FE,WORMS;0;2;0;WORMS;gap;1056542
+Ostroumovia inkermanica;Cnidaria;Hydrozoa;Anthoathecata;Moerisiidae;FE;;;;ITIS;gap;

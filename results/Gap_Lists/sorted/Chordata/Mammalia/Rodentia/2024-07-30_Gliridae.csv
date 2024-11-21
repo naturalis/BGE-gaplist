@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dryomys nitedula;Chordata;Mammalia;Rodentia;Gliridae;BOLD,FE;7;12;3;ITIS;;142625
+Eliomys quercinus;Chordata;Mammalia;Rodentia;Gliridae;BOLD,FE,iNat;17;19;2;ITIS;;162013
+Glis glis;Chordata;Mammalia;Rodentia;Gliridae;BOLD,FE,iNat;23;27;2;ITIS;;167444
+Muscardinus avellanarius;Chordata;Mammalia;Rodentia;Gliridae;BOLD,FE,iNat;10;11;3;ITIS;;159784

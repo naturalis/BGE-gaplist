@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ceuthomadarus tenebrionellus;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;LF;1;1;1;;;523261
+Ceuthomadarus viduellus;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;FE,LF;;;;;gap;
+Eurodachtha canigella;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;BOLD,FE,LF;3;5;2;FE;;362495
+Eurodachtha flavissimella;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;FE,LF;1;1;1;FE;;523263
+Eurodachtha pallicornella;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;BOLD,FE,LF;11;12;1;FE;;362517
+Eurodachtha siculella;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;BOLD,FE,LF;18;19;1;FE;;1138330
+Homaloxestis briantiella;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;BOLD,FE,LF;21;22;1;FE;;352298
+Homaloxestis hades;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;LF;;;;;gap;
+Lecithocera anatolica;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;FE,LF;;;;;gap;
+Lecithocera nigrana;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;BOLD,FE,LF;20;21;3;FE;;271581
+Odites ternatella;Arthropoda;Insecta;Lepidoptera;Lecithoceridae;FE,LF;;;;;gap;

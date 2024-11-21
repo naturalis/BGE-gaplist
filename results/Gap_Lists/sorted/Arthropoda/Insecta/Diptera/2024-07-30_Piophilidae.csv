@@ -1,0 +1,35 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Actenoptera hilarella;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;ITIS;gap;
+Allopiophila baechlii;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;SyDip;gap;591280
+Allopiophila flavipes;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,SyDip;2;3;1;SyDip;;605198
+Allopiophila lonchaeoides;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,SyDip;3;3;1;SyDip;;605197
+Allopiophila luteata;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;23;23;1;SyDip;;461958
+Allopiophila pectiniventris;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,SyDip;3;3;1;SyDip;;510642
+Allopiophila tomentosa;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;SyDip;gap;591268
+Allopiophila vernicosa;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;SyDip;gap;
+Allopiophila vulgaris;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,SyDip;13;14;1;SyDip;;467361
+Amphipogon flavum;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE;5;6;1;FE;;483477
+Arctopiophila arctica;Arthropoda;Insecta;Diptera;Piophilidae;FE;55;56;2;ITIS;;591266
+Centrophlebomyia furcata;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;1;4;1;SyDip;;715399
+Lasiopiophila pilosa;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,SyDip;25;26;1;ITIS;;449270
+Mycetaulus bipunctatus;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;9;13;2;SyDip;;470651
+Mycetaulus hispanicus;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;;gap;
+Mycetaulus latipennis;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;;gap;
+Neottiophilum praestrum;Arthropoda;Insecta;Diptera;Piophilidae;FE;;;;FE;gap;
+Parapiophila caerulescens;Arthropoda;Insecta;Diptera;Piophilidae;FE;;;;FE;gap;
+Parapiophila calceata;Arthropoda;Insecta;Diptera;Piophilidae;FE;2;3;1;FE;;591272
+Parapiophila dudai;Arthropoda;Insecta;Diptera;Piophilidae;FE;1;1;1;FE;;591275
+Parapiophila flavipes;Arthropoda;Insecta;Diptera;Piophilidae;FE;9;9;2;FE;;763986
+Parapiophila fulviceps;Arthropoda;Insecta;Diptera;Piophilidae;FE;13;14;1;FE;;591271
+Parapiophila lonchaeoides;Arthropoda;Insecta;Diptera;Piophilidae;FE;;;;FE;gap;
+Parapiophila pectiniventris;Arthropoda;Insecta;Diptera;Piophilidae;FE;13;14;1;FE;;591274
+Parapiophila vulgaris;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE;33;55;2;FE;;391641
+Piophila (Piophila) casei;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;;;;SyDip;gap;716375
+Prochyliza (Liopiophila) varipes;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;;;;SyDip;gap;13761
+Prochyliza lundbecki;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;;;;ITIS;gap;
+Prochyliza nigricornis;Arthropoda;Insecta;Diptera;Piophilidae;FE;;;;FE;gap;
+Prochyliza nigrimana;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;6;16;2;ITIS;;789195
+Protopiophila latipes;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;27;41;2;ITIS;;14278
+Pseudoseps signata;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;2;2;1;SyDip;;704363
+Stearibia nigriceps;Arthropoda;Insecta;Diptera;Piophilidae;BOLD,FE,SyDip;48;83;1;ITIS;;510565
+Thyreophora cynophila;Arthropoda;Insecta;Diptera;Piophilidae;FE,SyDip;0;5;0;SyDip;gap;716788

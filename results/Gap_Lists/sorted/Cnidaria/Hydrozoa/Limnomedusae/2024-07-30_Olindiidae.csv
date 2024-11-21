@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Craspedacusta sowerbii;Cnidaria;Hydrozoa;Limnomedusae;Olindiidae;BOLD,FE,iNat;52;76;3;FE;;575827
+Craspedacusta sowerbyi;Cnidaria;Hydrozoa;Limnomedusae;Olindiidae;BOLD;12;13;2;;;200089
+Gonionemus vertens;Cnidaria;Hydrozoa;Limnomedusae;Olindiidae;BOLD,FE,WORMS;15;25;3;WORMS;;516120
+Gossea corynetes;Cnidaria;Hydrozoa;Limnomedusae;Olindiidae;WORMS;;;;WORMS;gap;
+Gossea faureae;Cnidaria;Hydrozoa;Limnomedusae;Olindiidae;WORMS;;;;;gap;
+Maeotias marginata;Cnidaria;Hydrozoa;Limnomedusae;Olindiidae;BOLD,FE;3;4;1;WORMS;;31227

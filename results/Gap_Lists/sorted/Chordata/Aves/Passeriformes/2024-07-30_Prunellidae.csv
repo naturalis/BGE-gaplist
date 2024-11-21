@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Prunella atrogularis;Chordata;Aves;Passeriformes;Prunellidae;FE;6;7;1;FE;;117020
+Prunella collaris;Chordata;Aves;Passeriformes;Prunellidae;BOLD,FE,iNat;34;38;3;FE;;117021;873747
+Prunella modularis;Chordata;Aves;Passeriformes;Prunellidae;BOLD,FE,iNat;45;66;1;FE;;70334
+Prunella montanella;Chordata;Aves;Passeriformes;Prunellidae;FE,iNat;8;11;1;FE;;117027
+Prunella ocularis;Chordata;Aves;Passeriformes;Prunellidae;FE;1;1;1;FE;;117028

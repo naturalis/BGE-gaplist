@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cherbonniera utriculus;Echinodermata;Holothuroidea;Molpadida;Molpadiidae;WORMS;;;;;gap;
+Molpadia blakei;Echinodermata;Holothuroidea;Molpadida;Molpadiidae;WORMS;;;;WORMS;gap;
+Molpadia borealis;Echinodermata;Holothuroidea;Molpadida;Molpadiidae;BOLD,WORMS;6;8;2;WORMS;;223165
+Molpadia maroccana;Echinodermata;Holothuroidea;Molpadida;Molpadiidae;WORMS;;;;WORMS;gap;
+Molpadia musculus;Echinodermata;Holothuroidea;Molpadida;Molpadiidae;WORMS;;;;WORMS;gap;

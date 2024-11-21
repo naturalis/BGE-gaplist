@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Edwardsia allmanni;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia andresi;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;1;2;0;WORMS;;726254
+Edwardsia arctica;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia carlgreni;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia claparedii;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;BOLD,WORMS;0;1;0;WORMS;gap;805307
+Edwardsia costata;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;;gap;
+Edwardsia danica;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;;gap;
+Edwardsia delapiae;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia finmarchica;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia fusca;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia islandica;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia ivelli;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;;gap;
+Edwardsia longicornis;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;BOLD,WORMS;2;2;1;WORMS;;726255
+Edwardsia maroccana;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;;gap;
+Edwardsia norvegica;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia timida;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia tuberculata;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;BOLD,WORMS;1;3;1;;;726256
+Edwardsia vegae;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsia vitrea;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Edwardsiella carnea;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;BOLD;1;2;1;WORMS;;726257
+Nematostella polaris;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Nematostella vectensis;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;13;113;1;WORMS;;82348
+Paraedwardsia abyssorum;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;;gap;
+Paraedwardsia arenaria;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;BOLD,WORMS;1;2;0;WORMS;;726270
+Paraedwardsia sarsii;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;
+Scolanthus callimorphus;Cnidaria;Anthozoa;Actiniaria;Edwardsiidae;WORMS;;;;WORMS;gap;

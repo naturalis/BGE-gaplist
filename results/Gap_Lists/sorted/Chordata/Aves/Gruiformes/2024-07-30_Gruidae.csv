@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anthropoides virgo;Chordata;Aves;Gruiformes;Gruidae;FE,iNat;;;;FE;gap;
+Grus canadensis;Chordata;Aves;Gruiformes;Gruidae;FE,iNat;;;;FE;gap;
+Grus grus;Chordata;Aves;Gruiformes;Gruidae;BOLD,FE,iNat;19;19;1;FE;;93228
+Grus leucogeranus;Chordata;Aves;Gruiformes;Gruidae;FE;;;;;gap;

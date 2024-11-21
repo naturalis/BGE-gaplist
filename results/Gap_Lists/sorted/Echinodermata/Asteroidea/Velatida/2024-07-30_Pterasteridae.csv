@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diplopteraster multipes;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD,WORMS;7;13;1;WORMS;;140226
+Hymenaster giboryi;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;;gap;
+Hymenaster pellucidus;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD,WORMS;9;36;1;WORMS;;221805
+Hymenaster regalis;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;WORMS;gap;
+Hymenaster reticulatus;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;;gap;
+Hymenaster rex;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;WORMS;gap;
+Hymenaster roseus;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;;gap;
+Hymenaster sacculatus;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD;6;6;1;;;221820
+Hymenaster tenuispinus;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;;gap;
+Pteraster acicula;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;WORMS;gap;
+Pteraster affinis;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD;23;86;2;ITIS;;221830
+Pteraster alveolatus;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;;gap;
+Pteraster hystrix;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;WORMS;gap;
+Pteraster militaris;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD,WORMS;19;42;4;WORMS;;112291
+Pteraster obscurus;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD,WORMS;7;11;1;WORMS;;221852
+Pteraster personatus;Echinodermata;Asteroidea;Velatida;Pterasteridae;WORMS;;;;WORMS;gap;
+Pteraster pulvillus;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD,WORMS;5;15;1;WORMS;;221855
+Pteraster rugatus;Echinodermata;Asteroidea;Velatida;Pterasteridae;BOLD;2;2;2;;;221858

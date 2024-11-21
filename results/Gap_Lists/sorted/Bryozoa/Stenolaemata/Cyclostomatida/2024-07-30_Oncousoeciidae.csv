@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oncousoecia canadensis;Bryozoa;Stenolaemata;Cyclostomatida;Oncousoeciidae;WORMS;;;;;gap;
+Oncousoecia diastoporides;Bryozoa;Stenolaemata;Cyclostomatida;Oncousoeciidae;WORMS;;;;WORMS;gap;
+Oncousoecia dilatans;Bryozoa;Stenolaemata;Cyclostomatida;Oncousoeciidae;BOLD,WORMS;1;1;0;WORMS;;785436
+Oncousoecia polygonalis;Bryozoa;Stenolaemata;Cyclostomatida;Oncousoeciidae;WORMS;;;;WORMS;gap;

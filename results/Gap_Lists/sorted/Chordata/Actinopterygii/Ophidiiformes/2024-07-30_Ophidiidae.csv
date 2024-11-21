@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Barathrites iris;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Bassozetus taenia;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Bathyonus laticeps;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Benthocometes robustus;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD,WORMS;4;5;0;WORMS;;178373
+Brotula barbata;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD;26;34;1;WORMS;;86778
+Brotula multibarbata;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD;47;51;7;WORMS;;10850
+Brotula townsendi;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD;7;7;2;;;389425
+Brotulotaenia brevicauda;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Brotulotaenia crassa;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Brotulotaenia nigra;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;;gap;
+Genypterus capensis;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD;62;65;1;WORMS;;96128
+Holcomycteronus squamosus;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Lamprogrammus niger;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Lamprogrammus shcherbachevi;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;;gap;
+Monomitopus metriostoma;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Ophidion barbatum;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD,WORMS;4;4;1;WORMS;;516173
+Ophidion rochei;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Parophidion schmidti;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD;12;12;1;WORMS;;90373
+Parophidion vassali;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;WORMS;;;;WORMS;gap;
+Spectrunculus grandis;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD,WORMS;12;36;2;WORMS;;53025
+Thalassobathia pelagica;Chordata;Actinopterygii;Ophidiiformes;Ophidiidae;BOLD,WORMS;1;2;0;;;78122

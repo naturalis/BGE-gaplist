@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Boeckella triarticulata;Arthropoda;Hexanauplia;Calanoida;Centropagidae;FE;7;29;1;FE;;8214
+Centropages aucklandicus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;;;;WORMS;gap;
+Centropages brachiatus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;;;;WORMS;gap;
+Centropages bradyi;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;0;1;0;;gap;801320
+Centropages calaninus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;;;;WORMS;gap;
+Centropages caribbeanensis;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;;;;;gap;
+Centropages chierchiae;Arthropoda;Hexanauplia;Calanoida;Centropagidae;BOLD,WORMS;4;4;1;;;649981
+Centropages furcatus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;34;64;5;WORMS;;8273
+Centropages hamatus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;BOLD,WORMS;36;71;4;WORMS;;142601
+Centropages kroyeri;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;;;;;gap;
+Centropages ponticus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;;;;WORMS;gap;
+Centropages typicus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;BOLD,WORMS;159;173;2;WORMS;;152144
+Centropages violaceus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;WORMS;4;5;1;WORMS;;503228
+Isias clavipes;Arthropoda;Hexanauplia;Calanoida;Centropagidae;BOLD,FE,WORMS;15;19;1;WORMS;;607189
+Limnocalanus macrurus;Arthropoda;Hexanauplia;Calanoida;Centropagidae;BOLD,FE;130;140;4;;;8265

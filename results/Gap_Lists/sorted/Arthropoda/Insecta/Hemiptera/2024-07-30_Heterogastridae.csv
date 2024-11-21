@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heterogaster affinis;Arthropoda;Insecta;Hemiptera;Heterogastridae;BOLD,FE,CoPH;0;2;0;CoPH;gap;992705
+Heterogaster artemisiae;Arthropoda;Insecta;Hemiptera;Heterogastridae;BOLD,FE,CoPH;4;9;0;CoPH;;477668
+Heterogaster urticae;Arthropoda;Insecta;Hemiptera;Heterogastridae;BOLD,FE,CoPH,iNat;28;33;1;CoPH;;375478
+Platyplax salviae;Arthropoda;Insecta;Hemiptera;Heterogastridae;BOLD,FE,CoPH,iNat;14;24;1;CoPH;;373964

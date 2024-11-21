@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gulo gulo;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE;15;22;1;FE;;12534
+Lutra lutra;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,WORMS,iNat;23;27;2;FE;;200705
+Martes foina;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,iNat;15;18;2;FE;;210835
+Martes martes;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,iNat;17;17;2;FE;;210834
+Martes zibellina;Chordata;Mammalia;Carnivora;Mustelidae;FE;43;43;1;FE;;200163
+Meles meles;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,iNat;22;28;2;ITIS;;103251
+Mustela erminea;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,iNat;103;115;4;FE;;12537
+Mustela eversmanii;Chordata;Mammalia;Carnivora;Mustelidae;FE;;;;ITIS;gap;747551
+Mustela lutreola;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE;3;17;0;FE;;996309
+Mustela nivalis;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,iNat;39;43;2;;;12539
+Mustela putorius;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE,iNat;17;32;1;;;210833
+Mustela sibirica;Chordata;Mammalia;Carnivora;Mustelidae;FE;25;25;1;;;462397
+Mustela vison;Chordata;Mammalia;Carnivora;Mustelidae;BOLD,FE;2;2;0;ITIS;;546657;68862
+Vormela peregusna;Chordata;Mammalia;Carnivora;Mustelidae;FE;;;;FE;gap;

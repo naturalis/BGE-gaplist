@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atlantopandalus propinqvus;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD;14;15;1;WORMS;;92373
+Bitias stocki;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;;gap;
+Chlorotocus crassicornis;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;13;31;2;WORMS;;89913
+Dichelopandalus bonnieri;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;7;12;1;WORMS;;89930
+Heterocarpus grimaldii;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;;gap;
+Heterocarpus laevigatus;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;;gap;
+Pandalina brevirostris;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;13;16;1;WORMS;;414178
+Pandalina profunda;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;8;13;2;;;88149
+Pandalus borealis;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD;95;118;1;WORMS;;19213
+Pandalus jordani;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD;20;31;1;;;15889
+Pandalus latirostris;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;WORMS;gap;
+Pandalus montagui;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;97;114;2;WORMS;;88713
+Plesionika acanthonotus;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;15;33;2;WORMS;;89954
+Plesionika antigai;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;3;3;1;;;89894
+Plesionika edwardsii;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;23;30;5;WORMS;;89934
+Plesionika ensis;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;WORMS;gap;
+Plesionika gigliolii;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;WORMS;gap;
+Plesionika heterocarpus;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;47;61;1;WORMS;;89914
+Plesionika martia;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD;22;35;3;WORMS;;89917
+Plesionika narval;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD,WORMS;10;19;1;WORMS;;89937
+Plesionika richardi;Arthropoda;Malacostraca;Decapoda;Pandalidae;BOLD;;;;WORMS;gap;305323
+Plesionika rossignoli;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;;gap;
+Plesionika williamsi;Arthropoda;Malacostraca;Decapoda;Pandalidae;WORMS;;;;WORMS;gap;

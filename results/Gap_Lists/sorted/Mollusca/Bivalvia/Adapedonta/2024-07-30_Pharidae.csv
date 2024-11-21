@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ensis ensis;Mollusca;Bivalvia;Adapedonta;Pharidae;BOLD,WORMS;30;49;2;WORMS;;326829
+Ensis leei;Mollusca;Bivalvia;Adapedonta;Pharidae;BOLD,iNat;18;27;1;WORMS;;893973;474115
+Ensis magnus;Mollusca;Bivalvia;Adapedonta;Pharidae;BOLD;12;23;1;WORMS;;901249;507892
+Ensis minor;Mollusca;Bivalvia;Adapedonta;Pharidae;BOLD,WORMS;16;29;3;;;667074
+Ensis siliqua;Mollusca;Bivalvia;Adapedonta;Pharidae;BOLD,WORMS,iNat;40;55;5;WORMS;;507894
+Pharus legumen;Mollusca;Bivalvia;Adapedonta;Pharidae;WORMS;;;;WORMS;gap;
+Phaxas pellucidus;Mollusca;Bivalvia;Adapedonta;Pharidae;BOLD,WORMS;23;30;1;WORMS;;402913
+Sinupharus combieri;Mollusca;Bivalvia;Adapedonta;Pharidae;WORMS;;;;WORMS;gap;

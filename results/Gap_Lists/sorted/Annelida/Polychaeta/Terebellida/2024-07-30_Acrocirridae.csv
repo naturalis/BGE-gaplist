@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acrocirrus frontifilis;Annelida;Polychaeta;Terebellida;Acrocirridae;WORMS;;;;WORMS;gap;
+Macrochaeta clavicornis;Annelida;Polychaeta;Terebellida;Acrocirridae;BOLD,WORMS;22;33;3;WORMS;;201038
+Macrochaeta helgolandica;Annelida;Polychaeta;Terebellida;Acrocirridae;WORMS;;;;;gap;
+Macrochaeta polyonyx;Annelida;Polychaeta;Terebellida;Acrocirridae;BOLD;23;23;2;;;599475

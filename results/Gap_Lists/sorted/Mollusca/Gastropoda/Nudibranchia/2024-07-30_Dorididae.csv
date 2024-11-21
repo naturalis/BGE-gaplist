@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aldisa zetlandica;Mollusca;Gastropoda;Nudibranchia;Dorididae;BOLD,WORMS;10;11;2;WORMS;;266290
+Doris alboranica;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;;gap;
+Doris bertheloti;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;WORMS;gap;
+Doris bicolor;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;WORMS;gap;
+Doris marmorata;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;;gap;
+Doris nobilis;Mollusca;Gastropoda;Nudibranchia;Dorididae;BOLD,WORMS;1;1;1;WORMS;;673975
+Doris ocelligera;Mollusca;Gastropoda;Nudibranchia;Dorididae;BOLD,WORMS;2;2;1;WORMS;;1130052
+Doris pseudoargus;Mollusca;Gastropoda;Nudibranchia;Dorididae;BOLD;52;58;1;WORMS;;266275
+Doris pseudoverrucosa;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;WORMS;gap;
+Doris sticta;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;WORMS;gap;
+Doris verrucosa;Mollusca;Gastropoda;Nudibranchia;Dorididae;WORMS;;;;WORMS;gap;

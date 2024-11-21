@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Charadrius alexandrinus;Chordata;Aves;Charadriiformes;Charadriidae;FE,iNat;32;38;1;WORMS;;10183
+Charadrius asiaticus;Chordata;Aves;Charadriiformes;Charadriidae;FE;3;7;1;WORMS;;88211
+Charadrius dubius;Chordata;Aves;Charadriiformes;Charadriidae;BOLD,FE,iNat;36;41;1;;;10186
+Charadrius hiaticula;Chordata;Aves;Charadriiformes;Charadriidae;BOLD,FE,iNat;20;24;2;;;10187
+Charadrius leschenaultii;Chordata;Aves;Charadriiformes;Charadriidae;FE,iNat;27;27;3;WORMS;;52515
+Charadrius mongolus;Chordata;Aves;Charadriiformes;Charadriidae;FE;59;61;2;WORMS;;10188
+Charadrius morinellus;Chordata;Aves;Charadriiformes;Charadriidae;BOLD,FE,iNat;10;14;1;ITIS;;10191
+Charadrius pecuarius;Chordata;Aves;Charadriiformes;Charadriidae;FE;14;17;1;;;92614
+Charadrius semipalmatus;Chordata;Aves;Charadriiformes;Charadriidae;FE;24;34;1;WORMS;;10190
+Charadrius vociferus;Chordata;Aves;Charadriiformes;Charadriidae;FE;24;35;1;WORMS;;10184
+Chettusia gregaria;Chordata;Aves;Charadriiformes;Charadriidae;FE;;;;FE;gap;
+Chettusia leucura;Chordata;Aves;Charadriiformes;Charadriidae;FE;;;;FE;gap;
+Hoplopterus spinosus;Chordata;Aves;Charadriiformes;Charadriidae;FE;;;;FE;gap;
+Lobivanellus indicus;Chordata;Aves;Charadriiformes;Charadriidae;FE;;;;FE;gap;
+Pluvialis apricaria;Chordata;Aves;Charadriiformes;Charadriidae;BOLD,FE,iNat;27;29;1;WORMS;;10127
+Pluvialis dominica;Chordata;Aves;Charadriiformes;Charadriidae;FE;14;22;1;WORMS;;10129
+Pluvialis fulva;Chordata;Aves;Charadriiformes;Charadriidae;FE,iNat;26;30;1;FE;;10128
+Pluvialis squatarola;Chordata;Aves;Charadriiformes;Charadriidae;BOLD,FE,iNat;34;42;1;WORMS;;10130
+Vanellus spinosus;Chordata;Aves;Charadriiformes;Charadriidae;BOLD;14;15;1;WORMS;;113626
+Vanellus vanellus;Chordata;Aves;Charadriiformes;Charadriidae;BOLD,FE,iNat;55;55;1;FE;;17404

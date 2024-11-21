@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ariosoma balearicum;Chordata;Actinopterygii;Anguilliformes;Congridae;BOLD,WORMS;45;46;3;WORMS;;72143
+Bathyuroconger vicinus;Chordata;Actinopterygii;Anguilliformes;Congridae;WORMS;;;;WORMS;gap;
+Conger conger;Chordata;Actinopterygii;Anguilliformes;Congridae;BOLD,WORMS;42;45;1;WORMS;;11021
+Conger oceanicus;Chordata;Actinopterygii;Anguilliformes;Congridae;BOLD;18;19;1;WORMS;;72146
+Gnathophis codoniphorus;Chordata;Actinopterygii;Anguilliformes;Congridae;WORMS;;;;;gap;
+Gnathophis mystax;Chordata;Actinopterygii;Anguilliformes;Congridae;BOLD,WORMS;8;9;1;WORMS;;379385
+Heteroconger longissimus;Chordata;Actinopterygii;Anguilliformes;Congridae;WORMS;;;;WORMS;gap;
+Paraconger macrops;Chordata;Actinopterygii;Anguilliformes;Congridae;BOLD,WORMS;4;4;1;WORMS;;395010
+Pseudophichthys splendens;Chordata;Actinopterygii;Anguilliformes;Congridae;WORMS;;;;WORMS;gap;

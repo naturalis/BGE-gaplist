@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chrysococcyx caprius;Chordata;Aves;Cuculiformes;Cuculidae;FE;29;31;0;FE;;114266
+Clamator glandarius;Chordata;Aves;Cuculiformes;Cuculidae;FE;4;4;1;FE;;114276
+Cuculus canorus;Chordata;Aves;Cuculiformes;Cuculidae;BOLD,FE,iNat;39;159;2;;;11872
+Cuculus saturatus;Chordata;Aves;Cuculiformes;Cuculidae;FE;2;7;0;;;52552

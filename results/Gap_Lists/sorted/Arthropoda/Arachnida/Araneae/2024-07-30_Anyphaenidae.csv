@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anyphaena accentuata;Arthropoda;Arachnida;Araneae;Anyphaenidae;BOLD,FE,iNat;116;120;1;FE;;286959
+Anyphaena alboirrorata;Arthropoda;Arachnida;Araneae;Anyphaenidae;FE;2;3;1;;;811753
+Anyphaena furva;Arthropoda;Arachnida;Araneae;Anyphaenidae;FE;;;;FE;gap;
+Anyphaena numida;Arthropoda;Arachnida;Araneae;Anyphaenidae;FE;;;;;gap;
+Anyphaena sabina;Arthropoda;Arachnida;Araneae;Anyphaenidae;BOLD,FE;26;26;1;;;286965

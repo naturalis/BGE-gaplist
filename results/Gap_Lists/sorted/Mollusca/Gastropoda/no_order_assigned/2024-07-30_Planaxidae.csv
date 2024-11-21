@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Fossarus ambiguus;Mollusca;Gastropoda;;Planaxidae;WORMS;;;;WORMS;gap;
+Planaxis lineatus;Mollusca;Gastropoda;;Planaxidae;BOLD;3;3;1;;;754011
+Planaxis nucleus;Mollusca;Gastropoda;;Planaxidae;BOLD;2;2;1;;;754010
+Planaxis savignyi;Mollusca;Gastropoda;;Planaxidae;WORMS;;;;WORMS;gap;

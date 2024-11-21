@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gasullia gasulli;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;FE;;;;;gap;
+Gittenbergeria turriplana;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;5;5;1;FE;;507355
+Hatumia cobosi;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;4;4;2;FE;;507389
+Hatumia zapateri;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;;;;FE;gap;507390
+Mastigophallus rangianus;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;3;4;1;FE;;507393
+Oestophora dorotheae;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;FE;;;;FE;gap;
+Oestophora granesae;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;FE;;;;;gap;
+Suboestophora altamirai;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;FE;;;;FE;gap;
+Suboestophora boscae;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;1;1;1;FE;;507395
+Suboestophora gasulli;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD;2;3;1;;;507396
+Suboestophora hispanica;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;1;1;1;FE;;507397
+Suboestophora jeresae;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;2;2;1;FE;;507398
+Suboestophora kuiperi;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;FE;;;;FE;gap;
+Suboestophora tarraconensis;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;FE;;;;FE;gap;
+Trissexodon constrictus;Mollusca;Gastropoda;Stylommatophora;Trissexodontidae;BOLD,FE;4;6;2;FE;;507400

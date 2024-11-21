@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Polycheles typhlops;Arthropoda;Malacostraca;Decapoda;Polychelidae;BOLD;30;48;2;WORMS;;89944
+Stereomastis nana;Arthropoda;Malacostraca;Decapoda;Polychelidae;BOLD,WORMS;2;3;1;WORMS;;606081
+Stereomastis sculpta;Arthropoda;Malacostraca;Decapoda;Polychelidae;BOLD;20;21;1;WORMS;;154879
+Willemoesia forceps;Arthropoda;Malacostraca;Decapoda;Polychelidae;WORMS;;;;;gap;
+Willemoesia leptodactyla;Arthropoda;Malacostraca;Decapoda;Polychelidae;WORMS;;;;WORMS;gap;

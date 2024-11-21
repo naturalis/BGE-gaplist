@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arctorthezia cataphracta;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;FE;gap;
+Arctorthezia occidentalis;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;FE;gap;
+Newsteadia floccosa;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;3;10;0;FE;;1062686
+Newsteadia susannae;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;;gap;
+Nipponorthezia hispanica;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;FE;gap;
+Orthezia arenariae;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;;gap;
+Orthezia insignis;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;;gap;
+Orthezia tillandsiae;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;;gap;
+Orthezia urticae;Arthropoda;Insecta;Hemiptera;Ortheziidae;BOLD,FE,iNat;3;4;1;FE;;720116
+Ortheziola britannica;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;;gap;
+Ortheziola vejdovskyi;Arthropoda;Insecta;Hemiptera;Ortheziidae;FE;;;;;gap;

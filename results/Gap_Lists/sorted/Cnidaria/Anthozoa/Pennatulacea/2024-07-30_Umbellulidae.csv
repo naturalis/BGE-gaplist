@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Umbellula encrinus;Cnidaria;Anthozoa;Pennatulacea;Umbellulidae;WORMS;;;;WORMS;gap;
+Umbellula huxleyi;Cnidaria;Anthozoa;Pennatulacea;Umbellulidae;BOLD,WORMS;1;1;1;WORMS;;973947
+Umbellula lindahli;Cnidaria;Anthozoa;Pennatulacea;Umbellulidae;WORMS;1;7;1;WORMS;;516144
+Umbellula thomsoni;Cnidaria;Anthozoa;Pennatulacea;Umbellulidae;WORMS;;;;WORMS;gap;

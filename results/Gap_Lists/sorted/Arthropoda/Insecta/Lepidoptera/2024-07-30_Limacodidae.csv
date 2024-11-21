@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Apoda creticum;Arthropoda;Insecta;Lepidoptera;Limacodidae;BOLD;1;1;1;;;379279
+Apoda limacodes;Arthropoda;Insecta;Lepidoptera;Limacodidae;BOLD,FE,LF,iNat;37;48;1;FE;;204467
+Heterogenea asella;Arthropoda;Insecta;Lepidoptera;Limacodidae;BOLD,FE,LF,iNat;16;22;1;FE;;255680
+Hoyosia codeti;Arthropoda;Insecta;Lepidoptera;Limacodidae;BOLD,FE,LF;4;4;2;FE;;379282
+Hoyosia cretica;Arthropoda;Insecta;Lepidoptera;Limacodidae;FE,LF;;;;FE;gap;
+Parasa sinica;Arthropoda;Insecta;Lepidoptera;Limacodidae;FE,LF;35;36;5;;;359662

@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Parastrongyloides winchesi;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides avium;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides bufonis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides canis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides darevskyi;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides martis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides mascomai;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides mirzai;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;1;2;0;;;897160
+Strongyloides mustelorum;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides myopotami;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides natricis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides ophiusensis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides papillosus;Nematoda;Chromadorea;Rhabditida;Strongyloididae;BOLD,FE;3;10;1;FE;;896828
+Strongyloides putorii;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides ransomi;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides ratti;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;2;6;1;;;896829
+Strongyloides rostombekowi;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides spiralis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides stercoralis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;669;1190;1;FE;;30270
+Strongyloides suis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;FE;gap;
+Strongyloides turkmenicus;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides vulpis;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;
+Strongyloides westeri;Nematoda;Chromadorea;Rhabditida;Strongyloididae;FE;;;;;gap;

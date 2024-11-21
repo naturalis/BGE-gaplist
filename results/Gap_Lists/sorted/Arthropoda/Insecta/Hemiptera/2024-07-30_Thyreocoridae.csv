@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Thyreocoris balcanicus;Arthropoda;Insecta;Hemiptera;Thyreocoridae;FE,CoPH;;;;;gap;
+Thyreocoris fulvipennis;Arthropoda;Insecta;Hemiptera;Thyreocoridae;FE,CoPH;;;;CoPH;gap;
+Thyreocoris ohridanus;Arthropoda;Insecta;Hemiptera;Thyreocoridae;FE,CoPH;;;;CoPH;gap;
+Thyreocoris scarabaeoides;Arthropoda;Insecta;Hemiptera;Thyreocoridae;BOLD,FE,CoPH,iNat;9;20;1;CoPH;;413852

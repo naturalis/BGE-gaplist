@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Abra alba;Mollusca;Bivalvia;Cardiida;Semelidae;BOLD,WORMS;14;33;2;WORMS;;642814
+Abra longicallus;Mollusca;Bivalvia;Cardiida;Semelidae;BOLD,WORMS;6;18;1;WORMS;;583341
+Abra nitida;Mollusca;Bivalvia;Cardiida;Semelidae;BOLD,WORMS;9;39;1;WORMS;;402911
+Abra prismatica;Mollusca;Bivalvia;Cardiida;Semelidae;BOLD,WORMS;6;11;2;WORMS;;644747
+Abra profundorum;Mollusca;Bivalvia;Cardiida;Semelidae;WORMS;;;;WORMS;gap;
+Abra segmentum;Mollusca;Bivalvia;Cardiida;Semelidae;BOLD,WORMS;0;2;0;WORMS;gap;759844
+Abra tenuis;Mollusca;Bivalvia;Cardiida;Semelidae;WORMS;;;;WORMS;gap;
+Ervilia castanea;Mollusca;Bivalvia;Cardiida;Semelidae;WORMS;;;;WORMS;gap;
+Scrobicularia cottardii;Mollusca;Bivalvia;Cardiida;Semelidae;WORMS;;;;WORMS;gap;
+Scrobicularia plana;Mollusca;Bivalvia;Cardiida;Semelidae;BOLD,WORMS,iNat;74;86;2;WORMS;;647014

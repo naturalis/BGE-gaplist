@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chimaera cubana;Chordata;Holocephali;Chimaeriformes;Chimaeridae;BOLD;5;5;0;;;483896
+Chimaera monstrosa;Chordata;Holocephali;Chimaeriformes;Chimaeridae;BOLD,WORMS;51;55;1;WORMS;;29401
+Chimaera opalescens;Chordata;Holocephali;Chimaeriformes;Chimaeridae;BOLD;15;15;1;;;1003514
+Hydrolagus affinis;Chordata;Holocephali;Chimaeriformes;Chimaeridae;BOLD,WORMS;10;17;1;WORMS;;71706
+Hydrolagus mirabilis;Chordata;Holocephali;Chimaeriformes;Chimaeridae;WORMS;10;13;2;WORMS;;100824
+Hydrolagus pallidus;Chordata;Holocephali;Chimaeriformes;Chimaeridae;BOLD,WORMS;4;8;1;;;180820

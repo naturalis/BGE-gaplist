@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Morus bassanus;Chordata;Aves;Suliformes;Sulidae;BOLD,FE,iNat;17;22;1;WORMS;;10009
+Morus capensis;Chordata;Aves;Suliformes;Sulidae;FE;3;3;1;WORMS;;95616
+Sula dactylatra;Chordata;Aves;Suliformes;Sulidae;FE;11;13;1;;;17274
+Sula leucogaster;Chordata;Aves;Suliformes;Sulidae;FE;9;12;1;FE;;88886

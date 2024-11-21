@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Erosaria spurca;Mollusca;Gastropoda;Littorinimorpha;Cypraeidae;BOLD;6;7;1;;;31186
+Luria cinerea;Mollusca;Gastropoda;Littorinimorpha;Cypraeidae;BOLD;3;4;1;WORMS;;31151
+Luria lurida;Mollusca;Gastropoda;Littorinimorpha;Cypraeidae;WORMS;3;3;1;WORMS;;31150
+Purpuradusta gracilis;Mollusca;Gastropoda;Littorinimorpha;Cypraeidae;WORMS;6;7;2;WORMS;;31072;524850
+Zonaria pyrum;Mollusca;Gastropoda;Littorinimorpha;Cypraeidae;WORMS;2;4;1;WORMS;;28842

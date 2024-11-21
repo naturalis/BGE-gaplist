@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathytoshia centroura;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD;17;25;2;WORMS;;974387
+Bathytoshia lata;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD;16;18;3;WORMS;;992825
+Dasyatis marmorata;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD;16;21;1;WORMS;;182162;183097
+Dasyatis pastinaca;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD,WORMS;49;57;4;WORMS;;253449
+Dasyatis tortonesei;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD,WORMS;42;42;1;;;560607
+Himantura uarnak;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;WORMS;98;121;6;WORMS;;19720
+Hypanus americanus;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD;97;114;3;WORMS;;932980
+Pteroplatytrygon violacea;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD;42;44;1;WORMS;;125593
+Taeniura grabata;Chordata;Elasmobranchii;Myliobatiformes;Dasyatidae;BOLD,WORMS;;;;WORMS;gap;270481

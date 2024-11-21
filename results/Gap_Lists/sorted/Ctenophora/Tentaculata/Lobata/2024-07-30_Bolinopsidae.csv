@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bolinopsis infundibulum;Ctenophora;Tentaculata;Lobata;Bolinopsidae;BOLD,WORMS;27;46;0;WORMS;;381315
+Bolinopsis vitrea;Ctenophora;Tentaculata;Lobata;Bolinopsidae;BOLD,WORMS;3;15;0;WORMS;;1056543
+Lesueuria vitrea;Ctenophora;Tentaculata;Lobata;Bolinopsidae;WORMS;;;;;gap;
+Mnemiopsis leidyi;Ctenophora;Tentaculata;Lobata;Bolinopsidae;BOLD,WORMS,iNat;6;66;1;WORMS;;493974

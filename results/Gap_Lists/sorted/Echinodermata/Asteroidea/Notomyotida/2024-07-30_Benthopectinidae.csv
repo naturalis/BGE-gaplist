@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Benthopecten spinosissimus;Echinodermata;Asteroidea;Notomyotida;Benthopectinidae;WORMS;;;;WORMS;gap;
+Cheiraster (Cheiraster) sepitus;Echinodermata;Asteroidea;Notomyotida;Benthopectinidae;WORMS;;;;WORMS;gap;
+Cheiraster (Luidiaster) hirsutus;Echinodermata;Asteroidea;Notomyotida;Benthopectinidae;BOLD;55;58;2;WORMS;;460355
+Cheiraster gerlachei;Echinodermata;Asteroidea;Notomyotida;Benthopectinidae;BOLD;7;37;1;ITIS;;193718
+Pectinaster filholi;Echinodermata;Asteroidea;Notomyotida;Benthopectinidae;WORMS;;;;ITIS;gap;
+Pontaster tenuispinus;Echinodermata;Asteroidea;Notomyotida;Benthopectinidae;BOLD,WORMS;34;41;2;WORMS;;218410

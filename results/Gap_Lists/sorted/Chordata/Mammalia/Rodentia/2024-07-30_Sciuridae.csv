@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atlantoxerus getulus;Chordata;Mammalia;Rodentia;Sciuridae;FE;;;;ITIS;gap;
+Callosciurus erythraeus;Chordata;Mammalia;Rodentia;Sciuridae;FE;19;19;8;FE;;12327
+Callosciurus finlaysonii;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE;10;10;5;FE;;796329
+Marmota bobak;Chordata;Mammalia;Rodentia;Sciuridae;FE;;;;FE;gap;
+Marmota marmota;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE,iNat;1;1;0;FE;;809253
+Pteromys volans;Chordata;Mammalia;Rodentia;Sciuridae;FE;13;13;2;FE;;110992
+Sciurus anomalus;Chordata;Mammalia;Rodentia;Sciuridae;FE;1;1;0;;;1144583
+Sciurus carolinensis;Chordata;Mammalia;Rodentia;Sciuridae;FE;13;14;2;;;12318
+Sciurus vulgaris;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE,iNat;52;56;1;;;26232
+Spermophilus citellus;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE;11;11;1;FE;;123903
+Spermophilus fulvus;Chordata;Mammalia;Rodentia;Sciuridae;FE;12;15;2;FE;;123891
+Spermophilus major;Chordata;Mammalia;Rodentia;Sciuridae;FE;15;18;3;FE;;123892
+Spermophilus pygmaeus;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE;17;17;3;FE;;123894
+Spermophilus suslicus;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE;15;16;2;FE;;123893
+Tamias sibiricus;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,FE;72;74;3;FE;;12271
+Tamias striatus;Chordata;Mammalia;Rodentia;Sciuridae;BOLD,iNat;34;41;1;;;12270

@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Culaea inconstans;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;FE;220;258;2;FB;;50668
+Gasterosteus aculeatus;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,FE;330;355;2;WORMS;;30387;534828;646187
+Gasterosteus crenobiontus;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,FE,WORMS,iNat;;;;FB;gap;
+Pungitius hellenicus;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,FE;5;5;1;;;598400
+Pungitius laevis;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,FE;58;128;3;WORMS;;451125
+Pungitius platygaster;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,FE,WORMS;56;75;1;WORMS;;71236
+Pungitius sinensis;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,FE,WORMS,iNat;;;;FB;gap;
+Spinachia spinachia;Chordata;Actinopterygii;Scorpaeniformes;Gasterosteidae;BOLD,WORMS,iNat;7;7;1;WORMS;;199181

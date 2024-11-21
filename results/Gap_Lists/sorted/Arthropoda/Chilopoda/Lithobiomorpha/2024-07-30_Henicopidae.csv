@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lamyctes africanus;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;BOLD;35;35;1;ITIS;;669092
+Lamyctes caeculus;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;BOLD;;;;ITIS;gap;1021581
+Lamyctes castanea;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;FE;;;;;gap;
+Lamyctes emarginatus;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;BOLD,FE;22;27;2;ITIS;;394063
+Lamyctes mauriesi;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;FE;;;;;gap;
+Lamyctinus coeculus;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;FE;;;;FE;gap;
+Rhodobius lagoi;Arthropoda;Chilopoda;Lithobiomorpha;Henicopidae;FE;;;;;gap;

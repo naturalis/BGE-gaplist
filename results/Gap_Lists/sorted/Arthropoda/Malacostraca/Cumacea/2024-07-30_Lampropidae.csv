@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chalarostylis elegans;Arthropoda;Malacostraca;Cumacea;Lampropidae;WORMS;;;;;gap;
+Hemilamprops assimilis;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD,WORMS;3;6;1;;;514420
+Hemilamprops cristatus;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD,WORMS;0;18;0;WORMS;gap;514430
+Hemilamprops diversus;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD;1;1;0;;;957215
+Hemilamprops normani;Arthropoda;Malacostraca;Cumacea;Lampropidae;WORMS;;;;;gap;
+Hemilamprops pellucidus;Arthropoda;Malacostraca;Cumacea;Lampropidae;WORMS;;;;;gap;
+Hemilamprops pterini;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD;0;3;0;;gap;957212
+Hemilamprops roseus;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD,WORMS;1;12;1;WORMS;;514439
+Hemilamprops uniplicatus;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD,WORMS;7;13;2;WORMS;;514421
+Lamprops fasciatus;Arthropoda;Malacostraca;Cumacea;Lampropidae;WORMS;;;;WORMS;gap;
+Lamprops fuscatus;Arthropoda;Malacostraca;Cumacea;Lampropidae;WORMS;30;35;1;WORMS;;782892;546288
+Mesolamprops denticulatus;Arthropoda;Malacostraca;Cumacea;Lampropidae;BOLD,WORMS;1;3;0;;;598009

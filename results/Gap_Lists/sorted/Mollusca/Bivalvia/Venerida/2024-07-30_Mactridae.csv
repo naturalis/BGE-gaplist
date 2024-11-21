@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eastonia rugosa;Mollusca;Bivalvia;Venerida;Mactridae;WORMS;;;;WORMS;gap;
+Lutraria angustior;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,WORMS;8;10;2;WORMS;;647015
+Lutraria lutraria;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,WORMS;3;12;1;WORMS;;642316
+Mactra glauca;Mollusca;Bivalvia;Venerida;Mactridae;WORMS;;;;WORMS;gap;
+Mactra olorina;Mollusca;Bivalvia;Venerida;Mactridae;WORMS;;;;WORMS;gap;
+Mactra stultorum;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,WORMS,iNat;12;20;1;WORMS;;402906
+Mulinia lateralis;Mollusca;Bivalvia;Venerida;Mactridae;BOLD;138;183;1;WORMS;;507075
+Rangia cuneata;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,iNat;21;32;1;WORMS;;33455
+Spisula elliptica;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,WORMS;19;29;1;WORMS;;642790
+Spisula solida;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,WORMS,iNat;18;36;1;WORMS;;642791
+Spisula subtruncata;Mollusca;Bivalvia;Venerida;Mactridae;BOLD,WORMS,iNat;20;33;1;WORMS;;277732

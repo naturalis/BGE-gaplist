@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cerobasis albipes;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis amorosa;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis annulata;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;FE;gap;
+Cerobasis canariensis;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;FE;gap;
+Cerobasis denticulata;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis ericacea;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis guestfalica;Arthropoda;Insecta;Psocodea;Trogiidae;BOLD,FE,iNat;2870;2881;5;FE;;596421
+Cerobasis harteni;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis insularis;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis longicornis;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis maderensis;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis nigra;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis pineticola;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Cerobasis rosae;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Lepinotus inquilinus;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Lepinotus patruelis;Arthropoda;Insecta;Psocodea;Trogiidae;BOLD,FE;12;15;1;;;596423
+Lepinotus reticulatus;Arthropoda;Insecta;Psocodea;Trogiidae;BOLD,FE;106;115;8;;;596424
+Lepinotus vermicularis;Arthropoda;Insecta;Psocodea;Trogiidae;FE;;;;;gap;
+Trogium pulsatorium;Arthropoda;Insecta;Psocodea;Trogiidae;BOLD,FE;1;3;1;FE;;596426

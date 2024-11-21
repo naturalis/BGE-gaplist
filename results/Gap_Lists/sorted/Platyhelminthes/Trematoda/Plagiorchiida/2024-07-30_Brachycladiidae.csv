@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brachycladium goliath;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;BOLD;1;2;1;WORMS;;898995
+Brachycladium palliatum;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;WORMS;;;;WORMS;gap;
+Campula oblonga;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;WORMS;;;;WORMS;gap;
+Orthosplanchnus arcticus;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;BOLD,WORMS;0;6;0;;gap;906284
+Oschmarinella albamarina;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;WORMS;;;;WORMS;gap;
+Oschmarinella rochebruni;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;WORMS;;;;WORMS;gap;
+Synthesium tursionis;Platyhelminthes;Trematoda;Plagiorchiida;Brachycladiidae;WORMS;0;43;0;WORMS;gap;906236

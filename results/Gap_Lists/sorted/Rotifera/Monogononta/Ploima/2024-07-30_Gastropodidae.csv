@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ascomorpha agilis;Rotifera;Monogononta;Ploima;Gastropodidae;FE;;;;;gap;
+Ascomorpha ecaudis;Rotifera;Monogononta;Ploima;Gastropodidae;BOLD,FE;22;22;4;WORMS;;669081
+Ascomorpha minima;Rotifera;Monogononta;Ploima;Gastropodidae;FE;;;;;gap;
+Ascomorpha ovalis;Rotifera;Monogononta;Ploima;Gastropodidae;FE;44;47;9;ITIS;;396083
+Ascomorpha saltans;Rotifera;Monogononta;Ploima;Gastropodidae;FE;;;;FE;gap;
+Ascomorpha tundisii;Rotifera;Monogononta;Ploima;Gastropodidae;FE;;;;;gap;
+Gastropus hyptopus;Rotifera;Monogononta;Ploima;Gastropodidae;FE;0;3;0;FE;gap;738296
+Gastropus minor;Rotifera;Monogononta;Ploima;Gastropodidae;FE;;;;FE;gap;
+Gastropus stylifer;Rotifera;Monogononta;Ploima;Gastropodidae;FE;4;5;2;FE;;990704

@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anacanthoderma paucisetosum;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Anacanthoderma punctatum;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Dasydytes asymmetricus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;;gap;
+Dasydytes collini;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Dasydytes goniathrix;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;;gap;
+Dasydytes longisetosus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Dasydytes longispinosus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Dasydytes ornatus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;FE;gap;
+Haltidytes crassus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Haltidytes festinans;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Haltidytes saltitans;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Setopus bisetosus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Setopus chatticus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;FE;gap;
+Setopus dubius;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Setopus iunctus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Setopus primus;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Setopus tongiorgii;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;
+Stylochaeta fusiformis;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;1;3;1;ITIS;;968020
+Stylochaeta longispinosa;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;;gap;
+Stylochaeta scirtetica;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;BOLD,FE;1;3;1;FE;;968021
+Stylochaeta stylifera;Gastrotricha;Gastrotricha_class_incertae_sedis;Chaetonotida;Dasydytidae;FE;;;;ITIS;gap;

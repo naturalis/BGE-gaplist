@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crangonyx chlebovnikovi;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;FE;;;;;gap;
+Crangonyx floridanus;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;BOLD;62;64;3;;;80864
+Crangonyx paxi;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;FE;;;;;gap;
+Crangonyx pseudogracilis;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;BOLD,FE;114;151;4;;;79810
+Crangonyx subterraneus;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;BOLD;7;12;2;;;880173
+Synurella ambulans;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;BOLD,FE;35;73;6;FE;;654312
+Synurella longidactylus;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;BOLD;1;1;1;;;931969
+Synurella odessana;Arthropoda;Malacostraca;Amphipoda;Crangonyctidae;BOLD;2;2;1;;;931970

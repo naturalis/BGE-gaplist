@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Poecilochaetus fauchaldi;Annelida;Polychaeta;Spionida;Poecilochaetidae;WORMS;;;;;gap;
+Poecilochaetus fulgoris;Annelida;Polychaeta;Spionida;Poecilochaetidae;WORMS;;;;;gap;
+Poecilochaetus serpens;Annelida;Polychaeta;Spionida;Poecilochaetidae;BOLD,WORMS;11;20;3;;;510196

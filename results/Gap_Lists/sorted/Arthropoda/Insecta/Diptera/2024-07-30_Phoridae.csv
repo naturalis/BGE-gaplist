@@ -1,0 +1,620 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aenigmatias brevifrons;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Aenigmatias dorni;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Aenigmatias franzi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Aenigmatias lubbockii;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE;10;11;1;FE;;467356
+Aenigmatias picipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;1;2;0;;;1137133
+Anevrina curvinervis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;22;23;1;ITIS;;744623
+Anevrina kozaneki;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Anevrina setigera;Arthropoda;Insecta;Diptera;Phoridae;FE;11;13;1;FE;;649264
+Anevrina thoracica;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;91;95;4;ITIS;;483405
+Anevrina unispinosa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;0;4;0;SyDip;gap;799750
+Anevrina urbana;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;20;21;1;ITIS;;467364
+Beckerina umbrimargo;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;ITIS;gap;
+Billotia inermis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Billotia papii;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Borophaga (Borophaga) femorata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;467375
+Borophaga (Borophaga) germanica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Borophaga (Borophaga) irregularis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Borophaga (Peromitra) agilis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;1067466
+Borophaga (Peromitra) carinifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;483350
+Borophaga (Peromitra) cephalotes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Borophaga (Peromitra) erythrocera;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Borophaga (Peromitra) incrassata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;956439
+Borophaga bennetti;Arthropoda;Insecta;Diptera;Phoridae;BOLD;0;3;0;;gap;964357
+Borophaga subsultans;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;34;43;3;ITIS;;736253
+Chaetopleurophora bohemanni;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Chaetopleurophora erythronota;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;42;43;1;ITIS;;467380
+Chaetopleurophora pygidialis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Chaetopleurophora spinosa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Chaetopleurophora spinosior;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Chaetopleurophora spinosissima;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;3;3;2;FE;;646901
+Chonocephalus bentacaisei;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Chonocephalus depressus;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Chonocephalus heymonsi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Conicera (Conicera) cisalpina;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Conicera (Conicera) dauci;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;271398
+Conicera (Conicera) floricola;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737415
+Conicera (Hypocerina) schnittmanni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737436
+Conicera (Hypocerina) tarsalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737440
+Conicera (Tritoconicera) similis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;521234
+Conicera (Tritoconicera) tibialis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;945646
+Conicera crassicosta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Diplonevra (Diplonevra) concinna;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;467405
+Diplonevra (Diplonevra) cornutissima;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) crassicornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) florea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;;;;SyDip;gap;504704
+Diplonevra (Diplonevra) freyi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;504694
+Diplonevra (Diplonevra) glabra;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;483290
+Diplonevra (Diplonevra) lophochaeta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) minima;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) oldenbergi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;483685
+Diplonevra (Diplonevra) pachycera;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) pilosella;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;957693
+Diplonevra (Diplonevra) praealpina;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) refulgens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) sesquicornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) unisetalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Diplonevra) unispinalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra (Tristoechia) abbreviata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra altipetax;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra amphichaeta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Diplonevra florescens;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;33;34;1;SyDip;;483680
+Diplonevra funebris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;59;63;3;ITIS;;467406;468351
+Diplonevra nitidula;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;2992;3121;1;ITIS;;467407
+Diplonevra zuijleni;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Dohrniphora cornuta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;170;182;2;ITIS;;504688
+Dohrniphora papuana;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Gymnophora (Capraephora) lapidicola;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Gymnophora (Gymnophora) arcuata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;646906
+Gymnophora (Gymnophora) integralis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;1140806
+Gymnophora (Gymnophora) nigripennis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Gymnophora (Gymnophora) quartomollis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767291
+Gymnophora distincta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;0;2;0;SyDip;gap;1067468
+Gymnophora forresteri;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;0;1;0;;gap;964358
+Gymnophora healeyae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Gymnophora prescherweberae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Gymnoptera longicostalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Gymnoptera vitripennis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Hypocera mordellaria;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;8;10;1;SyDip;;483684
+Hypocerides nearcticus;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Lepta mendesi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia (Aphiochaeta) aculeata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767300
+Megaselia (Aphiochaeta) aequalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;739725
+Megaselia (Aphiochaeta) affinis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737403
+Megaselia (Aphiochaeta) albiclava;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737405
+Megaselia (Aphiochaeta) albocingulata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918748
+Megaselia (Aphiochaeta) alticolella;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) altifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704644
+Megaselia (Aphiochaeta) angularis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) annulipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918767
+Megaselia (Aphiochaeta) aquilonia;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892377
+Megaselia (Aphiochaeta) armata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) atrosericea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;769954
+Megaselia (Aphiochaeta) auricoma;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) baltica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918766
+Megaselia (Aphiochaeta) barbulata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;467468
+Megaselia (Aphiochaeta) basicrinalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918762
+Megaselia (Aphiochaeta) basispinata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;769956
+Megaselia (Aphiochaeta) basiveluta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) beckeri;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;739707
+Megaselia (Aphiochaeta) beyeri;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) brevifemorata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) brevipes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) campestris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737410
+Megaselia (Aphiochaeta) capillipes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) chaetopyga;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) ciliata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737411
+Megaselia (Aphiochaeta) cirratula;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) cirricauda;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) cirriventris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;479136
+Megaselia (Aphiochaeta) clara;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;479080
+Megaselia (Aphiochaeta) coccyx;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767292
+Megaselia (Aphiochaeta) communiformis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997609
+Megaselia (Aphiochaeta) conformipar;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) conformis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918769
+Megaselia (Aphiochaeta) consetigera;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704631
+Megaselia (Aphiochaeta) cothurnata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918757
+Megaselia (Aphiochaeta) crassilla;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) crassipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892392
+Megaselia (Aphiochaeta) crinita;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) criniticauda;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) curvicapilla;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997637
+Megaselia (Aphiochaeta) dahli;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737412
+Megaselia (Aphiochaeta) deltomera;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) differens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918765
+Megaselia (Aphiochaeta) digitalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) diversa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704627
+Megaselia (Aphiochaeta) dubitalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892390
+Megaselia (Aphiochaeta) eccoptomera;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704632
+Megaselia (Aphiochaeta) exangulata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) exarcuata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) excavata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918755
+Megaselia (Aphiochaeta) fenestralis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) filamentosa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) flavescens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) flavicoxa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918601
+Megaselia (Aphiochaeta) frameata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737416
+Megaselia (Aphiochaeta) fumata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;786669
+Megaselia (Aphiochaeta) funeralis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) fungivora;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704653;739726
+Megaselia (Aphiochaeta) furva;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) fusciclava;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) fuscipalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) fuscopleuralis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) fuscovariana;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737417
+Megaselia (Aphiochaeta) gargarans;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) globicornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) groenlandica;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;479081
+Megaselia (Aphiochaeta) hectochaeta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) hibernans;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;789189
+Megaselia (Aphiochaeta) hirsuta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) hirticrus;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737421
+Megaselia (Aphiochaeta) hortensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) hyalipennis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;1067501
+Megaselia (Aphiochaeta) hypopygialis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) ignobilis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737422
+Megaselia (Aphiochaeta) incontaminata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) indifferens;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892375
+Megaselia (Aphiochaeta) indigesta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) inquinata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) insons;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918792
+Megaselia (Aphiochaeta) intercostata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) intermedia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) intonsa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) introlapsa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) involuta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918598
+Megaselia (Aphiochaeta) lapponica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) latifrons;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) latipes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) lucifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704646
+Megaselia (Aphiochaeta) luminifrons;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) magnifica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) major;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) manicata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918764
+Megaselia (Aphiochaeta) meconicera;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918758
+Megaselia (Aphiochaeta) nigra;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;785801
+Megaselia (Aphiochaeta) nigriceps;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704650
+Megaselia (Aphiochaeta) nigrifemorata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) nigripalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) obscuripennis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737426
+Megaselia (Aphiochaeta) ochripes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pachydactyla;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) palmeni;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) paludosa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;967956
+Megaselia (Aphiochaeta) patula;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) paupera;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pectinifera;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pectoraliformis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pectoralis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767299
+Megaselia (Aphiochaeta) pectorella;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pectunculata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pedatella;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) peyresquensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pilifemur;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pleuralis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704662
+Megaselia (Aphiochaeta) posticata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997631
+Megaselia (Aphiochaeta) producta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;806545
+Megaselia (Aphiochaeta) prolongata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) protarsalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pseudociliata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pubecula;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) pumila;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737431
+Megaselia (Aphiochaeta) pusilla;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767295
+Megaselia (Aphiochaeta) raetica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) robusta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;739723
+Megaselia (Aphiochaeta) rudis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) ruralis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) schutti;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) sepulchralis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704628
+Megaselia (Aphiochaeta) sericata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) serrata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) setulipalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) simplex;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) simulans;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704671
+Megaselia (Aphiochaeta) sordida;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767293
+Megaselia (Aphiochaeta) specularis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918749
+Megaselia (Aphiochaeta) speiseri;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737438
+Megaselia (Aphiochaeta) spinata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) spiracularis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;656036
+Megaselia (Aphiochaeta) stichata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997618
+Megaselia (Aphiochaeta) subcarpalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) subconvexa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918772
+Megaselia (Aphiochaeta) subfraudulenta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) subpalpalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704652
+Megaselia (Aphiochaeta) subpleuralis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918754
+Megaselia (Aphiochaeta) superciliata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892372
+Megaselia (Aphiochaeta) tabida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) tama;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918775
+Megaselia (Aphiochaeta) tarsicia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) tecticauda;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;;;;SyDip;gap;785813
+Megaselia (Aphiochaeta) tenuiventris;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) tergata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767296
+Megaselia (Aphiochaeta) thalhammeri;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) trichorrhoea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918596
+Megaselia (Aphiochaeta) triquetra;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892376
+Megaselia (Aphiochaeta) umbrata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) unguicularis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) unichaeta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) unicolor;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) valvata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) variana;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704659
+Megaselia (Aphiochaeta) verralli;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737444
+Megaselia (Aphiochaeta) vestita;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704664
+Megaselia (Aphiochaeta) waagei;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Aphiochaeta) woodi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;483395
+Megaselia (Aphiochaeta) xanthozona;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;997640
+Megaselia (Megaselia) abditus;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737402
+Megaselia (Megaselia) abludens;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892380
+Megaselia (Megaselia) acuta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) aequilateralis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) albicans;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737404
+Megaselia (Megaselia) albicaudata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;744621
+Megaselia (Megaselia) analis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) angelicae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) angusta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704656
+Megaselia (Megaselia) angustiata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997614
+Megaselia (Megaselia) apophysata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) apozona;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) arquata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) basitumida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) beatricis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) berndseni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737406
+Megaselia (Megaselia) bistruncata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) brevicostalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;971206
+Megaselia (Megaselia) brevior;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737409
+Megaselia (Megaselia) breviseta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) brevissima;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) breviterga;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) brunneicornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) brunneipennis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918761
+Megaselia (Megaselia) cinerea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) cinereifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918759
+Megaselia (Megaselia) claricornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) coacta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) coaetanea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) coei;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) collini;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) constricta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) constrictior;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) costalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) crassicosta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;957705
+Megaselia (Megaselia) crassivenia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) densior;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) devia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) discreta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737413
+Megaselia (Megaselia) eisfelderae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;739715
+Megaselia (Megaselia) erecta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) errata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918794
+Megaselia (Megaselia) eupygis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) exsecta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) fastigiicola;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) flammula;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892383
+Megaselia (Megaselia) flava;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918593
+Megaselia (Megaselia) flavicans;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704677
+Megaselia (Megaselia) frontalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) fusca;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) fuscinervis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) fuscinula;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918760
+Megaselia (Megaselia) fuscoides;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) fusipalpis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;;;;SyDip;gap;739711
+Megaselia (Megaselia) glabrifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737418
+Megaselia (Megaselia) goidanichi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) gregaria;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918774
+Megaselia (Megaselia) halterata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;521235
+Megaselia (Megaselia) hilaris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737420
+Megaselia (Megaselia) hirticaudata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;785816
+Megaselia (Megaselia) hirtiventris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704658
+Megaselia (Megaselia) humeralis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;767297
+Megaselia (Megaselia) impinguata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) incongruens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) infraposita;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737423
+Megaselia (Megaselia) intergeriva;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) intersecta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) kolana;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) lactipennis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) laeta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) laeviceps;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) largifrontalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;704645
+Megaselia (Megaselia) lata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704629
+Megaselia (Megaselia) latericia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) latifemorata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;786668
+Megaselia (Megaselia) latior;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918607
+Megaselia (Megaselia) latipalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) leucozona;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) longicostalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;521236
+Megaselia (Megaselia) longipalpis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;997610
+Megaselia (Megaselia) longiseta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918770
+Megaselia (Megaselia) lutea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704649
+Megaselia (Megaselia) lutescens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) mallochi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;786667
+Megaselia (Megaselia) marina;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) maura;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918600
+Megaselia (Megaselia) meigeni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892386
+Megaselia (Megaselia) melanocephala;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892388
+Megaselia (Megaselia) melanostola;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) miki;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) minor;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918599
+Megaselia (Megaselia) minuta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;739712
+Megaselia (Megaselia) mixta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) mortenseni;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) nigrescens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) norica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) oblongifrons;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) offuscata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) opacicornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) oxybelorum;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997626
+Megaselia (Megaselia) pallidizona;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997612
+Megaselia (Megaselia) parva;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918594
+Megaselia (Megaselia) perdistans;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997611
+Megaselia (Megaselia) perfusca;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) picta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;467469
+Megaselia (Megaselia) plurispinulosa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;799749
+Megaselia (Megaselia) praeacuta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892381
+Megaselia (Megaselia) prodroma;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) propinqua;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892382
+Megaselia (Megaselia) pseudogiraudii;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) pulicaria;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;739716
+Megaselia (Megaselia) pullipalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) pygmaea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892379
+Megaselia (Megaselia) quadriseta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737432
+Megaselia (Megaselia) rivalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) rubella;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737433
+Megaselia (Megaselia) rubescens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) rubida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) ruficornis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;704648
+Megaselia (Megaselia) rufifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737435
+Megaselia (Megaselia) rufipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;521237
+Megaselia (Megaselia) rupestris;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918771
+Megaselia (Megaselia) sanguinea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918768
+Megaselia (Megaselia) scalaris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;521238
+Megaselia (Megaselia) scutellaris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737437
+Megaselia (Megaselia) septentrionalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) spinicincta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;799748
+Megaselia (Megaselia) stigmatica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) striolata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;918773
+Megaselia (Megaselia) subfuscipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737439
+Megaselia (Megaselia) subnudipennis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;997634
+Megaselia (Megaselia) subtumida;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;521239
+Megaselia (Megaselia) sulphuripes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) superfurcata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) surdifrons;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) sylvatica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) tarsalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737441
+Megaselia (Megaselia) tarsella;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737442
+Megaselia (Megaselia) tenebricola;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;786670
+Megaselia (Megaselia) teneripes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) testacea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;737443
+Megaselia (Megaselia) tumida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) uliginosa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) ustulata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) verna;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918595
+Megaselia (Megaselia) vernalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;1140733
+Megaselia (Megaselia) villicauda;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;892384
+Megaselia (Megaselia) virilis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia (Megaselia) zonata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;918763
+Megaselia abernethae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia albalucifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;8;8;1;;;789187
+Megaselia alpina;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Megaselia andrenae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia arcticae;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;4492;4534;2;;;365801
+Megaselia aristica;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Megaselia ashmolei;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia baezi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia bifida;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;60;60;1;;;737407
+Megaselia bifurcata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia bovista;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;0;1;0;ITIS;gap;997616
+Megaselia brunnea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia buchsi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia canaryae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia citrinella;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;843;852;1;;;704672
+Megaselia clemonsi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;162;163;1;;;789188
+Megaselia correlata;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Megaselia curvivenia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia dimorphica;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia dipsacosa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia drakei;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;36;38;2;;;737414
+Megaselia elongata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;294;295;1;SyDip;;918790
+Megaselia emarginata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;470;470;1;SyDip;;704666
+Megaselia fennicola;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia feshiensis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;21;23;1;;;892378
+Megaselia funesta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;1;3;1;;;918597
+Megaselia gartensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia giraudii;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;577;580;4;ITIS;;704647
+Megaselia glabrimargo;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia haraldlundi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;12;12;1;;;737419
+Megaselia haranti;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Megaselia hartfordensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia hendersoni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;12;14;1;;;892389
+Megaselia henrydisneyi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia hexanophila;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia horsfieldi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia iberiensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia immodensior;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia impolluta;Arthropoda;Insecta;Diptera;Phoridae;BOLD;10;10;1;;;789190
+Megaselia invernessae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia jameslamonti;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia joannae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia kajaaniensis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;56;56;2;;;957700
+Megaselia killarneyensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia krizelji;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Megaselia labellaspinata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia limburgensis;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Megaselia longifurca;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;144;144;0;FE;;1067504;1140803
+Megaselia luteipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;30;33;1;SyDip;;892387
+Megaselia malhamensis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;16;18;1;;;892385
+Megaselia manualis;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Megaselia marekdurskii;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia marklanei;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Megaselia mcleani;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia mikejohnsoni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;181;181;1;;;785800
+Megaselia mimodensior;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia miroparaphysis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;0;4;0;;gap;1067508
+Megaselia monochaetina;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;ITIS;gap;
+Megaselia nasoni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE;15;19;2;FE;;739724
+Megaselia nectergata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;5;5;1;;;737425
+Megaselia nudipleura;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Megaselia nudiventris;Arthropoda;Insecta;Diptera;Phoridae;BOLD;0;1;0;;gap;892391
+Megaselia ocliferia;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Megaselia oligoseta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;194;194;1;;;789191
+Megaselia oviaraneae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia oweni;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;0;4;0;;gap;892373
+Megaselia parnassia;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia petraea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia pictorufa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia piliventris;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Megaselia raruvesiculae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia romphaea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia rotundapicis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia rubricornis;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Megaselia rufa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;1452;1462;2;SyDip;;737434
+Megaselia shatesae;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;479;479;1;;;785811
+Megaselia sheppardi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia sicaria;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Megaselia solitaria;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Megaselia spinigera;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;157;159;2;SyDip;;704661
+Megaselia stenoterga;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia styloprocta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;16;18;1;SyDip;;997639
+Megaselia subnitida;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;4;6;1;SyDip;;918604
+Megaselia symondsi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia tamilnaduensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;2;2;1;;;789194
+Megaselia teresamajewskae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia tignorum;Arthropoda;Insecta;Diptera;Phoridae;BOLD,SyDip;0;1;0;;gap;1067530
+Megaselia tinteri;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia tonyirwini;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia trojani;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia unwini;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia wickenensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia wigtownensis;Arthropoda;Insecta;Diptera;Phoridae;BOLD;0;1;0;;gap;968936
+Megaselia xanthophila;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia yatesi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Megaselia zeuzerae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Menozziola obscuripes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;3;3;1;SyDip;;737428
+Menozziola schmitzi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Menozziola serialis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Metopina braueri;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;135;135;1;SyDip;;737408
+Metopina crassinervis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Metopina formicomendicola;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Metopina galeata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;1164;1168;5;SyDip;;467476
+Metopina heselhausi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;0;1;0;;gap;997641
+Metopina oligoneura;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;1081;1113;1;SyDip;;737429
+Metopina perpusilla;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;20;21;1;SyDip;;737430
+Metopina pileata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Metopina tanjae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Metopina trochanteralis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Metopina ulrichi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Microselia daccordi;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Microselia forsiusi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Microselia rivierae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Microselia southwoodi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Obscuriphora sheppardi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phalacrotophora (Omapanta) berolinensis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;468394
+Phalacrotophora (Omapanta) fasciata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;;;;SyDip;gap;510591
+Phalacrotophora (Omapanta) pictofasciata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Phalacrotophora (Omapanta) spectabilis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Phalacrotophora beuki;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phalacrotophora delageae;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;2;2;1;;;918756
+Phalacrotophora paradoxa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora adducta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora artifrons;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;36;36;2;;;483535
+Phora bullata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora cilicrus;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora convallium;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;9;9;1;SyDip;;469887
+Phora convergens;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;41;42;2;;;483481
+Phora dubia;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;14;15;0;SyDip;;483415
+Phora edentata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;35;35;1;;;646907
+Phora hamata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;4;4;1;;;589095
+Phora holosericea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;16;20;2;;;467497
+Phora horrida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora hyperborea;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;1;1;1;SyDip;;483681
+Phora indivisa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora limpida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora obscura;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;4;6;1;SyDip;;589094
+Phora occidentata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;60;63;2;SyDip;;596614
+Phora penicillata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora praepandens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora pubipes;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;80;81;1;;;483470
+Phora speighti;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Phora stictica;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;2;4;1;ITIS;;483682
+Phora tincta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;271;279;1;FE;;589097
+Phora velutina;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Plastophora brevicornis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Plectanocnema nudipes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;1;4;1;SyDip;;921995
+Poloniphora bialoviensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Pseudacteon brevicauda;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;9;9;0;FE;;1140808
+Pseudacteon claridgei;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Pseudacteon fennicus;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;27;29;1;;;1067542
+Pseudacteon formicarum;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Pseudacteon lundbecki;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Pseudacteon tubiceroides;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Puliciphora borinquenensis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;1;3;1;SyDip;;736236
+Puliciphora rufipes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Spiniphora bergenstammi;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE;48;50;1;FE;;521240
+Spiniphora brevipalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Spiniphora dorsalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;10;12;1;SyDip;;786671
+Spiniphora excisa;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;5;6;1;ITIS;;467532
+Spiniphora jugorum;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Spiniphora lyneborgi;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;;gap;
+Spiniphora maculata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;16;16;1;SyDip;;510633
+Spiniphora punctipennis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Spiniphora signata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Spiniphora strobli;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Stichillus coronatus;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Trineurocephala admirabilis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba aequalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;10;12;1;FE;;1067545
+Triphleba alpestris;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba antricola;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;154;154;1;SyDip;;786672
+Triphleba apenninigena;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba aprilina;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba aptina;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;4;4;0;SyDip;;1140783
+Triphleba aqualis;Arthropoda;Insecta;Diptera;Phoridae;BOLD;67;67;1;;;767294
+Triphleba ausoniae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba autumnalis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;27;27;1;SyDip;;521241
+Triphleba bicornuta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;14;14;1;SyDip;;510636
+Triphleba bifida;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba citreiformis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;5;6;1;SyDip;;786674
+Triphleba collini;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba crassinervis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba dentata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba disparinervis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba distinguenda;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;221;224;1;SyDip;;521242
+Triphleba dudai;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba excisa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba flexipalpis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba fortimana;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba gilvipes;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba gracilis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;6;6;1;SyDip;;964359
+Triphleba hentrichi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba hyalinata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;204;204;2;SyDip;;521243
+Triphleba hypopygialis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba inaequalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Triphleba inopinata;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Triphleba intempesta;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba intermedia;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;27;29;1;SyDip;;786673
+Triphleba latipalpalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Triphleba longifurcata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba lugubris;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;37;38;3;ITIS;;736250
+Triphleba luteifemorata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;10;11;1;SyDip;;737424
+Triphleba lyria;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba minuta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;1;2;0;SyDip;;767298
+Triphleba nivalis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba nudipalpalis;Arthropoda;Insecta;Diptera;Phoridae;FE;;;;FE;gap;
+Triphleba nudipalpis;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;86;88;2;SyDip;;467541
+Triphleba opaca;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;14;16;1;SyDip;;510634
+Triphleba pachyneurella;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba palposa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;ITIS;gap;
+Triphleba papillata;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;7;7;1;SyDip;;964360
+Triphleba renidens;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;0;2;0;;gap;964361
+Triphleba smithi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba subcompleta;Arthropoda;Insecta;Diptera;Phoridae;BOLD,FE,SyDip;28;31;1;;;510635
+Triphleba transparens;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba trinervis;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;ITIS;gap;
+Triphleba tumidula;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba vitrea;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Triphleba withersi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Triphleba zernyi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Trucidophora ewardurskae;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;FE;gap;
+Tubicera lichtwardti;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;
+Veruanus oldenbergi;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Woodiphora (Woodiphora) retroversa;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;SyDip;gap;
+Xenotriphleba dentistylata;Arthropoda;Insecta;Diptera;Phoridae;FE,SyDip;;;;;gap;

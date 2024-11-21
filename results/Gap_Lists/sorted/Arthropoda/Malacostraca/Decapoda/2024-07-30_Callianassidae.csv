@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Callianassa subterranea;Arthropoda;Malacostraca;Decapoda;Callianassidae;BOLD,WORMS;20;27;1;WORMS;;469392
+Gilvossius tyrrhenus;Arthropoda;Malacostraca;Decapoda;Callianassidae;BOLD;3;5;1;WORMS;;991190;469391
+Necallianassa truncata;Arthropoda;Malacostraca;Decapoda;Callianassidae;BOLD;1;1;1;WORMS;;572417
+Vulcanocalliax arutyunovi;Arthropoda;Malacostraca;Decapoda;Callianassidae;BOLD;2;7;1;;;210467

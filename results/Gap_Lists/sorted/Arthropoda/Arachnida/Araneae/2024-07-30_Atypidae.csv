@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atypus affinis;Arthropoda;Arachnida;Araneae;Atypidae;BOLD,FE,iNat;5;11;1;;;203281
+Atypus muralis;Arthropoda;Arachnida;Araneae;Atypidae;BOLD,FE;3;3;1;;;766287
+Atypus piceus;Arthropoda;Arachnida;Araneae;Atypidae;BOLD,FE;13;22;1;FE;;286941

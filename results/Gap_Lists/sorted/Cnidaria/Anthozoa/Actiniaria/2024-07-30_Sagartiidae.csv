@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Actinothoe sphyrodeta;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;WORMS;gap;
+Cereus pedunculatus;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;BOLD,WORMS;1;5;0;WORMS;;900189;726275
+Cylista elegans;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;BOLD;3;3;0;WORMS;;1126719;805305
+Cylista undata;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;BOLD,iNat;4;4;1;WORMS;;1126713;726277
+Sagartia ornata;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;BOLD;3;4;1;;;726274
+Sagartiogeton abyssorum;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;;gap;
+Sagartiogeton entellae;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;;gap;
+Sagartiogeton flexibilis;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;WORMS;gap;
+Sagartiogeton ingolfi;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;;gap;
+Sagartiogeton laceratus;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;BOLD;2;3;1;ITIS;;726276
+Sagartiogeton robustus;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;;gap;
+Sagartiogeton tubicolus;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;WORMS;gap;
+Sagartiogeton verrilli;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;WORMS;;;;WORMS;gap;
+Sagartiogeton viduatus;Cnidaria;Anthozoa;Actiniaria;Sagartiidae;BOLD;2;2;1;;;726285

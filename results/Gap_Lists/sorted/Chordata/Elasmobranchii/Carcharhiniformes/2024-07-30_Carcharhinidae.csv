@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carcharhinus altimus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;68;101;2;WORMS;;72352
+Carcharhinus brevipinna;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;184;268;4;WORMS;;12778
+Carcharhinus falciformis;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;531;697;6;WORMS;;72353
+Carcharhinus galapagensis;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;24;43;2;WORMS;;96564
+Carcharhinus isodon;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;24;48;1;WORMS;;122818
+Carcharhinus leucas;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;156;234;3;WORMS;;12773
+Carcharhinus limbatus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;175;329;6;WORMS;;12772
+Carcharhinus longimanus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;68;90;2;WORMS;;71911
+Carcharhinus melanopterus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;74;141;3;WORMS;;55540
+Carcharhinus obscurus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;BOLD,WORMS;100;183;2;WORMS;;12769
+Carcharhinus plumbeus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;151;251;2;WORMS;;12776
+Carcharhinus signatus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;21;37;1;WORMS;;122817
+Galeocerdo cuvier;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;309;369;1;WORMS;;12767
+Negaprion brevirostris;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;16;28;1;WORMS;;122041
+Prionace glauca;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;BOLD,WORMS;787;1021;1;WORMS;;12783
+Rhizoprionodon acutus;Chordata;Elasmobranchii;Carcharhiniformes;Carcharhinidae;WORMS;225;319;3;WORMS;;12785

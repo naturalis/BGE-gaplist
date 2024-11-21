@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dollfusinus frontalis;Platyhelminthes;Trematoda;Diplostomida;Panopistidae;FE;;;;;gap;
+Michajlovia migrata;Platyhelminthes;Trematoda;Diplostomida;Panopistidae;BOLD,FE;0;1;0;;gap;906107
+Pseudoleucochloridium pericardicum;Platyhelminthes;Trematoda;Diplostomida;Panopistidae;FE;;;;;gap;
+Pseudoleucochloridium rotundus;Platyhelminthes;Trematoda;Diplostomida;Panopistidae;FE;;;;;gap;
+Pseudoleucochloridium soricis;Platyhelminthes;Trematoda;Diplostomida;Panopistidae;FE;;;;FE;gap;

@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hyalinella punctata;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;BOLD,FE;7;7;2;ITIS;;715831
+Plumatella bombayensis;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;;gap;
+Plumatella casmiana;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;BOLD,FE;1;1;0;;;715832
+Plumatella emarginata;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;1;2;0;FE;;653346
+Plumatella fruticosa;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;;gap;
+Plumatella fungosa;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;BOLD,FE;3;3;2;FE;;653347
+Plumatella geimermassardi;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;;gap;
+Plumatella repens;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;BOLD,FE;2;2;1;FE;;247876
+Plumatella reticulata;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;2;3;0;;;976212
+Plumatella rugosa;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;FE;gap;
+Plumatella similirepens;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;;gap;
+Plumatella vaihiriae;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;;gap;
+Stolella indica;Bryozoa;Phylactolaemata;Plumatellida;Plumatellidae;FE;;;;;gap;

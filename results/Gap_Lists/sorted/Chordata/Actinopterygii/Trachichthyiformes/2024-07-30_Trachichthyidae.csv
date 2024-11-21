@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gephyroberyx darwinii;Chordata;Actinopterygii;Trachichthyiformes;Trachichthyidae;WORMS;;;;WORMS;gap;
+Hoplostethus atlanticus;Chordata;Actinopterygii;Trachichthyiformes;Trachichthyidae;BOLD,WORMS;207;212;1;WORMS;;11104
+Hoplostethus cadenati;Chordata;Actinopterygii;Trachichthyiformes;Trachichthyidae;WORMS;;;;;gap;
+Hoplostethus latus;Chordata;Actinopterygii;Trachichthyiformes;Trachichthyidae;BOLD,WORMS;;;;FB;gap;

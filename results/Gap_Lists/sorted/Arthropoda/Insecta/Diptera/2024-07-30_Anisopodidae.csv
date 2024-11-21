@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mycetobia gemella;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,SyDip;2;2;1;;;976852
+Mycetobia obscura;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,SyDip;7;7;1;;;786604
+Mycetobia pallipes;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,SyDip;11;12;1;SyDip;;677259
+Sylvicola (Anisopus) stackelbergi;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,SyDip;;;;SyDip;gap;468418
+Sylvicola baechlii;Arthropoda;Insecta;Diptera;Anisopodidae;FE,SyDip;;;;;gap;
+Sylvicola cinctus;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,iNat,SyDip;1121;1127;1;SyDip;;374075
+Sylvicola fenestralis;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,iNat,SyDip;7;12;0;ITIS;;374076
+Sylvicola fuscatoides;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,SyDip;3;3;1;;;540907
+Sylvicola fuscatus;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,iNat,SyDip;63;64;1;ITIS;;350374
+Sylvicola limpidus;Arthropoda;Insecta;Diptera;Anisopodidae;FE;;;;FE;gap;
+Sylvicola oceanus;Arthropoda;Insecta;Diptera;Anisopodidae;FE;;;;FE;gap;
+Sylvicola punctatus;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE,iNat,SyDip;1293;1300;3;SyDip;;453387
+Sylvicola zetterstedti;Arthropoda;Insecta;Diptera;Anisopodidae;BOLD,FE;20;22;1;FE;;704368

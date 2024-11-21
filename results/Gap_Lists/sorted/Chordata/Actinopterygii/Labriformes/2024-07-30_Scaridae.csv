@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calotomus spinidens;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;56;77;2;WORMS;;161828
+Cetoscarus ocellatus;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;12;13;1;WORMS;;573835
+Chlorurus japanensis;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;15;16;1;WORMS;;525562
+Cryptotomus roseus;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;23;34;2;ITIS;;71593
+Hipposcarus longiceps;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;153;158;2;WORMS;;140618
+Scarus forsteni;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;307;314;1;WORMS;;89351
+Scarus frenatus;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;19;25;2;WORMS;;163512
+Scarus oviceps;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;207;211;1;ITIS;;89291
+Scarus psittacus;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;95;117;3;WORMS;;89246
+Scarus schlegeli;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;190;192;2;WORMS;;89342
+Scarus taeniopterus;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;17;26;2;ITIS;;64428
+Siganus rivulatus;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD,WORMS;29;31;3;WORMS;;108695;196010
+Sparisoma atomarium;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;27;32;1;WORMS;;111890
+Sparisoma aurofrenatum;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;39;43;2;WORMS;;52279
+Sparisoma chrysopterum;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;29;48;1;WORMS;;52234
+Sparisoma radians;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;52;61;1;WORMS;;71629
+Sparisoma rubripinne;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;45;71;3;WORMS;;52278
+Sparisoma strigatum;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;11;11;0;WORMS;;484203
+Sparisoma viride;Chordata;Actinopterygii;Labriformes;Scaridae;BOLD;105;136;1;WORMS;;52256

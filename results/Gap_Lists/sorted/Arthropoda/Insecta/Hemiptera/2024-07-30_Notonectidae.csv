@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anisops crinitus;Arthropoda;Insecta;Hemiptera;Notonectidae;FE,CoPH;;;;CoPH;gap;
+Anisops debilis ;Arthropoda;Insecta;Hemiptera;Notonectidae;FE,CoPH;;;;CoPH;gap;
+Anisops sardeus;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH;17;21;1;ITIS;;768354
+Notonecta (Notonecta) glauca;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;198467
+Notonecta (Notonecta) lutea;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH;;;;CoPH;gap;309857
+Notonecta (Notonecta) maculata;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;309858;1142933
+Notonecta (Notonecta) meridionalis;Arthropoda;Insecta;Hemiptera;Notonectidae;FE,CoPH;;;;CoPH;gap;
+Notonecta (Notonecta) obliqua;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;677967
+Notonecta (Notonecta) pallidula;Arthropoda;Insecta;Hemiptera;Notonectidae;FE,CoPH;;;;CoPH;gap;
+Notonecta (Notonecta) reuteri;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH;;;;CoPH;gap;477672
+Notonecta (Notonecta) viridis;Arthropoda;Insecta;Hemiptera;Notonectidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;455305
+Notonecta canariensis;Arthropoda;Insecta;Hemiptera;Notonectidae;FE;;;;;gap;
+Nychia marshalli;Arthropoda;Insecta;Hemiptera;Notonectidae;FE,CoPH;;;;CoPH;gap;

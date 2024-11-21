@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Psolidium whittakeri;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;BOLD;31;31;1;;;280227
+Psolus dubiosus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;BOLD;29;45;0;;;187659
+Psolus fabricii;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;WORMS;;;;WORMS;gap;
+Psolus hypsinotus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;WORMS;;;;;gap;
+Psolus nummularis;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;WORMS;;;;;gap;
+Psolus operculatus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;WORMS;;;;WORMS;gap;
+Psolus patagonicus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;BOLD;16;30;1;WORMS;;280304
+Psolus phantapus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;BOLD,WORMS;15;31;1;WORMS;;190951
+Psolus segregatus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;BOLD;3;5;1;WORMS;;280292
+Psolus squamatus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;BOLD,WORMS;2;8;1;WORMS;;223033
+Psolus tessellatus;Echinodermata;Holothuroidea;Dendrochirotida;Psolidae;WORMS;;;;;gap;

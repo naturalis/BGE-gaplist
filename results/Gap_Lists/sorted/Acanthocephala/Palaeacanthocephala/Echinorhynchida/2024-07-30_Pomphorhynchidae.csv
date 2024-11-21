@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pomphorhynchus bosniacus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Pomphorhynchidae;BOLD,FE;37;39;3;;;892732
+Pomphorhynchus kostylewi;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Pomphorhynchidae;FE;;;;;gap;
+Pomphorhynchus laevis;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Pomphorhynchidae;BOLD,FE,WORMS;278;295;12;WORMS;;30532
+Pomphorhynchus tereticollis;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Pomphorhynchidae;BOLD,FE,WORMS;122;135;1;WORMS;;30531

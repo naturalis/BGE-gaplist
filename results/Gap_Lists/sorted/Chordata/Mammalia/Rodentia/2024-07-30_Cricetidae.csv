@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arvicola amphibius;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;22;29;3;ITIS;;162016;29506
+Arvicola scherman;Chordata;Mammalia;Rodentia;Cricetidae;BOLD;11;12;0;ITIS;;704904
+Chionomys nivalis;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;6;54;3;ITIS;;329716
+Cricetulus barabensis;Chordata;Mammalia;Rodentia;Cricetidae;BOLD;39;44;6;ITIS;;101363;9734
+Cricetulus migratorius;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;84;96;6;ITIS;;16141
+Cricetus cricetus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;148;148;1;ITIS;;101362
+Ellobius talpinus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;4;6;2;ITIS;;142636
+Lemmus lemmus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;6;18;1;ITIS;;162011
+Microtus agrestis;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;38;61;3;ITIS;;53185
+Microtus arvalis;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;94;191;7;ITIS;;29505
+Microtus bavaricus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;0;1;0;;gap;329718
+Microtus guentheri;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;4;4;1;ITIS;;450711
+Microtus lavernedii;Chordata;Mammalia;Rodentia;Cricetidae;BOLD;2;2;1;;;1122081
+Microtus levis;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;10;12;1;ITIS;;162017;81877
+Microtus multiplex;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;3;6;1;ITIS;;994784
+Microtus oeconomus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;83;145;5;ITIS;;90520
+Microtus savii;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;1;1;1;ITIS;;1122083
+Microtus socialis;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;17;19;2;ITIS;;90506
+Microtus subterraneus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;11;20;1;ITIS;;29504
+Microtus transcaspicus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD;2;4;1;ITIS;;142637
+Myodes glareolus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;341;419;4;ITIS;;68557
+Myodes rufocanus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;267;315;5;ITIS;;73311
+Myodes rutilus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;335;452;1;ITIS;;64746
+Myopus schisticolor;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE;36;39;1;ITIS;;110920
+Ondatra zibethicus;Chordata;Mammalia;Rodentia;Cricetidae;BOLD,FE,iNat;14;17;1;ITIS;;19339

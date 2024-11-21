@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Octogonade mediterranea;Cnidaria;Hydrozoa;Leptothecata;Tiaropsidae;WORMS;;;;WORMS;gap;
+Tiaropsidium atlanticum;Cnidaria;Hydrozoa;Leptothecata;Tiaropsidae;WORMS;;;;;gap;
+Tiaropsidium mediterraneum;Cnidaria;Hydrozoa;Leptothecata;Tiaropsidae;WORMS;;;;WORMS;gap;
+Tiaropsis multicirrata;Cnidaria;Hydrozoa;Leptothecata;Tiaropsidae;BOLD,WORMS;21;25;2;WORMS;;753004

@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ormyrus badius;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus caeruleus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;;gap;
+Ormyrus capsalis;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus chalybeus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;FE;gap;
+Ormyrus cingulatus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;FE;gap;
+Ormyrus cosmozonus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;;gap;
+Ormyrus cupreus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus destefanii;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus diffinis;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;0;1;0;FE;gap;1122561
+Ormyrus gratiosus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;FE;gap;
+Ormyrus langlandi;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;FE;gap;
+Ormyrus longicornis;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus monegricus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus nitidulus;Arthropoda;Insecta;Hymenoptera;Ormyridae;BOLD,FE,DTN;12;14;3;FE;;508437
+Ormyrus orientalis;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;FE;gap;
+Ormyrus papaveris;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;FE;gap;
+Ormyrus parvulus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus pomaceus;Arthropoda;Insecta;Hymenoptera;Ormyridae;BOLD,FE,DTN;190;193;8;FE;;508436
+Ormyrus punctulatus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;FE;gap;
+Ormyrus rufimanus;Arthropoda;Insecta;Hymenoptera;Ormyridae;BOLD,FE,DTN;0;1;0;;gap;968808
+Ormyrus solitarius;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;FE;gap;
+Ormyrus speculifer;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;
+Ormyrus versicolor;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;;gap;
+Ormyrus violaceus;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE,DTN;;;;;gap;
+Ormyrus wachtli;Arthropoda;Insecta;Hymenoptera;Ormyridae;FE;;;;;gap;

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chamaeleo africanus;Chordata;Reptilia;Squamata;Chamaeleonidae;FE;6;6;1;;;173590
+Chamaeleo chamaeleon;Chordata;Reptilia;Squamata;Chamaeleonidae;BOLD,FE;19;19;3;FE;;173588
+Furcifer polleni;Chordata;Reptilia;Squamata;Chamaeleonidae;BOLD;4;4;1;;;535357

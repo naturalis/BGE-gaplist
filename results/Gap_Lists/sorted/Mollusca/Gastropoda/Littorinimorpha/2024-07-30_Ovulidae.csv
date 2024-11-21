@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aperiovula adriatica;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;2;2;1;;;328812
+Cymbovula acicularis;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;12;14;3;WORMS;;507887
+Cyphoma gibbosum;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;18;23;1;WORMS;;31204
+Cyphoma signatum;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;7;9;1;WORMS;;754034
+Diminovula margarita;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;4;5;1;WORMS;;328851;328786
+Neosimnia spelta;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;2;4;1;;;328918
+Pedicularia sicula;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD,WORMS;0;5;0;WORMS;gap;328922
+Pseudosimnia carnea;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD,WORMS;1;5;0;;;328801
+Pseudosimnia juanjosensii;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;0;4;0;WORMS;gap;328904
+Simnia nicaeensis;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;1;2;1;;;328803
+Simnia patula;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD,WORMS;5;13;1;WORMS;;328912
+Simnia purpurea;Mollusca;Gastropoda;Littorinimorpha;Ovulidae;BOLD;0;1;0;;gap;328804

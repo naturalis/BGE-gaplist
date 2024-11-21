@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crassophyllum thessalonicae;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;WORMS;;;;;gap;
+Gyrophyllum hirondellei;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;BOLD,WORMS;2;2;1;WORMS;;798800
+Pennatula aculeata;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;BOLD,WORMS;9;9;1;WORMS;;599943
+Pennatula grandis;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;BOLD;9;10;1;;;514306
+Pennatula phosphorea;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;BOLD,WORMS;9;16;1;WORMS;;381305
+Pennatula prolifera;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;WORMS;;;;;gap;
+Pennatula rubra;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;WORMS;;;;WORMS;gap;
+Pteroeides griseum;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;BOLD;4;6;1;WORMS;;1068854
+Pteroeides lusitanicum;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;WORMS;;;;;gap;
+Pteroeides morbusus;Cnidaria;Anthozoa;Pennatulacea;Pennatulidae;WORMS;;;;;gap;

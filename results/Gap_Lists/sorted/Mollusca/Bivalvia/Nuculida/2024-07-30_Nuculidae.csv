@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brevinucula verrillii;Mollusca;Bivalvia;Nuculida;Nuculidae;WORMS;;;;WORMS;gap;
+Ennucula aegeensis;Mollusca;Bivalvia;Nuculida;Nuculidae;WORMS;0;1;0;WORMS;gap;752176
+Ennucula corticata;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD,WORMS;2;2;0;WORMS;;1059175
+Ennucula tenius;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD;1;5;1;;;714537
+Ennucula tenuis;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD,WORMS;63;104;3;WORMS;;154208;600744
+Nucula atacellana;Mollusca;Bivalvia;Nuculida;Nuculidae;WORMS;;;;WORMS;gap;
+Nucula hanleyi;Mollusca;Bivalvia;Nuculida;Nuculidae;WORMS;;;;WORMS;gap;
+Nucula nitidosa;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD,WORMS;26;35;1;WORMS;;402902
+Nucula nucleus;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD,WORMS;8;14;1;WORMS;;154211;154210
+Nucula sulcata;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD,WORMS;11;22;2;;;504817
+Pronucula tenuis;Mollusca;Bivalvia;Nuculida;Nuculidae;BOLD;4;5;1;WORMS;;660270

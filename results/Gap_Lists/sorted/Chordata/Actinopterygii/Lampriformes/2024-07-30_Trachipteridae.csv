@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Desmodema polystictum;Chordata;Actinopterygii;Lampriformes;Trachipteridae;BOLD;8;9;1;WORMS;;140691
+Trachipterus arcticus;Chordata;Actinopterygii;Lampriformes;Trachipteridae;BOLD,WORMS;10;10;2;WORMS;;140636
+Trachipterus trachypterus;Chordata;Actinopterygii;Lampriformes;Trachipteridae;WORMS;;;;WORMS;gap;
+Zu cristatus;Chordata;Actinopterygii;Lampriformes;Trachipteridae;BOLD,WORMS;12;15;3;WORMS;;30372

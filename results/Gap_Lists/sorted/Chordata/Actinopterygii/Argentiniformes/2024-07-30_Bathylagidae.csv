@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathylagichthys greyae;Chordata;Actinopterygii;Argentiniformes;Bathylagidae;BOLD,WORMS;8;8;2;WORMS;;495755
+Bathylagus euryops;Chordata;Actinopterygii;Argentiniformes;Bathylagidae;BOLD,WORMS;33;37;1;WORMS;;59604
+Bathylagus tenuis;Chordata;Actinopterygii;Argentiniformes;Bathylagidae;BOLD;11;11;1;;;148292
+Dolicholagus longirostris;Chordata;Actinopterygii;Argentiniformes;Bathylagidae;WORMS;;;;WORMS;gap;
+Melanolagus bericoides;Chordata;Actinopterygii;Argentiniformes;Bathylagidae;BOLD,WORMS;27;28;4;WORMS;;141009

@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Greya variabilis;Arthropoda;Insecta;Lepidoptera;Prodoxidae;LF;12;17;4;;;33208
+Lampronia aeneella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;FE,LF;;;;FE;gap;
+Lampronia aenigma;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,LF;0;2;0;;gap;939791
+Lampronia aereipennella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD;3;6;1;;;402871
+Lampronia aeripennella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;FE,LF;;;;FE;gap;
+Lampronia altaica;Arthropoda;Insecta;Lepidoptera;Prodoxidae;LF;;;;;gap;
+Lampronia argillella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;0;1;0;FE;gap;641407
+Lampronia capitella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF,iNat;17;21;1;FE;;179020
+Lampronia corticella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF,iNat;36;39;1;FE;;194587
+Lampronia flavimitrella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF,iNat;13;18;1;FE;;286200
+Lampronia fuscatella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;6;8;1;FE;;201630
+Lampronia intermediella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;FE,LF;;;;FE;gap;
+Lampronia luzella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;13;14;1;FE;;183454
+Lampronia morosa;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;8;10;2;;;286398
+Lampronia provectella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;3;4;1;FE;;324170
+Lampronia psychidella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;FE,LF;;;;FE;gap;
+Lampronia pubicornis;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;3;5;2;FE;;760593
+Lampronia redimitella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;2;7;1;FE;;286234
+Lampronia rupella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF,iNat;36;36;1;FE;;179064
+Lampronia splendidella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;4;4;1;FE;;714550
+Lampronia standfussiella;Arthropoda;Insecta;Lepidoptera;Prodoxidae;BOLD,FE,LF;5;6;1;;;286233
+Prodoxus cinereus;Arthropoda;Insecta;Lepidoptera;Prodoxidae;LF;10;14;2;;;28303

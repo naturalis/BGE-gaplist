@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hydrobates pelagicus;Chordata;Aves;Procellariiformes;Hydrobatidae;BOLD,FE,WORMS;4;5;1;WORMS;;73230
+Oceanites oceanicus;Chordata;Aves;Procellariiformes;Hydrobatidae;FE,WORMS;6;17;3;FE;;9530
+Oceanodroma castro;Chordata;Aves;Procellariiformes;Hydrobatidae;BOLD,FE,WORMS;8;9;1;FE;;16033
+Oceanodroma leucorhoa;Chordata;Aves;Procellariiformes;Hydrobatidae;BOLD,FE,WORMS,iNat;19;25;1;WORMS;;9534
+Oceanodroma monorhis;Chordata;Aves;Procellariiformes;Hydrobatidae;BOLD,FE;9;11;1;WORMS;;93241
+Oceanodroma monteiroi;Chordata;Aves;Procellariiformes;Hydrobatidae;BOLD;2;2;1;;;858819

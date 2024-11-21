@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ascyssa acufera;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;WORMS;;;;;gap;
+Ascyssa troglodytes;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;WORMS;;;;;gap;
+Leucosolenia botryoides;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;BOLD,WORMS;0;3;0;WORMS;gap;238058
+Leucosolenia complicata;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;WORMS;0;8;0;WORMS;gap;238061
+Leucosolenia fragilis;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;WORMS;;;;WORMS;gap;
+Leucosolenia goethei;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;WORMS;;;;WORMS;gap;
+Leucosolenia variabilis;Porifera;Calcarea;Leucosolenida;Leucosoleniidae;WORMS;0;17;0;WORMS;gap;238098

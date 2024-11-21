@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Argas bureschi;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;;gap;
+Argas gilcolladoi;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;;gap;
+Argas macrostigmatus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;;gap;
+Argas persicus;Arthropoda;Arachnida;Ixodida;Argasidae;BOLD,FE;45;59;2;ITIS;;649401
+Argas polonicus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;;gap;
+Argas reflexus;Arthropoda;Arachnida;Ixodida;Argasidae;BOLD,FE,iNat;6;6;2;ITIS;;965320
+Argas transgariepinus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;ITIS;gap;
+Argas tridentatus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;;gap;
+Argas vespertilionis;Arthropoda;Arachnida;Ixodida;Argasidae;BOLD,FE,iNat;;;;ITIS;gap;767253
+Ornithodoros compactus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;2;2;1;;;747604
+Ornithodoros coniceps;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;ITIS;gap;
+Ornithodoros erraticus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;ITIS;gap;
+Ornithodoros maritimus;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;ITIS;gap;
+Ornithodoros peusi;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;ITIS;gap;
+Ornithodoros tholozani;Arthropoda;Arachnida;Ixodida;Argasidae;FE;;;;ITIS;gap;

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Homola barbata;Arthropoda;Malacostraca;Decapoda;Homolidae;BOLD,WORMS;16;25;2;WORMS;;89835
+Homologenus boucheti;Arthropoda;Malacostraca;Decapoda;Homolidae;WORMS;;;;;gap;
+Paromola cuvieri;Arthropoda;Malacostraca;Decapoda;Homolidae;WORMS;;;;WORMS;gap;

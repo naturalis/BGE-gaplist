@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heterorhabditis bacteriophora;Nematoda;Chromadorea;Rhabditida;Heterorhabditidae;FE;30;87;3;;;81259
+Heterorhabditis downesi;Nematoda;Chromadorea;Rhabditida;Heterorhabditidae;FE;0;7;0;;gap;169458
+Heterorhabditis megidis;Nematoda;Chromadorea;Rhabditida;Heterorhabditidae;BOLD,FE;4;16;1;;;81635
+Heterorhabditis zealandica;Nematoda;Chromadorea;Rhabditida;Heterorhabditidae;FE;0;8;0;;gap;169460

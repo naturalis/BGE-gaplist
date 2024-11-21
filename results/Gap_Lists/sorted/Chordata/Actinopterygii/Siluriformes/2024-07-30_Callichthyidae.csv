@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Corydoras julii;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;28;30;0;;;387781
+Corydoras latus;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;14;20;0;;;519196
+Corydoras nijsseni;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;;;;FB;gap;
+Corydoras paleatus;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;70;115;3;FB;;204549
+Corydoras polystictus;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;9;11;1;FB;;530389
+Corydoras seussi;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;5;9;1;;;530397
+Corydoras similis;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;5;10;1;;;530398
+Corydoras sterbai;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;3;7;2;;;470335
+Scleromystax macropterus;Chordata;Actinopterygii;Siluriformes;Callichthyidae;BOLD;30;38;1;FB;;256664

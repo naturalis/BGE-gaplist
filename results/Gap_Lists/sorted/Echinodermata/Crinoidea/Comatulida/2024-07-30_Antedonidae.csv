@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Antedon bifida;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD,WORMS;1;4;1;WORMS;;217285
+Antedon mediterranea;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;WORMS;gap;
+Antedon petasus;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD,WORMS;4;5;1;WORMS;;217294
+Hathrometra sarsii;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD;3;6;1;;;217317
+Hathrometra tenella;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD;2;4;1;;;515533
+Heliometra glacialis;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD,WORMS;6;10;1;WORMS;;217319;666984
+Leptometra celtica;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;WORMS;gap;
+Meteorometra monticola;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;;gap;
+Orthometra hibernica;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;WORMS;gap;
+Poliometra prolixa;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD,WORMS;1;5;1;WORMS;;217346
+Promachocrinus kerguelensis;Echinodermata;Crinoidea;Comatulida;Antedonidae;BOLD;2066;2137;8;WORMS;;103894
+Thaumatometra septentrionalis;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;;gap;
+Trichometra cubensis;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;WORMS;gap;
+Trichometra delicata;Echinodermata;Crinoidea;Comatulida;Antedonidae;WORMS;;;;;gap;

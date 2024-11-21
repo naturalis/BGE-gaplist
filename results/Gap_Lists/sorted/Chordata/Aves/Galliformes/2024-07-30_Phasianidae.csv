@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Alectoris barbara;Chordata;Aves;Galliformes;Phasianidae;FE;;;;FE;gap;
+Alectoris chukar;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE;22;27;1;FE;;17636
+Alectoris graeca;Chordata;Aves;Galliformes;Phasianidae;FE;0;1;1;FE;gap;113235
+Alectoris rufa;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE;1;1;1;FE;;113239
+Chrysolophus amherstiae;Chordata;Aves;Galliformes;Phasianidae;FE,iNat;12;12;2;FE;;95499
+Chrysolophus pictus;Chordata;Aves;Galliformes;Phasianidae;FE,iNat;27;27;2;FE;;113271
+Coturnix coturnix;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;33;40;2;ITIS;;52499
+Coturnix japonica;Chordata;Aves;Galliformes;Phasianidae;BOLD;23;26;1;;;12634
+Excalfactoria chinensis;Chordata;Aves;Galliformes;Phasianidae;BOLD;5;6;1;;;809078
+Francolinus francolinus;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE;10;12;1;FE;;113292
+Gallus gallus;Chordata;Aves;Galliformes;Phasianidae;BOLD,iNat;637;717;1;;;10368
+Lagopus lagopus;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE;120;127;2;FE;;10358
+Lagopus muta;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;106;115;1;ITIS;;10359
+Lyrurus mlokosiewiczi;Chordata;Aves;Galliformes;Phasianidae;FE;;;;ITIS;gap;
+Lyrurus tetrix;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;17;18;2;ITIS;;808605
+Meleagris gallopavo;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE;110;117;1;;;10416
+Pavo cristatus;Chordata;Aves;Galliformes;Phasianidae;BOLD,iNat;12;16;1;;;88912
+Perdix daurica;Chordata;Aves;Galliformes;Phasianidae;FE;;;;FE;gap;
+Perdix perdix;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;35;52;2;FE;;17587
+Phasianus colchicus;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;48;53;2;;;17639
+Rollulus rouloul;Chordata;Aves;Galliformes;Phasianidae;BOLD;5;5;1;ITIS;;113376
+Syrmaticus reevesii;Chordata;Aves;Galliformes;Phasianidae;FE;8;8;1;ITIS;;113381
+Tetrao urogallus;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;9;10;1;;;52495
+Tetraogallus caspius;Chordata;Aves;Galliformes;Phasianidae;FE;;;;FE;gap;
+Tetraogallus caucasicus;Chordata;Aves;Galliformes;Phasianidae;FE;;;;ITIS;gap;
+Tetrastes bonasia;Chordata;Aves;Galliformes;Phasianidae;BOLD,FE,iNat;38;38;1;ITIS;;751415

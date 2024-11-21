@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyclopteropsis mcalpini;Chordata;Actinopterygii;Scorpaeniformes;Cyclopteridae;WORMS;;;;WORMS;gap;
+Cyclopterus lumpus;Chordata;Actinopterygii;Scorpaeniformes;Cyclopteridae;BOLD,WORMS,iNat;90;97;1;WORMS;;54211
+Eumicrotremus derjugini;Chordata;Actinopterygii;Scorpaeniformes;Cyclopteridae;BOLD,WORMS;25;28;1;WORMS;;71316

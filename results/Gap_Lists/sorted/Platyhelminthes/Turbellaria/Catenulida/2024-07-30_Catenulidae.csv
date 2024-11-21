@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Catenula confusa;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;
+Catenula lemnae;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;0;10;0;ITIS;gap;502101
+Catenula leptocephala;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;
+Catenula macrura;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;
+Catenula sekerai;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;
+Catenula turgida;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;BOLD,FE;0;2;0;ITIS;gap;906371
+Chordarium europaeum;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;
+Dasyhormus illiesi;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;
+Dasyhormus pygmaeus;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;ITIS;gap;
+Dasyhormus stygios;Platyhelminthes;Turbellaria;Catenulida;Catenulidae;FE;;;;;gap;

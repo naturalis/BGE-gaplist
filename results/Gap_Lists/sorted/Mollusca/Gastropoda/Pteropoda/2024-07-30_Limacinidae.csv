@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Limacina bulimoides;Mollusca;Gastropoda;Pteropoda;Limacinidae;WORMS;;;;WORMS;gap;
+Limacina helicina;Mollusca;Gastropoda;Pteropoda;Limacinidae;BOLD,WORMS;828;1154;5;WORMS;;30719
+Limacina lesueurii;Mollusca;Gastropoda;Pteropoda;Limacinidae;WORMS;;;;WORMS;gap;
+Limacina retroversa;Mollusca;Gastropoda;Pteropoda;Limacinidae;BOLD,WORMS;14;20;9;WORMS;;249220
+Limacina trochiformis;Mollusca;Gastropoda;Pteropoda;Limacinidae;WORMS;;;;WORMS;gap;
+Thielea helicoides;Mollusca;Gastropoda;Pteropoda;Limacinidae;BOLD;2;2;1;WORMS;;796038

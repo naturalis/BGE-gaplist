@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathyplotes bongraini;Echinodermata;Holothuroidea;Synallactida;Synallactidae;BOLD;35;57;1;WORMS;;187685
+Bathyplotes moseleyi;Echinodermata;Holothuroidea;Synallactida;Synallactidae;BOLD;32;32;0;WORMS;;415865
+Bathyplotes natans;Echinodermata;Holothuroidea;Synallactida;Synallactidae;BOLD,WORMS;3;5;1;WORMS;;222592;222593
+Paelopatides atlantica;Echinodermata;Holothuroidea;Synallactida;Synallactidae;WORMS;;;;;gap;
+Paelopatides grisea;Echinodermata;Holothuroidea;Synallactida;Synallactidae;WORMS;;;;;gap;
+Scotothuria herringi;Echinodermata;Holothuroidea;Synallactida;Synallactidae;WORMS;;;;;gap;
+Synallactes crucifera;Echinodermata;Holothuroidea;Synallactida;Synallactidae;WORMS;;;;;gap;

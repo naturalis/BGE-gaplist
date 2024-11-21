@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hypomesus olidus;Chordata;Actinopterygii;Osmeriformes;Osmeridae;FE;159;160;2;WORMS;;110756
+Mallotus villosus;Chordata;Actinopterygii;Osmeriformes;Osmeridae;BOLD,WORMS;82;99;2;WORMS;;34580
+Osmerus dentex;Chordata;Actinopterygii;Osmeriformes;Osmeridae;BOLD,FE,WORMS;11;11;1;FB;;360472

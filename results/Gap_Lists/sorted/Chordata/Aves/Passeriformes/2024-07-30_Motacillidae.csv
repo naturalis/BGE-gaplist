@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anthus berthelotii;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE;37;37;1;;;116654
+Anthus campestris;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;26;29;1;FE;;52593
+Anthus cervinus;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;18;20;1;FE;;52594
+Anthus godlewskii;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE;7;7;1;FE;;52595
+Anthus gustavi;Chordata;Aves;Passeriformes;Motacillidae;FE;10;12;1;;;52596
+Anthus hodgsoni;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;26;27;1;;;52597
+Anthus petrosus;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;5;6;2;FE;;73244
+Anthus pratensis;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;17;19;2;FE;;11313
+Anthus richardi;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;5;10;1;;;52598
+Anthus rubescens;Chordata;Aves;Passeriformes;Motacillidae;FE,iNat;13;21;2;FE;;16919
+Anthus similis;Chordata;Aves;Passeriformes;Motacillidae;FE;4;6;1;;;750237
+Anthus spinoletta;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;23;25;1;FE;;52599
+Anthus trivialis;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;14;14;1;FE;;52600
+Motacilla alba;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;84;96;1;;;9652
+Motacilla cinerea;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;41;44;2;;;68511
+Motacilla citreola;Chordata;Aves;Passeriformes;Motacillidae;FE,iNat;17;19;2;;;68510
+Motacilla flava;Chordata;Aves;Passeriformes;Motacillidae;BOLD,FE,iNat;64;70;4;;;9651

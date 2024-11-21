@@ -1,0 +1,75 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arctocorisa carinata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;12;18;2;ITIS;;255548
+Arctocorisa germari;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;17;21;1;FE;;374910
+Callicorixa gebleri;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Callicorixa praeusta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;61;71;2;ITIS;;255511
+Callicorixa producta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;11;17;4;FE;;371601
+Callicorixa wollastoni;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;13;15;3;CoPH;;371602
+Corixa affinis;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;24;25;1;CoPH;;677939
+Corixa dentipes;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;24;29;1;WORMS;;678020
+Corixa iberica;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;0;1;0;;gap;1142934
+Corixa jakowleffi;Arthropoda;Insecta;Hemiptera;Corixidae;CoPH;;;;CoPH;gap;
+Corixa panzeri;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;13;14;2;CoPH;;455373
+Corixa punctata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;35;43;1;WORMS;;462105
+Cymatia apparens;Arthropoda;Insecta;Hemiptera;Corixidae;FE;;;;CoPH;gap;
+Cymatia bonsdorffii;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;24;31;1;CoPH;;800690;394057
+Cymatia coleoptrata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;35;50;2;WORMS;;198460
+Cymatia rogenhoferi;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;5;9;1;CoPH;;455427
+Glaenocorisa cavifrons;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;3;4;1;CoPH;;374841;374840
+Glaenocorisa propinqua;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;21;25;1;CoPH;;468437
+Heliocorisa vermiculata;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Hesperocorixa algirica;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Hesperocorixa bertrandi;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;;gap;
+Hesperocorixa castanea;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;22;24;1;CoPH;;198465
+Hesperocorixa furtiva;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Hesperocorixa linnaei;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;32;41;3;CoPH;;455321
+Hesperocorixa luteola;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;;gap;
+Hesperocorixa moesta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;10;13;1;CoPH;;198457
+Hesperocorixa parallela;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Hesperocorixa sahlbergi;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;83;100;3;CoPH;;255512
+Micronecta (Dichaetonecta) pusilla;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;1140504
+Micronecta (Dichaetonecta) scholtzi;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;248184
+Micronecta (Micronecta) carpatica;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Micronecta (Micronecta) griseola;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;198469
+Micronecta (Micronecta) leucocephala;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Micronecta (Micronecta) minuscula;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Micronecta (Micronecta) minutissima;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;677997
+Micronecta (Micronecta) poweri;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;490848
+Paracorixa caspica;Arthropoda;Insecta;Hemiptera;Corixidae;CoPH;;;;CoPH;gap;
+Paracorixa concinna;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;36;38;2;WORMS;;455308
+Paracorixa kiritshenkoi;Arthropoda;Insecta;Hemiptera;Corixidae;CoPH;;;;CoPH;gap;
+Parasigara baetica;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;;gap;
+Parasigara favieri;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Parasigara infuscata;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Parasigara perdubia;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;4;4;1;CoPH;;974982
+Parasigara rivularis;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;;gap;
+Parasigara transversa;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Antisigara) sibirica;Arthropoda;Insecta;Hemiptera;Corixidae;CoPH;;;;CoPH;gap;
+Sigara (Halicorixa) mayri;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Halicorixa) selecta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;1142935
+Sigara (Halicorixa) stagnalis;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;455371
+Sigara (Microsigara) hellensii;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;490849
+Sigara (Pseudovermicorixa) nigrolineata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;371611
+Sigara (Pseudovermicorixa) salgadoi;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Retrocorixa) limitata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;462106
+Sigara (Retrocorixa) semistriata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;371612
+Sigara (Retrocorixa) venusta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;400553
+Sigara (Sigara) assimilis;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Sigara) basalis;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Sigara) dorsalis;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;675085
+Sigara (Sigara) janssoni;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Sigara) servadeii;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Sigara) striata;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;198458
+Sigara (Subsigara) daghestanica;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Subsigara) distincta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;455306
+Sigara (Subsigara) falleni;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;198464;541731
+Sigara (Subsigara) fallenoidea;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;374626
+Sigara (Subsigara) fossarum;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;255513
+Sigara (Subsigara) iactans;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;455317
+Sigara (Subsigara) italica;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;;;;CoPH;gap;
+Sigara (Subsigara) longipalis;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;455309
+Sigara (Subsigara) scotti;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;198463
+Sigara (Vermicorixa) lateralis;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;248219
+Sigara (Vermicorixa) scripta;Arthropoda;Insecta;Hemiptera;Corixidae;BOLD,FE,CoPH;;;;CoPH;gap;1140505
+Sigara hoggarica;Arthropoda;Insecta;Hemiptera;Corixidae;FE;0;1;0;;gap;374865
+Trichocorixa verticalis;Arthropoda;Insecta;Hemiptera;Corixidae;FE,CoPH;268;277;6;CoPH;;208210;766151

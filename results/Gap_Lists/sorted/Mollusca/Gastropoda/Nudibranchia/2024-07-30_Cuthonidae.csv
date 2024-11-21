@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bohuslania matsmichaeli;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;BOLD;6;6;1;;;902145
+Catriona gymnota;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;BOLD,WORMS;;;;WORMS;gap;266281;796013
+Cuthona leopardina;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;WORMS;;;;WORMS;gap;
+Cuthona nana;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;BOLD,WORMS;32;33;1;WORMS;;384853
+Cuthona norvegica;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;WORMS;;;;WORMS;gap;
+Cuthona perca;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;WORMS;;;;WORMS;gap;
+Cuthona thompsoni;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;WORMS;;;;;gap;
+Cuthona willani;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;WORMS;;;;;gap;
+Rubramoena amoena;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;BOLD;10;10;2;WORMS;;901825;673977
+Rubramoena rubescens;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;BOLD;12;12;1;WORMS;;901826;266267
+Xenocratena suecica;Mollusca;Gastropoda;Nudibranchia;Cuthonidae;BOLD;6;8;1;WORMS;;987981;957261

@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Antalis agilis;Mollusca;Scaphopoda;Dentaliida;Dentaliidae;BOLD;2;9;0;WORMS;;1138279
+Antalis entalis;Mollusca;Scaphopoda;Dentaliida;Dentaliidae;BOLD;21;30;2;WORMS;;30831
+Antalis occidentalis;Mollusca;Scaphopoda;Dentaliida;Dentaliidae;BOLD;4;9;0;WORMS;;1138276;948230
+Antalis vulgaris;Mollusca;Scaphopoda;Dentaliida;Dentaliidae;BOLD;9;10;0;WORMS;;1078996
+Fissidentalium candidum;Mollusca;Scaphopoda;Dentaliida;Dentaliidae;WORMS;1;4;0;WORMS;;30827
+Fissidentalium capillosum;Mollusca;Scaphopoda;Dentaliida;Dentaliidae;WORMS;;;;WORMS;gap;

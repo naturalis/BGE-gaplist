@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Squatina aculeata;Chordata;Elasmobranchii;Squatiniformes;Squatinidae;BOLD,WORMS;20;42;1;WORMS;;180871
+Squatina oculata;Chordata;Elasmobranchii;Squatiniformes;Squatinidae;BOLD,WORMS;16;42;1;;;179806
+Squatina squatina;Chordata;Elasmobranchii;Squatiniformes;Squatinidae;BOLD,WORMS;32;32;1;WORMS;;246906

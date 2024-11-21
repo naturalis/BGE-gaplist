@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Campichoeta griseola;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;58;58;1;ITIS;;510593
+Campichoeta obscuripennis;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;14;16;3;SyDip;;499500
+Campichoeta punctum;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;5;5;0;SyDip;;1140776
+Diastata adusta;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;2;3;1;SyDip;;914015
+Diastata boreonigra;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;3;3;1;;;499516
+Diastata cervinala;Arthropoda;Insecta;Diptera;Diastatidae;FE,SyDip;;;;;gap;
+Diastata costata;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;10;10;1;ITIS;;499461
+Diastata flavicosta;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;6;7;1;;;706954
+Diastata fuscula;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;11;12;0;SyDip;;1067854
+Diastata nebulosa;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;3;4;1;SyDip;;510582
+Diastata ornata;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;8;9;3;;;499462
+Diastata vagans;Arthropoda;Insecta;Diptera;Diastatidae;BOLD,FE,SyDip;35;35;2;;;499463

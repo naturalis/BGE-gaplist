@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Meromonakantha irregularis;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;0;8;0;WORMS;gap;528039
+Meromonakantha macrocephala;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD,WORMS;0;16;0;;gap;528010
+Paratyphlotanais gracillipes;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;0;2;0;;gap;528008
+Peraeospinosus kerguelenensis;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;WORMS;;;;WORMS;gap;
+Peraeospinosus mixtus;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;;;;ITIS;gap;527997
+Pulcherella pulcher;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;0;10;0;WORMS;gap;527986
+Typhlotanais brevicornis;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;WORMS;;;;WORMS;gap;
+Typhlotanais cornutus;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;2;5;2;WORMS;;528014
+Typhlotanais eximus;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;0;1;0;;gap;528028
+Typhlotanais plebejus;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;;;;WORMS;gap;527982
+Typhlotanais trispinosus;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;0;3;0;WORMS;gap;527993
+Typhlotanais variabilis;Arthropoda;Malacostraca;Tanaidacea;Typhlotanaidae;BOLD;0;12;0;WORMS;gap;528025

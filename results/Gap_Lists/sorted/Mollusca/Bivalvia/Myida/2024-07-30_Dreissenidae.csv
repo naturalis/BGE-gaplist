@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Congeria jalzici;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD;13;19;1;;;668469
+Congeria kusceri;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD,FE;25;34;2;;;32629
+Congeria mulaomerovici;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD;8;11;1;;;668468
+Dreissena blanci;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD,FE;55;55;1;;;152631
+Dreissena bugensis;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD;27;30;1;;;30175
+Dreissena polymorpha;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD,FE,iNat;145;197;2;WORMS;;30173
+Dreissena presbensis;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD;211;211;1;;;152630
+Dreissena rostriformis;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD,iNat;53;57;1;WORMS;;30174;507578
+Dreissena stankovici;Mollusca;Bivalvia;Myida;Dreissenidae;FE;21;24;1;;;79565
+Mytilopsis leucophaeata;Mollusca;Bivalvia;Myida;Dreissenidae;BOLD,FE;111;124;1;WORMS;;33456

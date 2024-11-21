@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heterorhabdus abyssalis;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;;;;WORMS;gap;
+Heterorhabdus clausii;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;;;;ITIS;gap;
+Heterorhabdus norvegicus;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;BOLD,WORMS;20;20;1;WORMS;;303030
+Heterorhabdus papilliger;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;BOLD,WORMS;10;10;3;WORMS;;152207
+Heterorhabdus spinifer;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;;;;;gap;
+Heterorhabdus spinifrons;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;2;2;2;WORMS;;152181
+Heterostylites longicornis;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;3;3;1;WORMS;;152206
+Heterostylites major;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;1;1;1;WORMS;;152214
+Mesorhabdus angustus;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;;;;;gap;
+Mesorhabdus brevicaudatus;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;1;1;1;WORMS;;935093
+Mesorhabdus gracilis;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;;;;;gap;
+Microdisseta minuta;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;;;;WORMS;gap;
+Neorhabdus latus;Arthropoda;Hexanauplia;Calanoida;Heterorhabdidae;WORMS;1;1;1;WORMS;;935097

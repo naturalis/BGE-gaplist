@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centroscyllium fabricii;Chordata;Elasmobranchii;Squaliformes;Etmopteridae;BOLD,WORMS;20;41;2;WORMS;;34628
+Etmopterus granulosus;Chordata;Elasmobranchii;Squaliformes;Etmopteridae;BOLD;78;105;2;WORMS;;16885
+Etmopterus princeps;Chordata;Elasmobranchii;Squaliformes;Etmopteridae;BOLD,WORMS;14;27;2;;;59461
+Etmopterus pusillus;Chordata;Elasmobranchii;Squaliformes;Etmopteridae;BOLD,WORMS;57;93;4;WORMS;;52926
+Etmopterus spinax;Chordata;Elasmobranchii;Squaliformes;Etmopteridae;BOLD,WORMS;61;96;3;WORMS;;53729

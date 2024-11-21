@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brisinga endecacnemos;Echinodermata;Asteroidea;Brisingida;Brisingidae;BOLD,WORMS;7;7;1;;;217852
+Brisinga hirsuta;Echinodermata;Asteroidea;Brisingida;Brisingidae;WORMS;;;;;gap;
+Hymenodiscus coronata;Echinodermata;Asteroidea;Brisingida;Brisingidae;BOLD;1;9;0;WORMS;;217874
+Novodinia homonyma;Echinodermata;Asteroidea;Brisingida;Brisingidae;WORMS;;;;WORMS;gap;
+Novodinia pandina;Echinodermata;Asteroidea;Brisingida;Brisingidae;WORMS;;;;WORMS;gap;
+Novodinia semicoronata;Echinodermata;Asteroidea;Brisingida;Brisingidae;WORMS;;;;WORMS;gap;
+Odinella nutrix;Echinodermata;Asteroidea;Brisingida;Brisingidae;BOLD;19;34;5;;;104580

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chionoecetes japonicus;Arthropoda;Malacostraca;Decapoda;Oregoniidae;BOLD;166;234;3;WORMS;;25190
+Chionoecetes opilio;Arthropoda;Malacostraca;Decapoda;Oregoniidae;BOLD,WORMS;157;175;3;WORMS;;25191
+Hyas araneus;Arthropoda;Malacostraca;Decapoda;Oregoniidae;BOLD,WORMS,iNat;50;65;1;WORMS;;88715
+Hyas coarctatus;Arthropoda;Malacostraca;Decapoda;Oregoniidae;BOLD;80;91;1;WORMS;;80950

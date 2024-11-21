@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anentome helena;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;38;38;2;;;794884
+Demoulia obtusata;Mollusca;Gastropoda;Neogastropoda;Nassariidae;WORMS;;;;WORMS;gap;
+Nassarius circumcinctus;Mollusca;Gastropoda;Neogastropoda;Nassariidae;WORMS;;;;WORMS;gap;
+Nassarius pygmaeus;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;0;2;1;ITIS;gap;708831
+Nassarius reticulatus;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;6;74;2;ITIS;;104313
+Tritia conspersa;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;3;3;1;WORMS;;902365
+Tritia cuvierii;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;24;29;3;WORMS;;796071;344002
+Tritia denticulata;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;1;1;1;WORMS;;796061;560320
+Tritia grana;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;2;2;1;WORMS;;796063
+Tritia incrassata;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD,iNat;28;32;3;WORMS;;796072;343997
+Tritia mutabilis;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;12;13;1;WORMS;;796073
+Tritia neritea;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;3;5;1;WORMS;;759843;25221
+Tritia nitida;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;3;4;1;WORMS;;963233;104314
+Tritia ovoidea;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;1;1;1;WORMS;;796065
+Tritia reticulata;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD,iNat;11;18;2;;;796067
+Tritia tingitana;Mollusca;Gastropoda;Neogastropoda;Nassariidae;BOLD;1;1;1;WORMS;;796070

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Boreochiton ruber;Mollusca;Polyplacophora;Chitonida;Tonicellidae;BOLD;3;12;1;WORMS;;1081592;306838
+Leptochitona cinerea;Mollusca;Polyplacophora;Chitonida;Tonicellidae;BOLD;2;2;1;;;402915
+Tonicella marmorea;Mollusca;Polyplacophora;Chitonida;Tonicellidae;BOLD,WORMS;127;142;2;WORMS;;180346

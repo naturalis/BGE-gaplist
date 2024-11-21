@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bosellia levis;Mollusca;Gastropoda;;Plakobranchidae;WORMS;;;;WORMS;gap;
+Bosellia mimetica;Mollusca;Gastropoda;;Plakobranchidae;BOLD,WORMS;11;11;2;;;303206
+Elysia crispata;Mollusca;Gastropoda;;Plakobranchidae;BOLD;37;43;9;WORMS;;80253
+Elysia flava;Mollusca;Gastropoda;;Plakobranchidae;WORMS;;;;;gap;
+Elysia hetta;Mollusca;Gastropoda;;Plakobranchidae;WORMS;;;;;gap;
+Elysia ornata;Mollusca;Gastropoda;;Plakobranchidae;WORMS;;;;WORMS;gap;
+Elysia timida;Mollusca;Gastropoda;;Plakobranchidae;BOLD,WORMS;25;25;3;WORMS;;303190
+Elysia translucens;Mollusca;Gastropoda;;Plakobranchidae;BOLD,WORMS;2;2;1;;;650840
+Elysia viridis;Mollusca;Gastropoda;;Plakobranchidae;BOLD,WORMS,iNat;43;57;1;WORMS;;303194
+Thuridilla hopei;Mollusca;Gastropoda;;Plakobranchidae;BOLD,WORMS;23;23;2;WORMS;;303187

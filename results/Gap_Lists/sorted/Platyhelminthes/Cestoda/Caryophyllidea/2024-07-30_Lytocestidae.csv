@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atractolytocestus huronensis;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;BOLD,FE;8;15;1;;;671450
+Caryophyllaeides fennica;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;BOLD,FE;4;15;2;FE;;671455
+Caryophyllaeides skrjabini;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;FE;;;;FE;gap;
+Caryophyllaeus balticus;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;BOLD,FE;;;;ITIS;gap;671468
+Khawia dubius;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;FE;;;;FE;gap;
+Khawia parva;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;FE;1;2;1;FE;;671471
+Khawia rossitensis;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;FE;;;;FE;gap;
+Khawia rossittensis;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;BOLD;2;5;2;;;671472
+Khawia sinensis;Platyhelminthes;Cestoda;Caryophyllidea;Lytocestidae;BOLD,FE;4;18;4;;;671474

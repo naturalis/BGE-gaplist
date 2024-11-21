@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ammodytes dubius;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD;31;35;1;;;34575
+Ammodytes marinus;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD,WORMS;55;58;1;;;78406
+Ammodytes tobianus;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD,WORMS;19;29;1;WORMS;;77448
+Gymnammodytes cicerelus;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD,WORMS;8;8;1;WORMS;;516178
+Gymnammodytes semisquamatus;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD,WORMS;1;2;0;WORMS;;493569
+Hyperoplus immaculatus;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD,WORMS;11;11;1;WORMS;;387975
+Hyperoplus lanceolatus;Chordata;Actinopterygii;Trachiniformes;Ammodytidae;BOLD,WORMS;45;52;1;WORMS;;52072

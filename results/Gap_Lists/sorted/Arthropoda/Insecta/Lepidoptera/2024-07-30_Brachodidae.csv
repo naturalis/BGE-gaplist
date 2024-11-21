@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Brachodes albina;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;;;;FE;gap;
+Brachodes appendiculata;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;48;52;4;FE;;385955
+Brachodes beryti;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;1;2;1;FE;;469478
+Brachodes candefacta;Arthropoda;Insecta;Lepidoptera;Brachodidae;LF;;;;;gap;
+Brachodes cassandrella;Arthropoda;Insecta;Lepidoptera;Brachodidae;LF;;;;;gap;
+Brachodes compar;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;2;4;1;FE;;385980
+Brachodes diakona;Arthropoda;Insecta;Lepidoptera;Brachodidae;LF;;;;;gap;
+Brachodes dispar;Arthropoda;Insecta;Lepidoptera;Brachodidae;LF;4;16;1;;;385954
+Brachodes fallax;Arthropoda;Insecta;Lepidoptera;Brachodidae;LF;12;12;1;;;452246
+Brachodes flavescens;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;2;4;1;FE;;469477
+Brachodes fulgurita;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;1;1;1;FE;;469474
+Brachodes funebris;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;1;5;0;FE;;981196
+Brachodes gaditana;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;0;2;0;FD;gap;981236;469479
+Brachodes laeta;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;;;;FE;gap;
+Brachodes lucida;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;;;;FE;gap;
+Brachodes nana;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;5;5;2;FE;;469481
+Brachodes powelli;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;0;1;0;FE;gap;452249
+Brachodes pumila;Arthropoda;Insecta;Lepidoptera;Brachodidae;BOLD,FE,LF;14;16;4;FE;;385963
+Brachodes pusilla;Arthropoda;Insecta;Lepidoptera;Brachodidae;LF;7;34;2;;;385979
+Brachodes staudingeri;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;7;7;2;;;452244
+Brachodes tristis;Arthropoda;Insecta;Lepidoptera;Brachodidae;FE,LF;;;;FE;gap;

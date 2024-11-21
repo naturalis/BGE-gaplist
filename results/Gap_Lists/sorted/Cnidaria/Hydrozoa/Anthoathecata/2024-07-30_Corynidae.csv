@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coryne epizoica;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;WORMS;;;;;gap;
+Coryne eximia;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD;40;42;3;WORMS;;762944
+Coryne fucicola;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;WORMS;;;;WORMS;gap;
+Coryne hincksii;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;WORMS;;;;ITIS;gap;
+Coryne muscoides;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD,WORMS;1;4;1;WORMS;;900379
+Coryne pintneri;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;WORMS;1;3;1;WORMS;;1149176
+Coryne pusilla;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD,WORMS;9;10;1;WORMS;;900378
+Dipurena spongicola;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;FE;;;;;gap;
+Sarsia lovenii;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD,WORMS;154;188;2;WORMS;;744712
+Sarsia occulta;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;WORMS;;;;;gap;
+Sarsia piriforma;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;WORMS;;;;;gap;
+Sarsia princeps;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD,WORMS;18;23;2;WORMS;;159703
+Sarsia striata;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD,WORMS;2;3;1;;;798774
+Sarsia tubulosa;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD,FE,WORMS,iNat;39;62;2;WORMS;;514041
+Stauridiosarsia gemmifera;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD;4;8;1;WORMS;;767063
+Stauridiosarsia producta;Cnidaria;Hydrozoa;Anthoathecata;Corynidae;BOLD;7;9;1;WORMS;;744713

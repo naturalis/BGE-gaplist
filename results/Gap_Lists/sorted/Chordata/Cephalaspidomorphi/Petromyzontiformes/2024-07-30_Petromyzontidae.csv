@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caspiomyzon graecus;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD;4;4;1;FB;;598588
+Caspiomyzon hellenicus;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD,FE;7;7;1;FB;;598367
+Caspiomyzon wagneri;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;FE;10;14;1;WORMS;;54217
+Eudontomyzon stankokaramani;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD,FE;10;10;1;FB;;275380
+Eudontomyzon vladykovi;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD,FE;3;3;2;FB;;278838
+Eudontomyzon zanandreai;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;FE;;;;FE;gap;
+Lampetra alavariensis;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD;4;4;1;;;598597
+Lampetra auremensis;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD;3;3;1;;;598643
+Lampetra lusitanica;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD;8;8;1;;;598623
+Lethenteron camtschaticum;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD,FE,WORMS;61;78;2;WORMS;;206453
+Lethenteron kessleri;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;FE;7;15;1;FB;;71262
+Lethenteron zanandreai;Chordata;Cephalaspidomorphi;Petromyzontiformes;Petromyzontidae;BOLD,FE;9;9;2;FB;;779433

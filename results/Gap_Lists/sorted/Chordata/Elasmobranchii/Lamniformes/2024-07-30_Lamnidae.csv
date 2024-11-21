@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carcharodon carcharias;Chordata;Elasmobranchii;Lamniformes;Lamnidae;BOLD,WORMS;171;224;1;WORMS;;16843
+Isurus oxyrinchus;Chordata;Elasmobranchii;Lamniformes;Lamnidae;BOLD,WORMS;249;338;1;WORMS;;12675
+Isurus paucus;Chordata;Elasmobranchii;Lamniformes;Lamnidae;WORMS;68;81;1;WORMS;;72357
+Lamna nasus;Chordata;Elasmobranchii;Lamniformes;Lamnidae;BOLD,WORMS;135;164;1;WORMS;;89093

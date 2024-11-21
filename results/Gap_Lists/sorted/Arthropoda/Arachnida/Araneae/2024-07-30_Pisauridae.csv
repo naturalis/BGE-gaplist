@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cladycnis insignis;Arthropoda;Arachnida;Araneae;Pisauridae;FE;1;2;1;FE;;816910
+Dolomedes errans;Arthropoda;Arachnida;Araneae;Pisauridae;FE;;;;;gap;
+Dolomedes fimbriatus;Arthropoda;Arachnida;Araneae;Pisauridae;BOLD,FE,iNat;28;33;1;FE;;389888
+Dolomedes lucensis;Arthropoda;Arachnida;Araneae;Pisauridae;FE;;;;;gap;
+Dolomedes plantarius;Arthropoda;Arachnida;Araneae;Pisauridae;BOLD,FE;15;17;2;ITIS;;482308
+Dolomedes pratensis;Arthropoda;Arachnida;Araneae;Pisauridae;FE;;;;;gap;
+Pisaura acoreensis;Arthropoda;Arachnida;Araneae;Pisauridae;BOLD,FE;4;4;2;;;461068
+Pisaura mirabilis;Arthropoda;Arachnida;Araneae;Pisauridae;BOLD,FE,iNat;141;151;4;FE;;256983
+Pisaura novicia;Arthropoda;Arachnida;Araneae;Pisauridae;BOLD,FE;18;19;1;FE;;407723
+Pisaura orientalis;Arthropoda;Arachnida;Araneae;Pisauridae;FE;4;4;1;;;839116
+Pisaura quadrilineata;Arthropoda;Arachnida;Araneae;Pisauridae;BOLD,FE;2;3;1;FE;;839118

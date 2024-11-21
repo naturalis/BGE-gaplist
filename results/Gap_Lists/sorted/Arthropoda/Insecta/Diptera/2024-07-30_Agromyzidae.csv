@@ -1,0 +1,905 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agromyza abiens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;3;0;SyDip;;525007
+Agromyza albipennis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;98;99;1;ITIS;;483589
+Agromyza alnibetulae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,iNat,SyDip;;;;;gap;
+Agromyza alnivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;7;1;SyDip;;483340;510661
+Agromyza alticeps;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza alunulata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza ambigua;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;33;33;1;ITIS;;510648
+Agromyza anderssoni;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza anthracina;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;11;11;1;SyDip;;483457
+Agromyza apfelbecki;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza baetica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza bicaudata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;5;7;1;SyDip;;510649
+Agromyza bicophaga;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza bohemani;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza bromi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;36;37;1;;;786480
+Agromyza brunnicosa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza cinerascens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;32;33;1;;;510650
+Agromyza conjuncta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza demeijerei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza dipsaci;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza distans;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza drepanura;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza erodii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza erythrocephala;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;4;1;;;510651
+Agromyza felleri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Agromyza ferruginosa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;10;0;;gap;524996
+Agromyza filipendulae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;4;7;1;;;968334
+Agromyza flaviceps;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;;gap;525020
+Agromyza flavipennis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;0;;;1067590
+Agromyza frontosa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza graminicola;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;2;1;;;483305
+Agromyza granadensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza hendeli;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza hiemalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza hierroensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza idaeiana;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;11;14;1;FE;;510662
+Agromyza igniceps;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;0;FE;;525004
+Agromyza intermittens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;2;0;SyDip;gap;968335
+Agromyza johannae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza kolobowai;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza lapponica;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;4;1;SyDip;;596610
+Agromyza lathyri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Agromyza lithospermi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza lucida;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;4;1;SyDip;;589096
+Agromyza luteifrons;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Agromyza luteitarsis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;10;1;SyDip;;483526
+Agromyza lyneborgi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza marionae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;4;1;FE;;510656
+Agromyza masculina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza megalopsis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza mobilis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;48;48;1;;;495133
+Agromyza myosotidis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;1141909
+Agromyza nana;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;25;25;1;SyDip;;483397
+Agromyza nigrella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;18;18;2;ITIS;;589092
+Agromyza nigrescens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,iNat,SyDip;;;;SyDip;gap;
+Agromyza nigripes;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;34;36;1;SyDip;;510652
+Agromyza nigrociliata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;14;15;3;FE;;510653
+Agromyza obscuritarsis;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Agromyza orobi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza oryzae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza phragmitidis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;7;14;1;;;524969
+Agromyza pittodes;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza polygoni;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;893802
+Agromyza prespana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza pseudoreptans;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;43;44;2;ITIS;;105464
+Agromyza pseudorufipes;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Agromyza pulla;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza reptans;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;9;13;1;ITIS;;510654
+Agromyza rondensis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;6;8;3;SyDip;;646895
+Agromyza rufipes;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;FE;;510655
+Agromyza salicina;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;0;;;524986
+Agromyza spenceri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Agromyza spiraeoidearum;Arthropoda;Insecta;Diptera;Agromyzidae;FE,iNat,SyDip;;;;SyDip;gap;
+Agromyza sulfuriceps;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;2;SyDip;;483407
+Agromyza trebinjensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza varicornis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Agromyza viciae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;4;0;SyDip;gap;968336
+Agromyza vicifoliae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;9;9;1;;;483552
+Agromyza woerzi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Amauromyza (Amauromyza) balcanica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Amauromyza) carlinae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Amauromyza) elaeagni;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Amauromyza) lamii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Amauromyza) leonuri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Amauromyza) morionella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;525019
+Amauromyza (Cephalomyza) chenopodivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483488
+Amauromyza (Cephalomyza) flavida;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Cephalomyza) flavifrons;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;105440
+Amauromyza (Cephalomyza) luteiceps;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;592492
+Amauromyza (Cephalomyza) madrilena;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Cephalomyza) mihalyii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Cephalomyza) monfalconensis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105439
+Amauromyza (Melanophytobia) obscura;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza (Trilobomyza) gyrans;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;973599
+Amauromyza (Trilobomyza) labiatarum;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;524976
+Amauromyza (Trilobomyza) verbasci;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;524997
+Amauromyza chamaebalani;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Amauromyza fraxini;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Amauromyza karli;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;21;22;1;ITIS;;510570
+Amauromyza obscuripennis;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Aulagromyza (Phytagromyza) lonicerae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;SyDip;gap;977016
+Aulagromyza albicipitoides;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza anomala;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Aulagromyza anteposita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza buhri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;968367
+Aulagromyza caraganae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza cornigera;Arthropoda;Insecta;Diptera;Agromyzidae;FE,iNat,SyDip;1;1;0;SyDip;;592497
+Aulagromyza discrepans;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;5;1;SyDip;;105436
+Aulagromyza fallax;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza flavoscutellata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza fulvicornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;1067600
+Aulagromyza galii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza hamata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza hendeliana;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;3;3;1;SyDip;;525005
+Aulagromyza heringii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;8;0;SyDip;;525018
+Aulagromyza iberica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza jaceicaulis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza lucens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza luteoscutellata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;81;82;1;SyDip;;105435
+Aulagromyza mamonowi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza morenae;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Aulagromyza orphana;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;SyDip;;1141908
+Aulagromyza paramushirensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Aulagromyza populi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;2;2;1;SyDip;;596777
+Aulagromyza populicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;2;4;0;SyDip;;766560
+Aulagromyza praescutellaris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza similis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza sisymbrii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza tremulae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Aulagromyza tridentata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;6;6;2;SyDip;;105432
+Aulagromyza tripolii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;SyDip;gap;1141553
+Aulagromyza trivittata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;4;1;SyDip;;483247
+Aulagromyza wuorentausi;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Aulagromyza zernyi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Calycomyza artemisiae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;14;14;1;ITIS;;524975
+Calycomyza flavomaculata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Calycomyza humeralis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;38;39;2;ITIS;;524970
+Calycomyza solidaginis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;21;21;2;ITIS;;105425
+Calycomyza subapproximata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Butomomyza) angulata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;105423
+Cerodontha (Butomomyza) mellita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Butomomyza) pseuderrans;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Butomomyza) scirpi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;510664
+Cerodontha (Butomomyza) scutellaris;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;968368
+Cerodontha (Butomomyza) staryi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Butomomyza) vigneae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;SyDip;gap;1141570
+Cerodontha (Cerodontha) affinis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) alpestris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) bistrigata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) caucasica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) coxalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) denticornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483449;483618
+Cerodontha (Cerodontha) dorsalis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;SyDip;gap;105420
+Cerodontha (Cerodontha) flavicornis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) fulvipes;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;786481
+Cerodontha (Cerodontha) gorodkovi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) hennigi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;973602
+Cerodontha (Cerodontha) jacutica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) phragmitophila;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;1073905
+Cerodontha (Cerodontha) pseudodorsalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) sibirica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) stackelbergi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;968369
+Cerodontha (Cerodontha) tanasijtshuki;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) unguicornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;1141558
+Cerodontha (Cerodontha) ussuriensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) vandalitiensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Cerodontha) xanthocera;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) bimaculata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483513
+Cerodontha (Dizygomyza) brisiaca;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) bulbiseta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) caricicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) chaixiana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) crassiseta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) elbergi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;973600
+Cerodontha (Dizygomyza) fasciata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;33071
+Cerodontha (Dizygomyza) griffithsi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) handlirschi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) hirtae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) ircos;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;SyDip;gap;524962
+Cerodontha (Dizygomyza) labradorensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) lindrothi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;576213
+Cerodontha (Dizygomyza) luctuosa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;454940
+Cerodontha (Dizygomyza) luzulae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) morosa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;454941
+Cerodontha (Dizygomyza) nartshukae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) palustris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) setifrons;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) silvatica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) spinata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Dizygomyza) suturalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Icteromyza) atronitens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105422
+Cerodontha (Icteromyza) biseta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483542
+Cerodontha (Icteromyza) bohemani;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Icteromyza) capitata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105421
+Cerodontha (Icteromyza) churchillensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;454942
+Cerodontha (Icteromyza) geniculata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;510665
+Cerodontha (Icteromyza) lineella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;454944
+Cerodontha (Icteromyza) piliseta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Icteromyza) venturii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;968371
+Cerodontha (Phytagromyza) flavocingulata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105419
+Cerodontha (Poemyza) alpina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) altaica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) atra;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;469870
+Cerodontha (Poemyza) beigerae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) calamagrostidis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) calosoma;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;510666
+Cerodontha (Poemyza) caricivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) cingulata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) estlandica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) hungarica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) imbuta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483324
+Cerodontha (Poemyza) incisa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105418;1141540
+Cerodontha (Poemyza) inconspicua;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;SyDip;gap;592506
+Cerodontha (Poemyza) kerteszi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) lapplandica;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;968370
+Cerodontha (Poemyza) lateralis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;510667
+Cerodontha (Poemyza) lyneborgi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) melicae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) morula;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) muscina;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105417
+Cerodontha (Poemyza) phalaridis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) phragmitidis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) pygmaea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483547
+Cerodontha (Poemyza) pygmella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) pygmina;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;968338
+Cerodontha (Poemyza) pygminoides;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) spencerae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) sudzukhensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) suntarica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) superciliosa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;592507
+Cerodontha (Poemyza) thunebergi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) unisetiorbita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;1157111
+Cerodontha (Poemyza) zoerneri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Poemyza) zuskai;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha (Xenophytomyza) vinokurovi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Cerodontha calamagrostis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD;2;4;2;;;723603
+Cerodontha carpatica;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Cerodontha eriophori;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Cerodontha eucaricis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;17;17;4;;;510663
+Cerodontha iraeos;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;2;4;1;;;968337
+Cerodontha iridis;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Cerodontha rohdendorfi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;0;2;0;;gap;893801
+Cerodontha vignae;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Chromatomyia aizoon;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia alpigenae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia aprilina;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;977030
+Chromatomyia aragonensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia asteris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia centaurii;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Chromatomyia ciliata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977020
+Chromatomyia dorsata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia erigerontophaga;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;ITIS;gap;660944
+Chromatomyia farfarella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;646903
+Chromatomyia fuscula;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;ITIS;gap;454935
+Chromatomyia gentianae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;977047
+Chromatomyia gentianella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia gentii;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Chromatomyia glacialis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia griffithsiana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia horticola;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;;;;FE;gap;977017
+Chromatomyia isicae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977021
+Chromatomyia lindbergi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia lonicerae;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;977016
+Chromatomyia luzulae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977019
+Chromatomyia milii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977012
+Chromatomyia nervi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia nigra;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977014
+Chromatomyia norwegica;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;ITIS;gap;977036
+Chromatomyia obscuriceps;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Chromatomyia ochracea;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia opacella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;ITIS;gap;977027
+Chromatomyia periclymeni;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977018
+Chromatomyia primulae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977035
+Chromatomyia pseudogentii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia puccinelliae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;;;;ITIS;gap;977022
+Chromatomyia ramosa;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;977015
+Chromatomyia saxifragae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia scabiosae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia scabiosarum;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia scolopendri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;FE;gap;977031;977025
+Chromatomyia skuratowiczi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia soldanellae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia succisae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia swertiae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Chromatomyia vernalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Galiomyza beckeri;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Galiomyza galiivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Galiomyza morio;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Galiomyza violiphaga;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Gymnophytomyza heteroneura;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;6;7;1;SyDip;;105407
+Gymnophytomyza secunda;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Hexomyza cecidogena;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Hexomyza sarothamni;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Hexomyza schineri;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;ITIS;gap;
+Hexomyza simplex;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Hexomyza simplicoides;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;ITIS;gap;
+Japanagromyza salicifolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza alyssi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza amarellae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza amoena;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;9;9;1;SyDip;;524982
+Liriomyza analis;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Liriomyza andryalae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza angulicornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;6;1;ITIS;;592617
+Liriomyza approximata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza artemisicola;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;5;1;SyDip;;467449
+Liriomyza asphodeli;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza asteris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza aterrima;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza balcanica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza beata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza bessarabica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza brassicae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;745;759;1;ITIS;;105404
+Liriomyza bryoniae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;14;1;SyDip;;166088
+Liriomyza buhri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;6;2;SyDip;;968339
+Liriomyza bulbata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza bulgarica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza canescens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;;;973603
+Liriomyza cannabis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza centaureae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Liriomyza cepae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza certosa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza chinensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;50;71;2;SyDip;;105403
+Liriomyza cicerina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;27;27;3;SyDip;;715907
+Liriomyza cilicornis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza clarae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza congesta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;7;0;SyDip;gap;592621
+Liriomyza coronillae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza cyclaminis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza deficiens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza demeijerei;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;6;7;1;;;467450
+Liriomyza dendranthemae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza dianthicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza dracunculi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Liriomyza endiviae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza equiseti;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;FE;;510668;454930
+Liriomyza erucifolli;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Liriomyza eupatoriana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza eupatorii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;4;5;1;ITIS;;453963
+Liriomyza euphorbiae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza euphorbiana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza europaea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;4;5;1;;;893796
+Liriomyza flaveola;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;234;234;1;ITIS;;467451
+Liriomyza flavopicta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;;gap;973605
+Liriomyza freyella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza frontella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;105465
+Liriomyza globulariae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza graminivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza groschkei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza gudmanni;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;;;968340
+Liriomyza gypsophilae;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Liriomyza hampsteadensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza haploneura;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza heringi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza hieracii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;646902
+Liriomyza hieraciivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Liriomyza huidobrensis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;146;305;2;ITIS;;77288;656024
+Liriomyza infuscata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;8;1;SyDip;;596604
+Liriomyza intonsa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;6;0;;;968341
+Liriomyza ivanauskasi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza kleiniae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza kovalevi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza labanoro;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza lacertella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza latigenis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza latipalpis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza lesinensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza limpida;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza lituanica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza lusatiensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza lutea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;ITIS;gap;1067619
+Liriomyza mediterranea;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza melitensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza morio;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD;75;75;3;;;589098
+Liriomyza myrsinitae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza nietzkei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza nigrifrons;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza obliqua;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza occipitalis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;13;15;2;SyDip;;893797
+Liriomyza oldenbergi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza orbona;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;5;0;SyDip;;968342
+Liriomyza paradigma;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza pascuum;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza pereziae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza periorbita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza phryne;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;34;34;1;;;646898
+Liriomyza pisivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,iNat,SyDip;;;;FE;gap;
+Liriomyza polygalae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza pseudopygmina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza ptarmicae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;32;32;1;SyDip;;510670
+Liriomyza puella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza pusilla;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;13;14;1;SyDip;;1067622
+Liriomyza pusio;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;15;15;1;SyDip;;786482
+Liriomyza richteri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;1;SyDip;;510669
+Liriomyza samogitica;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Liriomyza sativae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;439;802;6;ITIS;;152885
+Liriomyza scorzonerae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza serriolae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza solivaga;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza sonchi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;1;;;524972
+Liriomyza soror;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Liriomyza strigata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;36;37;1;SyDip;;524971
+Liriomyza subobliqua;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza subvirgo;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza suecica;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;5;0;SyDip;gap;968343
+Liriomyza tanaceti;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;957704
+Liriomyza taraxaci;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;7;8;1;FE;;467452
+Liriomyza thalictri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza thesii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza tibidabensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza tragopogonis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;973606
+Liriomyza trifolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;178;735;4;ITIS;;83258
+Liriomyza umbilici;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Liriomyza urophorina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza valerianae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;0;;;525002
+Liriomyza valerianellae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza violicaulis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Liriomyza virgo;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;5;1;ITIS;;893798
+Liriomyza virgula;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;5;9;3;SyDip;;968344
+Liriomyza wachtlii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Liriomyza xanthocera;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Melanagromyza aenea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;22;22;1;SyDip;;596605
+Melanagromyza aeneoventris;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;12;12;2;SyDip;;589084
+Melanagromyza albocilia;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Melanagromyza angeliciphaga;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;5;1;;;467472
+Melanagromyza arnicarum;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza artemisiae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza astragali;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza chaerophylli;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;;;510657
+Melanagromyza cunctans;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;17;17;1;SyDip;;957701
+Melanagromyza cuscutae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza dettmeri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza eriolepidis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza eupatorii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;0;;;1141544
+Melanagromyza fabae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza ferulae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza foeniculi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza lappae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;SyDip;;510658
+Melanagromyza limata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza nartshukae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;0;;;973592
+Melanagromyza nibletti;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza nigrissima;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;;;589091
+Melanagromyza oligophaga;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;973593
+Melanagromyza polemonii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza pubescens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;7;9;1;;;646896
+Melanagromyza rohdendorfi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza sativae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Melanagromyza siciliensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza sojae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;42;44;2;SyDip;;788597
+Melanagromyza submetallescens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;6;0;;;968345
+Melanagromyza symphyti;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza tripolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza tschirnhausi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza verbasci;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza vignalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Melanagromyza zlobini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza antiqua;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza flavonotata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;35;36;2;SyDip;;105398
+Metopomyza interfrontalis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;35;39;1;ITIS;;454927
+Metopomyza junci;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza knutsoni;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza laeta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza levis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza nigrina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Metopomyza nigriorbita;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;2;1;SyDip;;973607
+Metopomyza nigrohumeralis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Metopomyza scutellata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;37;38;4;FE;;105399
+Metopomyza xanthaspida;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD;1;3;1;;;968346
+Metopomyza xanthaspioides;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;4;1;SyDip;;510671
+Metopomyza xanthaspis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;159;160;2;SyDip;;483490
+Napomyza annulipes;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Napomyza bupleuri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Napomyza elegans;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;977025
+Napomyza enigmoides;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Napomyza evanescens;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;ITIS;gap;105375
+Napomyza glabra;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;152303
+Napomyza hirticornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;646897
+Napomyza inquilina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Napomyza lateralis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;ITIS;gap;977028
+Napomyza mima;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Napomyza nigritula;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;ITIS;gap;977026
+Napomyza thalhammeri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Napomyza tripolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Nemorimyza maculosa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;17;17;2;SyDip;;105388
+Nemorimyza posticata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;662;663;19;ITIS;;105389
+Ophiomyia aeneonitens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia alliariae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Ophiomyia aquilegiana;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Ophiomyia asparagi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia beckeri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;149;149;2;SyDip;;1067594
+Ophiomyia bohemica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia buccata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia campanularum;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia centaureae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia cichorii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia collini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia cornifera;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia cunctata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;16;17;2;SyDip;;495171
+Ophiomyia cursae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia curvipalpis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;10;11;1;SyDip;;510659
+Ophiomyia delphinii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia disordens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia eucodonus;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia fennoniensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia galii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;973594
+Ophiomyia gnaphalii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia heracleivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;;;957699
+Ophiomyia heringi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia hieracii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;2;1;;;957698
+Ophiomyia improvisa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia inaequabilis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia io;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia ivinskisi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia kiefferi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia labiatarum;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;18;19;2;;;592484
+Ophiomyia longilingua;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia maura;Arthropoda;Insecta;Diptera;Agromyzidae;FE,iNat,SyDip;;;;ITIS;gap;
+Ophiomyia melandricaulis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia melandryi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;SyDip;;973595
+Ophiomyia mohelensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia moravica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia nasuta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;125;126;2;ITIS;;105450
+Ophiomyia ononidis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia orbiculata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;30;30;1;SyDip;;495172
+Ophiomyia orientalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia paramaura;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia penicillata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia phaseoli;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;120;124;1;SyDip;;105447
+Ophiomyia pinguis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;1;SyDip;;510660
+Ophiomyia pseudonasuta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia pulicaria;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;ITIS;;973596
+Ophiomyia ranunculicaulis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;4;1;;;589083
+Ophiomyia rapta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia rostrata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia senecionina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia skanensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia slovaca;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;973597
+Ophiomyia spenceri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia stenophaga;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia suavis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia subdefinita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Ophiomyia subheracleivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia submaura;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ophiomyia thalictricaulis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia tranquilla;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;;;973598
+Ophiomyia verbasci;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ophiomyia vimmeri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;0;;;1141515
+Phytobia aucupariae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytobia betulae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD;4;4;1;;;105386
+Phytobia betulivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;2;1;;;1073813
+Phytobia bohemica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytobia cambii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;1;SyDip;;589099
+Phytobia carbonaria;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;SyDip;;993034
+Phytobia cerasiferae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytobia errans;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytobia lunulata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytobia mallochi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytoliriomyza alpicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytoliriomyza arctica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;76;79;1;ITIS;;105382
+Phytoliriomyza bornbolmensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytoliriomyza dorsata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;49;49;3;ITIS;;454924
+Phytoliriomyza fasciata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytoliriomyza hilarella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;0;SyDip;;799747
+Phytoliriomyza islandica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytoliriomyza melampyga;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;17;18;1;ITIS;;105380
+Phytoliriomyza mesnili;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytoliriomyza miki;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD;8;8;1;;;454926
+Phytoliriomyza mikii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytoliriomyza oasis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;3;0;SyDip;gap;968347
+Phytoliriomyza ornata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;3;3;1;FE;;969381
+Phytoliriomyza pectoralis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytoliriomyza perpusilla;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Phytoliriomyza pteridii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytoliriomyza scotica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytoliriomyza variegata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;1;2;1;SyDip;;968348
+Phytoliriomyza venustula;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;0;;;1067627
+Phytomyza abditus;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza abdominalis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;3;3;1;SyDip;;483510
+Phytomyza abiskensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza achilleae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza achilleaececis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza achilleanella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;19;19;2;SyDip;;977023
+Phytomyza aconitella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aconiti;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;2;2;1;ITIS;;32880
+Phytomyza aconitophila;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza actaeae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza acutiventris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza adenostylis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza adjuncta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;6;0;SyDip;;968352
+Phytomyza affinis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;6;1;;;968353
+Phytomyza agromyzina;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;49;51;2;SyDip;;152382
+Phytomyza albiceps;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;968354
+Phytomyza albifrons;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza albimargo;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza albipennis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;3;4;1;;;977024
+Phytomyza alpestris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza alpina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza alyssi;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza ancholiae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;152386
+Phytomyza anderi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;968355
+Phytomyza anemonantheae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;1;1;SyDip;;152342
+Phytomyza anemones;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;2;1;SyDip;;1067630
+Phytomyza angelicae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;14;14;1;SyDip;;152324;973610
+Phytomyza angelicastri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;6;8;1;;;152335
+Phytomyza angelicivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza angulata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza antennata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aphyllae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aposeridis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aquilonia;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;39;42;2;ITIS;;493644
+Phytomyza araciocesis;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza archangelicae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;1;1;SyDip;;152336
+Phytomyza aristata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza arnicae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza arnicicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aronici;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza artemisivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;483573
+Phytomyza asparagi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;1;0;SyDip;;977051
+Phytomyza asparagivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza astrantiae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza athamantae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aulagromyzina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza aurei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza beigerae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza bellidina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza bellidis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza bipunctata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;1141907
+Phytomyza biseta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza blackstoniae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza brevicornis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza brevifascies;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza brischkei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza brunnipes;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza buhriana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza buhriella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;5;0;FE;gap;968357
+Phytomyza burchardi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza callianthemi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza calthae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza calthivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;4;4;2;;;893794
+Phytomyza calthophila;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;1;;;887194
+Phytomyza campanulae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza carotae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;4;2;SyDip;;1141905
+Phytomyza caulinaris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cecidonomia;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;14;14;1;SyDip;;786483
+Phytomyza chaerophylli;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;107;107;1;SyDip;;152332
+Phytomyza chaerophylliana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza chelonei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza chrysocera;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cichorii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;12;14;2;SyDip;;977033
+Phytomyza cicutae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cicutivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cinerea;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cirrhosae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cirsii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;10;10;1;SyDip;;152326
+Phytomyza cirsiophaga;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza clematidicaulis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza conii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza coniopais;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza continua;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;28;28;2;SyDip;;152371
+Phytomyza conyzae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;9;9;1;SyDip;;525013
+Phytomyza cornuta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza cortusifolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza corvimontana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza crassiseta;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;103;104;3;SyDip;;152363
+Phytomyza curvipes;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza cytisi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza dalmatiensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza dasyops;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;2;0;;;976341
+Phytomyza deflecta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza digitalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;1;1;;;788599
+Phytomyza diversicornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;7;7;1;;;887195
+Phytomyza doronici;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza dryas;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza elsae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza epistomella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza erigerophila;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;17;17;1;SyDip;;32876
+Phytomyza eumorpha;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;2;0;SyDip;gap;483711
+Phytomyza eupatorii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza euphrasiae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza exilis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza fallaciosa;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;9;10;3;SyDip;;152318
+Phytomyza farfarae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza fascialis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza fennoscandiae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza ferina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza ferruginea;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza ferulae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza ferulivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza filipenduliphila;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza flavicornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;76;78;2;SyDip;;32881
+Phytomyza flavifascies;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza flaviventris;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza flavofemorata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;14;14;1;SyDip;;495185
+Phytomyza flavohumeralis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza franzii;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza fulgens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza furcata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza gilva;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza glechomae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;10;11;1;SyDip;;152366
+Phytomyza globulariae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza griffithsi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza grisescens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza gymnostoma;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;68;68;2;FE;;152316
+Phytomyza hedingi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza hellebori;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;2;1;SyDip;;788600
+Phytomyza heracleana;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;5;5;1;;;525010
+Phytomyza heringiana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza heterophylli;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza hirsuta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza hirta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza homogyneae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza hoppi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza hoppiella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza humeralis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza ignota;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza ilicicola;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;91;94;3;SyDip;;32863;32875
+Phytomyza isais;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza jonaitisi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;1;1;;;152352
+Phytomyza jugalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza kaltenbachi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza kamtschatkensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza kareliensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza krygeri;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;468400
+Phytomyza kyffhusana;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;FE;gap;
+Phytomyza lappae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;2;2;1;SyDip;;152312
+Phytomyza lappivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza laterella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza latifolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza latifrons;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza leucanthemi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;1141906
+Phytomyza libanotidis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza linnaeae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza lithospermi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza loewii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Phytomyza lonicerae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,SyDip;1;2;0;SyDip;;977016
+Phytomyza lusatica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza lycopi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza majalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza marginella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;4;1;SyDip;;510676
+Phytomyza maritima;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;SyDip;;1075177
+Phytomyza medicaginis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza melana;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;5;1;SyDip;;968356
+Phytomyza melanostoma;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza meridionalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza merita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza minimoides;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza monori;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza montana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza murina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza mutellinae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza mylini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza myosotica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza nana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza narcissiflorae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza neglecta;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza nepetae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;12;12;1;;;152305
+Phytomyza nigrella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza nigriceps;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza nigricoxa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza nigrifemur;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;6;1;SyDip;;968350
+Phytomyza nigripennis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;8;1;;;483406
+Phytomyza nigrita;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza nigritella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;932141
+Phytomyza nigroclypea;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza nigroorbitalis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;0;1;0;;gap;932143
+Phytomyza notata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;11;11;1;SyDip;;152321
+Phytomyza novitzkyi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza nowakowskiana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza obscura;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;;;;SyDip;gap;152343
+Phytomyza obscurata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza obscurella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;123;124;1;;;469854
+Phytomyza oenanthica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza opaca;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza oreophila;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza origani;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;;gap;968360
+Phytomyza orobanchia;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;5;5;1;SyDip;;669106
+Phytomyza palionisi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza paraciliata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;5;5;1;SyDip;;977013
+Phytomyza parvicella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Phytomyza pastinacae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Phytomyza pauliloewii;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza pedicularifolii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza penicilla;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza permutata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza petoei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza peucedani;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza phellandrii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza phillyreae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;1;1;0;SyDip;;1157110
+Phytomyza picridocecis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza pieninica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza pimpinellae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;;;469864
+Phytomyza plantaginis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;66;67;1;ITIS;;32879
+Phytomyza platonoffi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza platystoma;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza plumea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;13;14;2;SyDip;;977029
+Phytomyza plumigera;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza podagrariae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;;;1073906
+Phytomyza polysticha;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza poppii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza pseudomilii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza ptarmicae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;10;2;;;968375
+Phytomyza pubescens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza pubicornis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;31;32;2;;;483291
+Phytomyza pulchra;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza pullula;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;5;5;2;ITIS;;510592
+Phytomyza pulmonariae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza pulsatilicolla;Arthropoda;Insecta;Diptera;Agromyzidae;FE;;;;;gap;
+Phytomyza pulsatillae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;10;14;1;SyDip;;596742
+Phytomyza pummankiensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza ranunculella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza ranunculi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,iNat,SyDip;50;57;4;ITIS;;152322
+Phytomyza ranunculicola;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;;;968376
+Phytomyza ranunculivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;9;9;1;SyDip;;152370
+Phytomyza rapunculi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza rectae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza rhabdophora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;3;1;;;510677
+Phytomyza rhaetica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza rhodiolae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza rhodopaea;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza ringdahli;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza robustella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza rostrata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;5;6;1;ITIS;;646900
+Phytomyza rufescens;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza rufipes;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;13;13;1;SyDip;;104943
+Phytomyza rydeni;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;0;1;0;SyDip;gap;968361
+Phytomyza rydeniella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza salviae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza scabiosella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza scaligeriae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza schlicki;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza schuetzei;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza scotina;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza scrophulariae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;8;8;1;SyDip;;977052
+Phytomyza sedi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza sedicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza selini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza senecionis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza seseleos;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza sii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza silai;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza sitchensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza smyrnii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza socia;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;469896
+Phytomyza soenderupi;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;4;0;;;968351
+Phytomyza soenderupiella;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza solidaginis;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;1;1;FE;;887196;932144
+Phytomyza spenceriana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza sphondyliivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza spinaciae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;17;20;1;SyDip;;105410;1141571
+Phytomyza spoliata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;3;2;;;957692
+Phytomyza spondylii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;31;31;3;ITIS;;152333
+Phytomyza stolonigena;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza styriaca;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;2;2;1;SyDip;;977037
+Phytomyza subrostrata;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;3;6;2;;;968359
+Phytomyza syngenesiae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;73;80;1;SyDip;;716369
+Phytomyza tanaitica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza tenella;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;4;1;SyDip;;483357
+Phytomyza thalictri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza thalictricola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;FE;gap;
+Phytomyza thymi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza thysselini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza thysselinivora;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza trichopsis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza trollii;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;3;1;SyDip;;152337
+Phytomyza trolliicaulis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza trolliivora;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;1;3;1;;;968349
+Phytomyza trolliophila;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza tschirnhausi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza tussilaginis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;ITIS;gap;
+Phytomyza ussuriensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza varipes;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;12;13;1;SyDip;;596611
+Phytomyza veronicicola;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza vilnensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza virgaurea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD;1;2;0;;;968358
+Phytomyza virgaureae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza virosae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza vitalbae;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;68;68;1;;;152320
+Phytomyza wahlgreni;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;18;18;1;SyDip;;468401
+Phytomyza zarzyckii;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza zimini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Phytomyza zinovjevi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Phytomyza zlobini;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Pseudonapomyza atra;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;271;274;4;ITIS;;469836
+Pseudonapomyza balkanensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza errata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza europaea;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE,SyDip;113;116;1;;;596791
+Pseudonapomyza hispanica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza hobokensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza hungarica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza insularis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza lacteipennis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;47;49;1;ITIS;;105373
+Pseudonapomyza mohelnica;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza moraviae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza odessae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza palavae;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza palliditarsis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza spenceri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza spicata;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Pseudonapomyza spinosa;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza strobliana;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Pseudonapomyza vota;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;
+Ptochomyza czernyi;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Ptochomyza mayeri;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;SyDip;gap;
+Selachops flavocinctus;Arthropoda;Insecta;Diptera;Agromyzidae;BOLD,FE;3;3;1;FE;;483283
+Xeniomyza ilicitensis;Arthropoda;Insecta;Diptera;Agromyzidae;FE,SyDip;;;;;gap;

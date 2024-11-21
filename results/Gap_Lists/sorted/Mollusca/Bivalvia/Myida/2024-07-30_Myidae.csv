@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Mya arenaria;Mollusca;Bivalvia;Myida;Myidae;BOLD,WORMS,iNat;164;288;4;WORMS;;30912
+Mya truncata;Mollusca;Bivalvia;Myida;Myidae;BOLD,WORMS,iNat;16;54;5;WORMS;;159183
+Sphenia binghami;Mollusca;Bivalvia;Myida;Myidae;WORMS;;;;WORMS;gap;
+Sphenia rueppellii;Mollusca;Bivalvia;Myida;Myidae;WORMS;;;;WORMS;gap;

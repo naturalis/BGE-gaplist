@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathycrinus aldrichianus;Echinodermata;Crinoidea;Comatulida;Bathycrinidae;WORMS;;;;WORMS;gap;
+Bathycrinus carpenterii;Echinodermata;Crinoidea;Comatulida;Bathycrinidae;BOLD,WORMS;3;3;1;WORMS;;221921
+Bathycrinus gracilis;Echinodermata;Crinoidea;Comatulida;Bathycrinidae;WORMS;;;;;gap;
+Monachocrinus recuperatus;Echinodermata;Crinoidea;Comatulida;Bathycrinidae;WORMS;;;;WORMS;gap;
+Monachocrinus sexradiatus;Echinodermata;Crinoidea;Comatulida;Bathycrinidae;WORMS;;;;;gap;

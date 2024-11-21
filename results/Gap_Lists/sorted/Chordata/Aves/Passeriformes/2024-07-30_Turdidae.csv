@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Catharus fuscescens;Chordata;Aves;Passeriformes;Turdidae;FE;16;31;1;FE;;16053
+Catharus guttatus;Chordata;Aves;Passeriformes;Turdidae;FE;40;66;2;FE;;9571
+Catharus minimus;Chordata;Aves;Passeriformes;Turdidae;FE;27;52;1;FE;;9574
+Catharus ustulatus;Chordata;Aves;Passeriformes;Turdidae;FE;76;115;1;FE;;9575
+Geokichla sibirica;Chordata;Aves;Passeriformes;Turdidae;FE;9;10;1;ITIS;;745566
+Hylocichla mustelina;Chordata;Aves;Passeriformes;Turdidae;FE;10;19;1;FE;;16055
+Ixoreus naevius;Chordata;Aves;Passeriformes;Turdidae;FE;10;21;1;ITIS;;16851
+Turdus atrogularis;Chordata;Aves;Passeriformes;Turdidae;FE;3;3;1;;;858617
+Turdus eunomus;Chordata;Aves;Passeriformes;Turdidae;FE,iNat;24;24;1;;;747566
+Turdus iliacus;Chordata;Aves;Passeriformes;Turdidae;BOLD,FE,iNat;28;28;1;ITIS;;9564
+Turdus merula;Chordata;Aves;Passeriformes;Turdidae;BOLD,FE,iNat;133;153;2;;;9563
+Turdus migratorius;Chordata;Aves;Passeriformes;Turdidae;FE;58;73;1;;;9562
+Turdus naumanni;Chordata;Aves;Passeriformes;Turdidae;FE;58;70;1;;;52612
+Turdus obscurus;Chordata;Aves;Passeriformes;Turdidae;FE;12;15;1;;;52613
+Turdus philomelos;Chordata;Aves;Passeriformes;Turdidae;BOLD,FE,iNat;74;90;1;;;52614
+Turdus pilaris;Chordata;Aves;Passeriformes;Turdidae;BOLD,FE,iNat;33;34;1;;;9567
+Turdus ruficollis;Chordata;Aves;Passeriformes;Turdidae;FE;20;20;1;;;52615
+Turdus torquatus;Chordata;Aves;Passeriformes;Turdidae;BOLD,FE,iNat;18;19;1;;;52616
+Turdus unicolor;Chordata;Aves;Passeriformes;Turdidae;FE;1;2;0;;;117123
+Turdus viscivorus;Chordata;Aves;Passeriformes;Turdidae;BOLD,FE,iNat;28;154;1;;;9565
+Zoothera aurea;Chordata;Aves;Passeriformes;Turdidae;FE;1;1;1;FE;;858630

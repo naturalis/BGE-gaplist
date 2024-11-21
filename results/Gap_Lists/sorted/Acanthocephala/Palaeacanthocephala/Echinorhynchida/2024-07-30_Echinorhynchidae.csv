@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthocephalus anguillae;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE,WORMS;10;18;2;WORMS;;24846
+Acanthocephalus anthuris;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Acanthocephalus balkanicus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;;gap;
+Acanthocephalus clavula;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE,WORMS;1;2;1;WORMS;;24845
+Acanthocephalus curtus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Acanthocephalus falcatus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Acanthocephalus gracilicanthus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;;gap;
+Acanthocephalus haranti;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;;gap;
+Acanthocephalus lucii;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE,WORMS;21;71;3;WORMS;;24844
+Acanthocephalus ranae;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE;0;8;0;ITIS;gap;704919
+Acanthocephalus tenuirostris;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Echinorhynchus armoricanus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;WORMS;;;;;gap;
+Echinorhynchus bothniensis;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE,WORMS;1;1;1;;;715585
+Echinorhynchus brayi;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;WORMS;1;1;1;;;715586
+Echinorhynchus calloti;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;WORMS;;;;;gap;
+Echinorhynchus cinctulus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE,WORMS;12;12;2;WORMS;;715588
+Echinorhynchus cryophilus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Echinorhynchus gadi;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE,WORMS;2;11;1;WORMS;;714435
+Echinorhynchus peleci;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;;gap;
+Echinorhynchus praetextus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Echinorhynchus rhenanus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;
+Echinorhynchus salmonis;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE;1;1;1;WORMS;;715590
+Echinorhynchus trachyrinci;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;WORMS;;;;;gap;
+Echinorhynchus truttae;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;BOLD,FE;60;62;1;WORMS;;715591
+Pseudoacanthocephalus caucasicus;Acanthocephala;Palaeacanthocephala;Echinorhynchida;Echinorhynchidae;FE;;;;ITIS;gap;

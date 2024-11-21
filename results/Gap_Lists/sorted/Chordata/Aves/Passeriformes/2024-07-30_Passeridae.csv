@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Montifringilla nivalis;Chordata;Aves;Passeriformes;Passeridae;BOLD,FE,iNat;12;14;2;FE;;119778
+Passer domesticus;Chordata;Aves;Passeriformes;Passeridae;BOLD,FE,iNat;157;172;2;FE;;9688
+Passer hispaniolensis;Chordata;Aves;Passeriformes;Passeridae;BOLD,FE;60;62;1;FE;;119790
+Passer italiae;Chordata;Aves;Passeriformes;Passeridae;FE;;;;FE;gap;
+Passer moabiticus;Chordata;Aves;Passeriformes;Passeridae;FE;9;9;1;;;119793
+Passer montanus;Chordata;Aves;Passeriformes;Passeridae;BOLD,FE,iNat;104;111;1;FE;;9689
+Petronia petronia;Chordata;Aves;Passeriformes;Passeridae;BOLD,FE;17;23;1;FE;;119803

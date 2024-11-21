@@ -1,0 +1,795 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anthepiscopus oedalinus;Arthropoda;Insecta;Diptera;Empididae;FE;;;;FE;gap;
+Anthepiscopus zontaki;Arthropoda;Insecta;Diptera;Empididae;FE;;;;FE;gap;
+Bergenstammia albanica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Bergenstammia aurinae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Bergenstammia carniolica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Bergenstammia pulla;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Bergenstammia pyrenaica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Bergenstammia slovaca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera alpina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;4;0;;;574568
+Chelifera angusta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera aperticauda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera astigma;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;0;1;0;;gap;574569
+Chelifera barbarica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera concinnicauda;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;8;12;1;SyDip;;738630
+Chelifera corsicana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera diversicauda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;0;1;0;;gap;730267
+Chelifera flavella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;5;1;SyDip;;643673
+Chelifera frigelii;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;130;133;1;SyDip;;643672
+Chelifera giraudae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Chelifera macedonica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera monostigma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Chelifera nubecula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Chelifera obscura;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera pallida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera pectinicauda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera perlucida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera polonica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera precabunda;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;11;21;1;;;574570
+Chelifera precatoria;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;15;17;1;ITIS;;483438
+Chelifera pyrenaica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;12;12;1;;;574571
+Chelifera serraticauda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Chelifera siveci;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera spectra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera stigmatica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;3;1;SyDip;;1140896
+Chelifera subangusta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;8;9;1;;;574572
+Chelifera trapezina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;17;25;5;SyDip;;574573
+Chelifera vockerothi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelifera wagneri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelipoda albiseta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;15;17;1;ITIS;;510630
+Chelipoda inexpectata;Arthropoda;Insecta;Diptera;Empididae;BOLD;3;4;1;;;738631
+Chelipoda inexspectata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Chelipoda vocatoria;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;11;12;1;ITIS;;574577
+Clinocera (Bergenstammia) frigida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Bergenstammia) multiseta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Bergenstammia) nudimana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Bergenstammia) nudipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Clinocera) bivittata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Clinocera) nigra;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;387111
+Clinocera (Clinocera) schremmeri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Hydrodromia) appendiculata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;386476
+Clinocera (Hydrodromia) fontinalis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;805355
+Clinocera (Hydrodromia) nivalis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;387112
+Clinocera (Hydrodromia) stagnalis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;387116
+Clinocera (Hydrodromia) wesmaeli;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483364
+Clinocera (Kowarzia) amarantha;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) azorica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) barbatula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;574578
+Clinocera (Kowarzia) bipunctata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) calabricae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) dahli;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) fonticola;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) haemorrhoidalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) italiae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) jalonae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) madicola;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;574579
+Clinocera (Kowarzia) plectrum;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;574580
+Clinocera (Kowarzia) rabacali;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) rivalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) sandaliae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) schnabli;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) subplectrum;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Kowarzia) tenella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;574581
+Clinocera (Kowarzia) tibiella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;973519;574582
+Clinocera (Phaeobalia) dimidiata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) elongata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) inermis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) lyneborgi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) maculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;386492
+Clinocera (Phaeobalia) montana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) orophila;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) pokornyi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) ramosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) tetrastyla;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) trinotata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) vaillanti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) varipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera (Phaeobalia) zwicki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Clinocera aucta;Arthropoda;Insecta;Diptera;Empididae;BOLD;22;26;3;;;386477
+Clinocera oldenbergi;Arthropoda;Insecta;Diptera;Empididae;BOLD;4;4;0;;;574576
+Dolichocephala austriaca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Dolichocephala bartaki;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;4;1;;;738627
+Dolichocephala basilicata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Dolichocephala bellstedti;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;4;1;;;738628
+Dolichocephala cavatica;Arthropoda;Insecta;Diptera;Empididae;FE;;;;FE;gap;
+Dolichocephala cretica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Dolichocephala guttata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;6;1;SyDip;;706850
+Dolichocephala irrorata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;34;37;2;SyDip;;483270
+Dolichocephala oblongoguttata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;18;21;1;FE;;738626
+Dolichocephala ocellata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;5;1;SyDip;;483460
+Dolichocephala thomasi;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;2;7;1;;;643671
+Dolichocephala vaillanti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Dolichocephala woodi;Arthropoda;Insecta;Diptera;Empididae;BOLD,SyDip;28;34;3;;;738629
+Dolichocephala zwicki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Dryodromia testacea;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;3;6;1;;;574585
+Empis (Anacrostichus) bistortae;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;786663
+Empis (Anacrostichus) lucida;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;456994
+Empis (Anacrostichus) monticola;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Anacrostichus) nitida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Anacrostichus) verralli;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Argyrandrus) dispar;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) abbreviata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) albinervis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) confluens;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) coracina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) corcyrica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) dasychira;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) gravis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) hyalipennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483569
+Empis (Coptophlebia) impennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) leptomorion;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) montana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) pavesii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) pilimana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Coptophlebia) vitripennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1141569
+Empis (Coptophlebia) volucris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) acinerea;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483410
+Empis (Empis) aestiva;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;786654
+Empis (Empis) alampra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) albohirta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) albopilosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) alpicola;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) andalusiaca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) anfractuosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) apfelbecki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) ardesiaca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) baldensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) beckeriana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) bicuspidata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;497012
+Empis (Empis) bohemica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) cantabrica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) caudatula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483499
+Empis (Empis) chioptera;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;469842
+Empis (Empis) ciliatopennata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) cincinnatula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) corvina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) dalmatica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) dasypoda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) dasyprocta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) decora;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) dusmetii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) eupterota;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) fasciculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) filata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) florisomna;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) fulvipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) genualis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) gibbipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) gooti;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1141543
+Empis (Empis) gracilitarsis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) gymnopoda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) helophila;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) hirta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) hystrix;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) intercepta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) laminata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) lepidopus;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) levis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) limata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) macedoniensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) maerens;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) malleola;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) mariae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) mediocris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) melanotricha;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) minor;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) mollis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) nigricoma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) nigritibialis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) nitidissima;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) nitidiventris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) nox;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) nuntia;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;929429
+Empis (Empis) pennipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;407124
+Empis (Empis) petulans;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pilosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) planetica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;970041
+Empis (Empis) plebeja;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) praecox;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) praevia;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) procera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) prodromus;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510614
+Empis (Empis) protarsalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pseudodecora;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pseudofasciculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pseudomalleola;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pseudonuntia;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pseudoprodromus;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;510614
+Empis (Empis) pseudorufiventris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) ptilopoda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) pusio;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) scaura;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) serotina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1141579
+Empis (Empis) setosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) sicula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) similis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) simulium;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) staegeri;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510616
+Empis (Empis) surata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) syrovatkai;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510615
+Empis (Empis) tanysphyra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) tenuipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) thalhammeri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) umbripes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Empis) woodi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) basalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) calcarata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) ciliata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676870
+Empis (Euempis) erosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) fiumana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) kerteszi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) mikii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) mirandica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) morenae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) morio;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) picipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483243
+Empis (Euempis) pilicornis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) sericans;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) spiralis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Euempis) tessellata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;402893;468374
+Empis (Kritempis) algira;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Kritempis) hoffmannseggii;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;956440
+Empis (Kritempis) livida;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;467351
+Empis (Kritempis) macropalpa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) abdominalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) adusta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) alpina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) confusa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) discolor;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) divisa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) flavitarsis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) gaigeri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) grisea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) lamellata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) lamellimmanis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) lindneri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) macra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) maculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) meridionalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) mesogramma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) multispina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) nigricans;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676873
+Empis (Leptempis) pandellei;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) pteropoda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) rava;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) rustica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) sinuosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) spitzeri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) trunca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Leptempis) variegata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676253
+Empis (Lissempis) cuneipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Lissempis) curvitibia;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Lissempis) insularis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Lissempis) liosoma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Lissempis) nigritarsis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;970042
+Empis (Pachymeria) contigua;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) femorata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676871
+Empis (Pachymeria) mediterranea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) obscuripes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) picena;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) ptilocnemis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) ringdahli;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) scotica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) subclavata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) suberis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) trianguligera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Pachymeria) tumida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Planempis) frauscheri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Platyptera) latiptera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) albicans;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) candidata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) cothurnata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) crassa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) curta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) curvipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) dasynota;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) dedecor;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) depilis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) engeli;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) eumera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) eversmanni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) fallax;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) gravipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) haemi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) haemorrhoica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) nigerrima;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) opaca;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676249
+Empis (Polyblepharis) phaenomeris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) soror;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Polyblepharis) strigata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Rhadinempis) bazini;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) adriani;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) aemula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;956441
+Empis (Xanthempis) aequalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) albifrons;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) algecirasensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) concolor;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;1140831
+Empis (Xanthempis) diagramma;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;676894
+Empis (Xanthempis) dispina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) kuntzei;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) laeta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) laetabilis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) lagoensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) loewiana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) lutea;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;786651
+Empis (Xanthempis) nevadensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) oxilara;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) punctata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) rohaceki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) scutellata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) semicinerea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) styriaca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) subscutellata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) testacea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) testiculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) trigramma;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676250
+Empis (Xanthempis) unistriata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis (Xanthempis) univittata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;929430
+Empis basiliaris;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Empis cognata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Empis decorella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Empis hoffmannseggi;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Empis lyneborgi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Empis modesta;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Empis morosella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Empis nitidula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Empis sibillina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Empis stercorea;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat,SyDip;32;33;1;;;402894
+Empis tritava;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Heleodromia (Heleodromia) irwini;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;386407
+Heleodromia (Heleodromia) oldenbergi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Heleodromia (Heleodromia) schachti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Heleodromia (Neoilliesiella) banatica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Heleodromia (Neoilliesiella) pectinulata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Heleodromia wagneri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia adulatoria;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;29;29;2;;;574575
+Hemerodromia baetica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;0;1;0;;gap;918673
+Hemerodromia cataluna;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Hemerodromia claripennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia gaditana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia gagneuri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia gereckei;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia laudatoria;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia maculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia mazoviensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia melangyna;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia oratoria;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;5;10;2;FE;;474565
+Hemerodromia raptoria;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;5;6;3;;;483376
+Hemerodromia slovenica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia unilineata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hemerodromia zwicki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara (Hilara) flavitarsis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara aartseni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara abdominalis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;15;17;2;;;467430
+Hilara aeronetha;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara albanica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara albipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara albitarsis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;11;15;2;SyDip;;483543
+Hilara albiventris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara algecirasensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara allogastra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Hilara almeriensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara alpicola;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara andermattensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara anglodanica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara angustifrons;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara apta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara arnaudi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara barbipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;5;5;1;;;483651
+Hilara beckeri;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;3;1;;;483456
+Hilara biseta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;1;1;;;769507
+Hilara bistriata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;13;14;1;;;483652
+Hilara bohemica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara borealis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;2;0;SyDip;;1140732
+Hilara brevipilosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara brevistyla;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;13;13;1;;;483420
+Hilara brevivittata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara caerulescens;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara calinota;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara campinosensis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;3;1;;;483588
+Hilara canescens;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;5;6;2;;;589108
+Hilara cantabrica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara chorica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;10;12;1;SyDip;;589107;738637
+Hilara cineracea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara cinereomicans;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara clavipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;6;9;1;SyDip;;643655
+Hilara clypeata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara coracina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;1;;;510617
+Hilara cornicula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;13;14;2;SyDip;;467431
+Hilara cuneata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Hilara curtisi;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;0;SyDip;;1141480
+Hilara curvipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara czernyi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara dalmatina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara deltaica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara dimidiata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara discalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara discoidalis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;6;1;;;976342
+Hilara discolor;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara diversipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;5;5;1;SyDip;;483434
+Hilara empidoides;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Hilara escorialensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara eviana;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;2;1;;;738635
+Hilara femorella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;11;12;1;;;540910
+Hilara flavidipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara flavipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;3;2;;;970046
+Hilara flavocoxa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara flavohalterata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara fulvibarba;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara fusitibia;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara gallica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;2;SyDip;;483286
+Hilara gooti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara griseola;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;8;9;2;FE;;483419
+Hilara helvetica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara hirta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;2;1;SyDip;;738636
+Hilara hirtella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara hirtipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;4;0;;;1141598
+Hilara hybrida;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;6;6;2;;;483451
+Hilara hyposeta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara hystrix;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara implicata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;2;1;SyDip;;483472;1140891
+Hilara infuscata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara intermedia;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;8;9;1;SyDip;;495151
+Hilara joannae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara lacteipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara lactescens;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara lapponica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;2;;;589112
+Hilara lasiochira;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara lasiopa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara laurae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara lindbergi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara litorea;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;31;31;1;SyDip;;483583
+Hilara longeciliata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Hilara longicornis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara longivittata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;4;4;2;SyDip;;483558
+Hilara lurida;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;4;1;SyDip;;467432
+Hilara macedonica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara macquarti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara magica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara marginipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara martini;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara matroniformis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara maura;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;8;8;0;SyDip;;1140945
+Hilara medeteriformis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;1;;;786645
+Hilara media;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara merula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara merzi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara miriptera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara monedula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;12;14;2;;;738638
+Hilara morata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara morenae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara mroga;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara nadolna;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara nigrina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;11;11;0;SyDip;;1140743
+Hilara nigritarsis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;7;7;1;FE;;483709
+Hilara nigrocincta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara nigrohirta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;1;0;;;1140897
+Hilara nitidorella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;9;9;1;;;483474
+Hilara nitidula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;16;17;1;SyDip;;483277
+Hilara novakii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara obscura;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;2;1;SyDip;;789012
+Hilara palmarum;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara pectinipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara perversa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara pilipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;5;5;1;SyDip;;483653
+Hilara pilosa;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;10;10;0;;;1140748
+Hilara pilosopectinata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara platyura;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara ponti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara primula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara pruinosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara psammophytophilia;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Hilara pseudochorica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;6;7;1;FE;;589106
+Hilara pseudocornicula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara pseudosartrix;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;2;0;FE;;1141535
+Hilara pulchripes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara quadriclavata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara quadrifaria;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara quadrifasciata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;22;22;1;;;467433
+Hilara quadriseta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara quadrula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara recedens;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara regneali;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Hilara rejecta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;4;0;;;1141556
+Hilara sartor;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara scrobiculata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;1;SyDip;;769961
+Hilara setosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara simplicipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara splendida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara strakaiana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara sturmii;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;2;2;1;;;483487
+Hilara styriaca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara submaura;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;4;1;;;738639
+Hilara sulcitarsis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara tanychira;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara tanythrix;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;19;19;1;;;467434
+Hilara tarsata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara tatra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara tenella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara tenuinervis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;4;4;1;;;483654
+Hilara ternovensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara tetragramma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Hilara thoracica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Hilara tiefii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara treheni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara trigemina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara tyrolensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara veletica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara veltmani;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara veneta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara vistula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara vltavensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara woodiella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hilara zermattensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hormopeza copulifera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Hormopeza obliterata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;14;15;1;;;738634
+Iteaphila caelebs;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Iteaphila ribesii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Kowarzia biacuminata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Kowarzia dieuzedei;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Kowarzia maderensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Kowarzia sexmaculata;Arthropoda;Insecta;Diptera;Empididae;FE;;;;FE;gap;
+Kowarzia storai;Arthropoda;Insecta;Diptera;Empididae;FE;;;;FE;gap;
+Kowarzia tetracuminata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;FE;gap;
+Metachela nigriventris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Oreogeton basalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Paraiteaphila italica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Phaeobalia penicissa;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Phyllodromia melanocephala;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;45;48;2;SyDip;;483509
+Pseudoheleodromia helvetica;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Ragas unica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;43;44;1;SyDip;;510558
+Rhamphomyia (Aclonempis) clypeata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Aclonempis) galactoptera;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483550
+Rhamphomyia (Aclonempis) gibbifera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Aclonempis) leptopus;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Aclonempis) longipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1140884
+Rhamphomyia (Aclonempis) longirostris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Aclonempis) mariobezzii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Amydroneura) bipila;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Amydroneura) claripennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Amydroneura) crassicauda;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Amydroneura) erythrophthalma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Amydroneura) gibba;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483381
+Rhamphomyia (Amydroneura) hirsutipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Amydroneura) pseudogibba;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Dasyrhamphomyia) nigrita;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;365791
+Rhamphomyia (Holoclera) biserialis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Holoclera) bistriata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Holoclera) bohemica;Arthropoda;Insecta;Diptera;Empididae;BOLD,SyDip;;;;SyDip;gap;605206
+Rhamphomyia (Holoclera) caliginosa;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;760240
+Rhamphomyia (Holoclera) culicina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;497017
+Rhamphomyia (Holoclera) flaviventris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Holoclera) heterochroma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Holoclera) lamellata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Holoclera) morenae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Holoclera) nigripennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;406812
+Rhamphomyia (Holoclera) sciarina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;497011;456999
+Rhamphomyia (Holoclera) trigemina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;892897
+Rhamphomyia (Holoclera) umbripennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;497018
+Rhamphomyia (Holoclera) variabilis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483516
+Rhamphomyia (Lundstroemiella) albogeniculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) aterrima;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) australis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) brevistylata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) dalmatica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) dudai;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483365
+Rhamphomyia (Lundstroemiella) freyi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) granadensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) hybotina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;467520
+Rhamphomyia (Lundstroemiella) kerteszi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) longefilata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) magellensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) nigripes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) rupestris;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) sphenoptera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Lundstroemiella) strobli;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;738640
+Rhamphomyia (Lundstroemiella) tumiditarsis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Megacyttarus) anomala;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;467518
+Rhamphomyia (Megacyttarus) anomalipennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510621
+Rhamphomyia (Megacyttarus) gufitar;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Megacyttarus) maculipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Megacyttarus) nodipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;596601
+Rhamphomyia (Megacyttarus) paradoxa;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643668
+Rhamphomyia (Megacyttarus) poissoni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) aethiops;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;546622
+Rhamphomyia (Pararhamphomyia) albidiventris;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643657
+Rhamphomyia (Pararhamphomyia) albipennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510622
+Rhamphomyia (Pararhamphomyia) albissima;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643659
+Rhamphomyia (Pararhamphomyia) albitarsis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643656
+Rhamphomyia (Pararhamphomyia) amoena;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) anfractuosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) angulifera;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643662
+Rhamphomyia (Pararhamphomyia) atra;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1141597
+Rhamphomyia (Pararhamphomyia) barbata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;677225;474420;789061
+Rhamphomyia (Pararhamphomyia) breviventris;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643663
+Rhamphomyia (Pararhamphomyia) caesia;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510623
+Rhamphomyia (Pararhamphomyia) caudata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;546622;738643
+Rhamphomyia (Pararhamphomyia) chibinensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) curvula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483531
+Rhamphomyia (Pararhamphomyia) dentata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510624
+Rhamphomyia (Pararhamphomyia) filicauda;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;365790
+Rhamphomyia (Pararhamphomyia) fuscipennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;738641
+Rhamphomyia (Pararhamphomyia) fuscula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643661
+Rhamphomyia (Pararhamphomyia) griseola;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;738642
+Rhamphomyia (Pararhamphomyia) helleni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;918440
+Rhamphomyia (Pararhamphomyia) hoeli;Arthropoda;Insecta;Diptera;Empididae;BOLD,SyDip;;;;SyDip;gap;576212
+Rhamphomyia (Pararhamphomyia) lamelliseta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) lividiventris;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483431
+Rhamphomyia (Pararhamphomyia) lucidula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483482
+Rhamphomyia (Pararhamphomyia) marginata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat,SyDip;;;;SyDip;gap;467521
+Rhamphomyia (Pararhamphomyia) micropyga;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1141533
+Rhamphomyia (Pararhamphomyia) modesta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483545
+Rhamphomyia (Pararhamphomyia) murina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510625
+Rhamphomyia (Pararhamphomyia) niveipennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;469840
+Rhamphomyia (Pararhamphomyia) nudipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) obscura;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483316
+Rhamphomyia (Pararhamphomyia) obscuripennis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483417
+Rhamphomyia (Pararhamphomyia) physoprocta;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510626
+Rhamphomyia (Pararhamphomyia) pilifer;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;467522
+Rhamphomyia (Pararhamphomyia) plumifera;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;643669
+Rhamphomyia (Pararhamphomyia) plumipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483529
+Rhamphomyia (Pararhamphomyia) poplitea;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483315
+Rhamphomyia (Pararhamphomyia) praestans;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;738644
+Rhamphomyia (Pararhamphomyia) pusilla;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;457002
+Rhamphomyia (Pararhamphomyia) sareptana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) simplex;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483272
+Rhamphomyia (Pararhamphomyia) subglaucella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) tarsata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1140883
+Rhamphomyia (Pararhamphomyia) tenuiterfilata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Pararhamphomyia) tibiella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;467523
+Rhamphomyia (Pararhamphomyia) tipularia;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;892896
+Rhamphomyia (Pararhamphomyia) unguiculata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510627
+Rhamphomyia (Rhamphomyia) albonigra;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) albosegmentata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483657;483659
+Rhamphomyia (Rhamphomyia) anthracinella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) argentata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1141600
+Rhamphomyia (Rhamphomyia) armimana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) aucta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) basispinosa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) beckeriella;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) biroi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) brevipila;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) cinerascens;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;676872
+Rhamphomyia (Rhamphomyia) coracina;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483658
+Rhamphomyia (Rhamphomyia) crassimana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) crinita;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) curvinervis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) czizeki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;738645
+Rhamphomyia (Rhamphomyia) discoidalis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) dorsata;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;738645
+Rhamphomyia (Rhamphomyia) erecta;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) gracilitarsis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) hambergi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) hercynica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) hirtimana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) hungarica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) ignobilis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;738646
+Rhamphomyia (Rhamphomyia) janvoensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) kreischi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) laevipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;929431
+Rhamphomyia (Rhamphomyia) latifrons;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) lautereri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) lindneri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) loewi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) luridipennis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) melania;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) micans;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) montana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) morio;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483659
+Rhamphomyia (Rhamphomyia) nevadensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) nigromaculata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) nitidolineata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) nitidula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;510628
+Rhamphomyia (Rhamphomyia) nubigena;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) palmeni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) pokornyi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) reflexa;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) sanctimauritii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) scitula;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) serpentata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) siebecki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) spinipes;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483594
+Rhamphomyia (Rhamphomyia) spinosipes;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) stigmosa;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;769960
+Rhamphomyia (Rhamphomyia) subcinarescens;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) subdolomitica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) sulcatella;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483237
+Rhamphomyia (Rhamphomyia) tibialis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;929432
+Rhamphomyia (Rhamphomyia) tristriolata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia (Rhamphomyia) vesiculosa;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;497010
+Rhamphomyia (Rhamphomyia) wagneri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Rhamphomyia aperta;Arthropoda;Insecta;Diptera;Empididae;FE;;;;ITIS;gap;
+Rhamphomyia borealis;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,iNat;;;;ITIS;gap;
+Rhamphomyia chionoptera;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Rhamphomyia crassirostris;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;152;154;1;SyDip;;467519
+Rhamphomyia cribrata;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Rhamphomyia currani;Arthropoda;Insecta;Diptera;Empididae;BOLD,SyDip;;;;ITIS;gap;
+Rhamphomyia erythropthalma;Arthropoda;Insecta;Diptera;Empididae;BOLD;3;3;1;;;970043
+Rhamphomyia fascipennis;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Rhamphomyia flava;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;1;3;1;;;892900
+Rhamphomyia hirtula;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;3;3;1;;;479082
+Rhamphomyia lapponica;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;0;1;0;;gap;483656
+Rhamphomyia nubes;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Rhamphomyia parvicellulata;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Rhamphomyia scutellaris;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE;;;;ITIS;gap;
+Rhamphomyia sulcatina;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Rhamphomyia trilineata;Arthropoda;Insecta;Diptera;Empididae;BOLD,SyDip;17;20;1;;;738647
+Rhamphomyia ursinella;Arthropoda;Insecta;Diptera;Empididae;FE;;;;ITIS;gap;
+Roederiodes gerecki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Roederiodes longirostris;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Roederiodes macedonicus;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Roederiodes malickyi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Roederiodes montenegrinus;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Roederiodes siveci;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Trichoclinocera lapponica;Arthropoda;Insecta;Diptera;Empididae;FE;5;5;1;FE;;386437
+Wiedemannia (Chamaedipsia) aequilobata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) aerea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) alpina;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) ariadne;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) beckeri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) berthelemyi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) bicuspidata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) bifida;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) corsicana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) digitata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) hastata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) longicornis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) lota;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) mikiana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) oredonensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) ornata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) pyrenaica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) thienemanni;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) thomasi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Chamaedipsia) zwicki;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Clinocerella) oldenbergi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Clinocerella) sorex;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) angelieri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) aquilex;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) bohemani;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;497014
+Wiedemannia (Philolutra) erminea;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) hygrobia;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) kacanskae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) lagunae;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) phantasma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) pohoriana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) quercifolia;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) queyarasiana;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) simplex;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;386443
+Wiedemannia (Philolutra) tiburica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) vaillanti;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) veletica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Philolutra) wachtli;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Pseudowiedemannia) armata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Pseudowiedemannia) lamellata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;919093
+Wiedemannia (Pseudowiedemannia) microstigma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Roederella) czernyi;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;1140946
+Wiedemannia (Wiedemannia) andreevi;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) arvernensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) balkanica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) bilobata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) bistigma;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;483650
+Wiedemannia (Wiedemannia) braueri;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) debilis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) dinarica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) falcifera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) insularis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) kroatica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) martini;Arthropoda;Insecta;Diptera;Empididae;BOLD,SyDip;;;;SyDip;gap;996067
+Wiedemannia (Wiedemannia) mirousei;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) oxystoma;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) rhynchops;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;;;;SyDip;gap;706851
+Wiedemannia (Wiedemannia) stylifera;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia (Wiedemannia) tricuspidata;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;SyDip;gap;
+Wiedemannia brevilamellata;Arthropoda;Insecta;Diptera;Empididae;FE;;;;FE;gap;
+Wiedemannia carpathica;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Wiedemannia dyonysica;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Wiedemannia fallaciosa;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Wiedemannia graeca;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Wiedemannia jadzewskii;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Wiedemannia nevadensis;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Wiedemannia ouedorum;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Wiedemannia pirata;Arthropoda;Insecta;Diptera;Empididae;FE;;;;;gap;
+Wiedemannia rivulorum;Arthropoda;Insecta;Diptera;Empididae;FE,SyDip;;;;;gap;
+Wiedemannia zetterstedti;Arthropoda;Insecta;Diptera;Empididae;BOLD,FE,SyDip;1;1;1;SyDip;;769505

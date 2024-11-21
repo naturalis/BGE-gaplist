@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cystophora cristata;Chordata;Mammalia;Carnivora;Phocidae;BOLD,FE,WORMS;8;10;1;WORMS;;28489
+Erignathus barbatus;Chordata;Mammalia;Carnivora;Phocidae;FE,WORMS;6;8;1;WORMS;;12545
+Halichoerus grypus;Chordata;Mammalia;Carnivora;Phocidae;BOLD,FE,WORMS,iNat;52;55;1;WORMS;;12552
+Monachus monachus;Chordata;Mammalia;Carnivora;Phocidae;FE,WORMS;1;1;1;WORMS;;28490
+Pagophilus groenlandicus;Chordata;Mammalia;Carnivora;Phocidae;BOLD,FE,iNat;66;69;1;WORMS;;68865;747363
+Phoca vitulina;Chordata;Mammalia;Carnivora;Phocidae;BOLD,FE,WORMS,iNat;34;43;1;WORMS;;16605
+Pusa caspica;Chordata;Mammalia;Carnivora;Phocidae;FE;3;3;1;WORMS;;302614
+Pusa hispida;Chordata;Mammalia;Carnivora;Phocidae;BOLD,FE;10;15;1;WORMS;;68860

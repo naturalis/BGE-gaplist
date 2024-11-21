@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Onchnesoma squamatum;Sipuncula;Sipunculidea;Golfingiida;Phascolionidae;BOLD,WORMS;0;5;0;;gap;216495
+Onchnesoma steenstrupii;Sipuncula;Sipunculidea;Golfingiida;Phascolionidae;BOLD;1;7;1;;;674527
+Phascolion (Isomya) tuberculosum;Sipuncula;Sipunculidea;Golfingiida;Phascolionidae;BOLD,WORMS;;;;WORMS;gap;216517
+Phascolion strombus;Sipuncula;Sipunculidea;Golfingiida;Phascolionidae;BOLD;0;11;0;;gap;598202

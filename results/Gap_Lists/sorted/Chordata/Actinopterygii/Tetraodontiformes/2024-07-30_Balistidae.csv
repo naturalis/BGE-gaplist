@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Balistapus undulatus;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;41;42;1;WORMS;;64501
+Balistes capriscus;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;81;93;1;FB;;88383
+Balistes punctatus;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;WORMS;;;;WORMS;gap;
+Balistes vetula;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD,WORMS;44;47;1;WORMS;;72896
+Canthidermis maculata;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;WORMS;;;;WORMS;gap;
+Canthidermis sufflamen;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD,WORMS;15;16;1;WORMS;;111669
+Melichthys niger;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;42;44;3;WORMS;;55686
+Melichthys vidua;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;23;24;1;WORMS;;89203
+Rhinecanthus aculeatus;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;51;63;1;WORMS;;34230
+Rhinecanthus rectangulus;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;23;23;1;WORMS;;88386
+Sufflamen bursa;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;27;29;1;WORMS;;64521
+Sufflamen chrysopterum;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;77;83;1;WORMS;;64355
+Sufflamen verres;Chordata;Actinopterygii;Tetraodontiformes;Balistidae;BOLD;37;42;1;WORMS;;11000

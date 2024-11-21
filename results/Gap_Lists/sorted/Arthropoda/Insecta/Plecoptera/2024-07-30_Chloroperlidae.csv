@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chloroperla acuminata;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;;gap;
+Chloroperla acuta;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;1;1;1;;;185604
+Chloroperla brachyptera;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;FE;gap;
+Chloroperla breviata;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;FE;gap;
+Chloroperla kisi;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;;;;;gap;185607
+Chloroperla kosarovi;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;1;1;1;;;185608
+Chloroperla nevada;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;;gap;
+Chloroperla russevi;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;;gap;
+Chloroperla susemicheli;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;19;22;2;;;185611
+Chloroperla tripunctata;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;11;28;1;FE;;185612
+Isoptena serricornis;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;4;6;1;FE;;185625
+Siphonoperla baetica;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;FE;gap;
+Siphonoperla burmeisteri;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;14;20;1;FE;;185645
+Siphonoperla montana;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;17;19;1;FE;;151796
+Siphonoperla neglecta;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;6;8;2;FE;;185649
+Siphonoperla taurica;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;4;5;1;FE;;185651
+Siphonoperla torrentium;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;61;101;6;FE;;185652
+Siphonoperla transsylvanica;Arthropoda;Insecta;Plecoptera;Chloroperlidae;FE;;;;FE;gap;
+Xanthoperla apicalis;Arthropoda;Insecta;Plecoptera;Chloroperlidae;BOLD,FE;6;10;1;FE;;185712

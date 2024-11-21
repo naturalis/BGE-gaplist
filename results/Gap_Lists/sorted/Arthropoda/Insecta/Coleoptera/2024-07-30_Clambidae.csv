@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calyptomerus alpestris;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;9;11;1;;;502355
+Calyptomerus dubius;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;17;20;1;;;330098
+Clambus armadillo;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;19;26;1;ITIS;;309431
+Clambus besucheti;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus caucasus;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus cilicicus;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus dux;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus evae;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus felix;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus filii;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus gibbulus;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;;;;ITIS;gap;492363
+Clambus hayekae;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus lohsei;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD;4;4;1;;;468267
+Clambus minutus;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;11;12;1;FE;;406678
+Clambus nigrellus;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;14;15;1;;;310129
+Clambus nigriclavis;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;0;1;0;;gap;665698
+Clambus pallidulus;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;4;4;1;;;310348
+Clambus pilosellus;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Clambus pubescens;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;12;21;1;ITIS;;167967
+Clambus punctulum;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;18;25;2;FE;;318453
+Clambus simsoni;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD,FE;50;56;1;;;167705
+Clambus spACT6794;Arthropoda;Insecta;Coleoptera;Clambidae;BOLD;5;5;1;;;762737
+Loricaster cribripennis;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;
+Loricaster testaceus;Arthropoda;Insecta;Coleoptera;Clambidae;FE;;;;;gap;

@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eudarcia ajpetrica;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,LF;1;1;1;;;853005
+Eudarcia alberti;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;0;1;0;;gap;727169
+Eudarcia albocapitata;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia confusella;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;7;7;1;;;787027
+Eudarcia creticola;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia croaticum;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;2;2;1;;;986389
+Eudarcia dalmaticum;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;1;1;1;;;986388
+Eudarcia granulatella;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;1;2;1;;;726826
+Eudarcia hedemanni;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;5;6;1;;;710460
+Eudarcia ignorata;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia kasyi;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;1;2;1;;;1004097
+Eudarcia kimmeriella;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,LF;1;1;1;;;801170
+Eudarcia lakoniacola;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia leopoldella;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;1;1;0;;;1138329
+Eudarcia melitensis;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia pagenstecherella;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;2;9;1;;;258111
+Eudarcia prealpina;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,LF;2;2;1;;;781553
+Eudarcia pulchra;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia richardsoni;Arthropoda;Insecta;Lepidoptera;Meessiidae;BOLD,FE,LF;2;2;1;;;205712
+Eudarcia rutjani;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia saxatilis;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;
+Eudarcia zagulajevi;Arthropoda;Insecta;Lepidoptera;Meessiidae;LF;;;;;gap;

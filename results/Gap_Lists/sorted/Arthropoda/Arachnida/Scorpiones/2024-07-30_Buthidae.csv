@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aegaeobuthus cyprius;Arthropoda;Arachnida;Scorpiones;Buthidae;BOLD;2;3;0;;;979521
+Aegaeobuthus gibbosus;Arthropoda;Arachnida;Scorpiones;Buthidae;BOLD;9;84;2;;;979522
+Buthus ibericus;Arthropoda;Arachnida;Scorpiones;Buthidae;BOLD;17;19;6;;;300471
+Buthus occitanus;Arthropoda;Arachnida;Scorpiones;Buthidae;BOLD,FE;5;59;9;FE;;31267
+Centruroides barbudensis;Arthropoda;Arachnida;Scorpiones;Buthidae;BOLD;11;12;1;;;528959
+Centruroides gracilis;Arthropoda;Arachnida;Scorpiones;Buthidae;FE;9;84;7;FE;;106044
+Isometrus maculatus;Arthropoda;Arachnida;Scorpiones;Buthidae;FE;5;6;1;FE;;931089
+Mesobuthus cyprius;Arthropoda;Arachnida;Scorpiones;Buthidae;FE;;;;;gap;
+Mesobuthus eupeus;Arthropoda;Arachnida;Scorpiones;Buthidae;FE;77;111;5;FE;;320239
+Mesobuthus gibbosus;Arthropoda;Arachnida;Scorpiones;Buthidae;FE;;;;FE;gap;

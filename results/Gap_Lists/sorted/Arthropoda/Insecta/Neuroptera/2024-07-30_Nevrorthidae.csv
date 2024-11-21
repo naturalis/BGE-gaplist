@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Nevrorthus apatelios;Arthropoda;Insecta;Neuroptera;Nevrorthidae;BOLD,FE;4;4;1;;;775162
+Nevrorthus fallax;Arthropoda;Insecta;Neuroptera;Nevrorthidae;FE;;;;FE;gap;
+Nevrorthus iridipennis;Arthropoda;Insecta;Neuroptera;Nevrorthidae;FE;;;;;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centrostephanus longispinus;Echinodermata;Echinoidea;Diadematoida;Diadematidae;WORMS;16;20;3;WORMS;;217580
+Diadema antillarum;Echinodermata;Echinoidea;Diadematoida;Diadematidae;WORMS;11;19;1;WORMS;;171246;515353
+Diadema savignyi;Echinodermata;Echinoidea;Diadematoida;Diadematidae;BOLD;13;31;1;WORMS;;84421
+Echinothrix calamaris;Echinodermata;Echinoidea;Diadematoida;Diadematidae;BOLD;15;28;2;WORMS;;84360
+Echinothrix diadema;Echinodermata;Echinoidea;Diadematoida;Diadematidae;BOLD;21;26;3;WORMS;;84442

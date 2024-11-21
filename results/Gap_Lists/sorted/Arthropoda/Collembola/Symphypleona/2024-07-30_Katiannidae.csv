@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Betschurinus farmae;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Dalianus galae;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Gisinianus flammeolus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;7;7;3;FE;;701019
+Rusekianna albifrons;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD;3;3;1;;;1077925
+Sminthurinus albifrons;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;FE;gap;
+Sminthurinus alpinus;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;FE;gap;701021
+Sminthurinus aureus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE,iNat;102;111;12;ITIS;;140129
+Sminthurinus bimaculatus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;14;15;1;FE;;668008
+Sminthurinus carpathicus;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Sminthurinus concolor;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;3;3;3;FE;;528507
+Sminthurinus domesticus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;613;616;4;;;852408
+Sminthurinus elegans;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;243;277;7;ITIS;;140148
+Sminthurinus gamae;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Sminthurinus gisini;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Sminthurinus igniceps;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;FE;gap;
+Sminthurinus lawrencei;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Sminthurinus niger;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;31;33;8;ITIS;;96753
+Sminthurinus planasiensis;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Sminthurinus reticulatus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE;7;7;2;FE;;852409
+Sminthurinus signatus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD;8;12;1;;;174927
+Sminthurinus trinotatus;Arthropoda;Collembola;Symphypleona;Katiannidae;BOLD,FE,iNat;32;38;2;FE;;852410
+Stenognathellus denisi;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;
+Vesicephalus europaeus;Arthropoda;Collembola;Symphypleona;Katiannidae;FE;;;;;gap;

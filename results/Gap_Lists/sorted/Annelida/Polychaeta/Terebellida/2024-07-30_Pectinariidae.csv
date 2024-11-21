@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cistenides hyperborea;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD;;;;WORMS;gap;179453
+Pectinaria auricoma;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD;4;45;1;;;106676
+Pectinaria begica;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD;0;5;0;;gap;641123
+Pectinaria belgica;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD;2;7;1;;;641161
+Pectinaria granulata;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD;4;26;2;;;81189
+Pectinaria koreni;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD;353;358;2;ITIS;;79900;122702
+Petta pusilla;Annelida;Polychaeta;Terebellida;Pectinariidae;BOLD,WORMS;2;7;1;;;415330

@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Odontozona addaia;Arthropoda;Malacostraca;Decapoda;Stenopodidae;WORMS;;;;;gap;
+Odontozona edwardsi;Arthropoda;Malacostraca;Decapoda;Stenopodidae;WORMS;;;;WORMS;gap;
+Odontozona minoica;Arthropoda;Malacostraca;Decapoda;Stenopodidae;WORMS;;;;;gap;
+Richardina fredericii;Arthropoda;Malacostraca;Decapoda;Stenopodidae;WORMS;;;;;gap;
+Richardina spinicincta;Arthropoda;Malacostraca;Decapoda;Stenopodidae;WORMS;;;;;gap;
+Stenopus scutellatus;Arthropoda;Malacostraca;Decapoda;Stenopodidae;BOLD;4;9;1;;;212438
+Stenopus spinosus;Arthropoda;Malacostraca;Decapoda;Stenopodidae;BOLD,WORMS;5;9;1;WORMS;;390882

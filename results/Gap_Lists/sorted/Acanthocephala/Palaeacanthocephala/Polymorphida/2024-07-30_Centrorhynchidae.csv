@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centrorhynchus aluconis;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;2;4;1;ITIS;;898962
+Centrorhynchus amphibius;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus buteonis;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus clitorideus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;0;5;0;ITIS;gap;998843
+Centrorhynchus conspectus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus fasciatus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus gendrei;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus globocaudatus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;BOLD,FE;2;6;1;ITIS;;998842
+Centrorhynchus itatsinis;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus leptorhynchus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;;gap;
+Centrorhynchus magnus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus narcisae;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;;gap;
+Centrorhynchus ninnii;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Centrorhynchus spinosus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris areolatus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris bipartitus;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris lancea;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris lanceoides;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;6;6;2;ITIS;;939010
+Sphaerirostris lesiniformis;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris picae;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;1;2;1;ITIS;;966441
+Sphaerirostris pinguis;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris scanensis;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;
+Sphaerirostris turdi;Acanthocephala;Palaeacanthocephala;Polymorphida;Centrorhynchidae;FE;;;;ITIS;gap;

@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halammohydra adherens;Cnidaria;Hydrozoa;Actinulida;Halammohydridae;WORMS;;;;;gap;
+Halammohydra coronata;Cnidaria;Hydrozoa;Actinulida;Halammohydridae;WORMS;;;;;gap;
+Halammohydra intermedia;Cnidaria;Hydrozoa;Actinulida;Halammohydridae;BOLD,WORMS;3;3;0;;;991057
+Halammohydra octopodides;Cnidaria;Hydrozoa;Actinulida;Halammohydridae;BOLD,WORMS;18;26;1;;;980998
+Halammohydra schulzei;Cnidaria;Hydrozoa;Actinulida;Halammohydridae;BOLD,WORMS;16;16;0;;;991056
+Halammohydra vermiformis;Cnidaria;Hydrozoa;Actinulida;Halammohydridae;BOLD,WORMS;39;44;2;WORMS;;980999

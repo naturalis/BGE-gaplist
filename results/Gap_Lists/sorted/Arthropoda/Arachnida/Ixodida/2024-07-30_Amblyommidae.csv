@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amblyomma dubitatum;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;;;;;gap;
+Amblyomma varium;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;9;10;1;;;487556
+Boophilus annulatus;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;;;;FE;gap;
+Dermacentor albipictus;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;27;77;5;ITIS;;91396
+Dermacentor pomerantzevi;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;;;;;gap;
+Dermacentor sinicus;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;1;1;1;;;682870
+Haemaphysalis caucasica;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;;;;;gap;
+Haemaphysalis parva;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;125;139;2;ITIS;;668767
+Hyalomma anatolicum;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;67;110;4;FE;;473711
+Hyalomma detritum;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;20;25;3;FE;;247216
+Hyalomma dromedarii;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;775;799;3;FE;;31590
+Hyalomma truncatum;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;221;236;8;;;31629
+Rhipicephalus pumilio;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;6;6;2;;;32449
+Rhipicephalus schulzei;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;;;;;gap;
+Rhipicephalus simus;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;5;9;2;FE;;33010
+Rhipistoma hispanica;Arthropoda;Arachnida;Ixodida;Amblyommidae;FE;;;;FE;gap;

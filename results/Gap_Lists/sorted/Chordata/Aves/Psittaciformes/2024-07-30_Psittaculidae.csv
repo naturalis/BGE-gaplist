@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agapornis roseicollis;Chordata;Aves;Psittaciformes;Psittaculidae;BOLD,iNat;6;7;1;;;91333
+Lathamus discolor;Chordata;Aves;Psittaciformes;Psittaculidae;BOLD;13;14;0;;;114058
+Melopsittacus undulatus;Chordata;Aves;Psittaciformes;Psittaculidae;BOLD,iNat;32;56;1;;;9993
+Neopsephotus bourkii;Chordata;Aves;Psittaciformes;Psittaculidae;BOLD;6;7;1;ITIS;;809074
+Psittacula eupatria;Chordata;Aves;Psittaciformes;Psittaculidae;BOLD,iNat;5;5;2;;;114156
+Psittacula krameri;Chordata;Aves;Psittaciformes;Psittaculidae;BOLD,FE,iNat;36;43;2;FE;;9992

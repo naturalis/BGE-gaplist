@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echeneis naucrates;Chordata;Actinopterygii;Carangiformes;Echeneidae;WORMS;;;;WORMS;gap;
+Phtheirichthys lineatus;Chordata;Actinopterygii;Carangiformes;Echeneidae;WORMS;;;;WORMS;gap;
+Remora australis;Chordata;Actinopterygii;Carangiformes;Echeneidae;WORMS;;;;WORMS;gap;
+Remora brachyptera;Chordata;Actinopterygii;Carangiformes;Echeneidae;BOLD,WORMS;8;8;1;WORMS;;125586
+Remora osteochir;Chordata;Actinopterygii;Carangiformes;Echeneidae;WORMS;;;;WORMS;gap;
+Remora remora;Chordata;Actinopterygii;Carangiformes;Echeneidae;WORMS;;;;WORMS;gap;

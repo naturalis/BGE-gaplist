@@ -1,0 +1,22 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aegaeon cataphractus;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;;;;WORMS;gap;606056
+Aegaeon lacazei;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;8;10;2;WORMS;;89956
+Argis dentata;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Crangon allmanni;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;17;25;1;;;373068
+Crangon crangon;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS,iNat;37;217;2;WORMS;;88113
+Parapontophilus abyssi;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Parapontophilus gracilis;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Parapontophilus talismani;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Philocheras bispinosus;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD;28;40;2;;;88155;469384
+Philocheras echinulatus;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;5;13;1;WORMS;;343762
+Philocheras fasciatus;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Philocheras monacanthus;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Philocheras sculptus;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Philocheras trispinosus;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;5;6;1;WORMS;;608537
+Pontophilus norvegicus;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;7;15;1;WORMS;;88115
+Pontophilus spinosus;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;17;33;2;WORMS;;89927
+Sabinea hystrix;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;3;4;1;WORMS;;154877
+Sabinea sarsii;Arthropoda;Malacostraca;Decapoda;Crangonidae;WORMS;;;;WORMS;gap;
+Sabinea septemcarinata;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;40;53;1;WORMS;;88117
+Sclerocrangon boreas;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;110;167;1;WORMS;;8482
+Sclerocrangon ferox;Arthropoda;Malacostraca;Decapoda;Crangonidae;BOLD,WORMS;16;20;1;WORMS;;88695

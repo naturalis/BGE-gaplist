@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthocybium solandri;Chordata;Actinopterygii;Scombriformes;Scombridae;WORMS;;;;WORMS;gap;
+Auxis brachydorax;Chordata;Actinopterygii;Scombriformes;Scombridae;WORMS;;;;FB;gap;
+Auxis eudorax;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;;;;FB;gap;
+Euthynnus affinis;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;;;;FB;gap;
+Katsuwonus pelamis;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;379;590;1;WORMS;;11599
+Orcynopsis unicolor;Chordata;Actinopterygii;Scombriformes;Scombridae;WORMS;;;;WORMS;gap;
+Rastrelliger kanagurta;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;418;438;2;WORMS;;47550
+Sarda lineolata;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;;;;FB;gap;
+Scomber colias;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS,iNat;166;177;1;WORMS;;71687
+Scomberomorus brasiliensis;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD;93;100;1;;;104004
+Scomberomorus commerson;Chordata;Actinopterygii;Scombriformes;Scombridae;WORMS;;;;WORMS;gap;
+Scomberomorus tritor;Chordata;Actinopterygii;Scombriformes;Scombridae;WORMS;;;;WORMS;gap;
+Thunnus alalunga;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;219;336;1;FB;;15068
+Thunnus albacares;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;884;1174;2;WORMS;;20668
+Thunnus atlanticus;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD;224;273;1;WORMS;;18791
+Thunnus obesus;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;254;338;1;WORMS;;18795
+Thunnus orientalis;Chordata;Actinopterygii;Scombriformes;Scombridae;BOLD,WORMS;;;;FB;gap;

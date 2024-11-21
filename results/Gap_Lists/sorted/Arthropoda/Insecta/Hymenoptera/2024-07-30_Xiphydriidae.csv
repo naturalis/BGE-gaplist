@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Obesaxiphyda heritierae;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD;0;1;0;;gap;335083
+Xiphydria betulae;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD,FE,DTN;2;3;1;FE;;332957
+Xiphydria camelus;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD,FE,iNat,DTN;53;57;2;FE;;311994
+Xiphydria irrorata;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;FE;;;;;gap;
+Xiphydria longicollis;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD,FE,iNat,DTN;4;7;2;FE;;311995
+Xiphydria megapolitana;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD,FE,DTN;3;4;1;FE;;332969
+Xiphydria picta;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD,FE;6;7;1;;;332973
+Xiphydria prolongata;Arthropoda;Insecta;Hymenoptera;Xiphydriidae;BOLD,FE,iNat,DTN;21;35;1;FE;;83256

@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ancistrosyllis cingulata;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;WORMS;gap;
+Ancistrosyllis fioronii;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;;gap;
+Ancistrosyllis groenlandica;Annelida;Polychaeta;Phyllodocida;Pilargidae;BOLD,WORMS;2;4;2;;;660279
+Glyphohesione klatti;Annelida;Polychaeta;Phyllodocida;Pilargidae;BOLD,WORMS;4;5;2;;;641112
+Litocorsa stremma;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;;gap;660289
+Otopsis chardyi;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;;gap;
+Pilargis papillata;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;;gap;
+Pilargis verrucosa;Annelida;Polychaeta;Phyllodocida;Pilargidae;BOLD,WORMS;5;7;0;WORMS;;674528
+Sigambra constricta;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;WORMS;gap;
+Sigambra parva;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;2;2;2;WORMS;;920995
+Sigambra tentaculata;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;WORMS;gap;
+Synelmis albini;Annelida;Polychaeta;Phyllodocida;Pilargidae;WORMS;;;;WORMS;gap;

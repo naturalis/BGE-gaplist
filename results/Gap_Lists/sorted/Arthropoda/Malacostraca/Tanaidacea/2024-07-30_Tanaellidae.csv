@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Araphura brevimanus;Arthropoda;Malacostraca;Tanaidacea;Tanaellidae;WORMS;;;;;gap;
+Araphura filiformis;Arthropoda;Malacostraca;Tanaidacea;Tanaellidae;WORMS;;;;WORMS;gap;
+Arhaphuroides brevispina;Arthropoda;Malacostraca;Tanaidacea;Tanaellidae;WORMS;;;;WORMS;gap;
+Tanaella ochracea;Arthropoda;Malacostraca;Tanaidacea;Tanaellidae;WORMS;;;;WORMS;gap;
+Tanaella orchacea;Arthropoda;Malacostraca;Tanaidacea;Tanaellidae;BOLD;0;1;0;;gap;528002
+Tanaella unguicillata;Arthropoda;Malacostraca;Tanaidacea;Tanaellidae;BOLD,WORMS;0;4;0;WORMS;gap;527995

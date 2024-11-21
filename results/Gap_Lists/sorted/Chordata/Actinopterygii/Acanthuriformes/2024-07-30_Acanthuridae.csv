@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthurus bahianus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;41;41;1;WORMS;;52248
+Acanthurus chirurgus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;72;74;1;WORMS;;23580
+Acanthurus coeruleus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;56;61;1;WORMS;;47282
+Acanthurus guttatus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;24;26;1;WORMS;;89279
+Acanthurus lineatus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;87;90;2;WORMS;;47179
+Acanthurus monroviae;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;WORMS;;;;WORMS;gap;
+Acanthurus nigricans;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;73;78;2;WORMS;;64431
+Acanthurus nigricauda;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;67;76;1;WORMS;;84604
+Acanthurus nigrofuscus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;150;160;1;WORMS;;11533
+Acanthurus olivaceus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;36;41;1;WORMS;;89294
+Acanthurus polyzona;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;;;;FB;gap;
+Acanthurus pyroferus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;29;30;2;WORMS;;47177
+Ctenochaetus binotatus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;37;42;2;WORMS;;108696
+Ctenochaetus marginatus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;33;37;2;WORMS;;34530
+Ctenochaetus striatus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;203;221;2;WORMS;;84580
+Ctenochaetus strigosus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;23;25;1;WORMS;;47278
+Naso brevirostris;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;68;87;1;FB;;64437
+Naso lituratus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;79;87;1;WORMS;;47171
+Naso vlamingii;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;21;21;1;WORMS;;89147
+Paracanthurus hepatus;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;28;29;3;WORMS;;11316
+Zebrasoma scopas;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;54;57;3;WORMS;;47203
+Zebrasoma velifer;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;44;48;2;WORMS;;316942;89329
+Zebrasoma veliferum;Chordata;Actinopterygii;Acanthuriformes;Acanthuridae;BOLD;;;;FB;gap;

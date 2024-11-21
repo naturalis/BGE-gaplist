@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Galeus atlanticus;Chordata;Elasmobranchii;Carcharhiniformes;Scyliorhinidae;BOLD,WORMS;15;15;2;WORMS;;178334
+Galeus murinus;Chordata;Elasmobranchii;Carcharhiniformes;Scyliorhinidae;BOLD,WORMS;16;19;1;WORMS;;179830
+Scyliorhinus canicula;Chordata;Elasmobranchii;Carcharhiniformes;Scyliorhinidae;BOLD,WORMS;600;630;1;WORMS;;12796
+Scyliorhinus stellaris;Chordata;Elasmobranchii;Carcharhiniformes;Scyliorhinidae;BOLD,WORMS;28;37;2;WORMS;;77462

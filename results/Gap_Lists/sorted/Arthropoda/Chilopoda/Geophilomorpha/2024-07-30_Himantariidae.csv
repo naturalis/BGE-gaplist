@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bothriogaster signata;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;FE;gap;
+Himantariella scutellaris;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;;gap;
+Himantarium gabrielis;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;BOLD,FE;1;2;0;FE;;297495
+Himantarium mediterraneum;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;FE;gap;
+Stigmatogaster arcisherculis;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;FE;gap;
+Stigmatogaster dimidiatus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;FE;gap;
+Stigmatogaster excavatus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;FE;gap;
+Stigmatogaster gracilis;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;1;2;1;FE;;654240
+Stigmatogaster souletinus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;BOLD,FE;2;2;0;FE;;1021620;1154966
+Stigmatogaster subterranea;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;BOLD,iNat;22;26;1;WORMS;;376054
+Stigmatogaster subterraneus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;BOLD,FE;0;6;0;FE;gap;472149
+Stigmatogaster superbus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;FE;gap;
+Thracophilus beroni;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;;gap;
+Thracophilus bulgaricus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;;gap;
+Thracophilus chiosensis;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;;gap;
+Thracophilus monoporus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;;gap;
+Thracophilus subterraneus;Arthropoda;Chilopoda;Geophilomorpha;Himantariidae;FE;;;;;gap;

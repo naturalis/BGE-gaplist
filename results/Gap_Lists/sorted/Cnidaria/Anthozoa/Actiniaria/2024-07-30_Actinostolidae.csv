@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Actinostola callosa;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;1;3;1;WORMS;;599949
+Anthosactis ingolfi;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;;gap;
+Anthosactis janmayeni;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;0;3;0;WORMS;gap;807872
+Glandulactis spetsbergensis;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;WORMS;gap;
+Parasicyonis ingolfi;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;WORMS;gap;
+Parasicyonis sarsii;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;WORMS;gap;
+Pycnanthus densus;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;;gap;
+Pycnanthus laevis;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;;gap;
+Stomphia coccinea;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;BOLD,WORMS;22;37;2;WORMS;;591135
+Stomphia polaris;Cnidaria;Anthozoa;Actiniaria;Actinostolidae;WORMS;;;;WORMS;gap;

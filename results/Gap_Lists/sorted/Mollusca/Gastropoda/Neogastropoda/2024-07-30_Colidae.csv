@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Kryptos koehleri;Mollusca;Gastropoda;Neogastropoda;Colidae;WORMS;;;;WORMS;gap;
+Turrisipho fenestratus;Mollusca;Gastropoda;Neogastropoda;Colidae;WORMS;1;1;1;WORMS;;740194
+Turrisipho lachesis;Mollusca;Gastropoda;Neogastropoda;Colidae;WORMS;0;1;0;WORMS;gap;740189

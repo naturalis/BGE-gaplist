@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agonus cataphractus;Chordata;Actinopterygii;Scorpaeniformes;Agonidae;BOLD,WORMS,iNat;29;37;1;WORMS;;77447
+Aspidophoroides monopterygius;Chordata;Actinopterygii;Scorpaeniformes;Agonidae;BOLD;46;47;1;WORMS;;34611;894719
+Aspidophoroides olrikii;Chordata;Actinopterygii;Scorpaeniformes;Agonidae;BOLD;;;;FB;gap;
+Leptagonus decagonus;Chordata;Actinopterygii;Scorpaeniformes;Agonidae;BOLD,WORMS;39;42;1;WORMS;;72884

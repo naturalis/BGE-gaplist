@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Isolabella graeca;Arthropoda;Insecta;Dermaptera;Spongiphoridae;FE;;;;;gap;
+Isolaboides kosswigi;Arthropoda;Insecta;Dermaptera;Spongiphoridae;FE;;;;FE;gap;
+Labia minor;Arthropoda;Insecta;Dermaptera;Spongiphoridae;BOLD,FE,iNat;21;36;1;FE;;493497
+Marava arachidis;Arthropoda;Insecta;Dermaptera;Spongiphoridae;FE;3;5;1;FE;;893392
+Paralabella curvicauda;Arthropoda;Insecta;Dermaptera;Spongiphoridae;FE;0;2;0;FE;gap;648876

@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Botrynema brucei;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;1;10;1;;;303021
+Botrynema ellinorae;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;0;6;0;WORMS;gap;753007
+Halicreas minimum;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;0;5;0;WORMS;gap;1079035
+Haliscera bigelowi;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;;;;;gap;
+Haliscera conica;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;;;;;gap;
+Haliscera racovitzae;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;;;;WORMS;gap;
+Halitrephes maasi;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;WORMS;;;;WORMS;gap;
+Homoeonema platygonon;Cnidaria;Hydrozoa;Trachymedusae;Halicreatidae;BOLD,WORMS;3;6;1;WORMS;;753011

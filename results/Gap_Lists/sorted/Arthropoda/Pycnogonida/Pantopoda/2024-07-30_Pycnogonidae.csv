@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pycnogonum crassirostrum;Arthropoda;Pycnogonida;Pantopoda;Pycnogonidae;BOLD,WORMS;4;4;0;WORMS;;236899
+Pycnogonum litorale;Arthropoda;Pycnogonida;Pantopoda;Pycnogonidae;BOLD;24;29;1;WORMS;;236913;737691
+Pycnogonum nodulosum;Arthropoda;Pycnogonida;Pantopoda;Pycnogonidae;WORMS;;;;WORMS;gap;
+Pycnogonum plumipes;Arthropoda;Pycnogonida;Pantopoda;Pycnogonidae;WORMS;;;;;gap;

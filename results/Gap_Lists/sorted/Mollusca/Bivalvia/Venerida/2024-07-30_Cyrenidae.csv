@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Corbicula fluminalis;Mollusca;Bivalvia;Venerida;Cyrenidae;BOLD,FE,iNat;76;76;3;FE;;29997
+Corbicula fluminea;Mollusca;Bivalvia;Venerida;Cyrenidae;BOLD,FE,iNat;351;383;8;FE;;26384
+Corbicula leana;Mollusca;Bivalvia;Venerida;Cyrenidae;BOLD;84;85;2;;;211537

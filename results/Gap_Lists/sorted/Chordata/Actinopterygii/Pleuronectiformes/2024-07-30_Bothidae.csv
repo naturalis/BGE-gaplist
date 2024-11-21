@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Arnoglossus imperialis;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD,WORMS;18;20;1;WORMS;;11786
+Arnoglossus kessleri;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;WORMS;;;;;gap;
+Arnoglossus laterna;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD,WORMS;63;82;1;WORMS;;11787
+Arnoglossus rueppelii;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD,WORMS;17;17;1;WORMS;;51403
+Arnoglossus thori;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD,WORMS;16;17;1;WORMS;;200755
+Bothus lunatus;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD;17;24;1;WORMS;;52263
+Bothus mancus;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD;48;49;1;WORMS;;89276
+Bothus mellissi;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD;15;15;0;WORMS;;495620
+Bothus ocellatus;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD;100;109;2;WORMS;;99841
+Bothus podas;Chordata;Actinopterygii;Pleuronectiformes;Bothidae;BOLD,WORMS;46;48;1;WORMS;;86777

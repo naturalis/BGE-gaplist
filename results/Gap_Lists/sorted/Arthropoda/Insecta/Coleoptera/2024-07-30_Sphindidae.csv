@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aspidiphorus lareyiniei;Arthropoda;Insecta;Coleoptera;Sphindidae;FE;;;;;gap;
+Aspidiphorus lareyniei;Arthropoda;Insecta;Coleoptera;Sphindidae;BOLD;0;2;0;;gap;534249
+Aspidiphorus orbiculatus;Arthropoda;Insecta;Coleoptera;Sphindidae;BOLD,FE,iNat;84;93;1;FE;;199689
+Odontosphindus grandis;Arthropoda;Insecta;Coleoptera;Sphindidae;BOLD,FE;1;1;1;FE;;534251
+Sphindus dubius;Arthropoda;Insecta;Coleoptera;Sphindidae;BOLD,FE;27;37;1;FE;;167270

@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Glomeridella bitaeniata;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;BOLD;2;2;2;;;279521
+Glomeridella friulana;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;;gap;
+Glomeridella kervillei;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;BOLD,FE;2;2;0;FE;;1021626
+Glomeridella larii;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;;gap;
+Glomeridella minima;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;BOLD,FE;27;29;2;FE;;279520
+Typhloglomeris asiaeminoris;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;FE;gap;
+Typhloglomeris coeca;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;FE;gap;
+Typhloglomeris fiumarana;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;;gap;
+Typhloglomeris ljubetensis;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;FE;gap;
+Typhloglomeris martensi;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;FE;gap;
+Typhloglomeris seuti;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;;gap;
+Typhloglomeris varunae;Arthropoda;Diplopoda;Glomerida;Glomeridellidae;FE;;;;;gap;

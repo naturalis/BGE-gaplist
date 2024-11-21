@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Antimora rostrata;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;61;69;1;WORMS;;54209
+Gadella maraldi;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;0;2;0;WORMS;gap;251739
+Guttigadus kongi;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD;1;2;1;WORMS;;349805
+Halargyreus johnsonii;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;98;102;3;WORMS;;33964
+Laemonema robustum;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;3;3;1;ITIS;;395011
+Laemonema yarrellii;Chordata;Actinopterygii;Gadiformes;Moridae;WORMS;;;;WORMS;gap;
+Lepidion ensiferus;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD;9;16;1;WORMS;;140388
+Lepidion eques;Chordata;Actinopterygii;Gadiformes;Moridae;WORMS;;;;WORMS;gap;
+Lepidion guentheri;Chordata;Actinopterygii;Gadiformes;Moridae;WORMS;;;;WORMS;gap;
+Lepidion lepidion;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;43;43;1;WORMS;;476149
+Lepidion schmidti;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;13;23;2;;;47324
+Mora moro;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;38;47;1;WORMS;;47326
+Physiculus dalwigki;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD,WORMS;1;1;0;WORMS;;395012
+Physiculus fulvus;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD;24;27;1;;;140709
+Rhynchogadus hepaticus;Chordata;Actinopterygii;Gadiformes;Moridae;WORMS;;;;WORMS;gap;
+Salilota australis;Chordata;Actinopterygii;Gadiformes;Moridae;BOLD;11;17;1;WORMS;;54143
+Svetovidovia lucullus;Chordata;Actinopterygii;Gadiformes;Moridae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthocardia aculeata;Mollusca;Bivalvia;Cardiida;Cardiidae;WORMS;;;;WORMS;gap;
+Acanthocardia deshayesii;Mollusca;Bivalvia;Cardiida;Cardiidae;WORMS;;;;WORMS;gap;
+Acanthocardia paucicostata;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;3;3;2;WORMS;;1005179
+Acanthocardia spinosa;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;;;;WORMS;gap;
+Afrocardium richardi;Mollusca;Bivalvia;Cardiida;Cardiidae;WORMS;;;;WORMS;gap;
+Cerastoderma edule;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS,iNat;135;169;3;WORMS;;30628
+Cerastoderma glaucum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;231;239;14;;;30629
+Ciliatocardium ciliatum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;19;23;1;;;593195
+Laevicardium crassum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;7;13;1;WORMS;;326827
+Laevicardium oblongum;Mollusca;Bivalvia;Cardiida;Cardiidae;WORMS;;;;WORMS;gap;
+Parvicardium exiguum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;3;6;2;WORMS;;30918
+Parvicardium hauniense;Mollusca;Bivalvia;Cardiida;Cardiidae;WORMS;;;;WORMS;gap;
+Parvicardium minimum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD;0;47;1;;gap;642788
+Parvicardium pinnulatum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD;4;14;2;WORMS;;304798;306809;672121
+Parvicardium scabrum;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD,WORMS;4;12;2;WORMS;;672120
+Parvicardium trapezium;Mollusca;Bivalvia;Cardiida;Cardiidae;WORMS;;;;;gap;
+Serripes groenlandicus;Mollusca;Bivalvia;Cardiida;Cardiidae;BOLD;9;42;3;WORMS;;151111

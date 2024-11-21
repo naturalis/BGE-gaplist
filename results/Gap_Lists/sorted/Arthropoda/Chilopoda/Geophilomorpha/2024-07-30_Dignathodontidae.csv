@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dignathodon microcephalus;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;1;2;1;FE;;650665
+Dignathodon pachypus;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia athenarum;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;FE;gap;
+Henia attemsii;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia bicarinata;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE,WORMS;;;;WORMS;gap;
+Henia brevis;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;BOLD,FE;2;4;1;;;561032
+Henia crinita;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia devia;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;FE;gap;
+Henia hirsuta;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia illyrica;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;BOLD,FE,iNat;7;10;2;;;275418
+Henia montana;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia porosa;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia taurica;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;FE;;;;;gap;
+Henia vesuviana;Arthropoda;Chilopoda;Geophilomorpha;Dignathodontidae;BOLD,FE,iNat;19;25;4;;;376058

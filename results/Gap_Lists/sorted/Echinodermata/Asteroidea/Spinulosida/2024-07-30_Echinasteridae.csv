@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echinaster sepositus;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD;24;33;1;ITIS;;220887
+Henricia caudani;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;WORMS;gap;
+Henricia cylindrella;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;WORMS;gap;
+Henricia eschrichtii;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;ITIS;gap;
+Henricia hedingi;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;;gap;
+Henricia oculata;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD,WORMS;20;21;2;WORMS;;220934
+Henricia pagenstecheri;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD;5;7;2;ITIS;;220940
+Henricia perforata;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD,WORMS;1;3;0;ITIS;;220943
+Henricia pertusa;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD,WORMS;0;2;0;WORMS;gap;220944
+Henricia sanguinolenta;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD;18;37;3;ITIS;;220955
+Henricia skorikovi;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;;gap;
+Henricia solida;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;;gap;
+Henricia spinulfera;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD;1;1;0;ITIS;;220963
+Henricia spongiosa;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;WORMS;;;;WORMS;gap;
+Rhopiella hirsuta;Echinodermata;Asteroidea;Spinulosida;Echinasteridae;BOLD;37;92;11;WORMS;;193681

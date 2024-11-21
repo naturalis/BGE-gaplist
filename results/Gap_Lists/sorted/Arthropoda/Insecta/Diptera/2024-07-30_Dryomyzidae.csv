@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dryomyza anilis;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,SyDip;434;451;2;ITIS;;265816
+Dryomyza flaveola;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,FE;13;13;1;ITIS;;771513
+Dryope decrepita;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,FE,SyDip;30;31;1;SyDip;;706953
+Dryope flaveola;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,iNat,SyDip;0;5;1;SyDip;gap;1067942
+Heterocheila buccata;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,FE,SyDip;7;10;1;WORMS;;164921
+Neuroctena anilis;Arthropoda;Insecta;Diptera;Dryomyzidae;FE;;;;FE;gap;
+Paradryomyza spinigera;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,SyDip;19;19;1;;;706951
+Pseudoneuroctena senilis;Arthropoda;Insecta;Diptera;Dryomyzidae;BOLD,FE,iNat,SyDip;7;7;1;SyDip;;706949

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aetomylaeus bovinus;Chordata;Elasmobranchii;Myliobatiformes;Myliobatidae;BOLD;24;29;1;WORMS;;779199
+Mobula mobular;Chordata;Elasmobranchii;Myliobatiformes;Myliobatidae;BOLD,WORMS;46;54;1;WORMS;;305532;179760
+Mobula tarapacana;Chordata;Elasmobranchii;Myliobatiformes;Myliobatidae;BOLD,WORMS;59;66;1;WORMS;;72372
+Myliobatis aquila;Chordata;Elasmobranchii;Myliobatiformes;Myliobatidae;BOLD,WORMS;36;51;1;WORMS;;52096
+Rhinoptera marginata;Chordata;Elasmobranchii;Myliobatiformes;Myliobatidae;BOLD,WORMS;5;8;1;WORMS;;809242

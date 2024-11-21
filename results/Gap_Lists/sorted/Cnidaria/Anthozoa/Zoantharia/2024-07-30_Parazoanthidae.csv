@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bergia catenularis;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD;3;4;0;WORMS;;754042
+Isozoanthus arborescens;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;WORMS;gap;
+Isozoanthus bulbosus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;;gap;
+Isozoanthus dubius;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;;gap;
+Isozoanthus ingolfi;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;;gap;
+Isozoanthus islandicus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;;gap;
+Isozoanthus magninsulosus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;;gap;
+Isozoanthus multinsulosus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;;gap;
+Isozoanthus sulcatus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD,WORMS;3;3;1;WORMS;;671294
+Parazoanthus anguicomus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;WORMS;;;;WORMS;gap;
+Parazoanthus axinellae;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD,WORMS;18;378;1;WORMS;;105207
+Parazoanthus puertoricense;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD;4;5;2;;;105210
+Parazoanthus swiftii;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD;11;22;2;WORMS;;105211
+Savalia savaglia;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD;5;14;1;WORMS;;105206
+Umimayanthus parasiticus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD;1;4;0;WORMS;;754040;247968
+Zibrowius primnoidus;Cnidaria;Anthozoa;Zoantharia;Parazoanthidae;BOLD;0;4;0;WORMS;gap;900482

@@ -1,0 +1,26 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Euchaeta acuta;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;BOLD,WORMS;2;2;1;WORMS;;799586
+Euchaeta concinna;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;12;12;2;WORMS;;211865
+Euchaeta marina;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;2;22;1;WORMS;;211864
+Euchaeta media;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;9;9;1;WORMS;;152217
+Euchaeta spinosa;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta altibulla;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;;gap;
+Paraeuchaeta barbata;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;BOLD;11;22;1;ITIS;;264635
+Paraeuchaeta bisinuata;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta bradyi;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta elongata;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;BOLD;17;32;2;WORMS;;310773
+Paraeuchaeta glacialis;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;BOLD,WORMS;15;18;1;WORMS;;263609
+Paraeuchaeta gracilis;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta hansenii;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta hebes;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;BOLD,WORMS;6;6;1;WORMS;;653000
+Paraeuchaeta incisa;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta kurilensis;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta norvegica;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;BOLD,WORMS;21;31;2;WORMS;;170515
+Paraeuchaeta parabbreviata;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;;gap;
+Paraeuchaeta polaris;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta pseudotonsa;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta pubera;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;ITIS;gap;
+Paraeuchaeta rubicunda;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta sarsi;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta scotti;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;
+Paraeuchaeta tumidula;Arthropoda;Hexanauplia;Calanoida;Euchaetidae;WORMS;;;;WORMS;gap;

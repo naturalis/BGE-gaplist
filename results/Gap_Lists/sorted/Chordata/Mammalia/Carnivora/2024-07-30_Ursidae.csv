@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Tremarctos ornatus;Chordata;Mammalia;Carnivora;Ursidae;BOLD;7;7;1;;;153579
+Ursus arctos;Chordata;Mammalia;Carnivora;Ursidae;BOLD,FE;285;366;1;;;12510
+Ursus ingressus;Chordata;Mammalia;Carnivora;Ursidae;BOLD;3;3;1;;;923251
+Ursus maritimus;Chordata;Mammalia;Carnivora;Ursidae;BOLD,FE,WORMS;43;46;1;FE;;12511
+Ursus spelaeus;Chordata;Mammalia;Carnivora;Ursidae;BOLD;64;64;1;;;200041
+Ursus thibetanus;Chordata;Mammalia;Carnivora;Ursidae;BOLD;52;69;5;;;104985

@@ -1,0 +1,37 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eudorella arctica;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;0;3;0;;gap;514449
+Eudorella emarginata;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;11;14;2;;;597966
+Eudorella gottliebi;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella gracilis;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella groenlandica;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella hirsuta;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;6;9;1;WORMS;;597967
+Eudorella hispida;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella intermedia;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella nana;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella parvula;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella pusilla;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;4;9;1;;;8329
+Eudorella spitzbergensis;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Eudorella truncatula;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;12;22;5;;;597968
+Eudorellopsis deformis;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Alytoleucon) pallidus;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;;;;WORMS;gap;514437
+Leucon (Crymoleucon) macrorhinus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Crymoleucon) noerrevangi;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Crymoleucon) tener;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Epileucon) longirostris;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Epileucon) tenuirostris;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Leucon) acutirostris;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;;;;WORMS;gap;597970
+Leucon (Leucon) affinis;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Leucon) fulvus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;WORMS;gap;
+Leucon (Leucon) mediterraneus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Leucon) nasica;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;;;;WORMS;gap;597971
+Leucon (Leucon) nasicoides;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD,WORMS;;;;WORMS;gap;714463
+Leucon (Leucon) nathorsti;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Leucon) robustus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Leucon) serratus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Macrauloleucon) siphonatus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon (Macrauloleucon) spinulosus;Arthropoda;Malacostraca;Cumacea;Leuconidae;WORMS;;;;;gap;
+Leucon nathorsti;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD;1;6;1;;;598001
+Leucon naticoides;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD;0;1;0;;gap;598002
+Leucon serratus;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD;1;3;1;;;598000
+Leucon spinulosus;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD;0;3;0;;gap;597999
+Leucon tener;Arthropoda;Malacostraca;Cumacea;Leuconidae;BOLD;2;3;1;;;597972

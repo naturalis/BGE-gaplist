@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coptosoma costale;Arthropoda;Insecta;Hemiptera;Plataspididae;FE;;;;;gap;
+Coptosoma mucronatum;Arthropoda;Insecta;Hemiptera;Plataspididae;FE,CoPH;;;;;gap;
+Coptosoma sandahli;Arthropoda;Insecta;Hemiptera;Plataspididae;FE,CoPH;;;;CoPH;gap;

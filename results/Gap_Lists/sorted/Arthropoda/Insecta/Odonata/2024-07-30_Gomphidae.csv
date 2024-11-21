@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gomphus flavipes;Arthropoda;Insecta;Odonata;Gomphidae;FE;;;;FE;gap;
+Gomphus graslinii;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;19;20;1;;;536631
+Gomphus pulchellus;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE,iNat;30;35;3;;;536642
+Gomphus schneiderii;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;13;14;2;;;536646
+Gomphus simillimus;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;14;17;1;;;536648
+Gomphus vulgatissimus;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE,iNat;38;75;2;FE;;248205
+Lindenia tetraphylla;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;20;25;1;FE;;539624
+Onychogomphus costae;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;1;5;0;;;540568
+Onychogomphus forcipatus;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE,iNat;68;89;2;FE;;275153
+Onychogomphus uncatus;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;13;19;1;FE;;536787
+Ophiogomphus cecilia;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE,iNat;22;41;3;FE;;248180
+Paragomphus genei;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,FE;30;43;1;FE;;447675
+Stylurus flavipes;Arthropoda;Insecta;Odonata;Gomphidae;BOLD,iNat;16;20;2;;;537008

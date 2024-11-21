@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pelodytes atlanticus;Chordata;Amphibia;Anura;Pelodytidae;BOLD;6;6;1;;;982786
+Pelodytes ibericus;Chordata;Amphibia;Anura;Pelodytidae;BOLD,FE;8;9;1;;;455294
+Pelodytes punctatus;Chordata;Amphibia;Anura;Pelodytidae;BOLD,FE;15;16;1;ITIS;;216692

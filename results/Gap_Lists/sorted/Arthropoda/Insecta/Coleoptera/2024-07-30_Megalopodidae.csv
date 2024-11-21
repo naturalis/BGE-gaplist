@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Zeugophora flavicollis;Arthropoda;Insecta;Coleoptera;Megalopodidae;BOLD,FE;13;14;2;FE;;403111
+Zeugophora scutellaris;Arthropoda;Insecta;Coleoptera;Megalopodidae;BOLD,FE;6;11;1;;;460688
+Zeugophora subspinosa;Arthropoda;Insecta;Coleoptera;Megalopodidae;BOLD,FE;11;11;1;FE;;515300
+Zeugophora turneri;Arthropoda;Insecta;Coleoptera;Megalopodidae;BOLD,FE;0;1;0;ITIS;gap;1066505

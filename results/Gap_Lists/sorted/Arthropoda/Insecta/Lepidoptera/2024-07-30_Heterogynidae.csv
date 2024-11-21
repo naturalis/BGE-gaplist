@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heterogynis andalusica;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,FE,LF;1;3;1;;;189116
+Heterogynis canalensis;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,FE,LF;6;14;1;;;189111
+Heterogynis chapmani;Arthropoda;Insecta;Lepidoptera;Heterogynidae;LF;;;;;gap;
+Heterogynis cynetes;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD;2;2;1;;;995866
+Heterogynis cynetis;Arthropoda;Insecta;Lepidoptera;Heterogynidae;LF;;;;;gap;
+Heterogynis dubia;Arthropoda;Insecta;Lepidoptera;Heterogynidae;LF;;;;;gap;
+Heterogynis eremita;Arthropoda;Insecta;Lepidoptera;Heterogynidae;FE,LF;;;;;gap;
+Heterogynis paradoxa;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,FE,LF;1;6;1;;;189112
+Heterogynis penella;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,FE,LF;6;20;4;FE;;189110;995867
+Heterogynis pravieli;Arthropoda;Insecta;Lepidoptera;Heterogynidae;FE,LF;;;;;gap;
+Heterogynis rakosyi;Arthropoda;Insecta;Lepidoptera;Heterogynidae;LF;;;;;gap;
+Heterogynis segurana;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,LF;1;1;1;;;995865
+Heterogynis sondereggeri;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,LF;1;1;1;;;995864
+Heterogynis valdeblorensis;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,FE,LF;2;2;1;;;768173
+Heterogynis yerayi;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,LF;2;3;1;;;768174
+Heterogynis zikici;Arthropoda;Insecta;Lepidoptera;Heterogynidae;BOLD,LF;1;1;1;;;995863

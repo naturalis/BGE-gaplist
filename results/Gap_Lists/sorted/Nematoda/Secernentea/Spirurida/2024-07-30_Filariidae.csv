@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Filaria acutiuscula;Nematoda;Secernentea;Spirurida;Filariidae;FE;;;;;gap;
+Filaria martis;Nematoda;Secernentea;Spirurida;Filariidae;FE;2;2;1;FE;;30003
+Filaria smithi;Nematoda;Secernentea;Spirurida;Filariidae;FE;;;;;gap;
+Parafilaria antipinni;Nematoda;Secernentea;Spirurida;Filariidae;FE;;;;;gap;
+Parafilaria multipapillosa;Nematoda;Secernentea;Spirurida;Filariidae;FE;;;;FE;gap;
+Setaria cervi;Nematoda;Secernentea;Spirurida;Filariidae;FE;1;1;1;FE;;667527

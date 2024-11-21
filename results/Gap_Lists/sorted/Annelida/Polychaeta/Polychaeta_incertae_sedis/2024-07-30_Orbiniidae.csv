@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Leitoscoloplos kerguelensis;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;WORMS;gap;
+Leitoscoloplos mammosus;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD,WORMS;3;6;2;;;378444
+Naineris laevigata;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;22;31;4;WORMS;;515195
+Naineris quadraticeps;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;;gap;
+Naineris quadricuspida;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD,WORMS;27;47;1;WORMS;;258924
+Orbinia armandi;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;WORMS;gap;
+Orbinia bioreti;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;WORMS;gap;
+Orbinia cornidei;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;WORMS;gap;
+Orbinia latreillii;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;2;2;1;WORMS;;79728
+Orbinia sertulata;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD,WORMS;4;5;1;WORMS;;777007
+Phylo grubei;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD,WORMS;3;4;1;WORMS;;706571
+Phylo kupfferi;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD,WORMS;1;3;0;WORMS;;766932
+Phylo norvegica;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD;9;13;1;WORMS;;473788;641137
+Protoaricia capsulifera;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;WORMS;gap;
+Protoaricia oerstedii;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;WORMS;gap;
+Questa caudicirra;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;WORMS;;;;;gap;
+Scoloplos acutus;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD;17;23;0;ITIS;;258985;947216
+Scoloplos armiger;Annelida;Polychaeta;Polychaeta_incertae_sedis;Orbiniidae;BOLD,WORMS;104;154;4;WORMS;;255565;544681

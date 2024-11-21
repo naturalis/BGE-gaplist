@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Toxocara canis;Nematoda;Enoplea;Ascaridida;Toxocaridae;BOLD,FE;26;181;1;FE;;163737
+Toxocara cati;Nematoda;Enoplea;Ascaridida;Toxocaridae;BOLD,FE;7;76;1;FE;;163736
+Toxocara vitulorum;Nematoda;Enoplea;Ascaridida;Toxocaridae;BOLD,FE;10;14;2;FE;;168853

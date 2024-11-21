@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ammoplanus hofferi;Arthropoda;Insecta;Hymenoptera;Ammoplanidae;BOLD,FE,HySI;2;2;1;;;705646
+Ammoplanus kaszabi;Arthropoda;Insecta;Hymenoptera;Ammoplanidae;BOLD,FE,HySI;2;3;1;HySI;;501983
+Ammoplanus marathroicus;Arthropoda;Insecta;Hymenoptera;Ammoplanidae;BOLD,FE,HySI,DTN;2;5;1;HySI;;501996;285595
+Ammoplanus perrisi;Arthropoda;Insecta;Hymenoptera;Ammoplanidae;BOLD,FE,HySI,DTN;3;5;1;HySI;;285595
+Ammoplanus pragensis;Arthropoda;Insecta;Hymenoptera;Ammoplanidae;BOLD,FE,HySI,DTN;4;4;1;;;591752

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Merops apiaster;Chordata;Aves;Coraciiformes;Meropidae;BOLD,FE,iNat;198;211;1;;;52572
+Merops nubicus;Chordata;Aves;Coraciiformes;Meropidae;BOLD;7;11;2;;;115144
+Merops persicus;Chordata;Aves;Coraciiformes;Meropidae;FE;46;46;1;;;115147

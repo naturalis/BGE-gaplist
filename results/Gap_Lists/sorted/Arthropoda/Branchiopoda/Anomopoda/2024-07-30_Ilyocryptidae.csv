@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ilyocryptus acutifrons;Arthropoda;Branchiopoda;Anomopoda;Ilyocryptidae;BOLD,FE;0;3;0;WORMS;gap;51867
+Ilyocryptus agilis;Arthropoda;Branchiopoda;Anomopoda;Ilyocryptidae;BOLD,FE;8;9;1;WORMS;;304744
+Ilyocryptus sordidus;Arthropoda;Branchiopoda;Anomopoda;Ilyocryptidae;BOLD,FE;9;13;0;WORMS;;51866

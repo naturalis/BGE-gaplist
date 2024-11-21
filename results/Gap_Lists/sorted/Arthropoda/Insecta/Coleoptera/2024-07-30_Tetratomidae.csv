@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Eustrophus dermestoides;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE,iNat;0;3;0;FE;gap;745940
+Hallomenus axillaris;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE;12;17;1;FE;;318414
+Hallomenus binotatus;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE,iNat;19;36;1;ITIS;;167263
+Mycetoma suturale;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE;7;9;1;FE;;502344
+Tetratoma ancora;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE;5;20;1;;;312228
+Tetratoma baudueri;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE;0;1;0;;gap;766499
+Tetratoma crenicollis;Arthropoda;Insecta;Coleoptera;Tetratomidae;FE;;;;;gap;
+Tetratoma desmarestii;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE;2;2;1;;;535240
+Tetratoma fungorum;Arthropoda;Insecta;Coleoptera;Tetratomidae;BOLD,FE,iNat;22;39;1;FE;;167729
+Tetratoma tedaldi;Arthropoda;Insecta;Coleoptera;Tetratomidae;FE;;;;;gap;

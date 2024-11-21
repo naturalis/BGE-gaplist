@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chlamydotis macqueenii;Chordata;Aves;Otidiformes;Otididae;FE;30;30;1;FE;;113559
+Chlamydotis undulata;Chordata;Aves;Otidiformes;Otididae;FE;;;;FE;gap;
+Otis tarda;Chordata;Aves;Otidiformes;Otididae;BOLD,FE,iNat;13;13;1;;;747396
+Tetrax tetrax;Chordata;Aves;Otidiformes;Otididae;FE,iNat;2;2;1;ITIS;;52503

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atelerix algirus;Chordata;Mammalia;Erinaceomorpha;Erinaceidae;FE;0;2;0;FE;gap;89966
+Erinaceus concolor;Chordata;Mammalia;Erinaceomorpha;Erinaceidae;BOLD,FE;3;3;1;;;1138364
+Erinaceus europaeus;Chordata;Mammalia;Erinaceomorpha;Erinaceidae;BOLD,FE,iNat;76;84;1;;;27253
+Erinaceus roumanicus;Chordata;Mammalia;Erinaceomorpha;Erinaceidae;BOLD;2;3;1;;;190939
+Hemiechinus auritus;Chordata;Mammalia;Erinaceomorpha;Erinaceidae;FE;6;7;3;FE;;30277

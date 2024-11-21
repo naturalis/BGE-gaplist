@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amphibalanus amphitrite;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD;169;206;6;WORMS;;649149;148897
+Amphibalanus eburneus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD;100;105;2;WORMS;;211585;173995
+Amphibalanus improvisus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD,iNat;56;75;2;WORMS;;468995;158236
+Balanus balanus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD,WORMS;111;126;3;WORMS;;160583
+Balanus crenatus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD,WORMS,iNat;204;210;5;;;173996
+Balanus spongicola;Arthropoda;Thecostraca;Sessilia;Balanidae;WORMS;;;;;gap;
+Balanus trigonus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD,WORMS;33;39;1;;;189378
+Chirona hameri;Arthropoda;Thecostraca;Sessilia;Balanidae;WORMS;;;;WORMS;gap;
+Megabalanus azoricus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD,WORMS;18;18;1;;;715966
+Megabalanus tintinnabulum;Arthropoda;Thecostraca;Sessilia;Balanidae;WORMS;16;16;1;WORMS;;189397
+Megabalanus tulipiformis;Arthropoda;Thecostraca;Sessilia;Balanidae;WORMS;;;;;gap;
+Perforatus perforatus;Arthropoda;Thecostraca;Sessilia;Balanidae;BOLD;6;50;1;WORMS;;681593;173994
+Solidobalanus fallax;Arthropoda;Thecostraca;Sessilia;Balanidae;WORMS;;;;WORMS;gap;

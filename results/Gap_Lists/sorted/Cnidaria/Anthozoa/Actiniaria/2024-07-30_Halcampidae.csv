@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cactosoma abyssorum;Cnidaria;Anthozoa;Actiniaria;Halcampidae;WORMS;;;;WORMS;gap;
+Halcampa arctica;Cnidaria;Anthozoa;Actiniaria;Halcampidae;WORMS;;;;WORMS;gap;
+Halcampa chrysanthellum;Cnidaria;Anthozoa;Actiniaria;Halcampidae;BOLD,WORMS;2;3;1;WORMS;;726261
+Halcampa duodecimcirrata;Cnidaria;Anthozoa;Actiniaria;Halcampidae;WORMS;0;5;0;WORMS;gap;714408

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lophius americanus;Chordata;Actinopterygii;Lophiiformes;Lophiidae;BOLD;43;63;1;;;28700
+Lophius budegassa;Chordata;Actinopterygii;Lophiiformes;Lophiidae;BOLD,WORMS;63;71;1;WORMS;;53714
+Lophius gastrophysus;Chordata;Actinopterygii;Lophiiformes;Lophiidae;BOLD;8;10;2;;;139758
+Lophius litulon;Chordata;Actinopterygii;Lophiiformes;Lophiidae;BOLD;26;32;2;WORMS;;31903
+Lophius vomerinus;Chordata;Actinopterygii;Lophiiformes;Lophiidae;BOLD;31;35;1;WORMS;;96119

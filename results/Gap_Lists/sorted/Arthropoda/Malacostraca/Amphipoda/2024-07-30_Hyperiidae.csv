@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hyperia galba;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;BOLD,WORMS;47;92;4;WORMS;;8765
+Hyperia medusarum;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;WORMS;19;30;1;WORMS;;886948
+Hyperia spinigera;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;WORMS;;;;WORMS;gap;
+Hyperoche medusarum;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;BOLD,WORMS;52;57;4;WORMS;;153435
+Themisto abyssorum;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;BOLD,WORMS;275;298;5;WORMS;;390647
+Themisto compressa;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;BOLD;28;34;1;WORMS;;310777
+Themisto libellula;Arthropoda;Malacostraca;Amphipoda;Hyperiidae;BOLD;678;689;4;WORMS;;8764

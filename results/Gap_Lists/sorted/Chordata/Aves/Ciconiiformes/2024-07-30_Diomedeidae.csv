@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Diomedea exulans;Chordata;Aves;Ciconiiformes;Diomedeidae;FE;9;10;1;WORMS;;78673
+Diomedea melanophrys;Chordata;Aves;Ciconiiformes;Diomedeidae;FE;;;;;gap;
+Thalassarche chlororhynchos;Chordata;Aves;Ciconiiformes;Diomedeidae;FE;3;4;1;WORMS;;112655

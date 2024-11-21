@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ircinia collectrix;Porifera;Demospongiae;Dictyoceratida;Irciniidae;WORMS;;;;WORMS;gap;
+Ircinia dendroides;Porifera;Demospongiae;Dictyoceratida;Irciniidae;BOLD,WORMS;5;9;1;;;939084
+Ircinia oros;Porifera;Demospongiae;Dictyoceratida;Irciniidae;BOLD,WORMS;2;7;1;WORMS;;506059
+Ircinia paucifilamentosa;Porifera;Demospongiae;Dictyoceratida;Irciniidae;WORMS;;;;;gap;
+Ircinia procumbens;Porifera;Demospongiae;Dictyoceratida;Irciniidae;WORMS;;;;WORMS;gap;
+Ircinia retidermata;Porifera;Demospongiae;Dictyoceratida;Irciniidae;WORMS;;;;;gap;
+Ircinia variabilis;Porifera;Demospongiae;Dictyoceratida;Irciniidae;BOLD;13;17;1;WORMS;;506060
+Sarcotragus fasciculatus;Porifera;Demospongiae;Dictyoceratida;Irciniidae;BOLD;2;5;1;WORMS;;239236
+Sarcotragus spinosulus;Porifera;Demospongiae;Dictyoceratida;Irciniidae;BOLD;22;24;1;WORMS;;239242

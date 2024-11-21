@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amatitlania nigrofasciata;Chordata;Actinopterygii;Cichliformes;Cichlidae;BOLD;48;58;1;FB;;212468
+Australoheros facetus;Chordata;Actinopterygii;Cichliformes;Cichlidae;BOLD,FE;40;53;6;FB;;200807
+Hemichromis fasciatus;Chordata;Actinopterygii;Cichliformes;Cichlidae;FE;23;29;3;FB;;192306
+Hemichromis guttatus;Chordata;Actinopterygii;Cichliformes;Cichlidae;FE;0;2;0;;gap;734636
+Herotilapia multispinosa;Chordata;Actinopterygii;Cichliformes;Cichlidae;BOLD,FE;10;10;1;FB;;779384
+Oreochromis mossambicus;Chordata;Actinopterygii;Cichliformes;Cichlidae;BOLD;493;569;9;WORMS;;24807
+Oreochromis niloticus;Chordata;Actinopterygii;Cichliformes;Cichlidae;BOLD,FE;1575;1870;22;WORMS;;52768;256684
+Pelmatolapia mariae;Chordata;Actinopterygii;Cichliformes;Cichlidae;BOLD;13;14;1;WORMS;;717241

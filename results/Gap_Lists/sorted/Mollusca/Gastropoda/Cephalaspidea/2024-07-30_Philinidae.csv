@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Laona pruinosa;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD,WORMS;;;;WORMS;gap;665575
+Laona ventricosa;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;2;2;1;WORMS;;981688;599285
+Philine angulata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD,WORMS;0;2;0;;gap;665576
+Philine azorica;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;;gap;
+Philine catena;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;WORMS;gap;
+Philine complanata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;;gap;
+Philine denticulata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD,WORMS;5;14;2;WORMS;;665560
+Philine finmarchica;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;5;6;1;ITIS;;599305
+Philine grandioculi;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;3;5;0;;;599287
+Philine indistincta;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;2;2;1;;;608536
+Philine infortunata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;WORMS;gap;
+Philine intricata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;;gap;
+Philine lima;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;8;13;1;ITIS;;502836
+Philine monilifera;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;;gap;
+Philine monterosati;Mollusca;Gastropoda;Cephalaspidea;Philinidae;WORMS;;;;WORMS;gap;
+Philine punctata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD,WORMS;0;7;0;WORMS;gap;665559
+Philine quadrata;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;6;6;1;ITIS;;668818
+Philine quadripartita;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;4;10;2;WORMS;;560306;541729
+Philine scabra;Mollusca;Gastropoda;Cephalaspidea;Philinidae;BOLD;13;14;1;;;152291

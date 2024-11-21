@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echinus esculentus;Echinodermata;Echinoidea;Camarodonta;Echinidae;BOLD,WORMS,iNat;9;21;1;WORMS;;173378
+Echinus melo;Echinodermata;Echinoidea;Camarodonta;Echinidae;WORMS;;;;;gap;
+Echinus tenuispinus;Echinodermata;Echinoidea;Camarodonta;Echinidae;WORMS;;;;WORMS;gap;
+Gracilechinus acutus;Echinodermata;Echinoidea;Camarodonta;Echinidae;BOLD;22;27;1;WORMS;;373064;192019
+Gracilechinus alexandri;Echinodermata;Echinoidea;Camarodonta;Echinidae;BOLD;3;3;1;WORMS;;681625;192006
+Gracilechinus elegans;Echinodermata;Echinoidea;Camarodonta;Echinidae;BOLD;7;7;2;WORMS;;681627;192005
+Paracentrotus lividus;Echinodermata;Echinoidea;Camarodonta;Echinidae;BOLD,WORMS;268;282;1;WORMS;;30463
+Psammechinus miliaris;Echinodermata;Echinoidea;Camarodonta;Echinidae;BOLD,WORMS,iNat;50;54;1;WORMS;;31378

@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cottunculus microps;Chordata;Actinopterygii;Scorpaeniformes;Psychrolutidae;BOLD,WORMS;29;31;1;ITIS;;71299
+Cottunculus sadko;Chordata;Actinopterygii;Scorpaeniformes;Psychrolutidae;WORMS;;;;;gap;
+Cottunculus thomsonii;Chordata;Actinopterygii;Scorpaeniformes;Psychrolutidae;BOLD,WORMS;5;6;1;WORMS;;100820
+Ebinania costaecanariae;Chordata;Actinopterygii;Scorpaeniformes;Psychrolutidae;WORMS;;;;WORMS;gap;
+Ebinania macquariensis;Chordata;Actinopterygii;Scorpaeniformes;Psychrolutidae;BOLD;1;7;1;;;148282
+Psychrolutes subspinosus;Chordata;Actinopterygii;Scorpaeniformes;Psychrolutidae;BOLD,WORMS;;;;FB;gap;

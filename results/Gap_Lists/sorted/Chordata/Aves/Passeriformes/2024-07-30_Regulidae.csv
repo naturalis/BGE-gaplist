@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Regulus calendula;Chordata;Aves;Passeriformes;Regulidae;FE;42;59;1;FE;;9655
+Regulus ignicapilla;Chordata;Aves;Passeriformes;Regulidae;BOLD,FE,iNat;30;34;1;ITIS;;101152
+Regulus madeirensis;Chordata;Aves;Passeriformes;Regulidae;BOLD,FE;6;6;0;;;607126
+Regulus regulus;Chordata;Aves;Passeriformes;Regulidae;BOLD,FE,iNat;100;104;2;FE;;73246
+Regulus teneriffae;Chordata;Aves;Passeriformes;Regulidae;FE;;;;;gap;

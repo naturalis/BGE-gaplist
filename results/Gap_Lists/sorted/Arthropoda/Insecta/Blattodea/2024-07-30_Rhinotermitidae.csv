@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heterotermes spn_caribeus;Arthropoda;Insecta;Blattodea;Rhinotermitidae;BOLD;4;10;1;;;639805
+Heterotermes tenuis;Arthropoda;Insecta;Blattodea;Rhinotermitidae;BOLD;177;232;8;;;354399
+Reticulitermes balkanensis;Arthropoda;Insecta;Blattodea;Rhinotermitidae;FE;0;2;0;;gap;937541
+Reticulitermes banyulensis;Arthropoda;Insecta;Blattodea;Rhinotermitidae;FE;0;22;0;;gap;937530
+Reticulitermes clypeatus;Arthropoda;Insecta;Blattodea;Rhinotermitidae;FE;0;2;0;;gap;937547
+Reticulitermes flavipes;Arthropoda;Insecta;Blattodea;Rhinotermitidae;BOLD,FE;230;258;3;FE;;104312;104309
+Reticulitermes grassei;Arthropoda;Insecta;Blattodea;Rhinotermitidae;BOLD,FE;5;71;2;;;173981
+Reticulitermes lucifugus;Arthropoda;Insecta;Blattodea;Rhinotermitidae;BOLD,FE;11;25;3;FE;;331417
+Reticulitermes urbis;Arthropoda;Insecta;Blattodea;Rhinotermitidae;FE;0;4;0;;gap;937543

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chama gryphoides;Mollusca;Bivalvia;Venerida;Chamidae;BOLD,WORMS;2;4;1;WORMS;;30926
+Chama pacifica;Mollusca;Bivalvia;Venerida;Chamidae;WORMS;0;10;0;WORMS;gap;277730;277755
+Pseudochama gryphina;Mollusca;Bivalvia;Venerida;Chamidae;WORMS;;;;WORMS;gap;

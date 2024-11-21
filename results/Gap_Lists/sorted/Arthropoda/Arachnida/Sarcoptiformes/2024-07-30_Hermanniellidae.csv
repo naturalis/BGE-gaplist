@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hermannia canestrinii;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;ITIS;gap;
+Hermanniella barbata;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;;gap;
+Hermanniella dolosa;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;BOLD,FE;1;9;1;;;480975
+Hermanniella granulata;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;FE;gap;
+Hermanniella incondita;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;;gap;
+Hermanniella issanielloides;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;;gap;
+Hermanniella laurisilvae;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;;gap;
+Hermanniella punctulata;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;BOLD,FE;3;5;0;;;753402
+Hermanniella punctulata var. septentrionalis;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;BOLD;1;1;1;;;1078197
+Hermanniella septentrionalis;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;BOLD,FE;0;4;0;;gap;856920
+Issaniella mograbin;Arthropoda;Arachnida;Sarcoptiformes;Hermanniellidae;FE;;;;;gap;

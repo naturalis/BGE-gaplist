@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Trivia arctica;Mollusca;Gastropoda;Littorinimorpha;Triviidae;BOLD,WORMS;12;15;1;WORMS;;642780
+Trivia levantina;Mollusca;Gastropoda;Littorinimorpha;Triviidae;WORMS;;;;;gap;
+Trivia monacha;Mollusca;Gastropoda;Littorinimorpha;Triviidae;BOLD,WORMS;4;7;2;WORMS;;647017
+Trivia multilirata;Mollusca;Gastropoda;Littorinimorpha;Triviidae;WORMS;;;;WORMS;gap;

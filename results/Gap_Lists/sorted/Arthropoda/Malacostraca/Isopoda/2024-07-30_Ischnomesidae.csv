@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gracilimesus angustus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD,WORMS;;;;WORMS;gap;528036
+Haplomesus gorbunovi;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD;0;12;0;;gap;528034
+Haplomesus insignis;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD;0;4;0;;gap;527967
+Haplomesus quadrispinosus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD,WORMS;0;17;0;;gap;527970
+Haplomesus tenuispinis;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD;0;7;0;;gap;527966
+Heteromesus dentatus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;;gap;
+Heteromesus frigidus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD,WORMS;0;2;0;;gap;527974
+Heteromesus greeni;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;WORMS;gap;
+Heteromesus longiremis;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD;0;4;0;;gap;527969
+Heteromesus schmidtii;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;;gap;
+Heteromesus similis;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;;gap;
+Heteromesus spinosus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;WORMS;gap;
+Heteromesus wolffi;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;;gap;
+Ischnomesus bispinosus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD,WORMS;1;10;0;WORMS;;683911
+Ischnomesus chardyi;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;WORMS;;;;WORMS;gap;
+Ischnomesus norvegicus;Arthropoda;Malacostraca;Isopoda;Ischnomesidae;BOLD,WORMS;0;5;0;WORMS;gap;528035

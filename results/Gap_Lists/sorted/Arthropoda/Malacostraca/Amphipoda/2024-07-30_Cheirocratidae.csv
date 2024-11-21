@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cheirocratus assimilis;Arthropoda;Malacostraca;Amphipoda;Cheirocratidae;BOLD,WORMS;2;3;1;WORMS;;708819
+Cheirocratus intermedius;Arthropoda;Malacostraca;Amphipoda;Cheirocratidae;BOLD,WORMS;4;5;2;;;660292
+Cheirocratus monodontis;Arthropoda;Malacostraca;Amphipoda;Cheirocratidae;WORMS;;;;;gap;
+Cheirocratus robustus;Arthropoda;Malacostraca;Amphipoda;Cheirocratidae;WORMS;;;;;gap;
+Cheirocratus sundevallii;Arthropoda;Malacostraca;Amphipoda;Cheirocratidae;BOLD,WORMS;12;17;2;WORMS;;766878
+Degocheirocratus spani;Arthropoda;Malacostraca;Amphipoda;Cheirocratidae;WORMS;;;;;gap;

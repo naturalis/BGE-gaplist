@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cerithiella amblytera;Mollusca;Gastropoda;;Newtoniellidae;WORMS;;;;WORMS;gap;
+Cerithiella enodis;Mollusca;Gastropoda;;Newtoniellidae;WORMS;;;;WORMS;gap;
+Cerithiella insignis;Mollusca;Gastropoda;;Newtoniellidae;WORMS;;;;WORMS;gap;
+Cerithiella metula;Mollusca;Gastropoda;;Newtoniellidae;BOLD,WORMS;3;5;0;WORMS;;944258
+Eumetula aliceae;Mollusca;Gastropoda;;Newtoniellidae;WORMS;;;;WORMS;gap;
+Eumetula arctica;Mollusca;Gastropoda;;Newtoniellidae;BOLD,WORMS;0;1;0;WORMS;gap;887476
+Eumetula bouvieri;Mollusca;Gastropoda;;Newtoniellidae;WORMS;;;;WORMS;gap;
+Eumetula costulata;Mollusca;Gastropoda;;Newtoniellidae;BOLD;1;1;0;;;948219
+Laeocochlis sinistrata;Mollusca;Gastropoda;;Newtoniellidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cymodema tabida ;Arthropoda;Insecta;Hemiptera;Cymidae;BOLD,FE,CoPH;;;;CoPH;gap;1080860
+Cymus aurescens;Arthropoda;Insecta;Hemiptera;Cymidae;BOLD,FE,CoPH,iNat;24;36;1;CoPH;;380453
+Cymus claviculus;Arthropoda;Insecta;Hemiptera;Cymidae;BOLD,FE,CoPH;11;19;1;CoPH;;380458
+Cymus glandicolor;Arthropoda;Insecta;Hemiptera;Cymidae;BOLD,FE,CoPH,iNat;35;52;1;CoPH;;380457
+Cymus melanocephalus;Arthropoda;Insecta;Hemiptera;Cymidae;BOLD,FE,CoPH,iNat;20;36;1;;;380456

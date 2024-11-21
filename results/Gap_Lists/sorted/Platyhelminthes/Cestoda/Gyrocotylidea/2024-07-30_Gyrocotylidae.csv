@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gyrocotyle confusa;Platyhelminthes;Cestoda;Gyrocotylidea;Gyrocotylidae;WORMS;;;;;gap;
+Gyrocotyle urna;Platyhelminthes;Cestoda;Gyrocotylidea;Gyrocotylidae;BOLD,WORMS;1;5;1;WORMS;;671194
+Gyrocotyloides nybelini;Platyhelminthes;Cestoda;Gyrocotylidea;Gyrocotylidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hirudo medicinalis;Annelida;Clitellata;Arhynchobdellida;Hirudinidae;BOLD,FE,iNat;32;34;3;;;25256
+Hirudo troctina;Annelida;Clitellata;Arhynchobdellida;Hirudinidae;FE;3;3;1;;;25250
+Hirudo verbana;Annelida;Clitellata;Arhynchobdellida;Hirudinidae;BOLD,FE;85;85;4;;;25255
+Limnatis haasi;Annelida;Clitellata;Arhynchobdellida;Hirudinidae;FE;;;;;gap;
+Limnatis nilotica;Annelida;Clitellata;Arhynchobdellida;Hirudinidae;FE;3;3;3;FE;;29711

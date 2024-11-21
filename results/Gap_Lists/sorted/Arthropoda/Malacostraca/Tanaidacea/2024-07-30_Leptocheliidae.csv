@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chondrochelia savignyi;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae;BOLD;3;5;1;WORMS;;747304;299406
+Mesotanais dubius;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae;WORMS;;;;;gap;
+Mesotanais elongatus;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae;WORMS;;;;;gap;
+Pseudoleptochelia anomala;Arthropoda;Malacostraca;Tanaidacea;Leptocheliidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atemnus politus;Arthropoda;Arachnida;Pseudoscorpiones;Atemnidae;BOLD,FE;13;13;1;ITIS;;1004657
+Atemnus syriacus;Arthropoda;Arachnida;Pseudoscorpiones;Atemnidae;FE;;;;FE;gap;
+Diplotemnus balcanicus;Arthropoda;Arachnida;Pseudoscorpiones;Atemnidae;FE;;;;ITIS;gap;
+Diplotemnus pieperi;Arthropoda;Arachnida;Pseudoscorpiones;Atemnidae;FE;;;;;gap;
+Mesatemnus cyprianus;Arthropoda;Arachnida;Pseudoscorpiones;Atemnidae;FE;;;;FE;gap;

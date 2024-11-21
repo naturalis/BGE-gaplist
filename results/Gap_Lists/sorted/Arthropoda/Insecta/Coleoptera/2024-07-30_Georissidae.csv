@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Georissus caelatus;Arthropoda;Insecta;Coleoptera;Georissidae;BOLD,FE;2;2;0;;;725917
+Georissus costatus;Arthropoda;Insecta;Coleoptera;Georissidae;BOLD,FE;2;2;1;FE;;733011
+Georissus crenulatus;Arthropoda;Insecta;Coleoptera;Georissidae;BOLD,FE;11;21;2;FE;;167336
+Georissus laesicollis;Arthropoda;Insecta;Coleoptera;Georissidae;BOLD,FE;9;10;1;FE;;318324

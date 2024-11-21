@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Barnea candida;Mollusca;Bivalvia;Myida;Pholadidae;BOLD,WORMS,iNat;5;15;1;WORMS;;649602
+Barnea parva;Mollusca;Bivalvia;Myida;Pholadidae;WORMS;;;;WORMS;gap;
+Pholadidea loscombiana;Mollusca;Bivalvia;Myida;Pholadidae;WORMS;;;;WORMS;gap;
+Pholas dactylus;Mollusca;Bivalvia;Myida;Pholadidae;BOLD,WORMS;31;40;2;WORMS;;730486
+Zirfaea crispata;Mollusca;Bivalvia;Myida;Pholadidae;WORMS,iNat;;;;WORMS;gap;

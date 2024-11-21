@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haliclystus octoradiatus;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;BOLD,WORMS;2;5;1;;;900469
+Lucernaria bathyphila;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;BOLD,WORMS;5;9;2;;;714404
+Lucernaria haeckeli;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;;;;WORMS;gap;
+Lucernaria infundibulum;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;;;;;gap;
+Lucernaria quadricornis;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;4;22;1;WORMS;;159709
+Lucernaria sainthilairei;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;1;5;1;WORMS;;900471
+Lucernaria walteri;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;;;;WORMS;gap;
+Stylocoronella riedli;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;;;;;gap;
+Stylocoronella variabilis;Cnidaria;Staurozoa;Stauromedusae;Lucernariidae;WORMS;;;;;gap;

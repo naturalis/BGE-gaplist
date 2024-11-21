@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cacodmus vicinus;Arthropoda;Insecta;Hemiptera;Cimicidae;FE,CoPH;3;4;2;CoPH;;302559
+Cimex columbarius;Arthropoda;Insecta;Hemiptera;Cimicidae;FE,CoPH;;;;;gap;
+Cimex emarginatus;Arthropoda;Insecta;Hemiptera;Cimicidae;FE,CoPH;;;;;gap;
+Cimex hirundinis;Arthropoda;Insecta;Hemiptera;Cimicidae;BOLD,FE,CoPH;;;;CoPH;gap;302555
+Cimex lectularius;Arthropoda;Insecta;Hemiptera;Cimicidae;BOLD,FE,CoPH;55;290;2;CoPH;;88654
+Cimex montandoni;Arthropoda;Insecta;Hemiptera;Cimicidae;FE,CoPH;;;;CoPH;gap;
+Cimex pipistrelli;Arthropoda;Insecta;Hemiptera;Cimicidae;BOLD,FE,CoPH;35;39;3;;;302562
+Palomena prasina;Arthropoda;Insecta;Hemiptera;Cimicidae;BOLD,FE,CoPH,iNat;144;161;2;CoPH;;350295;394073

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Iothia fulva;Mollusca;Gastropoda;;Lepetidae;BOLD,WORMS;4;7;1;WORMS;;507666
+Lepeta caeca;Mollusca;Gastropoda;;Lepetidae;BOLD,WORMS;9;17;2;WORMS;;103751;666516
+Propilidium exiguum;Mollusca;Gastropoda;;Lepetidae;WORMS;;;;WORMS;gap;

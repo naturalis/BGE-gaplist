@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Pterocles alchata;Chordata;Aves;Charadriiformes;Pteroclididae;FE;5;5;1;FE;;113695
+Pterocles exustus;Chordata;Aves;Charadriiformes;Pteroclididae;FE;;;;;gap;
+Pterocles senegallus;Chordata;Aves;Charadriiformes;Pteroclididae;FE;0;2;0;FE;gap;113707
+Syrrhaptes paradoxus;Chordata;Aves;Charadriiformes;Pteroclididae;FE;4;4;1;FE;;52549

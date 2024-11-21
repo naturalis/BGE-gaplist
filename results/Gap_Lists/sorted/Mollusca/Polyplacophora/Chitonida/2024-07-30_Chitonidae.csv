@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthopleura granulata;Mollusca;Polyplacophora;Chitonida;Chitonidae;BOLD;26;27;5;WORMS;;30129
+Chiton marmoratus;Mollusca;Polyplacophora;Chitonida;Chitonidae;BOLD;26;32;2;WORMS;;732948
+Chiton squamosus;Mollusca;Polyplacophora;Chitonida;Chitonidae;BOLD;26;27;3;WORMS;;732936
+Leptochiton cancellatus;Mollusca;Polyplacophora;Chitonida;Chitonidae;BOLD,WORMS;1;18;1;WORMS;;306837;650106

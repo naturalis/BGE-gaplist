@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathyporeia elegans;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;WORMS;;;;WORMS;gap;
+Bathyporeia gracilis;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;WORMS;;;;;gap;
+Bathyporeia guilliamsoniana;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;WORMS;;;;WORMS;gap;
+Bathyporeia lindstromi;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;WORMS;;;;WORMS;gap;
+Bathyporeia nana;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;WORMS;;;;;gap;
+Bathyporeia pelagica;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;BOLD,WORMS;7;11;1;WORMS;;455780
+Bathyporeia phaiophthalma;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;WORMS;;;;WORMS;gap;
+Bathyporeia sarsi;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;BOLD,WORMS;5;7;1;WORMS;;455788
+Bathyporeia tenuipes;Arthropoda;Malacostraca;Amphipoda;Bathyporeiidae;BOLD,WORMS;1;1;1;;;572426

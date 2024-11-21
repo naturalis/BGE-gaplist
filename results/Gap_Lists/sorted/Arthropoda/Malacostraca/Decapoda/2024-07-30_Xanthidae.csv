@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atergatis roseus;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;WORMS;gap;
+Coralliope parvula;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;;gap;
+Cyclodius ungulatus;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD;72;76;1;WORMS;;84096
+Glyptoxanthus cavernosus;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;;gap;
+Liocarpilodes integerrimus;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD;18;19;3;WORMS;;95880
+Lophozozymus incisus;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD;2;9;3;WORMS;;95865;265363
+Luniella pugil;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD;22;22;1;WORMS;;715932;84092
+Microcassiope minor;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;WORMS;gap;
+Monodaeus couchii;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD;29;44;1;WORMS;;89838;170514
+Monodaeus rouxi;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;WORMS;gap;
+Paractaea monodi;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;;gap;
+Paraxanthias eriphioides;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;;gap;
+Platypodiella picta;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;;gap;
+Platypodiella spectabilis;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD;5;6;1;WORMS;;683129
+Xantho granulicarpus;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;WORMS;gap;
+Xantho hydrophilus;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD,WORMS;25;82;3;WORMS;;166371
+Xantho pilipes;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD,WORMS;14;19;1;;;79762
+Xantho poressa;Arthropoda;Malacostraca;Decapoda;Xanthidae;BOLD,WORMS;3;24;1;WORMS;;166372
+Xantho sexdentatus;Arthropoda;Malacostraca;Decapoda;Xanthidae;WORMS;;;;WORMS;gap;

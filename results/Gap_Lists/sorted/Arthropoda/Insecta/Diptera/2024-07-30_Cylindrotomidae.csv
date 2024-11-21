@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cylindrotoma distinctissima;Arthropoda;Insecta;Diptera;Cylindrotomidae;BOLD,FE,SyDip;85;92;3;SyDip;;266356;392174;984252
+Cylindrotoma nigriventris;Arthropoda;Insecta;Diptera;Cylindrotomidae;BOLD,FE,SyDip;5;5;2;;;447226
+Diogma caudata;Arthropoda;Insecta;Diptera;Cylindrotomidae;BOLD,FE,SyDip;2;3;1;;;447244
+Diogma glabrata;Arthropoda;Insecta;Diptera;Cylindrotomidae;BOLD,FE,SyDip;23;24;3;SyDip;;451222
+Phalacrocera replicata;Arthropoda;Insecta;Diptera;Cylindrotomidae;BOLD,FE,SyDip;16;19;1;ITIS;;178002
+Triogma trisulcata;Arthropoda;Insecta;Diptera;Cylindrotomidae;BOLD,FE,SyDip;2;3;1;SyDip;;456941

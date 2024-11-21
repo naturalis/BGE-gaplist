@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bimeria vestita;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Bougainvillia britannica;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;4;5;1;WORMS;;746463
+Bougainvillia macloviana;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Bougainvillia muscoides;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;5;14;1;WORMS;;726288
+Bougainvillia muscus;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;33;43;4;WORMS;;381287;971450
+Bougainvillia principis;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;4;7;1;WORMS;;591920
+Bougainvillia pyramidata;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Bougainvillia rugosa;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;;gap;
+Bougainvillia superciliaris;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,FE,WORMS;16;26;2;WORMS;;559741
+Bougainvillia triestina;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD;2;4;1;;;682541
+Dicoryne conferta;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;1;3;0;WORMS;;726295
+Dicoryne conybearei;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Garveia franciscana;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;FE;;;;ITIS;gap;
+Garveia grisea;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Garveia nutans;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;1;1;0;WORMS;;1133299
+Koellikerina fasciculata;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Nemopsis bachei;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,FE,WORMS;15;21;3;WORMS;;381293
+Nubiella mitra;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;;gap;
+Pachycordyle pusilla;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD;2;3;1;WORMS;;798773
+Rhizorhagium arenosum;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD;1;1;1;WORMS;;798781
+Rhizorhagium formosum;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Rhizorhagium roseum;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,WORMS;2;4;0;WORMS;;767056
+Thamnostoma dibalium;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;WORMS;;;;WORMS;gap;
+Velkovrhia enigmatica;Cnidaria;Hydrozoa;Anthoathecata;Bougainvilliidae;BOLD,FE;1;1;1;;;798783

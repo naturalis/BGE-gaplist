@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Avocettina infans;Chordata;Actinopterygii;Anguilliformes;Nemichthyidae;BOLD,WORMS;17;48;3;WORMS;;34561
+Nemichthys curvirostris;Chordata;Actinopterygii;Anguilliformes;Nemichthyidae;WORMS;;;;WORMS;gap;
+Nemichthys scolopaceus;Chordata;Actinopterygii;Anguilliformes;Nemichthyidae;BOLD,WORMS;66;92;7;WORMS;;34569

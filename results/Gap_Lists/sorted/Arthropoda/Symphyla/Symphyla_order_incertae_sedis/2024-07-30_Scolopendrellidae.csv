@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Geophilella pyrenaica;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Parviapiciella balcanica;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;ITIS;gap;
+Remysymphyla maura;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Scolopendrella notacantha;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Scolopendrellopsis arvernorum;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;FE;gap;
+Scolopendrellopsis microcolpa;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;FE;gap;
+Scolopendrellopsis pretneri;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Scolopendrellopsis selgae;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Scolopendrellopsis subnuda;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;1;2;0;ITIS;;1078204
+Symphylella elongata;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Symphylella isabellae;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;ITIS;gap;
+Symphylella major;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;FE;;;;;gap;
+Symphylella vulgaris;Arthropoda;Symphyla;Symphyla_order_incertae_sedis;Scolopendrellidae;BOLD,FE;2;2;1;WORMS;;710687

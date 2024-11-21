@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Isostichopus badionotus;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;40;84;1;WORMS;;197364
+Isostichopus manningi;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;0;1;0;;gap;415835
+Parastichopus regalis;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;2;5;0;WORMS;;222575
+Parastichopus tremulus;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD,WORMS;9;11;1;WORMS;;222576
+Stichopus chloronotos;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;;;;ITIS;gap;197367
+Stichopus herrmanni;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;29;32;1;WORMS;;217664
+Stichopus horrens;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;166;186;4;WORMS;;84376;280258
+Stichopus monotuberculatus;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;91;95;3;WORMS;;197369
+Thelenota ananas;Echinodermata;Holothuroidea;Synallactida;Stichopodidae;BOLD;30;43;1;WORMS;;27410

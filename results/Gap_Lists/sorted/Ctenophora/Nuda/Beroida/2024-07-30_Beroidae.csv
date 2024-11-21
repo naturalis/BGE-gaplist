@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Beroe abyssicola;Ctenophora;Nuda;Beroida;Beroidae;BOLD;62;137;0;;;714447
+Beroe forskalii;Ctenophora;Nuda;Beroida;Beroidae;WORMS;6;8;3;;;939040
+Beroe gracilis;Ctenophora;Nuda;Beroida;Beroidae;BOLD,WORMS;9;18;0;;;891751
+Beroe mitrata;Ctenophora;Nuda;Beroida;Beroidae;BOLD;0;1;0;;gap;894205
+Beroe ovata;Ctenophora;Nuda;Beroida;Beroidae;BOLD,WORMS;57;67;0;WORMS;;656234
+Hormiphora cucumis;Ctenophora;Nuda;Beroida;Beroidae;BOLD,WORMS;;;;WORMS;gap;381311

@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Archigetes brachurus;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;FE;gap;
+Archigetes cryptobothrius;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;;gap;
+Archigetes sieboldi;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;FE;gap;
+Biacetabulum appendiculatum;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;FE;gap;
+Caryophyllaeus brachycollis;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;BOLD,FE;2;4;2;;;671006
+Caryophyllaeus fimbriceps;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;;gap;
+Caryophyllaeus laticeps;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;BOLD,FE;7;29;5;WORMS;;671007
+Caryophyllaeus mutabilis;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;;gap;
+Caryophyllaeus trisignatus;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;WORMS;;;;;gap;
+Caryophyllaeus tuba;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;;gap;
+Monobothrium wageneri;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;;gap;
+Paracaryophyllaeus dubininae;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;;gap;
+Paracaryophyllaeus gotoi;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;FE;gap;
+Paraglaridacris limnodrili;Platyhelminthes;Cestoda;Caryophyllidea;Caryophyllaeidae;FE;;;;ITIS;gap;

@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Callipallene acribica;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;;gap;
+Callipallene acus;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;WORMS;gap;
+Callipallene brevirostris;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;BOLD,WORMS;10;16;2;WORMS;;103231
+Callipallene phantoma;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;ITIS;gap;
+Callipallene producta;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;BOLD,WORMS;3;4;0;ITIS;;236171
+Callipallene spectrum;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;WORMS;gap;
+Callipallene tiberii;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;WORMS;gap;
+Cordylochele longicollis;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;BOLD;0;2;0;WORMS;gap;996434;236247
+Neopallene azorensis;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;;gap;
+Neopallene campanellae;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;WORMS;;;;;gap;
+Pseudopallene brevicollis;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;BOLD,WORMS;2;3;0;WORMS;;236236
+Pseudopallene circularis;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;BOLD,WORMS;8;9;1;WORMS;;236239
+Pseudopallene spinipes;Arthropoda;Pycnogonida;Pantopoda;Callipallenidae;BOLD,WORMS;6;9;1;ITIS;;236252

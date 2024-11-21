@@ -1,0 +1,35 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Agraphopus lethierryi;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Agraphopus suturalis;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Brachycarenus languidus;Arthropoda;Insecta;Hemiptera;Rhopalidae;CoPH;;;;CoPH;gap;
+Brachycarenus tigrinus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;44;54;1;CoPH;;373990
+Chorosoma gracile;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;;gap;
+Chorosoma schillingii;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;43;44;1;CoPH;;677964
+Corizus fenestella ;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Corizus hyoscyami;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;90;103;1;FE;;380471
+Leptoceraea femoralis;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Leptoceraea viridis;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Liorhyssus hyalinus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;257;274;2;CoPH;;315747
+Maccevethus caucasicus;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Maccevethus corsicus ;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;;;;CoPH;gap;992693
+Maccevethus errans;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;0;4;0;CoPH;gap;1149106
+Myrmus calcaratus;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Myrmus miriformis;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;54;62;1;FE;;365875
+Rhopalus (Aeschyntelus) maculatus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;380462
+Rhopalus (Rhopalus) conspersus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;;;;CoPH;gap;458197
+Rhopalus (Rhopalus) distinctus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;;;;CoPH;gap;719921
+Rhopalus (Rhopalus) lepidus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;;;;CoPH;gap;967121
+Rhopalus (Rhopalus) parumpunctatus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;365872
+Rhopalus (Rhopalus) rufus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;;;;CoPH;gap;967127
+Rhopalus (Rhopalus) subrufus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;;;;CoPH;gap;380441
+Stictopleurus abutilon;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;51;53;2;CoPH;;365886
+Stictopleurus crassicornis;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;34;35;1;CoPH;;384156
+Stictopleurus pictus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;20;21;2;CoPH;;407722
+Stictopleurus punctatonervosus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH,iNat;60;68;3;CoPH;;365873
+Stictopleurus ribauti;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;;gap;
+Stictopleurus ribesi;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE;;;;;gap;
+Stictopleurus sericeus;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Stictopleurus subtomentosus;Arthropoda;Insecta;Hemiptera;Rhopalidae;BOLD,FE,CoPH;3;3;1;CoPH;;1056680
+Stictopleurus synavei;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;;gap;
+Stictopleurus unicolor;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;;;;CoPH;gap;
+Stictopleurus viridicatus;Arthropoda;Insecta;Hemiptera;Rhopalidae;FE,CoPH;17;21;1;CoPH;;202774

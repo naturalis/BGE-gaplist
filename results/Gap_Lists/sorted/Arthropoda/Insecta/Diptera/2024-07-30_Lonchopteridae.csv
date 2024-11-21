@@ -1,0 +1,16 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lonchoptera bifurcata;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;451;454;1;SyDip;;393887
+Lonchoptera fallax;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;9;13;1;;;469845
+Lonchoptera flava;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD;6;6;2;;;545119
+Lonchoptera furcata;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD;2;2;0;ITIS;;237251
+Lonchoptera impicta;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;3;4;1;SyDip;;467455
+Lonchoptera lutea;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;78;80;1;SyDip;;467456
+Lonchoptera meijerei;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE;5;6;0;;;968934
+Lonchoptera nerana;Arthropoda;Insecta;Diptera;Lonchopteridae;FE,SyDip;;;;;gap;
+Lonchoptera nevadica;Arthropoda;Insecta;Diptera;Lonchopteridae;FE,SyDip;;;;SyDip;gap;
+Lonchoptera nigrociliata;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;4;7;0;SyDip;;483686
+Lonchoptera nitidifrons;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;7;11;2;;;545120
+Lonchoptera pictipennis;Arthropoda;Insecta;Diptera;Lonchopteridae;FE,SyDip;;;;;gap;
+Lonchoptera scutellata;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;2;4;1;;;483306
+Lonchoptera strobli;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;10;13;1;;;704364
+Lonchoptera tristis;Arthropoda;Insecta;Diptera;Lonchopteridae;BOLD,FE,SyDip;43;46;1;SyDip;;521216

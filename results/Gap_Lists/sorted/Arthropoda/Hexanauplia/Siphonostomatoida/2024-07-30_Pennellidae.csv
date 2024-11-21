@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cardiodectes bellottii;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Exopenna crimmeni;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;;gap;
+Haemobaphes ambiguus;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Haemobaphes cyclopterina;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Lernaeenicus gracilis;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Lernaeenicus sprattae;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Lernaeenicus vorax;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;;gap;
+Lernaeocera branchialis;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;BOLD,WORMS;2;3;1;WORMS;;714439
+Lernaeocera lusci;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Lernaeocera minuta;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Lernaeolophus sultanus;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Pennella balaenoptera;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;BOLD,WORMS;7;7;3;WORMS;;935114
+Pennella filosa;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;BOLD,WORMS;5;5;3;WORMS;;935115
+Peroderma cylindricum;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Sarcotretes eristaliformis;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;
+Sarcotretes scopeli;Arthropoda;Hexanauplia;Siphonostomatoida;Pennellidae;WORMS;;;;WORMS;gap;

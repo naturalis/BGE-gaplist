@@ -1,0 +1,3 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Potamochoerus porcus;Chordata;Mammalia;Artiodactyla;Suidae;BOLD;32;33;5;;;195558
+Sus scrofa;Chordata;Mammalia;Artiodactyla;Suidae;BOLD,FE,iNat;569;645;7;ITIS;;12365

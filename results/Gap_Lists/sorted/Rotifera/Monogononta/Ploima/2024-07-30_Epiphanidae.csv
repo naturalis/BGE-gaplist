@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyrtonia tuba;Rotifera;Monogononta;Ploima;Epiphanidae;BOLD,FE;1;1;1;FE;;671141
+Epiphanes brachionus;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Epiphanes clavulata;Rotifera;Monogononta;Ploima;Epiphanidae;FE;1;5;0;FE;;284189
+Epiphanes macroura;Rotifera;Monogononta;Ploima;Epiphanidae;FE;0;7;0;FE;gap;738300
+Epiphanes pelagica;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Liliferotrocha subtilis;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Microcodides chlaena;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Microcodides hertha;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;;gap;
+Microcodides robustus;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Proalides digitus;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;;gap;
+Proalides tentaculatus;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;;gap;
+Rhinoglena fertoeensis;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Rhinoglena frontalis;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;FE;gap;
+Rhinoglena tokioensis;Rotifera;Monogononta;Ploima;Epiphanidae;FE;;;;;gap;

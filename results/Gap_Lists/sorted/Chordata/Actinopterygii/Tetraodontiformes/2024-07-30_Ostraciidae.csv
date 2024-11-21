@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthostracion notacanthus;Chordata;Actinopterygii;Tetraodontiformes;Ostraciidae;BOLD,WORMS;4;4;0;WORMS;;495619
+Acanthostracion polygonius;Chordata;Actinopterygii;Tetraodontiformes;Ostraciidae;BOLD;14;15;1;WORMS;;111663
+Acanthostracion quadricornis;Chordata;Actinopterygii;Tetraodontiformes;Ostraciidae;BOLD;75;76;4;WORMS;;55464
+Lactophrys trigonus;Chordata;Actinopterygii;Tetraodontiformes;Ostraciidae;BOLD;42;45;1;WORMS;;111862
+Lactophrys triqueter;Chordata;Actinopterygii;Tetraodontiformes;Ostraciidae;BOLD;10;11;1;WORMS;;753390
+Ostracion meleagris;Chordata;Actinopterygii;Tetraodontiformes;Ostraciidae;BOLD;67;73;1;WORMS;;10988

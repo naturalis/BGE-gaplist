@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Archaeopsylla erinacei;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;20;27;1;FE;;750984
+Ctenocephalides canis;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;134;151;2;FE;;127310
+Ctenocephalides felis;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE,iNat;1357;1552;5;FE;;524422
+Echidnophaga gallinacea;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;14;16;3;FE;;524417
+Echidnophaga iberica;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;1;2;1;;;681617
+Echidnophaga murina;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;FE;gap;
+Euhoplopsyllus glacialis;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;FE;gap;
+Ornithopsylla laetitiae;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;;gap;
+Pulex irritans;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;59;66;4;FE;;681623
+Spilopsyllus cuniculi;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;7;8;1;FE;;524420
+Xenopsylla acomydis;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;;gap;
+Xenopsylla brasiliensis;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;31;31;1;FE;;645600
+Xenopsylla cheopis;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;139;163;3;FE;;127312
+Xenopsylla conformis;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;0;4;0;FE;gap;750985
+Xenopsylla cunicularis;Arthropoda;Insecta;Siphonaptera;Pulicidae;BOLD,FE;3;4;1;;;681616
+Xenopsylla gratiosa;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;;gap;
+Xenopsylla guancha;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;;gap;
+Xenopsylla magdalinae;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;;gap;
+Xenopsylla ramensis;Arthropoda;Insecta;Siphonaptera;Pulicidae;FE;;;;FE;gap;

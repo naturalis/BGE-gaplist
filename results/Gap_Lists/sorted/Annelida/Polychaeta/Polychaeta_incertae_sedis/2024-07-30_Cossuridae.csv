@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cossura coasta;Annelida;Polychaeta;Polychaeta_incertae_sedis;Cossuridae;WORMS;2;2;1;;;1136240
+Cossura longocirrata;Annelida;Polychaeta;Polychaeta_incertae_sedis;Cossuridae;BOLD,WORMS;10;21;2;;;599463
+Cossura pygodactylata;Annelida;Polychaeta;Polychaeta_incertae_sedis;Cossuridae;WORMS;14;15;2;WORMS;;955693
+Cossura soyeri;Annelida;Polychaeta;Polychaeta_incertae_sedis;Cossuridae;WORMS;2;2;0;;;1150657

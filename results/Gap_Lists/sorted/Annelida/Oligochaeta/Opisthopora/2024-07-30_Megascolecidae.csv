@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Amynthas corticis;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;179;190;11;ITIS;;80648;82776
+Amynthas gracilis;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;73;79;3;ITIS;;183688;105920
+Amynthas morrisi;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;265;314;4;FE;;105919
+Amynthas rodericensis;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;21;21;1;ITIS;;352445
+Duplodicodrilus schmardae;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;14;19;4;ITIS;;650780;26251
+Metaphire californica;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;66;72;2;ITIS;;26252
+Metaphire houlleti;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;122;131;7;ITIS;;183705
+Metaphire luzonica;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;;;;FE;gap;
+Metaphire posthuma;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;29;33;3;ITIS;;468886
+Perionyx excavatus;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;47;55;2;ITIS;;103755;769747
+Pithemera bicincta;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;2;3;1;FE;;468887
+Pontodrilus litoralis;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE,WORMS;52;77;18;WORMS;;183651;33395
+Spenceriella minor;Annelida;Oligochaeta;Opisthopora;Megascolecidae;FE;;;;FE;gap;

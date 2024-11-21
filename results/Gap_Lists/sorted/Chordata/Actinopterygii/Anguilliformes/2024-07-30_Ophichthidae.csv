@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ahlia egmontis;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;12;42;1;WORMS;;78791
+Apterichtus anguiformis;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;WORMS;;;;WORMS;gap;
+Apterichtus caecus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;WORMS;;;;WORMS;gap;
+Brachysomophis crocodilinus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;2;2;2;WORMS;;894679
+Callechelys catostoma;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;3;5;3;WORMS;;89379
+Callechelys marmorata;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;11;11;3;WORMS;;89347
+Dalophis imberbis;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD,WORMS;11;12;1;WORMS;;704899
+Echelus myrus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD,WORMS;11;11;1;WORMS;;253452
+Leiuranus semicinctus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;16;17;3;WORMS;;89251
+Myrichthys colubrinus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;5;5;1;WORMS;;84492
+Myrichthys ocellatus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;11;11;1;WORMS;;111870
+Myrichthys xysturus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;16;17;1;WORMS;;501325
+Ophichthus ophis;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;WORMS;;;;WORMS;gap;
+Ophichthus rufus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD,WORMS;4;4;2;WORMS;;806883
+Ophisurus serpens;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD,WORMS;21;27;2;WORMS;;52893
+Phyllophichthus xenodontus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;4;4;1;WORMS;;89344
+Pisodonophis semicinctus;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;WORMS;;;;WORMS;gap;
+Scolecenchelys gymnota;Chordata;Actinopterygii;Anguilliformes;Ophichthidae;BOLD;9;9;5;WORMS;;89383

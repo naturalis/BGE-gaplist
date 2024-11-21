@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aborolabis cerrobarjai;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;;gap;
+Aborolabis mauritanica;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;FE;gap;
+Aborolabis mordax;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;;gap;
+Anisolabis alata;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;FE;gap;
+Anisolabis maritima;Arthropoda;Insecta;Dermaptera;Anisolabididae;BOLD,FE,WORMS;16;29;2;WORMS;;237150
+Anisolabis pectoralis;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;FE;gap;
+Euborellia annulipes;Arthropoda;Insecta;Dermaptera;Anisolabididae;BOLD,FE,iNat;5;21;3;FE;;209122
+Euborellia hispanica;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;;gap;
+Euborellia moesta;Arthropoda;Insecta;Dermaptera;Anisolabididae;BOLD,FE;7;7;1;FE;;1056692
+Gonolabis maxima;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;FE;gap;
+Parisolabis elegans;Arthropoda;Insecta;Dermaptera;Anisolabididae;FE;;;;FE;gap;

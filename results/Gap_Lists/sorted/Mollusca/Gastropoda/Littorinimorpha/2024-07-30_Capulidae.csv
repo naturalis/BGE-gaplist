@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Capulus simplex;Mollusca;Gastropoda;Littorinimorpha;Capulidae;WORMS;;;;;gap;
+Capulus ungaricus;Mollusca;Gastropoda;Littorinimorpha;Capulidae;BOLD,WORMS;11;17;1;WORMS;;31452;767336
+Torellia delicata;Mollusca;Gastropoda;Littorinimorpha;Capulidae;WORMS;1;1;1;WORMS;;740204
+Torellia didyma;Mollusca;Gastropoda;Littorinimorpha;Capulidae;WORMS;;;;;gap;
+Trichotropis borealis;Mollusca;Gastropoda;Littorinimorpha;Capulidae;BOLD;0;2;0;;gap;714496

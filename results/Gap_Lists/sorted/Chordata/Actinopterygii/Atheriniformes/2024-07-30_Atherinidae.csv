@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atherina boyeri;Chordata;Actinopterygii;Atheriniformes;Atherinidae;BOLD,FE;50;113;3;WORMS;;71193
+Atherina hepsetus;Chordata;Actinopterygii;Atheriniformes;Atherinidae;BOLD;30;31;1;WORMS;;28072
+Atherinomorus lacunosus;Chordata;Actinopterygii;Atheriniformes;Atherinidae;WORMS;;;;WORMS;gap;
+Hypoatherina temminckii;Chordata;Actinopterygii;Atheriniformes;Atherinidae;BOLD;48;51;3;WORMS;;384378

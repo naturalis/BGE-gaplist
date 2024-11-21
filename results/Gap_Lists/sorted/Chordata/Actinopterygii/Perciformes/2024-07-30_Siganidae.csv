@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Siganus luridus;Chordata;Actinopterygii;Perciformes;Siganidae;BOLD,WORMS;41;45;3;WORMS;;285911
+Siganus spinus;Chordata;Actinopterygii;Perciformes;Siganidae;BOLD;34;41;2;WORMS;;89293
+Siganus vulpinus;Chordata;Actinopterygii;Perciformes;Siganidae;BOLD;29;35;1;WORMS;;47151

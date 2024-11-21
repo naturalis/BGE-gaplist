@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dryadaula caucasica;Arthropoda;Insecta;Lepidoptera;Dryadaulidae;BOLD,FE,LF;1;2;1;FE;;703966
+Dryadaula heindeli;Arthropoda;Insecta;Lepidoptera;Dryadaulidae;BOLD,FE,LF;4;9;1;;;258115
+Dryadaula irinae;Arthropoda;Insecta;Lepidoptera;Dryadaulidae;BOLD,FE,LF;3;4;1;FE;;388331
+Dryadaula minuta;Arthropoda;Insecta;Lepidoptera;Dryadaulidae;LF;;;;;gap;
+Dryadaula zinica;Arthropoda;Insecta;Lepidoptera;Dryadaulidae;LF;;;;;gap;

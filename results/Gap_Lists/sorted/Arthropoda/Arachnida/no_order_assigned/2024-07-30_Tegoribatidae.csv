@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lepidozetes dashidorzsi;Arthropoda;Arachnida;;Tegoribatidae;FE;;;;;gap;
+Lepidozetes latipilosus;Arthropoda;Arachnida;;Tegoribatidae;FE;;;;;gap;
+Lepidozetes singularis;Arthropoda;Arachnida;;Tegoribatidae;FE;1;2;1;ITIS;;216800
+Lepidozetes trifolius;Arthropoda;Arachnida;;Tegoribatidae;FE;;;;FE;gap;
+Lepidozetes umbellatus;Arthropoda;Arachnida;;Tegoribatidae;FE;;;;FE;gap;
+Tegoribates alzanii;Arthropoda;Arachnida;;Tegoribatidae;FE;;;;FE;gap;
+Tegoribates latirostris;Arthropoda;Arachnida;;Tegoribatidae;FE;;;;ITIS;gap;

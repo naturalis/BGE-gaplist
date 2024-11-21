@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Asteroporpa annulata;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;BOLD;0;4;0;ITIS;gap;217989
+Astrophyton muricatum;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;BOLD;3;8;1;WORMS;;218070
+Astrospartus mediterraneus;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;BOLD,WORMS;8;8;1;WORMS;;218079
+Gorgonocephalus arcticus;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;WORMS;;;;WORMS;gap;
+Gorgonocephalus caputmedusae;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;BOLD,WORMS;4;4;1;WORMS;;218099
+Gorgonocephalus eucnemis;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;BOLD,WORMS;22;30;4;WORMS;;140280
+Gorgonocephalus lamarckii;Echinodermata;Ophiuroidea;Euryalida;Gorgonocephalidae;BOLD,WORMS;4;6;1;WORMS;;218103

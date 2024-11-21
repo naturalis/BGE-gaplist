@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aulacigaster falcata;Arthropoda;Insecta;Diptera;Aulacigastridae;FE,SyDip;;;;;gap;
+Aulacigaster leucopeza;Arthropoda;Insecta;Diptera;Aulacigastridae;BOLD,FE,SyDip;4;5;1;ITIS;;483586
+Aulacigaster neoleucopeza;Arthropoda;Insecta;Diptera;Aulacigastridae;FE,SyDip;962;969;2;;;530494
+Aulacigaster pappi;Arthropoda;Insecta;Diptera;Aulacigastridae;BOLD,FE,SyDip;16;17;1;;;407162

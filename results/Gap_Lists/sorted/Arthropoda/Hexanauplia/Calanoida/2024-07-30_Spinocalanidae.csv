@@ -1,0 +1,27 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Damkaeria falcifera;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Foxtonia barbatula;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;3;3;1;;;651117
+Mimocalanus cultrifer;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Mimocalanus inflatus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Mimocalanus major;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Mimocalanus nudus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Mimocalanus ovalis;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Monacilla tenera;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Monacilla typica;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Sognocalanus confertus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Spinocalanus abruptus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Spinocalanus abyssalis;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;15;29;4;;;8203
+Spinocalanus angusticeps;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Spinocalanus brevicaudatus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;0;1;0;WORMS;gap;890630
+Spinocalanus caudatus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Spinocalanus hirtus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Spinocalanus horridus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Spinocalanus longicornis;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;BOLD,WORMS;91;95;1;WORMS;;263613
+Spinocalanus magnus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;2;3;1;WORMS;;957417
+Spinocalanus oligospinosus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Spinocalanus polaris;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Spinocalanus spinosus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Spinocalanus validus;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Teneriforma meteorae;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;
+Teneriforma naso;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;WORMS;gap;
+Teneriforma pentatrichodes;Arthropoda;Hexanauplia;Calanoida;Spinocalanidae;WORMS;;;;;gap;

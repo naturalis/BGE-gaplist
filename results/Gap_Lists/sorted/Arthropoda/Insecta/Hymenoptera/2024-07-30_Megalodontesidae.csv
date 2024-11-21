@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Megalodontes bucephalus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;FE;gap;
+Megalodontes capitalatus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE;3;3;1;;;338211
+Megalodontes cephalotes;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE,iNat,DTN;24;32;1;FE;;81944
+Megalodontes dusmeti;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;;gap;
+Megalodontes eversmanni;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;5;8;1;FE;;338214
+Megalodontes fabricii;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE,iNat,DTN;;;;FE;gap;294446
+Megalodontes flabellicornis;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE;10;10;2;FE;;338215
+Megalodontes flavicornis;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE,DTN;4;4;2;FE;;338216
+Megalodontes gratiosus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;FE;gap;
+Megalodontes krausi;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;;gap;
+Megalodontes laticeps;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;;gap;
+Megalodontes medius;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;2;2;1;;;333397
+Megalodontes merceti;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;;gap;
+Megalodontes mocsaryi;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE;0;1;0;FE;gap;338227
+Megalodontes mundus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;;gap;
+Megalodontes panzeri;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE,DTN;10;10;1;FE;;338230
+Megalodontes phaenicius;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE;4;4;2;FE;;338232
+Megalodontes plagiocephalus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE,DTN;28;29;4;FE;;338233
+Megalodontes scythicus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;;;;;gap;
+Megalodontes spiraeae;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;3;3;2;FE;;338238
+Megalodontes thor;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;BOLD,FE,DTN;18;20;1;;;208561
+Megalodontes turcicus;Arthropoda;Insecta;Hymenoptera;Megalodontesidae;FE;1;1;1;FE;;338239

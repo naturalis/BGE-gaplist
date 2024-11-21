@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Trichopsocus brincki;Arthropoda;Insecta;Psocodea;Trichopsocidae;FE;;;;;gap;
+Trichopsocus claris;Arthropoda;Insecta;Psocodea;Trichopsocidae;BOLD;365;367;2;;;655116
+Trichopsocus clarus;Arthropoda;Insecta;Psocodea;Trichopsocidae;FE;;;;FE;gap;
+Trichopsocus coloratus;Arthropoda;Insecta;Psocodea;Trichopsocidae;FE;;;;;gap;
+Trichopsocus dalii;Arthropoda;Insecta;Psocodea;Trichopsocidae;BOLD,FE;511;513;1;FE;;725848
+Trichopsocus difficilis;Arthropoda;Insecta;Psocodea;Trichopsocidae;FE;;;;;gap;
+Trichopsocus fastuosus;Arthropoda;Insecta;Psocodea;Trichopsocidae;FE;;;;FE;gap;
+Trichopsocus marmoratus;Arthropoda;Insecta;Psocodea;Trichopsocidae;FE;;;;FE;gap;

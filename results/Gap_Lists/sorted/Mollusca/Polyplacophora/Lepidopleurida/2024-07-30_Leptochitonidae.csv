@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lepidopleurus cajetanus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton albemarlensis;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;BOLD;2;2;1;;;361892
+Leptochiton algesirensis;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;BOLD,WORMS;3;4;2;;;299731
+Leptochiton alveolus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;BOLD,WORMS;3;7;2;WORMS;;1081594
+Leptochiton arcticus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton asellus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;BOLD,WORMS,iNat;19;40;1;WORMS;;507671
+Leptochiton bedullii;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;;gap;
+Leptochiton cimicoides;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton compostellanum;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton gascognensis;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton geronensis;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton leloupi;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;;gap;
+Leptochiton odhneri;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton pseudogloriosus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;;gap;
+Leptochiton sarsi;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;BOLD,WORMS;3;6;1;WORMS;;1081593
+Leptochiton scabridus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton tenuis;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;;gap;
+Leptochiton thalattius;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;WORMS;gap;
+Leptochiton xanthus;Mollusca;Polyplacophora;Lepidopleurida;Leptochitonidae;WORMS;;;;;gap;

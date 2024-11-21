@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Scytodes annulipes;Arthropoda;Arachnida;Araneae;Scytodidae;BOLD;2;2;0;;;841870
+Scytodes bertheloti;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;;gap;
+Scytodes canariensis;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;;gap;
+Scytodes fusca;Arthropoda;Arachnida;Araneae;Scytodidae;FE;125;170;4;;;299615
+Scytodes immaculata;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;;gap;
+Scytodes ruficeps;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;FE;gap;
+Scytodes tenerifensis;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;;gap;
+Scytodes thoracica;Arthropoda;Arachnida;Araneae;Scytodidae;BOLD,FE,iNat;61;77;11;FE;;255851
+Scytodes univittata;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;;gap;
+Scytodes velutina;Arthropoda;Arachnida;Araneae;Scytodidae;BOLD,FE;12;14;0;FE;;300291
+Scytodes venusta;Arthropoda;Arachnida;Araneae;Scytodidae;FE;;;;FE;gap;

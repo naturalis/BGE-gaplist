@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ototyphlonemertes aurantiaca;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;WORMS;;;;WORMS;gap;
+Ototyphlonemertes aurita;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;WORMS;;;;WORMS;gap;
+Ototyphlonemertes claparedii;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;WORMS;;;;WORMS;gap;
+Ototyphlonemertes esulcata;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;WORMS;;;;;gap;
+Ototyphlonemertes lactea;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;BOLD;107;225;12;;;652867
+Ototyphlonemertes macintoshi;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;BOLD;59;63;9;;;652868
+Ototyphlonemertes pallida;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;BOLD,WORMS;28;54;4;WORMS;;852493
+Ototyphlonemertes santacruzensis;Nemertea;Hoplonemertea;Monostilifera;Ototyphlonemertidae;BOLD;47;49;8;;;652870

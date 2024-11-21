@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lithodes maja;Arthropoda;Malacostraca;Decapoda;Lithodidae;BOLD,WORMS;29;31;1;WORMS;;142606
+Neolithodes duhameli;Arthropoda;Malacostraca;Decapoda;Lithodidae;BOLD;2;4;1;;;667164
+Neolithodes grimaldii;Arthropoda;Malacostraca;Decapoda;Lithodidae;BOLD,WORMS;3;3;1;WORMS;;209853
+Paralithodes camtschaticus;Arthropoda;Malacostraca;Decapoda;Lithodidae;BOLD;114;119;1;WORMS;;25186
+Paralomis bouvieri;Arthropoda;Malacostraca;Decapoda;Lithodidae;WORMS;;;;;gap;
+Paralomis microps;Arthropoda;Malacostraca;Decapoda;Lithodidae;WORMS;;;;WORMS;gap;
+Paralomis spectabilis;Arthropoda;Malacostraca;Decapoda;Lithodidae;WORMS;;;;;gap;

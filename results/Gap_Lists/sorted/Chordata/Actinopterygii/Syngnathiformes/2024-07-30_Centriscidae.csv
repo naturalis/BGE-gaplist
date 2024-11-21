@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aeoliscus strigatus;Chordata;Actinopterygii;Syngnathiformes;Centriscidae;BOLD;16;20;1;WORMS;;103431
+Centriscops humerosus;Chordata;Actinopterygii;Syngnathiformes;Centriscidae;BOLD;5;15;1;WORMS;;53068
+Macroramphosus scolopax;Chordata;Actinopterygii;Syngnathiformes;Centriscidae;BOLD,WORMS;121;134;5;WORMS;;24006

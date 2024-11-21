@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Aponuphis bilineata;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD;0;7;0;WORMS;gap;706583
+Aponuphis brementi;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Aponuphis ornata;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Aponuphis rigida;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Diopatra madeirensis;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;;gap;
+Diopatra neapolitana;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD,WORMS;104;105;1;WORMS;;201626
+Hyalinoecia robusta;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;6;7;1;ITIS;;1062078
+Hyalinoecia tubicola;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD,WORMS;106;118;3;WORMS;;378439;668555
+Longibrachium atlanticum;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Nothria britannica;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;;gap;
+Nothria conchylega;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD,WORMS;40;59;3;WORMS;;205805
+Onuphis eremita;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;1;3;1;WORMS;;854040
+Onuphis opalina;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;0;3;0;WORMS;gap;1140105
+Onuphis rullieriana;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Paradiopatra calliopae;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;0;10;0;;gap;1150652
+Paradiopatra fiordica;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;0;5;0;WORMS;gap;1150651
+Paradiopatra fjordica;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD;0;1;0;WORMS;gap;1127934
+Paradiopatra hartmanae;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Paradiopatra hispanica;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;0;3;0;WORMS;gap;378425
+Paradiopatra lepta;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;WORMS;gap;
+Paradiopatra quadricuspis;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD,WORMS;3;5;1;WORMS;;300519
+Rhamphobrachium agassizii;Annelida;Polychaeta;Eunicida;Onuphidae;WORMS;;;;;gap;
+Rhamphobrachium brevibrachiatum;Annelida;Polychaeta;Eunicida;Onuphidae;BOLD;1;1;1;;;1068625

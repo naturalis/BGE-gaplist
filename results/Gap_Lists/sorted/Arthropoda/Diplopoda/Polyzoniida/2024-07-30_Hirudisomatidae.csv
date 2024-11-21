@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hirudisoma carniolense;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;BOLD,FE;5;5;1;FE;;561044
+Hirudisoma equiseti;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;FE;;;;;gap;
+Hirudisoma getschmanni;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;BOLD,FE;2;2;0;FE;;1021622
+Hirudisoma hirsutum;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;FE;;;;FE;gap;
+Hirudisoma latum;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;BOLD,FE;2;2;0;FE;;1021653
+Hirudisoma pallidum;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;BOLD,FE;5;5;2;FE;;673808
+Hirudisoma pyrenaeum;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;FE;;;;FE;gap;
+Hirudisoma trivittatum;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;FE;;;;;gap;
+Hirudisoma vachoni;Arthropoda;Diplopoda;Polyzoniida;Hirudisomatidae;BOLD,FE;2;2;0;;;1021611

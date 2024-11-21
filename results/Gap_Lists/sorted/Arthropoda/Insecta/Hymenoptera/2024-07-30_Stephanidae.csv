@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Megischus annomalipes;Arthropoda;Insecta;Hymenoptera;Stephanidae;BOLD;0;1;0;;gap;330487
+Megischus anomalipes;Arthropoda;Insecta;Hymenoptera;Stephanidae;BOLD,FE;1;2;0;FE;;1139893
+Stephanus serrator;Arthropoda;Insecta;Hymenoptera;Stephanidae;BOLD,FE,iNat,DTN;15;17;1;FE;;311903

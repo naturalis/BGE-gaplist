@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anadara corbuloides;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;WORMS;gap;
+Anadara kagoshimensis;Mollusca;Bivalvia;Arcida;Arcidae;BOLD;20;76;2;WORMS;;608961;649220;653790;32645
+Anadara natalensis;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;WORMS;gap;
+Anadara transversa;Mollusca;Bivalvia;Arcida;Arcidae;BOLD;10;16;1;WORMS;;149493
+Arca noae;Mollusca;Bivalvia;Arcida;Arcidae;BOLD,WORMS;1;2;1;WORMS;;649385
+Arca tetragona;Mollusca;Bivalvia;Arcida;Arcidae;BOLD;3;4;1;;;767338
+Asperarca magdalenae;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;;gap;
+Asperarca nodulosa;Mollusca;Bivalvia;Arcida;Arcidae;BOLD,WORMS;5;9;1;WORMS;;767335
+Asperarca secreta;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;;gap;
+Barbatia barbata;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;2;2;1;WORMS;;30937
+Bathyarca frielei;Mollusca;Bivalvia;Arcida;Arcidae;BOLD,WORMS;0;1;1;WORMS;gap;948232
+Bathyarca glacialis;Mollusca;Bivalvia;Arcida;Arcidae;BOLD,WORMS;14;29;1;WORMS;;676939
+Bathyarca inaequisculpta;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;WORMS;gap;
+Bathyarca pectunculoides;Mollusca;Bivalvia;Arcida;Arcidae;BOLD,WORMS;5;16;1;WORMS;;306807
+Bathyarca philippiana;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;WORMS;gap;
+Bentharca asperula;Mollusca;Bivalvia;Arcida;Arcidae;WORMS;;;;WORMS;gap;

@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acrotritia ardua;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD;2;10;1;;;1060369
+Acrotritia duplicata;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD;1;4;0;;;760943
+Euphthiracarus antipai;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;;gap;
+Euphthiracarus arilloi;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;ITIS;gap;
+Euphthiracarus cribrarius;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD,FE;8;22;1;FE;;480950
+Euphthiracarus excultus;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;;gap;
+Euphthiracarus intermedius;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;FE;gap;
+Euphthiracarus jacoti;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;ITIS;gap;
+Euphthiracarus minutus;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;FE;gap;
+Euphthiracarus monodactylus;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD,FE;2;13;2;ITIS;;485516
+Microtritia minima;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD,FE;5;9;2;ITIS;;1078200
+Oribotritia fennica;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD,FE;0;5;0;;gap;485520
+Rhysotritia ardua;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;BOLD,FE;49;59;3;FE;;182072
+Rhysotritia clavata;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;;gap;
+Rhysotritia duplicata;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;1;2;0;FE;;667440
+Rhysotritia hyeroglyphica;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;FE;gap;
+Rhysotritia intermedia;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;FE;gap;
+Rhysotritia rieznae;Arthropoda;Arachnida;Sarcoptiformes;Euphthiracaridae;FE;;;;;gap;

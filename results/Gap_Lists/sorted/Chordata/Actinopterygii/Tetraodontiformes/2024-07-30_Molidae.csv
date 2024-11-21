@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Masturus lanceolatus;Chordata;Actinopterygii;Tetraodontiformes;Molidae;WORMS;;;;WORMS;gap;
+Mola mola;Chordata;Actinopterygii;Tetraodontiformes;Molidae;BOLD,WORMS;24;24;3;WORMS;;29489
+Ranzania laevis;Chordata;Actinopterygii;Tetraodontiformes;Molidae;BOLD,WORMS;88;89;1;WORMS;;319401

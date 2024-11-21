@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cephalotrema elasticum;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;FE;gap;
+Cephalotrema minutum;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Mediogonimus jourdanei;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Prosthogonimus cuneatus;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;BOLD,FE;0;5;0;WORMS;gap;906182
+Prosthogonimus gracilis;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;WORMS;gap;
+Prosthogonimus limani;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Prosthogonimus longus;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Prosthogonimus macrorchis;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Prosthogonimus ovatus;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;BOLD,FE,WORMS;0;9;0;WORMS;gap;906205
+Prosthogonimus pellucidus;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;BOLD,FE;0;2;0;FE;gap;906206
+Prosthogonimus rarus;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Prosthogonimus skrjabini;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;FE;;;;;gap;
+Schistogonimus rarus;Platyhelminthes;Trematoda;Plagiorchiida;Prosthogonimidae;BOLD;0;4;0;;gap;906204

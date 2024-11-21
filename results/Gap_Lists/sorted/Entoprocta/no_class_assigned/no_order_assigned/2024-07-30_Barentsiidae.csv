@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Barentsia benedeni;Entoprocta;;;Barentsiidae;WORMS;;;;WORMS;gap;
+Barentsia elongata;Entoprocta;;;Barentsiidae;WORMS;;;;;gap;
+Barentsia gracilis;Entoprocta;;;Barentsiidae;WORMS;3;8;2;WORMS;;304580
+Barentsia matsushimana;Entoprocta;;;Barentsiidae;WORMS;;;;;gap;
+Barentsia mutabilis;Entoprocta;;;Barentsiidae;WORMS;;;;;gap;
+Barentsia ramosa;Entoprocta;;;Barentsiidae;WORMS;;;;WORMS;gap;
+Urnatella gracilis;Entoprocta;;;Barentsiidae;FE;;;;ITIS;gap;

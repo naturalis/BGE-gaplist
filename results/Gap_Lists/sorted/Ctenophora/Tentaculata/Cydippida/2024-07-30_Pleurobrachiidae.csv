@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ceroctena bicornis;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;WORMS;;;;;gap;
+Hormiphora plumosa;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;WORMS;;;;WORMS;gap;
+Minictena luteola;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;WORMS;;;;;gap;
+Pleurobrachia bachei;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;BOLD;6;27;1;;;462427
+Pleurobrachia pileus;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;BOLD,WORMS,iNat;1;24;1;WORMS;;381306
+Pleurobrachia rhodopis;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;WORMS;;;;WORMS;gap;
+Sabaudia liguriae;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;WORMS;;;;;gap;
+Tinerfe cyanea;Ctenophora;Tentaculata;Cydippida;Pleurobrachiidae;WORMS;;;;WORMS;gap;

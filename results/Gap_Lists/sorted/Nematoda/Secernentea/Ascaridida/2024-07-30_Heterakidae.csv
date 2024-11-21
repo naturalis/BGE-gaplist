@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heterakis altaica;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;;gap;
+Heterakis crexi;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;;gap;
+Heterakis dispar;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;FE;gap;
+Heterakis gallinarum;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;108;108;1;FE;;896542
+Heterakis isolonche;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;8;8;4;;;211300
+Heterakis macroura;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;;gap;
+Heterakis monticelliana;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;;gap;
+Heterakis spumosa;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;0;5;0;;gap;896526
+Heterakis tenuicauda;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;;gap;
+Heterakis vesicularis;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;FE;gap;
+Spinicauda sonsinoi;Nematoda;Secernentea;Ascaridida;Heterakidae;FE;;;;FE;gap;

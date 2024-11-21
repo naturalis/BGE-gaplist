@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Barleeia gougeti;Mollusca;Gastropoda;Littorinimorpha;Barleeiidae;WORMS;;;;WORMS;gap;
+Barleeia seminulum;Mollusca;Gastropoda;Littorinimorpha;Barleeiidae;WORMS;;;;WORMS;gap;
+Barleeia unifasciata;Mollusca;Gastropoda;Littorinimorpha;Barleeiidae;BOLD,WORMS;1;1;0;WORMS;;963221

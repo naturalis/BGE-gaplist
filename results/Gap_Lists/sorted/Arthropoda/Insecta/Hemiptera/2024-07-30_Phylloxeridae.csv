@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthochermes quercus;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;;gap;
+Aphanostigma piri;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Daktulosphaira vitifoliae;Arthropoda;Insecta;Hemiptera;Phylloxeridae;BOLD;54;371;2;;;18523
+Foaiella danesii;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Moritziella corticalis;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxera coccinea;Arthropoda;Insecta;Hemiptera;Phylloxeridae;BOLD,FE;91;91;1;FE;;148157
+Phylloxera confusa;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxera foaae;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;;gap;
+Phylloxera glabra;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxera ilicis;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxera italica;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxera quercina;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;0;1;0;FE;gap;148178
+Phylloxera quercus;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxerina capreae;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;;gap;
+Phylloxerina daphnoidis;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;;gap;
+Phylloxerina populi;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;
+Phylloxerina salicis;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;1;1;1;FE;;148199
+Viteus vitifoliae;Arthropoda;Insecta;Hemiptera;Phylloxeridae;FE;;;;FE;gap;

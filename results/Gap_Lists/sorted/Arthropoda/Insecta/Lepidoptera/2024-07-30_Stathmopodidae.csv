@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cuprina fuscella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;FE,LF;;;;;gap;
+Neomariania incertella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;FE,LF;;;;FE;gap;
+Neomariania oecophorella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;FE,LF;;;;FE;gap;
+Neomariania partinicensis;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;BOLD,FE,LF;5;5;2;FE;;362500
+Neomariania rebeli;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;BOLD,FE,LF;0;1;0;FE;gap;981261
+Neomariania scriptella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;FE,LF;;;;FE;gap;
+Pachyrhabda steropodes;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;LF;0;5;0;;gap;370129
+Stathmopoda auriferella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;LF;251;254;3;;;502967
+Stathmopoda pedella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;BOLD,FE,LF,iNat;33;37;1;FE;;73656
+Tortilia flavella;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;FE,LF;;;;;gap;
+Tortilia flavescens;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;LF;;;;;gap;
+Tortilia graeca;Arthropoda;Insecta;Lepidoptera;Stathmopodidae;FE,LF;;;;;gap;

@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Myrmecophila acervorum;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;BOLD;2;3;0;;;519405
+Myrmecophilus acervorum;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;BOLD,FE,iNat;28;31;1;FE;;327572
+Myrmecophilus aequispinus;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;
+Myrmecophilus baronii;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;;gap;
+Myrmecophilus hirticaudus;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;
+Myrmecophilus myrmecophilus;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;
+Myrmecophilus ochraceus;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;
+Myrmecophilus salomonis;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;
+Myrmecophilus termitophilus;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;
+Myrmecophilus zorae;Arthropoda;Insecta;Orthoptera;Myrmecophilidae;FE;;;;FE;gap;

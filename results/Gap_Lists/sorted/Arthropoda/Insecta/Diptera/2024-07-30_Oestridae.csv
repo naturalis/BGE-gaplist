@@ -1,0 +1,24 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cephenemyia auribarbis;Arthropoda;Insecta;Diptera;Oestridae;FE,iNat,SyDip;11;18;1;SyDip;;789181
+Cephenemyia stimulator;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,iNat,SyDip;3;26;0;SyDip;;172876
+Cephenemyia trompe;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;11;16;1;ITIS;;171070
+Cephenemyia ulrichii;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;6;7;1;SyDip;;172875
+Dermatobia hominis;Arthropoda;Insecta;Diptera;Oestridae;BOLD,SyDip;17;25;2;SyDip;;27764
+Gasterophilus haemorrhoidalis;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;6;15;1;ITIS;;172872
+Gasterophilus inermis;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;4;8;1;ITIS;;878946
+Gasterophilus intestinalis;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;23;89;2;ITIS;;33104
+Gasterophilus nasalis;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;4;105;1;ITIS;;172871
+Gasterophilus nigricornis;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;7;84;1;SyDip;;878947
+Gasterophilus pecorum;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;6;163;1;SyDip;;172870
+Hypoderma (Hypoderma) bovis;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;;;;SyDip;gap;33105
+Hypoderma (Hypoderma) lineatum;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;;;;SyDip;gap;32668
+Hypoderma (Oedemagena) tarandi;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;;;;SyDip;gap;172878
+Hypoderma actaeon;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;0;12;0;;gap;172877
+Hypoderma diana;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,iNat,SyDip;2;4;1;SyDip;;172879
+Oestromyia leporina;Arthropoda;Insecta;Diptera;Oestridae;FE,iNat,SyDip;0;26;0;SyDip;gap;921976
+Oestrus caucasicus;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;;;;;gap;
+Oestrus ovis;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;50;137;2;SyDip;;33103
+Pharyngomyia picta;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;34;39;1;SyDip;;789184
+Portschinskia neugebaueri;Arthropoda;Insecta;Diptera;Oestridae;FE,SyDip;;;;SyDip;gap;
+Przhevalskiana silenus;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;3;30;1;SyDip;;33102
+Rhinoestrus purpureus;Arthropoda;Insecta;Diptera;Oestridae;BOLD,FE,SyDip;1;1;0;SyDip;;800671

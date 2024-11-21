@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caprimulgus aegyptius;Chordata;Aves;Caprimulgiformes;Caprimulgidae;FE;12;12;1;;;114561
+Caprimulgus europaeus;Chordata;Aves;Caprimulgiformes;Caprimulgidae;BOLD,FE,iNat;24;27;2;;;52558
+Caprimulgus ruficollis;Chordata;Aves;Caprimulgiformes;Caprimulgidae;BOLD,FE;0;2;0;;gap;114602
+Chordeiles minor;Chordata;Aves;Caprimulgiformes;Caprimulgidae;FE;7;16;2;ITIS;;9984

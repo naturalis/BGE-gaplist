@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Palingenia fuliginosa;Arthropoda;Insecta;Ephemeroptera;Palingeniidae;FE;;;;FE;gap;
+Palingenia longicauda;Arthropoda;Insecta;Ephemeroptera;Palingeniidae;BOLD,FE;75;520;1;FE;;856473
+Palingenia sublongicauda;Arthropoda;Insecta;Ephemeroptera;Palingeniidae;FE;;;;;gap;

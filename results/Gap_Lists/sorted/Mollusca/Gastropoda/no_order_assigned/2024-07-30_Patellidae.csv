@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cymbula safiana;Mollusca;Gastropoda;;Patellidae;BOLD;69;69;2;WORMS;;25164;354577
+Patella aspera;Mollusca;Gastropoda;;Patellidae;BOLD;25;35;3;;;106773
+Patella caerulea;Mollusca;Gastropoda;;Patellidae;BOLD,WORMS;30;187;1;WORMS;;25161
+Patella candei;Mollusca;Gastropoda;;Patellidae;BOLD;211;230;2;WORMS;;25155
+Patella depressa;Mollusca;Gastropoda;;Patellidae;BOLD;80;101;1;WORMS;;25159
+Patella ferruginea;Mollusca;Gastropoda;;Patellidae;BOLD;134;137;1;;;25156
+Patella pellucida;Mollusca;Gastropoda;;Patellidae;BOLD;7;7;1;WORMS;;25157;673968
+Patella piperata;Mollusca;Gastropoda;;Patellidae;BOLD,WORMS;3;3;0;WORMS;;968383
+Patella rustica;Mollusca;Gastropoda;;Patellidae;BOLD,WORMS;199;206;5;WORMS;;25154
+Patella tenuis;Mollusca;Gastropoda;;Patellidae;BOLD;2;2;0;WORMS;;968381
+Patella ulyssiponensis;Mollusca;Gastropoda;;Patellidae;BOLD,WORMS;162;270;3;WORMS;;25160
+Patella vulgata;Mollusca;Gastropoda;;Patellidae;BOLD,WORMS;65;110;3;WORMS;;25158

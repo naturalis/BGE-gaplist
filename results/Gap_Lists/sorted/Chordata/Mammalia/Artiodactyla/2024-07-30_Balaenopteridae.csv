@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Balaenoptera acutorostrata;Chordata;Mammalia;Artiodactyla;Balaenopteridae;BOLD,WORMS;11;24;1;WORMS;;29234
+Balaenoptera borealis;Chordata;Mammalia;Artiodactyla;Balaenopteridae;WORMS;;;;WORMS;gap;
+Balaenoptera edeni;Chordata;Mammalia;Artiodactyla;Balaenopteridae;WORMS;;;;WORMS;gap;
+Balaenoptera physalus;Chordata;Mammalia;Artiodactyla;Balaenopteridae;BOLD,WORMS;171;173;1;WORMS;;24356
+Megaptera novaeangliae;Chordata;Mammalia;Artiodactyla;Balaenopteridae;WORMS;;;;WORMS;gap;

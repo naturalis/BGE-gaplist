@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Illex coindetii;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;BOLD,WORMS;67;78;1;WORMS;;82744;80378
+Martialia hyadesi;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;BOLD;3;10;1;;;315727
+Ommastrephes bartramii;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;BOLD;19;21;4;WORMS;;26425;987915
+Sthenoteuthis pteropus;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;BOLD,WORMS;15;15;1;WORMS;;507880
+Todarodes sagittatus;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;BOLD,WORMS;21;24;1;WORMS;;315724
+Todaropsis eblanae;Mollusca;Cephalopoda;Oegopsida;Ommastrephidae;BOLD,WORMS;47;53;3;WORMS;;559232

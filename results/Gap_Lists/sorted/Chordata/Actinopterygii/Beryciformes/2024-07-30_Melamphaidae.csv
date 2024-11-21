@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Melamphaes longivelis;Chordata;Actinopterygii;Beryciformes;Melamphaidae;BOLD,WORMS;;;;WORMS;gap;
+Melamphaes simus;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;;gap;
+Melamphaes suborbitalis;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;WORMS;gap;
+Melamphaes typhlops;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;WORMS;gap;
+Poromitra capito;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;WORMS;gap;
+Poromitra crassiceps;Chordata;Actinopterygii;Beryciformes;Melamphaidae;BOLD,WORMS;28;38;6;WORMS;;34228
+Poromitra megalops;Chordata;Actinopterygii;Beryciformes;Melamphaidae;BOLD,WORMS;18;21;2;WORMS;;70968
+Scopeloberyx opisthopterus;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;WORMS;gap;
+Scopeloberyx robustus;Chordata;Actinopterygii;Beryciformes;Melamphaidae;BOLD,WORMS;37;43;7;WORMS;;70933;731097
+Scopeloberyx rubriventer;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;WORMS;gap;
+Scopelogadus beanii;Chordata;Actinopterygii;Beryciformes;Melamphaidae;BOLD,WORMS;25;31;1;WORMS;;70931
+Scopelogadus bispinosus;Chordata;Actinopterygii;Beryciformes;Melamphaidae;WORMS;;;;FB;gap;

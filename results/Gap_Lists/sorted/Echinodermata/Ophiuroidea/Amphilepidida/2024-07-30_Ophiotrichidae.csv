@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ophiothrix angulata;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;BOLD;149;215;27;ITIS;;220013
+Ophiothrix fragilis;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;BOLD,WORMS;58;89;7;WORMS;;220041
+Ophiothrix luetkeni;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;WORMS;;;;;gap;
+Ophiothrix maculata;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;WORMS;;;;WORMS;gap;
+Ophiothrix oerstedii;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;BOLD;10;29;1;;;220067
+Ophiothrix suensoni;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;BOLD;7;286;1;;;220097
+Ophiothrix trilineata;Echinodermata;Ophiuroidea;Amphilepidida;Ophiotrichidae;BOLD;13;14;2;;;27583

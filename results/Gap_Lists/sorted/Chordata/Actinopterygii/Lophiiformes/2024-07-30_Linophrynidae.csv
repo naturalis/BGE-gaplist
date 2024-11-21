@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Haplophryne mollis;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;BOLD,WORMS;30;34;3;WORMS;;52982
+Linophryne bicornis;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;BOLD;4;4;1;;;503542
+Linophryne brevibarbata;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;WORMS;;;;;gap;
+Linophryne coronata;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;WORMS;;;;WORMS;gap;
+Linophryne lucifer;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;WORMS;;;;WORMS;gap;
+Linophryne maderensis;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;WORMS;;;;;gap;
+Linophryne polypogon;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;WORMS;;;;;gap;
+Linophryne sexfilis;Chordata;Actinopterygii;Lophiiformes;Linophrynidae;WORMS;;;;;gap;

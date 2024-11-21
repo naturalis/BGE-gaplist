@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acanthotrochus mirabilis;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;BOLD,WORMS;0;4;0;;gap;222308
+Achiridota profunda;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;;gap;
+Myriotrochus (Oligotrochus) bathybius;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;WORMS;gap;
+Myriotrochus (Oligotrochus) clarki;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;WORMS;gap;
+Myriotrochus eurycyclus;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;;gap;
+Myriotrochus giganteus;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;;gap;
+Myriotrochus rinkii;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;BOLD,WORMS;5;15;2;WORMS;;217632
+Myriotrochus theeli;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;BOLD,WORMS;0;1;0;WORMS;gap;222315
+Myriotrochus vitreus;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;BOLD;4;9;0;ITIS;;222316
+Parvotrochus belyaevi;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;;gap;
+Siniotrochus myriodontus;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;WORMS;;;;;gap;
+Trochoderma elegans;Echinodermata;Holothuroidea;Apodida;Myriotrochidae;BOLD,WORMS;2;3;0;;;222325

@@ -1,0 +1,37 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anisakis pegreffii;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE,WORMS;9;49;2;WORMS;;234815
+Anisakis physeteris;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;3;3;1;;;234816
+Anisakis simplex;Nematoda;Chromadorea;Rhabditida;Anisakidae;BOLD,FE,WORMS;24;49;3;FE;;82212
+Anisakis typica;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;WORMS;gap;
+Anisakis ziphidarum;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;;gap;
+Contracaecum circi;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Contracaecum kamaense;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Contracaecum microcephalum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;WORMS;gap;
+Contracaecum micropapillatum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;WORMS;gap;
+Contracaecum milvi;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Contracaecum milviensis;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Contracaecum mulli;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;;gap;
+Contracaecum osculatum;Nematoda;Chromadorea;Rhabditida;Anisakidae;BOLD,FE,WORMS;20;46;9;WORMS;;174032
+Contracaecum ovale;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;WORMS;gap;
+Contracaecum pandioni;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Contracaecum papilligerum;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;;gap;
+Contracaecum praestriatum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Contracaecum rudolphii;Nematoda;Chromadorea;Rhabditida;Anisakidae;BOLD,FE,WORMS;4;85;3;WORMS;;234824
+Contracaecum septentrionale;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;;gap;234825
+Contracaecum variegatum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;FE;gap;
+Goezia anguillae;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Goezia ascaroides;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE,WORMS;;;;WORMS;gap;
+Hysterothylacium aduncum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE,WORMS;7;11;2;WORMS;;234840
+Hysterothylacium auctum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE,WORMS;;;;FE;gap;
+Hysterothylacium bidentatum;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;FE;gap;
+Hysterothylacium gadi;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;WORMS;gap;
+Nematoda;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;47016;96420;1623;WORMS;;19
+Phocascaris cystophorae;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE,WORMS;;;;;gap;
+Phocascaris phocae;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;;gap;
+Pseudoterranova bulbosa;Nematoda;Chromadorea;Rhabditida;Anisakidae;WORMS;;;;;gap;
+Pseudoterranova decipiens;Nematoda;Chromadorea;Rhabditida;Anisakidae;BOLD,FE,WORMS;5;11;2;WORMS;;897164
+Pseudoterranova krabbei;Nematoda;Chromadorea;Rhabditida;Anisakidae;BOLD,WORMS;3;6;2;;;896241
+Raphidascaris acus;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;FE;gap;
+Raphidascaris cristata;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;FE;gap;
+Raphidascaris mediterraneus;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;;gap;
+Sulcascaris sulcata;Nematoda;Chromadorea;Rhabditida;Anisakidae;FE;;;;WORMS;gap;

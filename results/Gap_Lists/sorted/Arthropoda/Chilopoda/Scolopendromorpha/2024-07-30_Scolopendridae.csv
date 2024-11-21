@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Otostigmus spinicauda;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;FE;;;;FE;gap;
+Scolopendra canidens;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;BOLD,FE;4;5;3;;;259499
+Scolopendra cingulata;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;BOLD,FE;75;95;13;FE;;561040
+Scolopendra clavipes;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;FE;;;;;gap;
+Scolopendra cretica;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;BOLD,FE;1;2;1;;;667925
+Scolopendra dalmatica;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;FE;;;;;gap;
+Scolopendra oraniensis;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;FE;1;2;1;FE;;653835
+Scolopendra valida;Arthropoda;Chilopoda;Scolopendromorpha;Scolopendridae;FE;1;2;1;FE;;653836

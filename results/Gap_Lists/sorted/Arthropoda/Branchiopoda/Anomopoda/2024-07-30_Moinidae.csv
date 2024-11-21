@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Moina affinis;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;0;15;0;WORMS;gap;52810
+Moina brachiata;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;3;4;1;WORMS;;979124
+Moina ephemeralis;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;;;;;gap;
+Moina lipini;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;3;3;1;;;852249
+Moina macrocopa;Arthropoda;Branchiopoda;Anomopoda;Moinidae;BOLD,FE;44;76;5;ITIS;;56171
+Moina microphthalma;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;;;;;gap;
+Moina micrura;Arthropoda;Branchiopoda;Anomopoda;Moinidae;BOLD,FE;35;89;5;WORMS;;52809
+Moina mongolica;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;;;;;gap;
+Moina rectirostris;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;;;;FE;gap;
+Moina salina;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;;;;;gap;
+Moina weismanni;Arthropoda;Branchiopoda;Anomopoda;Moinidae;FE;4;4;1;;;589019

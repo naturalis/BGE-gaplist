@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dictyocaulus arnfieldi;Nematoda;Chromadorea;Rhabditida;Dictyocaulidae;FE;;;;FE;gap;
+Dictyocaulus capreolus;Nematoda;Chromadorea;Rhabditida;Dictyocaulidae;FE;18;18;1;;;896608
+Dictyocaulus filaria;Nematoda;Chromadorea;Rhabditida;Dictyocaulidae;FE;;;;FE;gap;
+Dictyocaulus murmanensis;Nematoda;Chromadorea;Rhabditida;Dictyocaulidae;FE;;;;;gap;
+Dictyocaulus noerneri;Nematoda;Chromadorea;Rhabditida;Dictyocaulidae;FE;;;;;gap;
+Dictyocaulus viviparus;Nematoda;Chromadorea;Rhabditida;Dictyocaulidae;BOLD,FE;13;26;2;FE;;171721

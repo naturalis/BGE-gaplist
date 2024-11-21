@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Adontorhina similis;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;3;8;0;;;887438
+Axinopsida orbiculata;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD,WORMS;2;3;1;WORMS;;348886
+Axinulus croulinensis;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;4;8;0;WORMS;;674523
+Genaxinus eumyarius;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;4;7;1;WORMS;;887448;154206
+Mendicula ferruginosa;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;13;21;2;WORMS;;673986;154205
+Thyasira biplicata;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;WORMS;gap;
+Thyasira equalis;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;34;36;1;;;154209
+Thyasira flexuosa;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD,WORMS;14;79;2;WORMS;;370525
+Thyasira gouldi;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;8;9;2;;;495479
+Thyasira gouldii;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;WORMS;gap;
+Thyasira grandis;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;ITIS;gap;
+Thyasira granulosa;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;5;5;1;;;154204
+Thyasira obsoleta;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD,WORMS;15;19;1;WORMS;;154203
+Thyasira sarsi;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD;2;19;1;;;154202
+Thyasira sarsii;Mollusca;Bivalvia;Lucinida;Thyasiridae;BOLD,WORMS;0;3;0;WORMS;gap;674390
+Thyasira striata;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;WORMS;gap;
+Thyasira subovata;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;WORMS;gap;
+Thyasira succisa;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;WORMS;gap;
+Thyasira tortuosa;Mollusca;Bivalvia;Lucinida;Thyasiridae;WORMS;;;;WORMS;gap;

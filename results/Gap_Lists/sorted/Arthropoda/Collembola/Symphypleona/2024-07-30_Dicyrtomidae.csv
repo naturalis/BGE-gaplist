@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calvatomina rufescens;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;FE;gap;
+Dicyrtoma atra;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;BOLD;0;4;0;ITIS;gap;650663
+Dicyrtoma christinae;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;;gap;
+Dicyrtoma fusca;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;BOLD,FE,iNat;54;58;6;FE;;193468
+Dicyrtoma melitensis;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;;gap;342423
+Dicyrtomina minuta;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;BOLD,FE,iNat;29;41;4;ITIS;;203283
+Dicyrtomina ornata;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;BOLD,FE,iNat;90;109;3;FE;;140194
+Dicyrtomina saundersi;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;BOLD,FE,iNat;21;33;4;FE;;342421
+Dicyrtomina violacea;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE,iNat;;;;FE;gap;
+Jordanathrix articulata;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;FE;gap;
+Ptenothrix atra;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;BOLD,FE;2;2;1;FE;;1077933
+Ptenothrix ciliata;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;;gap;
+Ptenothrix italica;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;;gap;
+Ptenothrix leucostrigata;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;;gap;
+Ptenothrix reticulata;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;;gap;
+Ptenothrix setosa;Arthropoda;Collembola;Symphypleona;Dicyrtomidae;FE;;;;FE;gap;

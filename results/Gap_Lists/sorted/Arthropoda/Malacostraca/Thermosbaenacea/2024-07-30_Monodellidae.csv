@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Monodella stygicola;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;FE,WORMS;;;;;gap;
+Tethysbaena aiakos;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;FE;;;;;gap;
+Tethysbaena argentarii;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;BOLD,FE;12;23;1;WORMS;;939275
+Tethysbaena halophila;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;FE;;;;WORMS;gap;
+Tethysbaena scabra;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;BOLD,FE;80;109;6;WORMS;;939277
+Tethysbaena siracusae;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;FE;;;;;gap;
+Tethysbaena tarsiensis;Arthropoda;Malacostraca;Thermosbaenacea;Monodellidae;FE;;;;;gap;

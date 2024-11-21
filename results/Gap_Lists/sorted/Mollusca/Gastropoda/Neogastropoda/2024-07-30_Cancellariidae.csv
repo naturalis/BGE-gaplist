@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Admete clivicola;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;BOLD;0;2;0;;gap;948227
+Admete contabulata;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;;gap;
+Admete sadko;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;;gap;
+Admete viridula;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;BOLD,WORMS;8;19;4;WORMS;;315464
+Bivetiella cancellata;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;BOLD;1;2;1;WORMS;;315482;302973
+Brocchinia azorica;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;WORMS;gap;
+Brocchinia clenchi;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;;gap;
+Brocchinia nodosa;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;WORMS;gap;
+Solatia piscatoria;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;WORMS;gap;
+Trichotropis alba;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;ITIS;gap;
+Trichotropis fuscoapicata;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;ITIS;gap;
+Trichotropis inflata;Mollusca;Gastropoda;Neogastropoda;Cancellariidae;WORMS;;;;ITIS;gap;

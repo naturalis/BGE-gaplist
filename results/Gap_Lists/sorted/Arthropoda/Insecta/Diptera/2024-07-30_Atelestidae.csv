@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Atelestus dissonans;Arthropoda;Insecta;Diptera;Atelestidae;BOLD,FE,SyDip;4;4;0;;;546390
+Atelestus pulicarius;Arthropoda;Insecta;Diptera;Atelestidae;BOLD,FE,SyDip;12;13;1;SyDip;;469852
+Meghyperus sudeticus;Arthropoda;Insecta;Diptera;Atelestidae;BOLD,FE,SyDip;2;5;0;;;546389
+Nemedina alamirabilis;Arthropoda;Insecta;Diptera;Atelestidae;FE,SyDip;;;;;gap;

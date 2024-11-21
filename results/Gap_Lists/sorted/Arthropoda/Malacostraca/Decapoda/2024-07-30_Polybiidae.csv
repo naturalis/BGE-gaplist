@@ -1,0 +1,17 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathynectes longipes;Arthropoda;Malacostraca;Decapoda;Polybiidae;WORMS;;;;WORMS;gap;
+Bathynectes maravigna;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;17;20;1;WORMS;;89818
+Liocarcinus bolivari;Arthropoda;Malacostraca;Decapoda;Polybiidae;WORMS;;;;WORMS;gap;
+Liocarcinus corrugatus;Arthropoda;Malacostraca;Decapoda;Polybiidae;WORMS;;;;WORMS;gap;
+Liocarcinus depurator;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;1088;1113;1;WORMS;;80947
+Liocarcinus maculatus;Arthropoda;Malacostraca;Decapoda;Polybiidae;WORMS;;;;WORMS;gap;
+Liocarcinus marmoreus;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;13;20;3;WORMS;;181777
+Liocarcinus navigator;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD;24;32;2;WORMS;;347163
+Liocarcinus pusillus;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;13;18;1;WORMS;;469389
+Liocarcinus vernalis;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;3;4;1;WORMS;;606103;501905
+Liocarcinus zariquieyi;Arthropoda;Malacostraca;Decapoda;Polybiidae;WORMS;;;;WORMS;gap;
+Macropipus rugosus;Arthropoda;Malacostraca;Decapoda;Polybiidae;WORMS;;;;WORMS;gap;
+Macropipus tuberculatus;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;22;33;1;WORMS;;89890
+Necora puber;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS,iNat;124;136;1;WORMS;;79922
+Polybius henslowii;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS;16;30;1;;;89905
+Polybius holsatus;Arthropoda;Malacostraca;Decapoda;Polybiidae;BOLD,WORMS,iNat;;;;ITIS;gap;181776

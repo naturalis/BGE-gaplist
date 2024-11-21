@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Camallanus cotti;Nematoda;Secernentea;Spirurida;Camallanidae;FE;2;76;1;;;199387
+Camallanus lacustris;Nematoda;Secernentea;Spirurida;Camallanidae;FE;0;1;0;FE;gap;234962
+Camallanus papillifer;Nematoda;Secernentea;Spirurida;Camallanidae;FE;;;;FE;gap;
+Camallanus truncatus;Nematoda;Secernentea;Spirurida;Camallanidae;FE,WORMS;;;;WORMS;gap;
+Onchophora melanocephala;Nematoda;Secernentea;Spirurida;Camallanidae;WORMS;;;;WORMS;gap;
+Serpinema microcephalus;Nematoda;Secernentea;Spirurida;Camallanidae;FE;;;;FE;gap;

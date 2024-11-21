@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Isaurus tuberculatus;Cnidaria;Anthozoa;Zoantharia;Zoanthidae;BOLD,WORMS;5;31;1;WORMS;;166538
+Zoanthus pulchellus;Cnidaria;Anthozoa;Zoantharia;Zoanthidae;BOLD;44;67;1;WORMS;;754046
+Zoanthus sansibaricus;Cnidaria;Anthozoa;Zoantharia;Zoanthidae;BOLD;102;134;1;WORMS;;80489
+Zoanthus sociatus;Cnidaria;Anthozoa;Zoantharia;Zoanthidae;BOLD;50;59;1;;;247203
+Zoanthus solandri;Cnidaria;Anthozoa;Zoantharia;Zoanthidae;BOLD;3;3;0;;;754045

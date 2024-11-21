@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Calastacus laevis;Arthropoda;Malacostraca;Decapoda;Axiidae;WORMS;;;;;gap;
+Calocarides coronatus;Arthropoda;Malacostraca;Decapoda;Axiidae;BOLD,WORMS;3;6;1;WORMS;;512529
+Calocaris macandreae;Arthropoda;Malacostraca;Decapoda;Axiidae;BOLD,WORMS;8;11;2;;;512530
+Levantocaris hornungae;Arthropoda;Malacostraca;Decapoda;Axiidae;WORMS;;;;;gap;

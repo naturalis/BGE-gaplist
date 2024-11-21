@@ -1,0 +1,144 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anticheta analis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;3;4;2;SyDip;;483705
+Anticheta atriseta;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;3;5;1;SyDip;;483502
+Anticheta bisetosa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Anticheta brevipennis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;3;5;1;SyDip;;483704
+Anticheta nigra;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;3;3;1;SyDip;;749022
+Anticheta obliviosa;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;2;0;SyDip;;1141566
+Colobaea acuticerca;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Colobaea beckeri;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Colobaea bifasciella;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;3;4;1;SyDip;;483387
+Colobaea distincta;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;3;1;SyDip;;971201
+Colobaea nigroaristata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Colobaea pectoralis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;2;1;SyDip;;483700
+Colobaea punctata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;1;2;1;SyDip;;802139
+Coremacera amoena;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Coremacera bivittata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Coremacera catenata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Coremacera confluens;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Coremacera fabricii;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;3;3;1;SyDip;;521405
+Coremacera halensis;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Coremacera marginata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;16;22;1;SyDip;;453939
+Coremacera obscuripennis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;2;0;SyDip;;1140937
+Dichetophora finlandica;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;7;8;1;;;467403
+Dichetophora obliterata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;8;8;1;SyDip;;667947
+Dictya umbrarum;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;5;8;1;SyDip;;483610
+Ectinocera borealis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;10;12;1;SyDip;;521394
+Elgiva cucularia;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;16;17;1;SyDip;;406820
+Elgiva divisa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Elgiva solicita;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;80;88;2;ITIS;;83104
+Euthycera alaris;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;2;1;;;913999
+Euthycera algira;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Euthycera alpina;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Euthycera chaerophylli;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;26;27;1;SyDip;;483623
+Euthycera cribrata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;914013
+Euthycera formosa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE;;;;FE;gap;
+Euthycera fumigata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;35;35;1;SyDip;;468322
+Euthycera guanchica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Euthycera seguyi;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Euthycera stichospila;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Euthycera stictica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Euthycera sticticaria;Arthropoda;Insecta;Diptera;Sciomyzidae;FE;;;;FE;gap;
+Euthycera vockerothi;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Euthycera zelleri;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Hydromya dorsalis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;17;19;1;SyDip;;468334
+Ilione (Ilione) lineata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483362
+Ilione (Ilione) rossica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Ilione (Knutsonia) albiseta;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483703
+Ilione (Knutsonia) corcyrensis;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Ilione (Knutsonia) trifaria;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;521414
+Ilione (Knutsonia) unipunctata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Ilione turcestanica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Limnia paludicola;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;13;13;1;;;483621
+Limnia unguicornis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;53;58;1;SyDip;;407158
+Pelidnoptera fuscipennis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;6;6;1;SyDip;;483699
+Pelidnoptera leptiformis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;7;10;1;SyDip;;704367
+Pelidnoptera nigripennis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;7;8;2;SyDip;;521233
+Pherbellia (Chetocera) albocostata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;350367
+Pherbellia (Chetocera) dorsata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;521416
+Pherbellia (Chetocera) griseola;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483436
+Pherbellia (Chetocera) obscura;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483413
+Pherbellia (Chetocera) ventralis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483278
+Pherbellia (Ditaeniella) grisescens;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;495145
+Pherbellia (Oxytaenia) brunnipes;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;483409
+Pherbellia albicarpa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia alpina;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;2;1;SyDip;;971203
+Pherbellia annulipes;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;20;21;1;ITIS;;521415
+Pherbellia argyra;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;7;8;1;;;483707
+Pherbellia argyrotarsis;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia austera;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;5;5;0;SyDip;;1140751
+Pherbellia cinerella;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;52;56;1;SyDip;;468398
+Pherbellia clathrata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia czernyi;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia dentata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Pherbellia dubia;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;55;55;1;SyDip;;467495
+Pherbellia garganica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Pherbellia goberti;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia griseicollis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;2;0;ITIS;;971204
+Pherbellia hackmani;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Pherbellia inclusa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia knutsoni;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Pherbellia limbata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia majuscula;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia mikiana;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia nana;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;232;237;1;SyDip;;521417
+Pherbellia obtusa;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;2;1;ITIS;;483706
+Pherbellia pallidicarpa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia pallidiventris;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;7;7;1;SyDip;;468399
+Pherbellia pilosa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Pherbellia rozkosnyi;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;4;4;1;;;510566
+Pherbellia schoenherri;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;38;39;2;SyDip;;469743
+Pherbellia scutellaris;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;25;25;1;SyDip;;521418
+Pherbellia silana;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;4;5;1;;;521419
+Pherbellia sordida;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;1;0;SyDip;;1067946
+Pherbellia stackelbergi;Arthropoda;Insecta;Diptera;Sciomyzidae;FE;;;;;gap;
+Pherbellia steyskali;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Pherbellia stylifera;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Pherbina coryleti;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;23;27;2;SyDip;;468350
+Pherbina intermedia;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;5;0;;;918499
+Pherbina mediterranea;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;1;1;;;914025
+Psacadina disjecta;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Psacadina verbekei;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;11;11;2;;;521420
+Psacadina vittigera;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;1;2;1;SyDip;;521421
+Psacadina zernyi;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;3;3;2;FE;;483392
+Pteromicra angustipennis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;27;28;2;ITIS;;469857
+Pteromicra glabricula;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;9;9;2;ITIS;;467515
+Pteromicra leucopeza;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;5;5;1;ITIS;;521422
+Pteromicra oldenbergi;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;1;1;SyDip;;510567
+Pteromicra pectorosa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;3;3;2;ITIS;;521423
+Renocera pallida;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;10;17;1;SyDip;;406807
+Renocera striata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;8;9;3;SyDip;;407129
+Renocera stroblii;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;6;1;;;467517
+Salticella fasciata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;2;3;1;WORMS;;520953
+Sapromyza appula;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Sciomyza dryomyzina;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;19;19;3;SyDip;;483448
+Sciomyza pulchra;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Sciomyza sebezhica;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;2;1;;;495199
+Sciomyza simplex;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;22;22;2;;;81791
+Sepedon (Parasepedon) hispanica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;SyDip;gap;
+Sepedon femorata;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Sepedon hecate;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Sepedon sphegea;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;53;60;2;SyDip;;453915
+Sepedon spinipes;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;33;35;2;SyDip;;467527
+Tetanocera amurensis;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;1;3;1;;;521424
+Tetanocera arrogans;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;18;18;3;SyDip;;82457
+Tetanocera brevisetosa;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;ITIS;gap;
+Tetanocera elata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;49;56;3;SyDip;;406803
+Tetanocera ferriginea;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;;;;SyDip;gap;80178
+Tetanocera freyi;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;5;5;1;;;469862
+Tetanocera fuscinervis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;112;114;4;ITIS;;81102
+Tetanocera gracilior;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;;gap;
+Tetanocera hyalipennis;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;12;17;2;SyDip;;469895
+Tetanocera kerteszi;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,SyDip;6;6;2;;;81795
+Tetanocera lapponica;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;1;1;1;;;799751
+Tetanocera latifibula;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;2;5;1;ITIS;;82458
+Tetanocera montana;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;35;36;1;ITIS;;80179
+Tetanocera ornatifrons;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;;;;ITIS;gap;932163
+Tetanocera phyllophora;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;113;114;2;SyDip;;81103
+Tetanocera punctifrons;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;6;7;1;SyDip;;1141486
+Tetanocera robusta;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;72;75;3;ITIS;;83108
+Tetanocera silvatica;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;132;135;7;;;83681
+Tetanura fallenii;Arthropoda;Insecta;Diptera;Sciomyzidae;FE;;;;;gap;
+Tetanura pallidiventris;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,SyDip;8;11;1;;;483440
+Trypetolimnia rossica;Arthropoda;Insecta;Diptera;Sciomyzidae;FE,SyDip;1;1;1;;;521403
+Trypetoptera punctulata;Arthropoda;Insecta;Diptera;Sciomyzidae;BOLD,FE,iNat,SyDip;26;36;3;SyDip;;406828

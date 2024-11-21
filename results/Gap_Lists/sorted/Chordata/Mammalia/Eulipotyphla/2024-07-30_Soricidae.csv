@@ -1,0 +1,25 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Crocidura canariensis;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;;;;;gap;
+Crocidura leucodon;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;9;13;1;FE;;329714
+Crocidura osorio;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;;;;;gap;
+Crocidura russula;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;24;43;2;FE;;12560
+Crocidura sicula;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;;;;;gap;
+Crocidura suaveolens;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;50;58;4;ITIS;;124120
+Crocidura zimmermanni;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;;;;;gap;
+Diplomesodon pulchellum;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;;;;FE;gap;
+Neomys anomalus;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE;23;27;2;;;124106
+Neomys fodiens;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;54;102;1;FE;;29508
+Nesiotites hidalgo;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD;1;1;1;;;923242
+Sorex alpinus;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;6;14;1;;;329715
+Sorex antinorii;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD;7;35;1;;;914847
+Sorex araneus;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;89;165;2;;;29510
+Sorex caecutiens;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE;63;68;3;;;10916
+Sorex coronatus;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE;42;90;1;;;29511
+Sorex flavicollis;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD;0;1;0;;gap;329713
+Sorex granarius;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;0;1;1;;gap;914848
+Sorex isodon;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE;21;21;1;;;90524
+Sorex minutissimus;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE;7;9;1;;;191244
+Sorex minutus;Chordata;Mammalia;Eulipotyphla;Soricidae;BOLD,FE,iNat;40;55;1;;;29509
+Sorex samniticus;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;0;2;0;;gap;914850
+Sorex tundrensis;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;103;106;1;;;110921
+Suncus etruscus;Chordata;Mammalia;Eulipotyphla;Soricidae;FE;4;9;1;FE;;969332

@@ -1,0 +1,365 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Achaeta aberrans;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;6;6;1;;;648948
+Achaeta abulba;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;10;12;0;;;350243
+Achaeta affinis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;12;14;1;;;350244
+Achaeta afolliculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta bibulba;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;6;7;1;;;648949
+Achaeta bifollicula;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;7;8;1;;;648950
+Achaeta bohemica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;14;14;2;ITIS;;994191
+Achaeta brevivasa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta bulbosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta camerani;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;17;19;1;FE;;350245
+Achaeta danica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;0;1;0;;gap;994185
+Achaeta eiseni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;FE;gap;
+Achaeta hallensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta iberica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;4;0;ITIS;;648953
+Achaeta littoralis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE,WORMS;;;;;gap;
+Achaeta matritensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta pannonica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;8;9;2;ITIS;;350242
+Achaeta parva;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta seminalis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta unibulba;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;21;22;2;;;648954
+Achaeta urbana;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Achaeta vesiculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Bryodrilus diverticulatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;11;17;4;;;349666
+Bryodrilus ehlersi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;12;2;;;349665
+Bryodrilus librus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;12;12;3;;;349668
+Bryodrilus parvus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;5;9;2;;;349667
+Buchholzia appendiculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;28;31;6;ITIS;;349672
+Buchholzia fallax;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;6;12;5;;;349673
+Buchholzia fallax CE3;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;4;0;;;994223
+Buchholzia fallax CE4;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;0;;;994222
+Buchholzia simplex;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;1;1;;;349674
+Buchholzia subterranea;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;0;3;0;;gap;349675
+Cernosvitoviella aggtelekiensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;27;28;3;ITIS;;650031
+Cernosvitoviella ampullax;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;9;9;1;;;742103
+Cernosvitoviella atrata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;6;1;ITIS;;999116;994241
+Cernosvitoviella atrata CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;17;17;1;;;994226
+Cernosvitoviella atrata CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;18;18;1;;;994229
+Cernosvitoviella briganta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cernosvitoviella bulboducta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cernosvitoviella carpatica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cernosvitoviella crassoductus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;2;2;0;;;994244
+Cernosvitoviella immota;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;15;17;1;WORMS;;354236
+Cernosvitoviella minor;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;4;7;4;;;650033
+Cernosvitoviella minor CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;4;0;;;994225
+Cernosvitoviella minor CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;6;6;1;;;994224
+Cernosvitoviella minor CEC;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;1;;;994242
+Cernosvitoviella minor CED;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;3;0;;;994245
+Cernosvitoviella minor CEE;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;2;0;;;994243
+Cernosvitoviella minor CEF;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;1;;;994227
+Cernosvitoviella minor CEG;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;3;0;;;994247
+Cernosvitoviella omodeoi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cernosvitoviella palustris;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;8;0;ITIS;;994234
+Cernosvitoviella parviseta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cernosvitoviella pusilla;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;26;28;2;;;349734
+Cernosvitoviella sphaerotheca;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cernosvitoviella tatrensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;FE;gap;
+Chamaedrilus chalupskyi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;2;;;923375
+Chamaedrilus varisetosus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;18;18;4;;;715052
+Claparedrilus semifuscoides;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;6;7;0;;;891811
+Cognettia chalupskyi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;25;31;2;;;957681
+Cognettia chlorophila;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;28;31;1;;;957682
+Cognettia clarae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;ITIS;gap;
+Cognettia cognettii;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;13;13;3;FE;;354476
+Cognettia glandulosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;23;25;4;WORMS;;350238;715051
+Cognettia hibernica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Cognettia lapponica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;11;13;1;;;349677
+Cognettia pseudosphagnetorum;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;5;8;1;;;957683
+Cognettia sphagnetorum;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;23;24;1;WORMS;;302620
+Cognettia varisetosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;34;36;3;;;957684
+Enchylea heteroducta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;1;1;ITIS;;350264
+Enchytraeus albellus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;30;33;2;;;957676
+Enchytraeus albidus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;92;101;5;WORMS;;210934;1136010
+Enchytraeus bigeminus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;2;5;2;;;350280
+Enchytraeus buchholzi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;14;34;6;ITIS;;350269
+Enchytraeus buchholzi CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;20;20;1;;;994543
+Enchytraeus buchholzi CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;15;15;3;;;994504
+Enchytraeus buchholzi CEC;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;40;40;8;;;994514
+Enchytraeus buchholzi CED;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;2;0;;;994567
+Enchytraeus buchholzi CEE;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;0;;;994563
+Enchytraeus buchholzi CEF;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;21;21;1;;;994560
+Enchytraeus buchholzi CEG;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;1;;;994541
+Enchytraeus buchholzi CEH;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;4;0;;;994568
+Enchytraeus buchholzi CEI;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;31;31;3;;;994519
+Enchytraeus buchholzi CEJ;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;34;34;3;;;994564
+Enchytraeus buchholzi CEK;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;8;8;1;;;994540
+Enchytraeus buchholzi CEL;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;2;0;;;994557
+Enchytraeus buchholzi CEM;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;3;0;;;994574
+Enchytraeus buchholzi CEQ;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;3;0;;;1130824
+Enchytraeus buchholzi L4;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;4;2;;;527429
+Enchytraeus bulbosus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;9;3;;;350270
+Enchytraeus capitatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE,WORMS;;;;WORMS;gap;
+Enchytraeus christenseni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;1;2;1;WORMS;;650844
+Enchytraeus christenseni CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;18;18;4;;;994559
+Enchytraeus coronatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;2;3;1;;;350283
+Enchytraeus crypticus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;8;1;;;210935
+Enchytraeus dichaetus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;12;19;1;;;350236
+Enchytraeus doerjesi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytraeus dominicae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytraeus dudichi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;6;16;1;;;350281
+Enchytraeus globuliferus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytraeus irregularis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;3;4;2;;;1136009
+Enchytraeus japonensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;8;2;;;350282
+Enchytraeus kinkaidi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytraeus lacteus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;2;1;;;650845
+Enchytraeus lacteus CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;1;;;994566
+Enchytraeus lacteus CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;9;9;3;;;994523
+Enchytraeus liefdeensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Enchytraeus luxuriosus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;2;1;;;650846
+Enchytraeus mariae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytraeus mediterraneus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Enchytraeus moebii;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;9;11;1;;;994555
+Enchytraeus norvegicus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;20;22;2;;;350246
+Enchytraeus sabulosus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Enchytraeus thomasi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytraeus variatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytronia annulata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;5;1;;;349683
+Enchytronia baloghi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;5;1;;;923633
+Enchytronia christenseni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;16;21;10;;;349684
+Enchytronia hellenica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;1;1;;;350254
+Enchytronia longispermatheca;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytronia oligosetosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Enchytronia parva;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;15;19;10;ITIS;;349686
+Enchytronia parva CEF;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;5;5;1;;;994539
+Enchytronia parva L3;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;18;18;3;;;527440
+Enchytronia parva L5;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;14;14;3;;;527442
+Enchytronia pratensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;0;1;0;;gap;349687
+Fridericia alata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;0;5;0;;gap;350256
+Fridericia anomala;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia antensteineri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia asymmetricoides;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia aurita;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia auritoides;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;5;0;;;742116
+Fridericia balsae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia baskini;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia benti;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;17;19;2;;;349688
+Fridericia berninii;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia bisetosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;2;9;1;FE;;350257
+Fridericia bretscheri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia bubalus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia bulboides;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;33;43;9;;;349689
+Fridericia bulbosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;WORMS;gap;
+Fridericia callosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE,WORMS;;;;WORMS;gap;
+Fridericia christeri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;19;24;3;;;349691
+Fridericia christiani;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia conculcata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia connata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;7;1;;;350258
+Fridericia cusanica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;0;6;0;;gap;350266
+Fridericia cylindrica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;10;10;1;ITIS;;742123;655939
+Fridericia deformis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;0;1;0;;gap;350235
+Fridericia discifera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;4;1;;;923632
+Fridericia dissimilis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia dozsae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;5;2;;;350273
+Fridericia dura;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;58;59;7;;;994522
+Fridericia florentina;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia galba;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;5;8;5;ITIS;;349693;651123
+Fridericia galba CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;1;;;994515
+Fridericia galba CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;46;46;2;;;994513
+Fridericia galba CEC;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;10;10;1;;;994554
+Fridericia galba CED;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;16;16;1;;;994530
+Fridericia galba CEF;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;3;1;;;994546
+Fridericia galba L3;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;1;;;527908
+Fridericia gamotheca;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;5;9;2;;;350259
+Fridericia gigantea;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia glandifera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;0;;;923634
+Fridericia globuligera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia granosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;1;;;349694
+Fridericia hegemon;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;FE;gap;
+Fridericia ilvana;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia isseli;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;8;10;4;;;349695
+Fridericia kalffi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia lenta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;9;9;1;;;994534
+Fridericia leydigi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;FE;gap;
+Fridericia maculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;0;4;0;ITIS;gap;349706;742120
+Fridericia maculatiformis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;6;13;2;;;349696
+Fridericia magna;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;62;78;7;;;599245
+Fridericia minor;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;ITIS;gap;
+Fridericia miraflores;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia monochaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;2;7;1;;;350260
+Fridericia monopera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia montafonensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia nemoralis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;12;15;1;;;349698
+Fridericia nix;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;1;1;;;350272
+Fridericia oligosetosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia orghidani;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia paranemoralis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia parasitica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia parathalassia;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;21;22;1;;;350261
+Fridericia paroniana;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;7;21;1;WORMS;;349699
+Fridericia perrieri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;9;19;5;FE;;349700
+Fridericia polychaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia popi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia pretoriana;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;16;16;4;ITIS;;350262
+Fridericia profundicola;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia pyrenaica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia ratzeli;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;38;39;10;WORMS;;349701;349692
+Fridericia reducata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia regularis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;2;1;;;349702
+Fridericia rendsinata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;1;1;0;;;1158447
+Fridericia sardorum;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;2;0;;;655938
+Fridericia schmelzi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;6;13;2;;;349704
+Fridericia semisetosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;13;13;2;;;349703
+Fridericia simeani;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia singula;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia stephensoni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia strenua;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia striata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;WORMS;gap;
+Fridericia sylvatica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;7;8;1;;;350274
+Fridericia terrarossae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia tirolensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia tridiverticula;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia tuberosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;12;15;3;;;32993
+Fridericia tubulosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;2;1;;;349705
+Fridericia ulrikae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia viridula;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia vixdiverticulata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Fridericia waldenstroemi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;2;1;;;349707
+Globulidrilus riparius;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;40;53;16;;;768124
+Grania atlantica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Grania macrochaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Grania maricola;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;22;23;2;WORMS;;655954
+Grania mira;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Grania occulta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;2;1;;;651244
+Grania ovitheca;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;17;19;2;;;651245
+Grania postclitellochaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;32;39;2;WORMS;;651246
+Grania pusilla;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;26;30;1;WORMS;;651247
+Grania roscoffensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Grania variochaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;19;23;1;;;651248
+Grania vikinga;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;2;1;;;994549
+Guaranidrilus europeus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Hemienchytraeus bifurcatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Hemifridericia bivesiculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;4;1;;;683303
+Hemifridericia parva;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;26;41;4;;;349709
+Hemifridericia parva CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;14;14;1;;;994538
+Hemifridericia parva CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;19;19;2;;;994531
+Henlea andreae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Henlea glandulifera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;11;14;4;;;349711
+Henlea glandulifera CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;20;20;3;;;994537
+Henlea glandulifera CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;12;12;2;;;994532
+Henlea groenlandica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;0;11;0;;gap;349712
+Henlea gubleri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Henlea heleotropha;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;3;3;2;;;349713
+Henlea jutlandica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Henlea montana;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;10;10;1;;;742109
+Henlea nasuta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;5;11;3;WORMS;;302618
+Henlea perpusilla;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;42;45;10;WORMS;;349714
+Henlea pertosericus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Henlea puteana;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;FE;gap;
+Henlea similis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;3;3;0;;;1158543
+Henlea ventriculosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;10;16;5;ITIS;;349717
+Lumbricillus algensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus arenarius;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;6;10;2;WORMS;;652045
+Lumbricillus balticus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus brunoi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE,WORMS;;;;;gap;
+Lumbricillus buelowi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;4;7;1;;;652046
+Lumbricillus cervisiae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus christenseni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus crymodes;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;40;40;1;;;891937
+Lumbricillus dubius;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;5;7;1;WORMS;;742111
+Lumbricillus eltoni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;WORMS;gap;
+Lumbricillus enteromorphae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;;;;WORMS;gap;742222
+Lumbricillus fennicus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;1;2;0;;;891939
+Lumbricillus helgolandicus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Lumbricillus horridus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus immoderatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus kaloensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;8;11;1;;;652047
+Lumbricillus knoellneri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;1;4;1;;;742113
+Lumbricillus latithecatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;1;;;891809
+Lumbricillus lineatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;22;34;2;WORMS;;477034;742126
+Lumbricillus macrothecatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus minutus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Lumbricillus murmanicus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus muscicolus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Lumbricillus nielseni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;7;7;1;;;349719
+Lumbricillus niger;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus pagenstecheri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;7;7;1;WORMS;;477035
+Lumbricillus pagenstecheri A;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;2;1;;;742221
+Lumbricillus pagenstecheri B;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;0;;;891938
+Lumbricillus pagenstecheri C;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;2;1;;;742125
+Lumbricillus pagenstecheri D;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;1;1;0;;;891941
+Lumbricillus pseudominutus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus pumilio;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus reynoldsoni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus rivalis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;49;52;2;WORMS;;477036
+Lumbricillus rutilus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;2;8;1;;;891942
+Lumbricillus scandicus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;5;6;1;;;891940
+Lumbricillus scoticus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Lumbricillus tuba;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;3;6;1;;;652048
+Lumbricillus viridis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;9;10;1;WORMS;;477037
+Marionina achaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Marionina aporus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;16;16;3;FE;;349721
+Marionina appendiculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina arenaria;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina argentea;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE,WORMS;6;23;4;WORMS;;349722
+Marionina argentea CEB;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;11;11;1;;;994536
+Marionina argentea CEC;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;20;20;3;;;994511
+Marionina argentea CEE;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;5;5;1;;;994518
+Marionina argentea CEG;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;13;13;1;;;994508
+Marionina argentea CEH;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;8;8;2;;;994509
+Marionina argentea CEI;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;16;16;4;;;994517
+Marionina brendae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;3;4;3;;;349723
+Marionina clavata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;9;12;2;;;350249
+Marionina communis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;25;29;5;;;349724
+Marionina crymodes;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;FE;gap;
+Marionina deminuta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;13;13;2;;;994526
+Marionina eleonorae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina elongata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina filiformis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;5;1;;;652151
+Marionina glandulifera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;WORMS;gap;
+Marionina graefei;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina hoffbaueri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;0;1;0;;gap;350271
+Marionina istriae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina libra;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina macgrathi;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina magnaglandulosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina mendax CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;10;10;1;;;994544
+Marionina mendax CEC;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;11;11;2;;;994510
+Marionina mendax CED;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;7;1;;;994545
+Marionina mendax CEE;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;;;;;gap;994512
+Marionina mesopsamma;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina mimula;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;8;8;1;;;742220
+Marionina minutissima;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina nothachaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;4;7;1;;;671139
+Marionina oligosetosa;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina preclitellochaeta;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE,WORMS;;;;;gap;
+Marionina riparia;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina rubens;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina scintillans;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;0;3;0;;gap;349731
+Marionina serbui;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina simillima;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Marionina sjaelandica;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;7;7;1;;;742129
+Marionina southerni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;24;25;2;WORMS;;350255
+Marionina spicula;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,WORMS;8;12;4;WORMS;;707982
+Marionina sublitoralis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina subterranea;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE,WORMS;;;;WORMS;gap;
+Marionina ulstrupae;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Marionina vesiculata;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;4;6;1;;;1136051
+Marionina weilli;Annelida;Clitellata;Enchytraeida;Enchytraeidae;WORMS;;;;;gap;
+Mesenchytraeus argentatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus armatus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;2;7;2;WORMS;;652235
+Mesenchytraeus armatus B;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;3;3;1;;;742107
+Mesenchytraeus armatus CEA;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;35;35;1;;;994507
+Mesenchytraeus armatus CEC;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;8;8;1;;;994521
+Mesenchytraeus beumeri;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;5;5;1;FE;;742112
+Mesenchytraeus celticus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus eltoni;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus falciformis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus flavidus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus flavus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;20;25;1;FE;;354233
+Mesenchytraeus gaudens;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus glandulosus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;5;5;1;FE;;742131
+Mesenchytraeus kuehnelti;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus lusitanicus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus melanocephalus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD;7;8;1;;;349727
+Mesenchytraeus monochaetus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus oglobini;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus pelicensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;9;15;2;;;302616
+Mesenchytraeus primaevus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus sanguineus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus straminicolus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;1;2;1;;;652236
+Mesenchytraeus tetrapodus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Mesenchytraeus vivii;Annelida;Clitellata;Enchytraeida;Enchytraeidae;FE;;;;;gap;
+Oconnorella cambrensis;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;17;18;1;FE;;350252
+Oconnorella tubifera;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;14;16;1;FE;;350253
+Stercutus niveus;Annelida;Clitellata;Enchytraeida;Enchytraeidae;BOLD,FE;25;31;7;;;350240

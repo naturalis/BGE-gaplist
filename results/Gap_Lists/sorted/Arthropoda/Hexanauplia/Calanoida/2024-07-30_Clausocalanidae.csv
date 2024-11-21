@@ -1,0 +1,18 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Clausocalanus arcuicornis;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD;20;69;7;;;32103
+Clausocalanus furcatus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;32;64;1;WORMS;;32106
+Clausocalanus jobei;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;17;23;3;;;32105
+Clausocalanus lividus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;8;46;1;;;32394
+Clausocalanus mastigophorus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;5;5;3;WORMS;;32390
+Clausocalanus parapergens;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;24;25;1;;;32393
+Clausocalanus paululus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;9;10;1;;;32389
+Clausocalanus pergens;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;15;20;2;;;32104
+Microcalanus pusillus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD;16;34;4;;;142589
+Microcalanus pygmaeus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;25;31;5;WORMS;;766660
+Pseudocalanus acuspes;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;315;440;2;WORMS;;310779
+Pseudocalanus elongatus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;21;50;1;WORMS;;27839
+Pseudocalanus mimus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD;169;202;3;;;13704
+Pseudocalanus minutus;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD,WORMS;223;396;1;WORMS;;32380
+Pseudocalanus moultoni;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD;18;115;1;;;32379
+Pseudocalanus newmani;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;BOLD;217;517;2;;;32378
+Spicipes nanseni;Arthropoda;Hexanauplia;Calanoida;Clausocalanidae;WORMS;;;;;gap;

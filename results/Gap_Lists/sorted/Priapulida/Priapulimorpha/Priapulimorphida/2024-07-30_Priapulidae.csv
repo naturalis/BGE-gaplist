@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halicryptus spinulosus;Priapulida;Priapulimorpha;Priapulimorphida;Priapulidae;BOLD,WORMS;7;8;1;;;514043
+Priapulopsis bicaudatus;Priapulida;Priapulimorpha;Priapulimorphida;Priapulidae;WORMS;;;;WORMS;gap;
+Priapulopsis cnidephorus;Priapulida;Priapulimorpha;Priapulimorphida;Priapulidae;WORMS;;;;;gap;
+Priapulus abyssorum;Priapulida;Priapulimorpha;Priapulimorphida;Priapulidae;WORMS;;;;;gap;
+Priapulus caudatus;Priapulida;Priapulimorpha;Priapulimorphida;Priapulidae;BOLD,WORMS;102;127;4;WORMS;;24829

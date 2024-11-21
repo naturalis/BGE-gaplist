@@ -1,0 +1,15 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Camisia biurus;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;30;42;2;FE;;535302
+Camisia foveolata;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD;27;39;1;;;856918
+Camisia horrida;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;22;25;2;ITIS;;201932
+Camisia invenusta;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;2;2;0;FE;;1135126
+Camisia lapponica;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;81;81;7;ITIS;;485504
+Camisia solhoeyi;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;7;7;2;;;485503
+Camisia spinifer;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;13;14;1;WORMS;;738023
+Heminothrus longisetosus;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;44;45;1;;;182053
+Heminothrus peltifer;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;;;;ITIS;gap;106110
+Heminothrus punctatus;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;;;;ITIS;gap;208835
+Heminothrus targionii;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD,FE;9;13;2;ITIS;;480954
+Platynothrus capillatus;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD;10;11;1;;;605672
+Platynothrus thori;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD;10;12;2;;;540968
+Platynothrus trondelagicus;Arthropoda;Arachnida;Sarcoptiformes;Crotoniidae;BOLD;7;7;0;;;1142988

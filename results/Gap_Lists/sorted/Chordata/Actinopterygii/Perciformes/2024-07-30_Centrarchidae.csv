@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ambloplites rupestris;Chordata;Actinopterygii;Perciformes;Centrarchidae;BOLD,FE;76;100;1;FB;;50235
+Lepomis gibbosus;Chordata;Actinopterygii;Perciformes;Centrarchidae;BOLD,FE,iNat;229;278;1;WORMS;;11137
+Micropterus floridanus;Chordata;Actinopterygii;Perciformes;Centrarchidae;BOLD,FE;;;;FB;gap;

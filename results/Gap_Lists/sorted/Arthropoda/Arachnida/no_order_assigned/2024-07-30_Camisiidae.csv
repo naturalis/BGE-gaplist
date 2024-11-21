@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Camisia biverrucata;Arthropoda;Arachnida;;Camisiidae;FE;27;42;5;WORMS;;208813
+Camisia segnis;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Camisia superba;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Camisia tatrica;Arthropoda;Arachnida;;Camisiidae;FE;;;;;gap;
+Heminothrus capillatus;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Heminothrus humicolus;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Heminothrus nevadensis;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Heminothrus oromii;Arthropoda;Arachnida;;Camisiidae;FE;;;;;gap;
+Heminothrus paolianus;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Heminothrus thori;Arthropoda;Arachnida;;Camisiidae;FE;20;20;1;ITIS;;195311
+Heminothrus valentianus;Arthropoda;Arachnida;;Camisiidae;FE;;;;;gap;
+Platynothrus fluviatilis;Arthropoda;Arachnida;;Camisiidae;FE;;;;FE;gap;
+Platynothrus maior;Arthropoda;Arachnida;;Camisiidae;FE;;;;;gap;

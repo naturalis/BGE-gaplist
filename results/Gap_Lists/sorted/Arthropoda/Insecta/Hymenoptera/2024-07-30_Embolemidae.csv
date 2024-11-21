@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Embolemus pecki;Arthropoda;Insecta;Hymenoptera;Embolemidae;FE;;;;;gap;
+Embolemus reticulatus;Arthropoda;Insecta;Hymenoptera;Embolemidae;FE;;;;;gap;
+Embolemus ruddii;Arthropoda;Insecta;Hymenoptera;Embolemidae;BOLD,FE,DTN;14;34;3;FE;;458764
+Embolemus thaumus;Arthropoda;Insecta;Hymenoptera;Embolemidae;FE;;;;FE;gap;

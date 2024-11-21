@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Asteia (Asteia) algeriensis;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;SyDip;gap;
+Asteia (Asteia) amoena;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,FE,SyDip;;;;SyDip;gap;676243
+Asteia (Asteia) beata;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,SyDip;;;;SyDip;gap;530688
+Asteia (Asteia) caesia;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;SyDip;gap;
+Asteia (Asteia) concinna;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,FE,SyDip;;;;SyDip;gap;510679
+Asteia (Asteia) decepta;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;SyDip;gap;
+Asteia (Asteia) elegantula;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,FE,SyDip;;;;SyDip;gap;495136
+Asteia (Asteia) ibizana;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;SyDip;gap;
+Asteia (Asteia) inanis;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;SyDip;gap;
+Asteia (Subanarista) mahunkai;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;SyDip;gap;
+Astiosoma rufifrons;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;;gap;
+Leiomyza birkheadi;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,SyDip;1;1;0;SyDip;;783402
+Leiomyza curvinervis;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,FE,SyDip;164;172;2;ITIS;;350409
+Leiomyza dudai;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,FE,SyDip;6;6;1;;;510680
+Leiomyza laevigata;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;0;1;0;ITIS;gap;598095
+Leiomyza scatophagina;Arthropoda;Insecta;Diptera;Asteiidae;BOLD,FE,SyDip;0;2;0;ITIS;gap;510681
+Phlebosotera longilineata;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;;gap;
+Phlebosotera maeandrica;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;;gap;
+Phlebosotera maspalomasi;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;;gap;
+Phlebosotera mollis;Arthropoda;Insecta;Diptera;Asteiidae;FE,SyDip;;;;;gap;

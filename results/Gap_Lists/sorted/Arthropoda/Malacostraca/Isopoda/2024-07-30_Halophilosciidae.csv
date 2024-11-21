@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Halophiloscia canariensis;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD;27;28;1;;;936135
+Halophiloscia couchii;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD,FE;9;16;6;ITIS;;889742
+Halophiloscia guernei;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;FE;;;;FE;gap;
+Halophiloscia hirsuta;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD,FE;1;3;1;;;936136
+Halophiloscia ischiana;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD,FE;0;1;0;;gap;936137
+Halophiloscia microphthalma;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD;1;1;1;;;936138
+Halophiloscia rodriguezi;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD;12;14;5;;;936139
+Halophiloscia tyrrhena;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD,FE;1;1;1;;;936140
+Stenophiloscia glarearum;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;BOLD,FE;1;2;1;;;936206
+Stenophiloscia posidoniarum;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;FE;;;;;gap;
+Stenophiloscia vandeli;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;FE;;;;;gap;
+Stenophiloscia zosterae;Arthropoda;Malacostraca;Isopoda;Halophilosciidae;FE;;;;;gap;

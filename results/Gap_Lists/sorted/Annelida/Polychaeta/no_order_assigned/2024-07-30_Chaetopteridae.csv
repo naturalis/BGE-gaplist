@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Chaetopterus norvegicus;Annelida;Polychaeta;;Chaetopteridae;BOLD,WORMS;3;10;1;;;494701
+Chaetopterus variopedatus;Annelida;Polychaeta;;Chaetopteridae;BOLD,WORMS;15;31;6;WORMS;;104907;266389;266387;82541
+Mesochaetopterus minutus;Annelida;Polychaeta;;Chaetopteridae;WORMS;;;;;gap;
+Mesochaetopterus rogeri;Annelida;Polychaeta;;Chaetopteridae;BOLD;1;2;1;;;104905
+Mesochaetopterus sagittarius;Annelida;Polychaeta;;Chaetopteridae;WORMS;;;;WORMS;gap;
+Phyllochaetopterus gracilis;Annelida;Polychaeta;;Chaetopteridae;WORMS;;;;;gap;
+Phyllochaetopterus major;Annelida;Polychaeta;;Chaetopteridae;WORMS;;;;;gap;
+Phyllochaetopterus socialis;Annelida;Polychaeta;;Chaetopteridae;WORMS;2;5;1;WORMS;;81870
+Spiochaetopterus bergensis;Annelida;Polychaeta;;Chaetopteridae;WORMS;;;;;gap;
+Spiochaetopterus costarum;Annelida;Polychaeta;;Chaetopteridae;BOLD,WORMS;5;11;1;WORMS;;660282
+Spiochaetopterus solitarius;Annelida;Polychaeta;;Chaetopteridae;WORMS;;;;WORMS;gap;
+Spiochaetopterus typicus;Annelida;Polychaeta;;Chaetopteridae;BOLD,WORMS;0;16;0;;gap;473799

@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oxyopes carvajali;Arthropoda;Arachnida;Araneae;Oxyopidae;FE;;;;;gap;
+Oxyopes globifer;Arthropoda;Arachnida;Araneae;Oxyopidae;FE;3;3;1;FE;;835686
+Oxyopes heterophthalmus;Arthropoda;Arachnida;Araneae;Oxyopidae;BOLD,FE;50;50;1;FE;;256992
+Oxyopes kraepelinorum;Arthropoda;Arachnida;Araneae;Oxyopidae;FE;;;;;gap;
+Oxyopes lineatus;Arthropoda;Arachnida;Araneae;Oxyopidae;BOLD,FE;25;25;3;;;257012
+Oxyopes mediterraneus;Arthropoda;Arachnida;Araneae;Oxyopidae;FE;;;;;gap;
+Oxyopes nigripalpis;Arthropoda;Arachnida;Araneae;Oxyopidae;BOLD,FE;35;38;1;;;809384
+Oxyopes ramosus;Arthropoda;Arachnida;Araneae;Oxyopidae;BOLD,FE,iNat;21;24;2;FE;;389886
+Oxyopes salticus;Arthropoda;Arachnida;Araneae;Oxyopidae;BOLD;176;184;2;;;320271
+Oxyopes transalpinus;Arthropoda;Arachnida;Araneae;Oxyopidae;FE;;;;FE;gap;
+Peucetia viridis;Arthropoda;Arachnida;Araneae;Oxyopidae;FE;;;;FE;gap;

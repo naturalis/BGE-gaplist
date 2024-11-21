@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Stercorarius longicaudus;Chordata;Aves;Charadriiformes;Stercorariidae;BOLD,FE,WORMS,iNat;21;28;1;;;10102
+Stercorarius maccormicki;Chordata;Aves;Charadriiformes;Stercorariidae;FE;17;24;1;WORMS;;91353
+Stercorarius parasiticus;Chordata;Aves;Charadriiformes;Stercorariidae;BOLD,FE,WORMS,iNat;17;30;1;FE;;10099
+Stercorarius pomarinus;Chordata;Aves;Charadriiformes;Stercorariidae;BOLD,FE,WORMS,iNat;16;20;1;WORMS;;10100
+Stercorarius skua;Chordata;Aves;Charadriiformes;Stercorariidae;BOLD,FE,iNat;14;17;1;WORMS;;10101

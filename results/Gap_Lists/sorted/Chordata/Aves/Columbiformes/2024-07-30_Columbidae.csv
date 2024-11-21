@@ -1,0 +1,14 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Columba bollii;Chordata;Aves;Columbiformes;Columbidae;FE;1;1;1;;;113720
+Columba eversmanni;Chordata;Aves;Columbiformes;Columbidae;FE;1;1;1;;;113723
+Columba junoniae;Chordata;Aves;Columbiformes;Columbidae;FE;1;1;1;;;113728
+Columba livia;Chordata;Aves;Columbiformes;Columbidae;BOLD,FE,iNat;109;164;1;;;11907
+Columba oenas;Chordata;Aves;Columbiformes;Columbidae;BOLD,FE,iNat;11;11;1;;;93221
+Columba palumbus;Chordata;Aves;Columbiformes;Columbidae;BOLD,FE,iNat;62;64;2;;;11904
+Columba trocaz;Chordata;Aves;Columbiformes;Columbidae;FE;5;5;1;;;113743
+Spilopelia senegalensis;Chordata;Aves;Columbiformes;Columbidae;FE;56;58;1;ITIS;;746254
+Streptopelia decaocto;Chordata;Aves;Columbiformes;Columbidae;BOLD,FE,iNat;119;150;4;FE;;9954
+Streptopelia orientalis;Chordata;Aves;Columbiformes;Columbidae;FE,iNat;40;43;2;FE;;9953
+Streptopelia roseogrisea;Chordata;Aves;Columbiformes;Columbidae;FE;10;10;2;ITIS;;102755
+Streptopelia turtur;Chordata;Aves;Columbiformes;Columbidae;BOLD,FE,iNat;15;18;1;FE;;52551
+Zenaida macroura;Chordata;Aves;Columbiformes;Columbidae;FE;29;106;1;ITIS;;9959

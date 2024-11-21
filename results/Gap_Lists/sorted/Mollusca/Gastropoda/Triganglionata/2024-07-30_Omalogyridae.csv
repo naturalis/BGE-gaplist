@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Ammonicera fischeriana;Mollusca;Gastropoda;Triganglionata;Omalogyridae;WORMS;;;;WORMS;gap;
+Ammonicera lignea;Mollusca;Gastropoda;Triganglionata;Omalogyridae;WORMS;;;;WORMS;gap;
+Ammonicera rota;Mollusca;Gastropoda;Triganglionata;Omalogyridae;BOLD,WORMS;4;4;0;WORMS;;963209
+Ammonicera rotundata;Mollusca;Gastropoda;Triganglionata;Omalogyridae;WORMS;;;;WORMS;gap;
+Omalogyra atomus;Mollusca;Gastropoda;Triganglionata;Omalogyridae;BOLD,WORMS;2;6;0;;;306827
+Omalogyra simplex;Mollusca;Gastropoda;Triganglionata;Omalogyridae;WORMS;;;;WORMS;gap;
+Omalogyra undosa;Mollusca;Gastropoda;Triganglionata;Omalogyridae;WORMS;;;;;gap;
+Retrotortina fuscata;Mollusca;Gastropoda;Triganglionata;Omalogyridae;WORMS;;;;;gap;

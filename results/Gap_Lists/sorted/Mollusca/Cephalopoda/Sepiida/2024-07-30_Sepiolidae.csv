@@ -1,0 +1,21 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Heteroteuthis dispar;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;WORMS;gap;
+Neorossia caroli;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;WORMS;gap;
+Rondeletiola minor;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD,WORMS;36;38;1;WORMS;;30201
+Rossia glaucopis;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;;;;WORMS;gap;160588
+Rossia macrosoma;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD,WORMS;24;31;2;WORMS;;448118
+Rossia megaptera;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;16;17;3;;;361875
+Rossia moelleri;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;3;3;1;;;361876
+Rossia palpebrosa;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;37;58;3;;;83669
+Sepietta neglecta;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;WORMS;gap;
+Sepietta oweniana;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD,WORMS;41;43;1;WORMS;;30202
+Sepietta petersi;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;ITIS;gap;
+Sepiola affinis;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;;gap;
+Sepiola atlantica;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD,WORMS;10;12;3;WORMS;;30205
+Sepiola intermedia;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;;gap;
+Sepiola ligulata;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;5;5;2;;;30209
+Sepiola pfefferi;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;9;9;1;;;576063
+Sepiola robusta;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;;gap;
+Sepiola rondeletii;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;ITIS;gap;
+Sepiola steenstrupiana;Mollusca;Cephalopoda;Sepiida;Sepiolidae;WORMS;;;;WORMS;gap;
+Sepiola tridens;Mollusca;Cephalopoda;Sepiida;Sepiolidae;BOLD;24;26;1;;;559230

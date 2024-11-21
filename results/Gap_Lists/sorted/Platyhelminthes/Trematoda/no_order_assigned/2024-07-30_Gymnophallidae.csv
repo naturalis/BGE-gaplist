@@ -1,0 +1,19 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Gymnophallus bursicola;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;WORMS;gap;
+Gymnophallus charadrii;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;;gap;
+Gymnophallus choledochus;Platyhelminthes;Trematoda;;Gymnophallidae;FE,WORMS;36;36;6;WORMS;;681811
+Gymnophallus deliciosus;Platyhelminthes;Trematoda;;Gymnophallidae;FE,WORMS;;;;WORMS;gap;
+Gymnophallus rostratus;Platyhelminthes;Trematoda;;Gymnophallidae;WORMS;;;;;gap;
+Gymnophallus somateriae;Platyhelminthes;Trematoda;;Gymnophallidae;FE,WORMS;;;;WORMS;gap;
+Lacunovermis macomae;Platyhelminthes;Trematoda;;Gymnophallidae;FE,WORMS;;;;WORMS;gap;
+Meiogymnophallus fossarum;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;FE;gap;
+Meiogymnophallus jamesoni;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;;gap;
+Meiogymnophallus macroporus;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;FE;gap;
+Meiogymnophallus minutus;Platyhelminthes;Trematoda;;Gymnophallidae;FE;0;1;0;FE;gap;1151810
+Meiogymnophallus rebecqui;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;FE;gap;
+Meiogymnophallus strigatus;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;FE;gap;
+Parvatrema affine;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;FE;gap;
+Parvatrema duboisi;Platyhelminthes;Trematoda;;Gymnophallidae;FE,WORMS;;;;WORMS;gap;
+Parvatrema homoeotecnum;Platyhelminthes;Trematoda;;Gymnophallidae;FE,WORMS;;;;;gap;
+Parvatrema isostoma;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;;gap;
+Parvatrema ovoplenum;Platyhelminthes;Trematoda;;Gymnophallidae;FE;;;;FE;gap;

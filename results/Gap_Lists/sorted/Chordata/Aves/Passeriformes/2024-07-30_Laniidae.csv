@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lanius collurio;Chordata;Aves;Passeriformes;Laniidae;BOLD,FE,iNat;184;192;3;;;52604
+Lanius cristatus;Chordata;Aves;Passeriformes;Laniidae;FE;38;38;3;;;52605
+Lanius excubitor;Chordata;Aves;Passeriformes;Laniidae;BOLD,FE,iNat;27;40;2;;;11381
+Lanius meridionalis;Chordata;Aves;Passeriformes;Laniidae;BOLD,FE;10;14;1;;;119307
+Lanius minor;Chordata;Aves;Passeriformes;Laniidae;FE,iNat;18;18;1;;;52607
+Lanius nubicus;Chordata;Aves;Passeriformes;Laniidae;BOLD,FE;6;7;1;;;119309
+Lanius phoenicuroides;Chordata;Aves;Passeriformes;Laniidae;FE;;;;FE;gap;
+Lanius schach;Chordata;Aves;Passeriformes;Laniidae;FE;37;42;2;;;119310
+Lanius senator;Chordata;Aves;Passeriformes;Laniidae;BOLD,FE,iNat;44;44;2;;;119311

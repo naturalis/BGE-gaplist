@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Centrotus chloroticus;Arthropoda;Insecta;Hemiptera;Membracidae;BOLD,FE;1;1;0;;;1139858
+Centrotus cornutus;Arthropoda;Insecta;Hemiptera;Membracidae;BOLD,FE;10;23;3;FE;;406639
+Ceresa bubalus;Arthropoda;Insecta;Hemiptera;Membracidae;BOLD;;;;;gap;193242
+Gargara genistae;Arthropoda;Insecta;Hemiptera;Membracidae;BOLD,FE,iNat;4;14;3;FE;;193244
+Oxyrhachis capeneri;Arthropoda;Insecta;Hemiptera;Membracidae;FE;;;;;gap;
+Stictocephala bisonia;Arthropoda;Insecta;Hemiptera;Membracidae;BOLD,FE,iNat;7;10;1;;;725844

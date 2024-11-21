@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lepidoniscus minutus;Arthropoda;Malacostraca;Isopoda;Oniscidae;BOLD,FE,iNat;5;6;1;FE;;376068
+Lepidoniscus pruinosus;Arthropoda;Malacostraca;Isopoda;Oniscidae;BOLD,FE;1;1;1;;;760660
+Oniscus ancarensis;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oniscus asellus;Arthropoda;Malacostraca;Isopoda;Oniscidae;BOLD,FE,iNat;51;88;5;;;251434
+Oniscus galicianus;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oniscus lusitanus;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oniscus simoni;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus absoloni;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus calcivagus;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus dalmaticus;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus dolomiticus;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus festai;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus helveticus;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;FE;gap;
+Oroniscus hessei;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus mandli;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus meledensis;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus pavani;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Oroniscus stentai;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Phalloniscus mateui;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Phalloniscus tarraconensis;Arthropoda;Malacostraca;Isopoda;Oniscidae;FE;;;;;gap;
+Sardoniscus pygmaeus;Arthropoda;Malacostraca;Isopoda;Oniscidae;BOLD,FE;2;3;1;FE;;936201
+Sardoniscus verhoeffi;Arthropoda;Malacostraca;Isopoda;Oniscidae;BOLD,FE;0;2;0;FE;gap;936202

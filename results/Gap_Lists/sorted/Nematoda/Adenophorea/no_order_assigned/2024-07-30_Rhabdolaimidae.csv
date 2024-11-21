@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Rhabdolaimus brachyuris;Nematoda;Adenophorea;;Rhabdolaimidae;FE;;;;;gap;
+Rhabdolaimus limnophilus;Nematoda;Adenophorea;;Rhabdolaimidae;FE;;;;FE;gap;
+Rhabdolaimus terrestris;Nematoda;Adenophorea;;Rhabdolaimidae;FE;;;;WORMS;gap;
+Syringolaimus filicaudatus;Nematoda;Adenophorea;;Rhabdolaimidae;WORMS;;;;;gap;
+Syringolaimus striatocaudatus;Nematoda;Adenophorea;;Rhabdolaimidae;WORMS;;;;WORMS;gap;
+Tobrilia imberbis;Nematoda;Adenophorea;;Rhabdolaimidae;FE;;;;ITIS;gap;
+Udonchus tenuicaudatus;Nematoda;Adenophorea;;Rhabdolaimidae;FE;;;;;gap;

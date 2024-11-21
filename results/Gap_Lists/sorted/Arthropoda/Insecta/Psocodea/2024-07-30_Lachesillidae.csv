@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lachesilla bernardi;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla dimorpha;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla greeni;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;FE;gap;
+Lachesilla meinanderi;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla merzi;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla pacifica;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;193;193;1;;;655117
+Lachesilla pedicularia;Arthropoda;Insecta;Psocodea;Lachesillidae;BOLD,FE;649;652;3;FE;;596450
+Lachesilla quercus;Arthropoda;Insecta;Psocodea;Lachesillidae;BOLD,FE;94;95;3;FE;;596451
+Lachesilla rossica;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla sauteri;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla tanaidana;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;
+Lachesilla tectorum;Arthropoda;Insecta;Psocodea;Lachesillidae;FE;;;;;gap;

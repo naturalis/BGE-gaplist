@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Solva cabrerae;Arthropoda;Insecta;Diptera;Xylomyidae;FE,SyDip;;;;SyDip;gap;
+Solva marginata;Arthropoda;Insecta;Diptera;Xylomyidae;BOLD,FE,iNat,SyDip;58;64;1;SyDip;;676897
+Solva nigritibialis;Arthropoda;Insecta;Diptera;Xylomyidae;FE,SyDip;;;;SyDip;gap;
+Solva varia;Arthropoda;Insecta;Diptera;Xylomyidae;FE,SyDip;;;;SyDip;gap;
+Xylomya czekanovskii;Arthropoda;Insecta;Diptera;Xylomyidae;BOLD,FE,SyDip;4;5;1;SyDip;;483519
+Xylomya maculata;Arthropoda;Insecta;Diptera;Xylomyidae;FE,SyDip;;;;SyDip;gap;
+Xylomya pallidifemur;Arthropoda;Insecta;Diptera;Xylomyidae;BOLD,SyDip;2;2;1;;;709955
+Xylomya trinotata;Arthropoda;Insecta;Diptera;Xylomyidae;FE,SyDip;;;;SyDip;gap;

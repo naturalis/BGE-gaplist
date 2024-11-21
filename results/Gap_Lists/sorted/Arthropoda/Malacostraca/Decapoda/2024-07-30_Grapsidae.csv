@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Grapsus adscensionis;Arthropoda;Malacostraca;Decapoda;Grapsidae;BOLD;4;8;1;WORMS;;390886
+Pachygrapsus gracilis;Arthropoda;Malacostraca;Decapoda;Grapsidae;BOLD;8;58;2;WORMS;;470238
+Pachygrapsus marmoratus;Arthropoda;Malacostraca;Decapoda;Grapsidae;BOLD,WORMS;86;102;1;WORMS;;178968
+Pachygrapsus maurus;Arthropoda;Malacostraca;Decapoda;Grapsidae;BOLD,WORMS;0;28;0;WORMS;gap;178969
+Pachygrapsus transversus;Arthropoda;Malacostraca;Decapoda;Grapsidae;WORMS;;;;WORMS;gap;
+Planes minutus;Arthropoda;Malacostraca;Decapoda;Grapsidae;BOLD,WORMS;2;4;0;WORMS;;481549;887216

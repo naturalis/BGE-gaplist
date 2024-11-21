@@ -1,0 +1,12 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hyptiotes flavidus;Arthropoda;Arachnida;Araneae;Uloboridae;BOLD,FE;10;10;2;FE;;372064
+Hyptiotes gerhardti;Arthropoda;Arachnida;Araneae;Uloboridae;FE;;;;;gap;
+Hyptiotes paradoxus;Arthropoda;Arachnida;Araneae;Uloboridae;BOLD,FE,iNat;23;32;2;FE;;464552
+Polenecia producta;Arthropoda;Arachnida;Araneae;Uloboridae;BOLD,FE;1;1;0;FE;;809472
+Uloborus dentatus;Arthropoda;Arachnida;Araneae;Uloboridae;FE;;;;;gap;
+Uloborus gilvus;Arthropoda;Arachnida;Araneae;Uloboridae;FE;;;;FE;gap;
+Uloborus parvulus;Arthropoda;Arachnida;Araneae;Uloboridae;FE;;;;;gap;
+Uloborus plumipes;Arthropoda;Arachnida;Araneae;Uloboridae;BOLD,FE,iNat;27;27;1;;;320557
+Uloborus pseudacanthus;Arthropoda;Arachnida;Araneae;Uloboridae;FE;;;;;gap;
+Uloborus walckenaerius;Arthropoda;Arachnida;Araneae;Uloboridae;BOLD,FE,iNat;34;37;1;;;320448
+Zosis geniculata;Arthropoda;Arachnida;Araneae;Uloboridae;FE;36;59;1;FE;;589542

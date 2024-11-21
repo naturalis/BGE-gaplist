@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cyzicus bucheti;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;FE;2;2;1;FE;;1004340
+Cyzicus grubei;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;FE;;;;FE;gap;
+Cyzicus tetracerus;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;BOLD,FE;6;6;3;FE;;302787
+Eocyzicus orientalis;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;FE;;;;;gap;
+Eocyzicus propinquus;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;FE;;;;FE;gap;
+Eocyzicus skorikowi;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;FE;;;;FE;gap;
+Eocyzicus tadei;Arthropoda;Branchiopoda;Spinicaudata;Cyzicidae;FE;;;;FE;gap;

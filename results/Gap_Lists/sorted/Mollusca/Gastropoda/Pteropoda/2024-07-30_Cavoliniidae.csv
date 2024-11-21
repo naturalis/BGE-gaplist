@@ -1,0 +1,11 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cavolinia gibbosa;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;5;5;2;WORMS;;649964
+Cavolinia inflexa;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;28;44;1;WORMS;;273428
+Cavolinia tridentata;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;2;2;2;WORMS;;751969
+Cavolinia uncinata;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;98;121;3;WORMS;;655825
+Clio pyramidata;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;BOLD,WORMS;160;188;5;WORMS;;202265;655201;273430
+Cuvierina atlantica;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;BOLD,WORMS;71;71;1;WORMS;;717635;273422
+Diacavolinia deshayesi;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;2;5;1;;;299472
+Diacavolinia limbata;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;2;5;1;WORMS;;273433
+Diacria rampalae;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;;;;WORMS;gap;299477
+Diacria trispinosa;Mollusca;Gastropoda;Pteropoda;Cavoliniidae;WORMS;25;27;2;WORMS;;342391

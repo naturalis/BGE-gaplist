@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cucujus cinnaberinus;Arthropoda;Insecta;Coleoptera;Cucujidae;BOLD,FE,iNat;16;108;1;FE;;317917
+Cucujus haematodes;Arthropoda;Insecta;Coleoptera;Cucujidae;BOLD,FE;17;27;3;;;513870
+Cucujus tulliae;Arthropoda;Insecta;Coleoptera;Cucujidae;BOLD;0;5;0;;gap;796254
+Pediacus depressus;Arthropoda;Insecta;Coleoptera;Cucujidae;BOLD,FE;9;18;1;ITIS;;399013
+Pediacus fuscus;Arthropoda;Insecta;Coleoptera;Cucujidae;BOLD,FE;24;37;1;ITIS;;471562;318223
+Pediacus tabellatus;Arthropoda;Insecta;Coleoptera;Cucujidae;FE;;;;;gap;

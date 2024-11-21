@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Echinocardium cordatum;Echinodermata;Echinoidea;Spatangoida;Loveniidae;BOLD,iNat;70;78;5;WORMS;;222166
+Echinocardium fenauxi;Echinodermata;Echinoidea;Spatangoida;Loveniidae;WORMS;;;;;gap;
+Echinocardium flavescens;Echinodermata;Echinoidea;Spatangoida;Loveniidae;BOLD,WORMS;26;28;1;WORMS;;222168
+Echinocardium mediterraneum;Echinodermata;Echinoidea;Spatangoida;Loveniidae;WORMS;;;;WORMS;gap;
+Echinocardium mortenseni;Echinodermata;Echinoidea;Spatangoida;Loveniidae;BOLD,WORMS;;;;WORMS;gap;222171

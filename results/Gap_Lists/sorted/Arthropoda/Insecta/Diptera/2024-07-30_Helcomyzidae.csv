@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Helcomyza mediterranea;Arthropoda;Insecta;Diptera;Helcomyzidae;FE,SyDip;;;;SyDip;gap;
+Helcomyza ustulata;Arthropoda;Insecta;Diptera;Helcomyzidae;BOLD,FE,iNat,SyDip;4;4;1;SyDip;;237245
+Paractora dreuxi;Arthropoda;Insecta;Diptera;Helcomyzidae;BOLD,SyDip;2;2;1;SyDip;;894812

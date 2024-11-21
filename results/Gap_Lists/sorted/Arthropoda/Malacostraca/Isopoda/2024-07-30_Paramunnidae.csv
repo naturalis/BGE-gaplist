@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Paramunna typica;Arthropoda;Malacostraca;Isopoda;Paramunnidae;WORMS;;;;;gap;
+Pleurogonium inerme;Arthropoda;Malacostraca;Isopoda;Paramunnidae;BOLD,WORMS;0;13;0;;gap;306782
+Pleurogonium intermedium;Arthropoda;Malacostraca;Isopoda;Paramunnidae;WORMS;;;;;gap;
+Pleurogonium pulchrum;Arthropoda;Malacostraca;Isopoda;Paramunnidae;WORMS;;;;;gap;
+Pleurogonium rubicundum;Arthropoda;Malacostraca;Isopoda;Paramunnidae;BOLD,WORMS;2;7;1;WORMS;;714495
+Pleurogonium spinosissimum;Arthropoda;Malacostraca;Isopoda;Paramunnidae;BOLD,WORMS;0;3;0;WORMS;gap;785388

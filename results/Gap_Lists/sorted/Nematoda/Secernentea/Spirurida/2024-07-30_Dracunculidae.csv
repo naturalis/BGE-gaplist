@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Avioserpens gaillardi;Nematoda;Secernentea;Spirurida;Dracunculidae;FE;;;;;gap;
+Avioserpens mosgovoyi;Nematoda;Secernentea;Spirurida;Dracunculidae;FE;;;;;gap;
+Dracunculus medinensis;Nematoda;Secernentea;Spirurida;Dracunculidae;FE;11;11;2;FE;;462356
+Dracunculus oesophagea;Nematoda;Secernentea;Spirurida;Dracunculidae;FE;;;;FE;gap;

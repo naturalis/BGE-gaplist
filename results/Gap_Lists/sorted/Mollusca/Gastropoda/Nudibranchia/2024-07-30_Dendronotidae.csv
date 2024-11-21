@@ -1,0 +1,9 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Dendronotus comteti;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;WORMS;;;;;gap;
+Dendronotus elegans;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD;12;12;1;WORMS;;999398;717649
+Dendronotus europaeus;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD;15;16;1;;;902440
+Dendronotus frondosus;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD,WORMS;119;140;7;WORMS;;32980
+Dendronotus kalikal;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD;13;13;1;;;717647
+Dendronotus lacteus;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD,WORMS;49;54;1;WORMS;;507552
+Dendronotus robustus;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD,WORMS;14;15;2;ITIS;;266292;902442
+Dendronotus yrjargul;Mollusca;Gastropoda;Nudibranchia;Dendronotidae;BOLD;9;11;2;;;999397

@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bombina bombina;Chordata;Amphibia;Anura;Bombinatoridae;BOLD,FE,iNat;26;33;1;ITIS;;25181
+Bombina pachypus;Chordata;Amphibia;Anura;Bombinatoridae;BOLD;3;5;1;;;247933
+Bombina variegata;Chordata;Amphibia;Anura;Bombinatoridae;BOLD,FE,iNat;51;55;4;ITIS;;104989

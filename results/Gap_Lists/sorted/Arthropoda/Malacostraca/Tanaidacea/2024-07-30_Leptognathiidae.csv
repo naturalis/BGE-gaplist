@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Leptognathia acanthifera;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;;gap;
+Leptognathia breviremis;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;WORMS;gap;
+Leptognathia crassa;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;;gap;
+Leptognathia paramanca;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;;gap;
+Leptognathia tenella;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;;gap;
+Leptognathia ventralis;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;;gap;
+Leptognathia zezinae;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;;gap;
+Leptognathiopsis attenuata;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;WORMS;;;;WORMS;gap;
+Pseudoparatanais batei;Arthropoda;Malacostraca;Tanaidacea;Leptognathiidae;BOLD,WORMS;2;8;1;WORMS;;361870

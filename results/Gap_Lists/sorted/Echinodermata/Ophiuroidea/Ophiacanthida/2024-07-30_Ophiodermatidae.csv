@@ -1,0 +1,10 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Bathypectinura heros;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;WORMS;;;;WORMS;gap;
+Cryptopelta brevispina;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;WORMS;;;;WORMS;gap;
+Ophiarachnella gorgonia;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;BOLD;52;55;5;WORMS;;180911
+Ophiarachnella semicincta;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;WORMS;;;;WORMS;gap;
+Ophioderma brevicauda;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;BOLD;0;1;0;;gap;219593
+Ophioderma cinerea;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;BOLD;4;5;1;;;219595
+Ophioderma longicauda;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;BOLD;1;953;1;;;219604
+Ophioderma rubicunda;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;BOLD;4;9;0;;;219610
+Ophiopeza fallax;Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;BOLD;38;38;2;;;415820

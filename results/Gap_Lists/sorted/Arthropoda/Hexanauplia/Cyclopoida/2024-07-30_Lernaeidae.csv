@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lamproglena pulchella;Arthropoda;Hexanauplia;Cyclopoida;Lernaeidae;FE;;;;;gap;
+Lernaea cyprinacea;Arthropoda;Hexanauplia;Cyclopoida;Lernaeidae;BOLD,FE;8;11;1;;;651909
+Lernaea phoxinacea;Arthropoda;Hexanauplia;Cyclopoida;Lernaeidae;FE;;;;FE;gap;

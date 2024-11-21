@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Euphrosine armadillo;Annelida;Polychaeta;Amphinomida;Euphrosinidae;BOLD,WORMS;0;8;0;WORMS;gap;706594
+Euphrosine borealis;Annelida;Polychaeta;Amphinomida;Euphrosinidae;BOLD,WORMS;3;6;1;WORMS;;706591
+Euphrosine cirrata;Annelida;Polychaeta;Amphinomida;Euphrosinidae;BOLD;0;8;0;WORMS;gap;706604
+Euphrosine foliosa;Annelida;Polychaeta;Amphinomida;Euphrosinidae;BOLD,WORMS;4;6;1;WORMS;;265370
+Euphrosine myrtosa;Annelida;Polychaeta;Amphinomida;Euphrosinidae;WORMS;;;;WORMS;gap;
+Palmyreuphrosyne paradoxa;Annelida;Polychaeta;Amphinomida;Euphrosinidae;WORMS;;;;;gap;

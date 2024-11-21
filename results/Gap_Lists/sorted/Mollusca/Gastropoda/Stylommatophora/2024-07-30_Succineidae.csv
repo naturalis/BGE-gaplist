@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Oxyloma dunkeri;Mollusca;Gastropoda;Stylommatophora;Succineidae;FE;;;;FE;gap;
+Oxyloma elegans;Mollusca;Gastropoda;Stylommatophora;Succineidae;BOLD,FE,iNat;18;25;5;FE;;312063;312030
+Oxyloma pinteri;Mollusca;Gastropoda;Stylommatophora;Succineidae;FE;;;;;gap;
+Oxyloma sarsii;Mollusca;Gastropoda;Stylommatophora;Succineidae;BOLD,FE;6;8;1;FE;;856590
+Quickella arenaria;Mollusca;Gastropoda;Stylommatophora;Succineidae;BOLD,FE;11;16;1;FE;;446934
+Succinea putris;Mollusca;Gastropoda;Stylommatophora;Succineidae;BOLD,FE,iNat;210;236;7;FE;;312029

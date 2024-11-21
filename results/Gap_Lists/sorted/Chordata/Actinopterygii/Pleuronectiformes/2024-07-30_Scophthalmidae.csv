@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Lepidorhombus boscii;Chordata;Actinopterygii;Pleuronectiformes;Scophthalmidae;BOLD,WORMS;24;35;1;WORMS;;11791
+Lepidorhombus whiffiagonis;Chordata;Actinopterygii;Pleuronectiformes;Scophthalmidae;BOLD,WORMS;30;43;2;WORMS;;11792
+Phrynorhombus norvegicus;Chordata;Actinopterygii;Pleuronectiformes;Scophthalmidae;BOLD;;;;FB;gap;779611
+Scophthalmus maximus;Chordata;Actinopterygii;Pleuronectiformes;Scophthalmidae;BOLD,WORMS,iNat;89;124;1;WORMS;;78405;48007
+Scophthalmus rhombus;Chordata;Actinopterygii;Pleuronectiformes;Scophthalmidae;BOLD,WORMS;17;40;1;WORMS;;52075
+Zeugopterus punctatus;Chordata;Actinopterygii;Pleuronectiformes;Scophthalmidae;BOLD,WORMS;6;7;1;WORMS;;200751

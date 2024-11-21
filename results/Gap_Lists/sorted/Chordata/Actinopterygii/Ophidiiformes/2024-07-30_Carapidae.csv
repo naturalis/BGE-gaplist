@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Carapus acus;Chordata;Actinopterygii;Ophidiiformes;Carapidae;BOLD,WORMS;6;6;1;WORMS;;253446
+Echiodon cryomargarites;Chordata;Actinopterygii;Ophidiiformes;Carapidae;BOLD;21;21;1;;;91474
+Echiodon dentatus;Chordata;Actinopterygii;Ophidiiformes;Carapidae;WORMS;;;;WORMS;gap;
+Echiodon drummondii;Chordata;Actinopterygii;Ophidiiformes;Carapidae;BOLD,WORMS;5;6;1;WORMS;;785395

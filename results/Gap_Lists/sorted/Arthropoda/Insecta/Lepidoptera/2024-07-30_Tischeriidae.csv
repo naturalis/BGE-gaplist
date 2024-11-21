@@ -1,0 +1,13 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coptotriche angusticollella;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;46;54;1;FE;;370741
+Coptotriche berberella;Arthropoda;Insecta;Lepidoptera;Tischeriidae;FE,LF;;;;FE;gap;
+Coptotriche gaunacella;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;16;19;1;FE;;573462
+Coptotriche heinemanni;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;21;22;1;FE;;370742
+Coptotriche longiciliatella;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;1;1;0;FE;;736914
+Coptotriche marginea;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF,iNat;76;85;2;FE;;343568
+Coptotriche szocsi;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;1;1;0;FD;;1137924;707876
+Coptotriche tantalella;Arthropoda;Insecta;Lepidoptera;Tischeriidae;FE,LF;;;;FE;gap;
+Tischeria decidua;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;32;33;1;;;500062
+Tischeria dodonaea;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF;30;42;1;;;258161
+Tischeria ekebladella;Arthropoda;Insecta;Lepidoptera;Tischeriidae;BOLD,FE,LF,iNat;64;74;1;FE;;255697
+Tischeria ekebladoides;Arthropoda;Insecta;Lepidoptera;Tischeriidae;FE,LF;;;;;gap;

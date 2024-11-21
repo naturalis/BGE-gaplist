@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Microstoma microstoma;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;WORMS;;;;WORMS;gap;
+Nansenia boreacrassicauda;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;BOLD;2;2;1;;;730268
+Nansenia groenlandica;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;BOLD,WORMS;4;8;1;WORMS;;202066
+Nansenia iberica;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;WORMS;;;;;gap;
+Nansenia longicauda;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;WORMS;;;;;gap;
+Nansenia oblita;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;WORMS;;;;WORMS;gap;
+Nansenia tenera;Chordata;Actinopterygii;Argentiniformes;Microstomatidae;WORMS;;;;;gap;

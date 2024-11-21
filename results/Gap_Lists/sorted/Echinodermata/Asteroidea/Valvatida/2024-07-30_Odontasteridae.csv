@@ -1,0 +1,7 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Acodontaster capitatus;Echinodermata;Asteroidea;Valvatida;Odontasteridae;BOLD;13;14;1;WORMS;;213243
+Acodontaster elongatus;Echinodermata;Asteroidea;Valvatida;Odontasteridae;BOLD;6;6;1;WORMS;;221418
+Acodontaster hodgsoni;Echinodermata;Asteroidea;Valvatida;Odontasteridae;BOLD;30;42;3;WORMS;;213246
+Hoplaster spinosus;Echinodermata;Asteroidea;Valvatida;Odontasteridae;WORMS;;;;WORMS;gap;
+Odontaster mediterraneus;Echinodermata;Asteroidea;Valvatida;Odontasteridae;WORMS;;;;WORMS;gap;
+Odontaster meridionalis;Echinodermata;Asteroidea;Valvatida;Odontasteridae;BOLD;45;70;5;ITIS;;213258

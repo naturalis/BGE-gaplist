@@ -1,0 +1,4 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Cavernularia elegans;Cnidaria;Anthozoa;Pennatulacea;Veretillidae;WORMS;;;;WORMS;gap;
+Cavernularia pusilla;Cnidaria;Anthozoa;Pennatulacea;Veretillidae;BOLD,WORMS;1;1;1;WORMS;;1068857
+Veretillum cynomorium;Cnidaria;Anthozoa;Pennatulacea;Veretillidae;BOLD,WORMS;2;5;1;WORMS;;500592

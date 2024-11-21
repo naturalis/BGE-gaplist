@@ -1,0 +1,8 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Fibla hesperica;Arthropoda;Insecta;Raphidioptera;Inocelliidae;FE;;;;;gap;
+Fibla maclachlani;Arthropoda;Insecta;Raphidioptera;Inocelliidae;BOLD,FE;6;7;2;FE;;784251
+Fibla pasiphae;Arthropoda;Insecta;Raphidioptera;Inocelliidae;FE;;;;;gap;
+Inocellia crassicornis;Arthropoda;Insecta;Raphidioptera;Inocelliidae;BOLD,FE,iNat;5;6;2;FE;;514525
+Parainocellia bicolor;Arthropoda;Insecta;Raphidioptera;Inocelliidae;BOLD,FE;3;4;1;FE;;246739
+Parainocellia braueri;Arthropoda;Insecta;Raphidioptera;Inocelliidae;BOLD,FE;0;1;0;FE;gap;775159
+Parainocellia ressli;Arthropoda;Insecta;Raphidioptera;Inocelliidae;FE;;;;FE;gap;

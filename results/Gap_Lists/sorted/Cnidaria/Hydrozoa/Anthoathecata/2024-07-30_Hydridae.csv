@@ -1,0 +1,6 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Hydra circumcincta;Cnidaria;Hydrozoa;Anthoathecata;Hydridae;BOLD,FE;19;27;3;FE;;104177
+Hydra oligactis;Cnidaria;Hydrozoa;Anthoathecata;Hydridae;BOLD,FE;179;209;2;;;104178
+Hydra oxycnida;Cnidaria;Hydrozoa;Anthoathecata;Hydridae;BOLD,FE;3;4;3;FE;;651539
+Hydra viridissima;Cnidaria;Hydrozoa;Anthoathecata;Hydridae;BOLD,FE,iNat;19;41;6;;;142178
+Hydra vulgaris;Cnidaria;Hydrozoa;Anthoathecata;Hydridae;BOLD,FE,iNat;108;166;11;;;104179

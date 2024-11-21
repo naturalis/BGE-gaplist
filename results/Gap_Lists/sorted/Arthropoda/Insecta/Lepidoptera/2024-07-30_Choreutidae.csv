@@ -1,0 +1,20 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Anthophila abhasica;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;1;1;1;;;940954
+Anthophila fabriciana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF,iNat;55;76;1;BT;;198062
+Anthophila threnodes;Arthropoda;Insecta;Lepidoptera;Choreutidae;FE,LF;0;1;0;FE;gap;715230
+Anthophila variabilis;Arthropoda;Insecta;Lepidoptera;Choreutidae;LF;;;;;gap;
+Choreutis diana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;34;38;4;FE;;8286
+Choreutis nemorana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF,iNat;20;23;1;FE;;293618
+Choreutis pariana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF,iNat;40;47;1;FE;;33577
+Prochoreutis constellata;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,LF;1;1;1;;;1022812
+Prochoreutis holotoxa;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;9;11;1;FE;;258121
+Prochoreutis myllerana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF,iNat;19;19;1;FE;;197894
+Prochoreutis pseudostellaris;Arthropoda;Insecta;Lepidoptera;Choreutidae;FE,LF;;;;;gap;
+Prochoreutis sehestediana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;8;10;1;FE;;261733
+Prochoreutis solaris;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;1;4;1;FE;;344525
+Prochoreutis stellaris;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;9;12;1;FE;;517574
+Prochoreutis ultimana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;3;3;1;FE;;286044
+Tebenna bjerkandrella;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;29;38;4;FE;;258120
+Tebenna chingana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;0;2;0;;gap;1139431
+Tebenna micalis;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF,iNat;84;92;2;FE;;139945
+Tebenna pretiosana;Arthropoda;Insecta;Lepidoptera;Choreutidae;BOLD,FE,LF;4;6;3;FE;;344524

@@ -1,0 +1,5 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Coscinoderma confragosum;Porifera;Demospongiae;Dictyoceratida;Spongiidae;WORMS;;;;;gap;
+Coscinoderma sporadense;Porifera;Demospongiae;Dictyoceratida;Spongiidae;WORMS;1;2;1;;;239251
+Hippospongia communis;Porifera;Demospongiae;Dictyoceratida;Spongiidae;WORMS;;;;WORMS;gap;
+Hyattella intestinalis;Porifera;Demospongiae;Dictyoceratida;Spongiidae;WORMS;0;5;0;WORMS;gap;239285

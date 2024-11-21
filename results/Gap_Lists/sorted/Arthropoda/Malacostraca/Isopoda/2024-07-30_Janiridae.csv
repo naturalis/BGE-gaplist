@@ -1,0 +1,23 @@
+species;Phylum;Class;Order;Family;source;speciemens barcoded;speciemens;public BINs;verified by;status;BOLD taxid
+Caecijaera borealis;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;;gap;
+Caecijaera mirabilis;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;;gap;
+Carpias galloprovincalis;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;;gap;
+Carpias stebbingi;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;WORMS;gap;
+Ianiropsis breviremis;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,WORMS;10;10;1;WORMS;;967647
+Jaera albifrons;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,FE;39;59;1;ITIS;;111722
+Jaera forsmani;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD;4;4;1;ITIS;;1060049
+Jaera hopeana;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,FE;3;4;0;ITIS;;801502
+Jaera ischiosetosa;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD;17;20;1;ITIS;;1060045
+Jaera istri;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,FE,iNat;3;3;1;;;800811
+Jaera italica;Arthropoda;Malacostraca;Isopoda;Janiridae;FE;;;;;gap;
+Jaera nordmanni;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,FE;0;21;0;ITIS;gap;212363
+Jaera praehirsuta;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD;19;25;1;ITIS;;1060047
+Jaera sarsi;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,FE;14;15;1;;;880170
+Jaera schellenbergi;Arthropoda;Malacostraca;Isopoda;Janiridae;FE;;;;;gap;
+Janira alta;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;WORMS;gap;
+Janira denticulata;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;;gap;
+Janira maculosa;Arthropoda;Malacostraca;Isopoda;Janiridae;BOLD,WORMS;57;69;6;WORMS;;347155
+Janiralata holmesi;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;WORMS;gap;
+Janiralata tricornis;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;WORMS;gap;
+Microjaera anisopoda;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;;gap;
+Microjanira dentifrons;Arthropoda;Malacostraca;Isopoda;Janiridae;WORMS;;;;;gap;
