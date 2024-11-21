@@ -260,11 +260,11 @@ __END__
 
 =head1 AUTHOR
 
-[Your Name]
+Fabian Deister, Rutger Vos
 
 =head1 LICENSE
 
-Copyright (c) [Year] [Your Organization]
+Copyright (c) 2024, Naturalis Biodiversity Center
 All rights reserved.
 
 =head1 SEE ALSO
